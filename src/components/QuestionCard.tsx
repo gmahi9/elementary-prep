@@ -1,7 +1,9 @@
 import { useEffect, useId, useRef, useState } from 'react';
+import { motion, useReducedMotion } from 'motion/react';
 import type { Question } from '../types';
 import { canSpeak, questionSpeech, speak, stopSpeaking } from '../lib/speech';
 import { ChoiceArt, FigureView } from './FigureView';
+import { Tap } from './visuals';
 
 const letters = ['A', 'B', 'C', 'D', 'E'];
 
@@ -18,12 +20,14 @@ interface Props {
 export function QuestionCard({ question, picked, onPick, showWhy = true, creativeNote = '', creativeDone = false, onCreative }: Props) {
   const headingId = useId();
   const headingRef = useRef<HTMLHeadingElement>(null);
+  const reduce = useReducedMotion();
   const [speaking, setSpeaking] = useState(false);
   const [note, setNote] = useState(creativeNote);
   const [checks, setChecks] = useState<boolean[]>(() => (question.rubric || []).map(() => false));
   const answered = picked != null;
   const locked = showWhy && answered;
   const correct = locked && picked === question.answerIndex;
+  const wrong = locked && !correct;
 
   useEffect(() => {
     setNote(creativeNote);
@@ -64,7 +68,13 @@ export function QuestionCard({ question, picked, onPick, showWhy = true, creativ
   };
 
   return (
-    <article className="card" aria-labelledby={headingId}>
+    <motion.article
+      className="card"
+      aria-labelledby={headingId}
+      variants={{ still: { x: 0 }, shake: { x: [0, -8, 8, -5, 5, 0] } }}
+      animate={wrong && !reduce ? 'shake' : 'still'}
+      transition={wrong && !reduce ? { duration: 0.42 } : { duration: 0.2 }}
+    >
       <div className="card-tools">
         <p className="eyebrow">
           <span>{question.topicLabel}</span>
@@ -74,9 +84,9 @@ export function QuestionCard({ question, picked, onPick, showWhy = true, creativ
             ))}
           </span>
         </p>
-        <button type="button" className="ghost" onClick={hear} disabled={!canSpeak()} aria-pressed={speaking}>
+        <Tap type="button" className="ghost" onClick={hear} disabled={!canSpeak()} aria-pressed={speaking}>
           {speaking ? 'Stop' : 'Hear it'}
-        </button>
+        </Tap>
       </div>
       {question.passage && (
         <div className="passage">
@@ -89,11 +99,18 @@ export function QuestionCard({ question, picked, onPick, showWhy = true, creativ
         {question.prompt}
       </h2>
       {question.scored ? (
-        <div role="radiogroup" aria-labelledby={headingId} className={question.choiceFigures ? 'choices figures' : 'choices'}>
+        <motion.div
+          role="radiogroup"
+          aria-labelledby={headingId}
+          className={question.choiceFigures ? 'choices figures' : 'choices'}
+          initial="hidden"
+          animate="show"
+          variants={{ show: { transition: { staggerChildren: reduce ? 0 : 0.045 } } }}
+        >
           {question.choices.map((choice, index) => {
             const status = !locked ? '' : index === question.answerIndex ? 'right' : index === picked ? 'wrong' : '';
             return (
-              <button
+              <motion.button
                 key={`${question.id}-${choice}`}
                 type="button"
                 role="radio"
@@ -101,14 +118,21 @@ export function QuestionCard({ question, picked, onPick, showWhy = true, creativ
                 className={`choice ${status}`}
                 disabled={locked}
                 onClick={() => onPick(index)}
+                variants={{
+                  hidden: reduce ? { opacity: 1, y: 0 } : { opacity: 0, y: 10 },
+                  show: { opacity: 1, y: 0 },
+                }}
+                whileHover={reduce || locked ? undefined : { y: -2 }}
+                whileTap={reduce || locked ? undefined : { scale: 0.98 }}
+                transition={{ type: 'spring', stiffness: 420, damping: 26 }}
               >
                 <span className="letter">{letters[index]}</span>
                 {question.choiceFigures?.[index] != null && <ChoiceArt figure={question.choiceFigures[index]} />}
                 <span>{choice}</span>
-              </button>
+              </motion.button>
             );
           })}
-        </div>
+        </motion.div>
       ) : (
         <div className="creative">
           <p className="coach">This challenge is not scored. Ideas can be silly, careful, or brand new.</p>
@@ -117,7 +141,7 @@ export function QuestionCard({ question, picked, onPick, showWhy = true, creativ
             id={`${question.id}-note`}
             value={note}
             onChange={(event) => setNote(event.target.value)}
-            rows={5}
+            rows={4}
             placeholder="List ideas here, or just say them out loud."
           />
           <ul className="rubric">
@@ -138,18 +162,23 @@ export function QuestionCard({ question, picked, onPick, showWhy = true, creativ
               </li>
             ))}
           </ul>
-          <button
+          <Tap
             type="button"
             className="primary"
             onClick={() => onCreative?.(note, checks.every(Boolean))}
             disabled={!checks.every(Boolean)}
           >
             {creativeDone ? 'Saved' : 'I finished this checklist'}
-          </button>
+          </Tap>
         </div>
       )}
       {question.scored && locked && (
-        <div className={correct ? 'feedback good' : 'feedback'} role="status">
+        <motion.div
+          className={correct ? 'feedback good' : 'feedback'}
+          role="status"
+          initial={reduce ? false : { opacity: 0, y: 8 }}
+          animate={{ opacity: 1, y: 0 }}
+        >
           <p className="result">{correct ? 'Yes, that is it.' : 'Not yet. Here is a way to see it.'}</p>
           <p>{question.explanation}</p>
           <div className="links">
@@ -157,16 +186,14 @@ export function QuestionCard({ question, picked, onPick, showWhy = true, creativ
             <ul>
               {question.links.map((link) => (
                 <li key={link.href}>
-                  <a href={link.href} target="_blank" rel="noreferrer">
-                    {link.label}
-                  </a>
+                  <a href={link.href} target="_blank" rel="noreferrer">{link.label}</a>
                 </li>
               ))}
             </ul>
           </div>
-        </div>
+        </motion.div>
       )}
       {question.scored && !answered && <p className="hint">Tap an answer, or press 1 to {question.choices.length}.</p>}
-    </article>
+    </motion.article>
   );
 }

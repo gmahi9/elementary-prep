@@ -2,7 +2,7 @@
 
 Sunny Steps is a kid-friendly practice app for elementary students. Grade 3 is ready. Kindergarten and grades 1, 2, 4, and 5 are marked coming soon.
 
-It runs in the browser, saves progress on the device, and does not use an account, a server, or tracking.
+It runs in the browser. Guests keep progress on the device. Sign-in is optional and saves scores for the next visit.
 
 ## Disclaimer
 
@@ -16,7 +16,8 @@ Sunny Steps is unofficial practice. It is not affiliated with, endorsed by, or a
 - Timed or untimed mock tests with an end summary by skill
 - A review queue for missed questions
 - Scoreboard for correct answers, questions answered, streak, and score
-- Badges and per-skill progress stored in `localStorage`
+- Badges and per-skill progress. Guests use `localStorage`. A signed-in account stores scores, streaks, badges, and mock-test history
+- Optional sign-in with Google, Microsoft, or GitHub. The first sign-in can combine scores already on the device. Providers without keys stay hidden
 - Read-aloud for the question and choices through the Web Speech API
 - Large tap targets, keyboard answers (1–4), and a grown-ups view with a skill mastery chart
 - Download for offline: one HTML file that opens without a network
@@ -54,6 +55,10 @@ npm run build
 `npm run dev` starts Vite. `npm run build` typechecks and writes `dist/`. `npm run preview` serves that folder.
 
 The Vite `base` is `./`, and routes use the URL hash (`#/practice`, `#/test`, `#/review`, `#/badges`, `#/grownups`). Assets and the offline download stay on this origin.
+
+## Sign-in
+
+See [docs/AUTH_SETUP.md](docs/AUTH_SETUP.md) for the OAuth apps, the D1 database, and the Pages secrets. `npm run dev` stays in guest mode. Sign-in runs when the site is served with the Pages Functions in `functions/`.
 
 ## Netlify
 
