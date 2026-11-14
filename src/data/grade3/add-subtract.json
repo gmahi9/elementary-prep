@@ -1,0 +1,3266 @@
+[
+  {
+    "id": "g3-as-468",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "There are 157 shells in a bin and 39 shells in a bag. How many shells are there in all?",
+    "choices": [
+      "206",
+      "196",
+      "186",
+      "118"
+    ],
+    "answerIndex": 1,
+    "explanation": "Join the two groups: 157 and 39. Add 157 and 39, starting at the ones. Ones: 7 + 9 = 16. Write 6 and carry 1. Tens: 5 + 3 + 1 carried = 9. Hundreds: 1 + 0 = 1. The sum is 196.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "157+39"
+    }
+  },
+  {
+    "id": "g3-as-469",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A book has 194 pages of photos and 62 pages of drawings. How many pages is that altogether?",
+    "choices": [
+      "246",
+      "256",
+      "266",
+      "132"
+    ],
+    "answerIndex": 1,
+    "explanation": "Add the photo pages and the drawing pages. Add 194 and 62, starting at the ones. Ones: 4 + 2 = 6. Tens: 9 + 6 = 15. Write 5 and carry 1. Hundreds: 1 + 0 + 1 carried = 2. The sum is 256.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "194+62"
+    }
+  },
+  {
+    "id": "g3-as-470",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Luis has 231 beads. Luis gets 85 more. How many beads are there now?",
+    "choices": [
+      "146",
+      "316",
+      "306",
+      "326"
+    ],
+    "answerIndex": 1,
+    "explanation": "Luis starts with 231 and adds 85. Add 231 and 85, starting at the ones. Ones: 1 + 5 = 6. Tens: 3 + 8 = 11. Write 1 and carry 1. Hundreds: 2 + 0 + 1 carried = 3. The sum is 316.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "231+85"
+    }
+  },
+  {
+    "id": "g3-as-471",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "There are 268 stamps in a bin and 108 stamps in a bag. How many stamps are there in all?",
+    "choices": [
+      "366",
+      "386",
+      "160",
+      "376"
+    ],
+    "answerIndex": 3,
+    "explanation": "Join the two groups: 268 and 108. Add 268 and 108, starting at the ones. Ones: 8 + 8 = 16. Write 6 and carry 1. Tens: 6 + 0 + 1 carried = 7. Hundreds: 2 + 1 = 3. The sum is 376.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "268+108"
+    }
+  },
+  {
+    "id": "g3-as-472",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A book has 305 pages of photos and 131 pages of drawings. How many pages is that altogether?",
+    "choices": [
+      "426",
+      "436",
+      "174",
+      "446"
+    ],
+    "answerIndex": 1,
+    "explanation": "Add the photo pages and the drawing pages. Add 305 and 131, starting at the ones. Ones: 5 + 1 = 6. Tens: 0 + 3 = 3. Hundreds: 3 + 1 = 4. The sum is 436.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "305+131"
+    }
+  },
+  {
+    "id": "g3-as-473",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Mei has 342 leaves. Mei gets 154 more. How many leaves are there now?",
+    "choices": [
+      "486",
+      "496",
+      "188",
+      "506"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mei starts with 342 and adds 154. Add 342 and 154, starting at the ones. Ones: 2 + 4 = 6. Tens: 4 + 5 = 9. Hundreds: 3 + 1 = 4. The sum is 496.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "342+154"
+    }
+  },
+  {
+    "id": "g3-as-474",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "There are 379 buttons in a bin and 177 buttons in a bag. How many buttons are there in all?",
+    "choices": [
+      "556",
+      "202",
+      "566",
+      "546"
+    ],
+    "answerIndex": 0,
+    "explanation": "Join the two groups: 379 and 177. Add 379 and 177, starting at the ones. Ones: 9 + 7 = 16. Write 6 and carry 1. Tens: 7 + 7 + 1 carried = 15. Write 5 and carry 1. Hundreds: 3 + 1 + 1 carried = 5. The sum is 556.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "379+177"
+    }
+  },
+  {
+    "id": "g3-as-475",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A book has 416 pages of photos and 200 pages of drawings. How many pages is that altogether?",
+    "choices": [
+      "216",
+      "616",
+      "606",
+      "626"
+    ],
+    "answerIndex": 1,
+    "explanation": "Add the photo pages and the drawing pages. Add 416 and 200, starting at the ones. Ones: 6 + 0 = 6. Tens: 1 + 0 = 1. Hundreds: 4 + 2 = 6. The sum is 616.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "416+200"
+    }
+  },
+  {
+    "id": "g3-as-476",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Omar has 453 shells. Omar gets 223 more. How many shells are there now?",
+    "choices": [
+      "686",
+      "676",
+      "230",
+      "666"
+    ],
+    "answerIndex": 1,
+    "explanation": "Omar starts with 453 and adds 223. Add 453 and 223, starting at the ones. Ones: 3 + 3 = 6. Tens: 5 + 2 = 7. Hundreds: 4 + 2 = 6. The sum is 676.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "453+223"
+    }
+  },
+  {
+    "id": "g3-as-477",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "There are 490 cards in a bin and 246 cards in a bag. How many cards are there in all?",
+    "choices": [
+      "726",
+      "244",
+      "736",
+      "746"
+    ],
+    "answerIndex": 2,
+    "explanation": "Join the two groups: 490 and 246. Add 490 and 246, starting at the ones. Ones: 0 + 6 = 6. Tens: 9 + 4 = 13. Write 3 and carry 1. Hundreds: 4 + 2 + 1 carried = 7. The sum is 736.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "490+246"
+    }
+  },
+  {
+    "id": "g3-as-478",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A book has 527 pages of photos and 269 pages of drawings. How many pages is that altogether?",
+    "choices": [
+      "258",
+      "786",
+      "806",
+      "796"
+    ],
+    "answerIndex": 3,
+    "explanation": "Add the photo pages and the drawing pages. Add 527 and 269, starting at the ones. Ones: 7 + 9 = 16. Write 6 and carry 1. Tens: 2 + 6 + 1 carried = 9. Hundreds: 5 + 2 = 7. The sum is 796.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "527+269"
+    }
+  },
+  {
+    "id": "g3-as-479",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Leo has 564 stamps. Leo gets 292 more. How many stamps are there now?",
+    "choices": [
+      "856",
+      "866",
+      "846",
+      "272"
+    ],
+    "answerIndex": 0,
+    "explanation": "Leo starts with 564 and adds 292. Add 564 and 292, starting at the ones. Ones: 4 + 2 = 6. Tens: 6 + 9 = 15. Write 5 and carry 1. Hundreds: 5 + 2 + 1 carried = 8. The sum is 856.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "564+292"
+    }
+  },
+  {
+    "id": "g3-as-480",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "There are 601 blocks in a bin and 35 blocks in a bag. How many blocks are there in all?",
+    "choices": [
+      "626",
+      "566",
+      "636",
+      "646"
+    ],
+    "answerIndex": 2,
+    "explanation": "Join the two groups: 601 and 35. Add 601 and 35, starting at the ones. Ones: 1 + 5 = 6. Tens: 0 + 3 = 3. Hundreds: 6 + 0 = 6. The sum is 636.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "601+35"
+    }
+  },
+  {
+    "id": "g3-as-481",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A book has 638 pages of photos and 58 pages of drawings. How many pages is that altogether?",
+    "choices": [
+      "696",
+      "706",
+      "580",
+      "686"
+    ],
+    "answerIndex": 0,
+    "explanation": "Add the photo pages and the drawing pages. Add 638 and 58, starting at the ones. Ones: 8 + 8 = 16. Write 6 and carry 1. Tens: 3 + 5 + 1 carried = 9. Hundreds: 6 + 0 = 6. The sum is 696.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "638+58"
+    }
+  },
+  {
+    "id": "g3-as-482",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Ruby has 135 buttons. Ruby gets 81 more. How many buttons are there now?",
+    "choices": [
+      "226",
+      "206",
+      "54",
+      "216"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ruby starts with 135 and adds 81. Add 135 and 81, starting at the ones. Ones: 5 + 1 = 6. Tens: 3 + 8 = 11. Write 1 and carry 1. Hundreds: 1 + 0 + 1 carried = 2. The sum is 216.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "135+81"
+    }
+  },
+  {
+    "id": "g3-as-483",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "There are 172 stickers in a bin and 104 stickers in a bag. How many stickers are there in all?",
+    "choices": [
+      "286",
+      "68",
+      "266",
+      "276"
+    ],
+    "answerIndex": 3,
+    "explanation": "Join the two groups: 172 and 104. Add 172 and 104, starting at the ones. Ones: 2 + 4 = 6. Tens: 7 + 0 = 7. Hundreds: 1 + 1 = 2. The sum is 276.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "172+104"
+    }
+  },
+  {
+    "id": "g3-as-484",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A book has 209 pages of photos and 127 pages of drawings. How many pages is that altogether?",
+    "choices": [
+      "346",
+      "82",
+      "336",
+      "326"
+    ],
+    "answerIndex": 2,
+    "explanation": "Add the photo pages and the drawing pages. Add 209 and 127, starting at the ones. Ones: 9 + 7 = 16. Write 6 and carry 1. Tens: 0 + 2 + 1 carried = 3. Hundreds: 2 + 1 = 3. The sum is 336.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "209+127"
+    }
+  },
+  {
+    "id": "g3-as-485",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Caleb has 246 cards. Caleb gets 150 more. How many cards are there now?",
+    "choices": [
+      "396",
+      "406",
+      "386",
+      "96"
+    ],
+    "answerIndex": 0,
+    "explanation": "Caleb starts with 246 and adds 150. Add 246 and 150, starting at the ones. Ones: 6 + 0 = 6. Tens: 4 + 5 = 9. Hundreds: 2 + 1 = 3. The sum is 396.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "246+150"
+    }
+  },
+  {
+    "id": "g3-as-486",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "There are 283 beads in a bin and 173 beads in a bag. How many beads are there in all?",
+    "choices": [
+      "446",
+      "466",
+      "456",
+      "110"
+    ],
+    "answerIndex": 2,
+    "explanation": "Join the two groups: 283 and 173. Add 283 and 173, starting at the ones. Ones: 3 + 3 = 6. Tens: 8 + 7 = 15. Write 5 and carry 1. Hundreds: 2 + 1 + 1 carried = 4. The sum is 456.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "283+173"
+    }
+  },
+  {
+    "id": "g3-as-487",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A book has 320 pages of photos and 196 pages of drawings. How many pages is that altogether?",
+    "choices": [
+      "526",
+      "506",
+      "516",
+      "124"
+    ],
+    "answerIndex": 2,
+    "explanation": "Add the photo pages and the drawing pages. Add 320 and 196, starting at the ones. Ones: 0 + 6 = 6. Tens: 2 + 9 = 11. Write 1 and carry 1. Hundreds: 3 + 1 + 1 carried = 5. The sum is 516.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "320+196"
+    }
+  },
+  {
+    "id": "g3-as-488",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Zoe has 357 blocks. Zoe gets 219 more. How many blocks are there now?",
+    "choices": [
+      "566",
+      "586",
+      "138",
+      "576"
+    ],
+    "answerIndex": 3,
+    "explanation": "Zoe starts with 357 and adds 219. Add 357 and 219, starting at the ones. Ones: 7 + 9 = 16. Write 6 and carry 1. Tens: 5 + 1 + 1 carried = 7. Hundreds: 3 + 2 = 5. The sum is 576.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "357+219"
+    }
+  },
+  {
+    "id": "g3-as-489",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "There are 394 leaves in a bin and 242 leaves in a bag. How many leaves are there in all?",
+    "choices": [
+      "152",
+      "636",
+      "646",
+      "626"
+    ],
+    "answerIndex": 1,
+    "explanation": "Join the two groups: 394 and 242. Add 394 and 242, starting at the ones. Ones: 4 + 2 = 6. Tens: 9 + 4 = 13. Write 3 and carry 1. Hundreds: 3 + 2 + 1 carried = 6. The sum is 636.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "394+242"
+    }
+  },
+  {
+    "id": "g3-as-490",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A book has 431 pages of photos and 265 pages of drawings. How many pages is that altogether?",
+    "choices": [
+      "686",
+      "706",
+      "696",
+      "166"
+    ],
+    "answerIndex": 2,
+    "explanation": "Add the photo pages and the drawing pages. Add 431 and 265, starting at the ones. Ones: 1 + 5 = 6. Tens: 3 + 6 = 9. Hundreds: 4 + 2 = 6. The sum is 696.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "431+265"
+    }
+  },
+  {
+    "id": "g3-as-491",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Kai has 468 stickers. Kai gets 288 more. How many stickers are there now?",
+    "choices": [
+      "756",
+      "766",
+      "746",
+      "180"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kai starts with 468 and adds 288. Add 468 and 288, starting at the ones. Ones: 8 + 8 = 16. Write 6 and carry 1. Tens: 6 + 8 + 1 carried = 15. Write 5 and carry 1. Hundreds: 4 + 2 + 1 carried = 7. The sum is 756.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "468+288"
+    }
+  },
+  {
+    "id": "g3-as-492",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "There are 505 shells in a bin and 31 shells in a bag. How many shells are there in all?",
+    "choices": [
+      "546",
+      "526",
+      "474",
+      "536"
+    ],
+    "answerIndex": 3,
+    "explanation": "Join the two groups: 505 and 31. Add 505 and 31, starting at the ones. Ones: 5 + 1 = 6. Tens: 0 + 3 = 3. Hundreds: 5 + 0 = 5. The sum is 536.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "505+31"
+    }
+  },
+  {
+    "id": "g3-as-493",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A book has 542 pages of photos and 54 pages of drawings. How many pages is that altogether?",
+    "choices": [
+      "596",
+      "586",
+      "606",
+      "488"
+    ],
+    "answerIndex": 0,
+    "explanation": "Add the photo pages and the drawing pages. Add 542 and 54, starting at the ones. Ones: 2 + 4 = 6. Tens: 4 + 5 = 9. Hundreds: 5 + 0 = 5. The sum is 596.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "542+54"
+    }
+  },
+  {
+    "id": "g3-as-494",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Tara has 579 beads. Tara gets 77 more. How many beads are there now?",
+    "choices": [
+      "666",
+      "646",
+      "656",
+      "502"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tara starts with 579 and adds 77. Add 579 and 77, starting at the ones. Ones: 9 + 7 = 16. Write 6 and carry 1. Tens: 7 + 7 + 1 carried = 15. Write 5 and carry 1. Hundreds: 5 + 0 + 1 carried = 6. The sum is 656.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "579+77"
+    }
+  },
+  {
+    "id": "g3-as-495",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "There are 616 stamps in a bin and 100 stamps in a bag. How many stamps are there in all?",
+    "choices": [
+      "706",
+      "726",
+      "516",
+      "716"
+    ],
+    "answerIndex": 3,
+    "explanation": "Join the two groups: 616 and 100. Add 616 and 100, starting at the ones. Ones: 6 + 0 = 6. Tens: 1 + 0 = 1. Hundreds: 6 + 1 = 7. The sum is 716.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "616+100"
+    }
+  },
+  {
+    "id": "g3-as-496",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A book has 653 pages of photos and 123 pages of drawings. How many pages is that altogether?",
+    "choices": [
+      "530",
+      "786",
+      "776",
+      "766"
+    ],
+    "answerIndex": 2,
+    "explanation": "Add the photo pages and the drawing pages. Add 653 and 123, starting at the ones. Ones: 3 + 3 = 6. Tens: 5 + 2 = 7. Hundreds: 6 + 1 = 7. The sum is 776.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "653+123"
+    }
+  },
+  {
+    "id": "g3-as-497",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Felix has 150 leaves. Felix gets 146 more. How many leaves are there now?",
+    "choices": [
+      "286",
+      "296",
+      "4",
+      "306"
+    ],
+    "answerIndex": 1,
+    "explanation": "Felix starts with 150 and adds 146. Add 150 and 146, starting at the ones. Ones: 0 + 6 = 6. Tens: 5 + 4 = 9. Hundreds: 1 + 1 = 2. The sum is 296.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "150+146"
+    }
+  },
+  {
+    "id": "g3-as-498",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "There are 187 buttons in a bin and 169 buttons in a bag. How many buttons are there in all?",
+    "choices": [
+      "346",
+      "18",
+      "366",
+      "356"
+    ],
+    "answerIndex": 3,
+    "explanation": "Join the two groups: 187 and 169. Add 187 and 169, starting at the ones. Ones: 7 + 9 = 16. Write 6 and carry 1. Tens: 8 + 6 + 1 carried = 15. Write 5 and carry 1. Hundreds: 1 + 1 + 1 carried = 3. The sum is 356.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "187+169"
+    }
+  },
+  {
+    "id": "g3-as-499",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A book has 224 pages of photos and 192 pages of drawings. How many pages is that altogether?",
+    "choices": [
+      "426",
+      "32",
+      "406",
+      "416"
+    ],
+    "answerIndex": 3,
+    "explanation": "Add the photo pages and the drawing pages. Add 224 and 192, starting at the ones. Ones: 4 + 2 = 6. Tens: 2 + 9 = 11. Write 1 and carry 1. Hundreds: 2 + 1 + 1 carried = 4. The sum is 416.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "224+192"
+    }
+  },
+  {
+    "id": "g3-as-500",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Anika has 261 shells. Anika gets 215 more. How many shells are there now?",
+    "choices": [
+      "486",
+      "46",
+      "466",
+      "476"
+    ],
+    "answerIndex": 3,
+    "explanation": "Anika starts with 261 and adds 215. Add 261 and 215, starting at the ones. Ones: 1 + 5 = 6. Tens: 6 + 1 = 7. Hundreds: 2 + 2 = 4. The sum is 476.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "261+215"
+    }
+  },
+  {
+    "id": "g3-as-501",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "There are 298 cards in a bin and 238 cards in a bag. How many cards are there in all?",
+    "choices": [
+      "60",
+      "536",
+      "546",
+      "526"
+    ],
+    "answerIndex": 1,
+    "explanation": "Join the two groups: 298 and 238. Add 298 and 238, starting at the ones. Ones: 8 + 8 = 16. Write 6 and carry 1. Tens: 9 + 3 + 1 carried = 13. Write 3 and carry 1. Hundreds: 2 + 2 + 1 carried = 5. The sum is 536.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "298+238"
+    }
+  },
+  {
+    "id": "g3-as-502",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A book has 335 pages of photos and 261 pages of drawings. How many pages is that altogether?",
+    "choices": [
+      "74",
+      "596",
+      "586",
+      "606"
+    ],
+    "answerIndex": 1,
+    "explanation": "Add the photo pages and the drawing pages. Add 335 and 261, starting at the ones. Ones: 5 + 1 = 6. Tens: 3 + 6 = 9. Hundreds: 3 + 2 = 5. The sum is 596.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "335+261"
+    }
+  },
+  {
+    "id": "g3-as-503",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nico has 372 stamps. Nico gets 284 more. How many stamps are there now?",
+    "choices": [
+      "646",
+      "656",
+      "88",
+      "666"
+    ],
+    "answerIndex": 1,
+    "explanation": "Nico starts with 372 and adds 284. Add 372 and 284, starting at the ones. Ones: 2 + 4 = 6. Tens: 7 + 8 = 15. Write 5 and carry 1. Hundreds: 3 + 2 + 1 carried = 6. The sum is 656.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "372+284"
+    }
+  },
+  {
+    "id": "g3-as-504",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A shelf held 301 marbles. 44 were used. How many marbles are still on the shelf?",
+    "choices": [
+      "247",
+      "257",
+      "345",
+      "267"
+    ],
+    "answerIndex": 1,
+    "explanation": "Start at 301 and subtract 44. Subtract 44 from 301, starting at the ones. Ones: borrow so 11 - 4 = 7. Tens: 9 - 4 = 5. Hundreds: 2 - 0 = 2. 44 + 257 = 301, so the difference is 257.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "301-44"
+    }
+  },
+  {
+    "id": "g3-as-505",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Sam had 342 crayons and gave away 63. How many crayons are left?",
+    "choices": [
+      "405",
+      "289",
+      "279",
+      "269"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sam starts with 342 and takes away 63. Subtract 63 from 342, starting at the ones. Ones: borrow so 12 - 3 = 9. Tens: borrow so 13 - 6 = 7. Hundreds: 2 - 0 = 2. 63 + 279 = 342, so the difference is 279.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "342-63"
+    }
+  },
+  {
+    "id": "g3-as-506",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A shelf held 383 seeds. 82 were used. How many seeds are still on the shelf?",
+    "choices": [
+      "311",
+      "465",
+      "291",
+      "301"
+    ],
+    "answerIndex": 3,
+    "explanation": "Start at 383 and subtract 82. Subtract 82 from 383, starting at the ones. Ones: 3 - 2 = 1. Tens: 8 - 8 = 0. Hundreds: 3 - 0 = 3. 82 + 301 = 383, so the difference is 301.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "383-82"
+    }
+  },
+  {
+    "id": "g3-as-507",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Omar had 424 points and gave away 101. How many points are left?",
+    "choices": [
+      "323",
+      "313",
+      "525",
+      "333"
+    ],
+    "answerIndex": 0,
+    "explanation": "Omar starts with 424 and takes away 101. Subtract 101 from 424, starting at the ones. Ones: 4 - 1 = 3. Tens: 2 - 0 = 2. Hundreds: 4 - 1 = 3. 101 + 323 = 424, so the difference is 323.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "424-101"
+    }
+  },
+  {
+    "id": "g3-as-508",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A shelf held 465 pages. 120 were used. How many pages are still on the shelf?",
+    "choices": [
+      "335",
+      "345",
+      "355",
+      "585"
+    ],
+    "answerIndex": 1,
+    "explanation": "Start at 465 and subtract 120. Subtract 120 from 465, starting at the ones. Ones: 5 - 0 = 5. Tens: 6 - 2 = 4. Hundreds: 4 - 1 = 3. 120 + 345 = 465, so the difference is 345.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "465-120"
+    }
+  },
+  {
+    "id": "g3-as-509",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Hana had 506 yards and gave away 139. How many yards are left?",
+    "choices": [
+      "377",
+      "367",
+      "357",
+      "645"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hana starts with 506 and takes away 139. Subtract 139 from 506, starting at the ones. Ones: borrow so 16 - 9 = 7. Tens: 9 - 3 = 6. Hundreds: 4 - 1 = 3. 139 + 367 = 506, so the difference is 367.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "506-139"
+    }
+  },
+  {
+    "id": "g3-as-510",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A shelf held 547 cans. 158 were used. How many cans are still on the shelf?",
+    "choices": [
+      "389",
+      "399",
+      "705",
+      "379"
+    ],
+    "answerIndex": 0,
+    "explanation": "Start at 547 and subtract 158. Subtract 158 from 547, starting at the ones. Ones: borrow so 17 - 8 = 9. Tens: borrow so 13 - 5 = 8. Hundreds: 4 - 1 = 3. 158 + 389 = 547, so the difference is 389.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "547-158"
+    }
+  },
+  {
+    "id": "g3-as-511",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Sofia had 588 tickets and gave away 177. How many tickets are left?",
+    "choices": [
+      "411",
+      "765",
+      "421",
+      "401"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sofia starts with 588 and takes away 177. Subtract 177 from 588, starting at the ones. Ones: 8 - 7 = 1. Tens: 8 - 7 = 1. Hundreds: 5 - 1 = 4. 177 + 411 = 588, so the difference is 411.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "588-177"
+    }
+  },
+  {
+    "id": "g3-as-512",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A shelf held 629 marbles. 196 were used. How many marbles are still on the shelf?",
+    "choices": [
+      "443",
+      "423",
+      "825",
+      "433"
+    ],
+    "answerIndex": 3,
+    "explanation": "Start at 629 and subtract 196. Subtract 196 from 629, starting at the ones. Ones: 9 - 6 = 3. Tens: borrow so 12 - 9 = 3. Hundreds: 5 - 1 = 4. 196 + 433 = 629, so the difference is 433.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "629-196"
+    }
+  },
+  {
+    "id": "g3-as-513",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Ruby had 670 crayons and gave away 215. How many crayons are left?",
+    "choices": [
+      "885",
+      "465",
+      "445",
+      "455"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ruby starts with 670 and takes away 215. Subtract 215 from 670, starting at the ones. Ones: borrow so 10 - 5 = 5. Tens: 6 - 1 = 5. Hundreds: 6 - 2 = 4. 215 + 455 = 670, so the difference is 455.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "670-215"
+    }
+  },
+  {
+    "id": "g3-as-514",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A shelf held 711 seeds. 234 were used. How many seeds are still on the shelf?",
+    "choices": [
+      "487",
+      "945",
+      "477",
+      "467"
+    ],
+    "answerIndex": 2,
+    "explanation": "Start at 711 and subtract 234. Subtract 234 from 711, starting at the ones. Ones: borrow so 11 - 4 = 7. Tens: borrow so 10 - 3 = 7. Hundreds: 6 - 2 = 4. 234 + 477 = 711, so the difference is 477.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "711-234"
+    }
+  },
+  {
+    "id": "g3-as-515",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nina had 752 points and gave away 33. How many points are left?",
+    "choices": [
+      "719",
+      "785",
+      "709",
+      "729"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nina starts with 752 and takes away 33. Subtract 33 from 752, starting at the ones. Ones: borrow so 12 - 3 = 9. Tens: 4 - 3 = 1. Hundreds: 7 - 0 = 7. 33 + 719 = 752, so the difference is 719.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "752-33"
+    }
+  },
+  {
+    "id": "g3-as-516",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A shelf held 793 pages. 52 were used. How many pages are still on the shelf?",
+    "choices": [
+      "845",
+      "731",
+      "751",
+      "741"
+    ],
+    "answerIndex": 3,
+    "explanation": "Start at 793 and subtract 52. Subtract 52 from 793, starting at the ones. Ones: 3 - 2 = 1. Tens: 9 - 5 = 4. Hundreds: 7 - 0 = 7. 52 + 741 = 793, so the difference is 741.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "793-52"
+    }
+  },
+  {
+    "id": "g3-as-517",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Amira had 834 yards and gave away 71. How many yards are left?",
+    "choices": [
+      "753",
+      "763",
+      "773",
+      "905"
+    ],
+    "answerIndex": 1,
+    "explanation": "Amira starts with 834 and takes away 71. Subtract 71 from 834, starting at the ones. Ones: 4 - 1 = 3. Tens: borrow so 13 - 7 = 6. Hundreds: 7 - 0 = 7. 71 + 763 = 834, so the difference is 763.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "834-71"
+    }
+  },
+  {
+    "id": "g3-as-518",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A shelf held 875 cans. 90 were used. How many cans are still on the shelf?",
+    "choices": [
+      "965",
+      "795",
+      "785",
+      "775"
+    ],
+    "answerIndex": 2,
+    "explanation": "Start at 875 and subtract 90. Subtract 90 from 875, starting at the ones. Ones: 5 - 0 = 5. Tens: borrow so 17 - 9 = 8. Hundreds: 7 - 0 = 7. 90 + 785 = 875, so the difference is 785.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "875-90"
+    }
+  },
+  {
+    "id": "g3-as-519",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Zoe had 916 tickets and gave away 109. How many tickets are left?",
+    "choices": [
+      "817",
+      "797",
+      "1025",
+      "807"
+    ],
+    "answerIndex": 3,
+    "explanation": "Zoe starts with 916 and takes away 109. Subtract 109 from 916, starting at the ones. Ones: borrow so 16 - 9 = 7. Hundreds: 9 - 1 = 8. 109 + 807 = 916, so the difference is 807.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "916-109"
+    }
+  },
+  {
+    "id": "g3-as-520",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A shelf held 277 marbles. 128 were used. How many marbles are still on the shelf?",
+    "choices": [
+      "139",
+      "405",
+      "159",
+      "149"
+    ],
+    "answerIndex": 3,
+    "explanation": "Start at 277 and subtract 128. Subtract 128 from 277, starting at the ones. Ones: borrow so 17 - 8 = 9. Tens: 6 - 2 = 4. Hundreds: 2 - 1 = 1. 128 + 149 = 277, so the difference is 149.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "277-128"
+    }
+  },
+  {
+    "id": "g3-as-521",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Lila had 318 crayons and gave away 147. How many crayons are left?",
+    "choices": [
+      "465",
+      "181",
+      "161",
+      "171"
+    ],
+    "answerIndex": 3,
+    "explanation": "Lila starts with 318 and takes away 147. Subtract 147 from 318, starting at the ones. Ones: 8 - 7 = 1. Tens: borrow so 11 - 4 = 7. Hundreds: 2 - 1 = 1. 147 + 171 = 318, so the difference is 171.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "318-147"
+    }
+  },
+  {
+    "id": "g3-as-522",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A shelf held 359 seeds. 166 were used. How many seeds are still on the shelf?",
+    "choices": [
+      "203",
+      "193",
+      "525",
+      "183"
+    ],
+    "answerIndex": 1,
+    "explanation": "Start at 359 and subtract 166. Subtract 166 from 359, starting at the ones. Ones: 9 - 6 = 3. Tens: borrow so 15 - 6 = 9. Hundreds: 2 - 1 = 1. 166 + 193 = 359, so the difference is 193.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "359-166"
+    }
+  },
+  {
+    "id": "g3-as-523",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Noor had 400 points and gave away 185. How many points are left?",
+    "choices": [
+      "215",
+      "205",
+      "225",
+      "585"
+    ],
+    "answerIndex": 0,
+    "explanation": "Noor starts with 400 and takes away 185. Subtract 185 from 400, starting at the ones. Ones: borrow so 10 - 5 = 5. Tens: 9 - 8 = 1. Hundreds: 3 - 1 = 2. 185 + 215 = 400, so the difference is 215.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "400-185"
+    }
+  },
+  {
+    "id": "g3-as-524",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A shelf held 441 pages. 204 were used. How many pages are still on the shelf?",
+    "choices": [
+      "247",
+      "645",
+      "227",
+      "237"
+    ],
+    "answerIndex": 3,
+    "explanation": "Start at 441 and subtract 204. Subtract 204 from 441, starting at the ones. Ones: borrow so 11 - 4 = 7. Tens: 3 - 0 = 3. Hundreds: 4 - 2 = 2. 204 + 237 = 441, so the difference is 237.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "441-204"
+    }
+  },
+  {
+    "id": "g3-as-525",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Tara had 482 yards and gave away 223. How many yards are left?",
+    "choices": [
+      "705",
+      "249",
+      "259",
+      "269"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tara starts with 482 and takes away 223. Subtract 223 from 482, starting at the ones. Ones: borrow so 12 - 3 = 9. Tens: 7 - 2 = 5. Hundreds: 4 - 2 = 2. 223 + 259 = 482, so the difference is 259.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "482-223"
+    }
+  },
+  {
+    "id": "g3-as-526",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A shelf held 523 cans. 242 were used. How many cans are still on the shelf?",
+    "choices": [
+      "765",
+      "281",
+      "291",
+      "271"
+    ],
+    "answerIndex": 1,
+    "explanation": "Start at 523 and subtract 242. Subtract 242 from 523, starting at the ones. Ones: 3 - 2 = 1. Tens: borrow so 12 - 4 = 8. Hundreds: 4 - 2 = 2. 242 + 281 = 523, so the difference is 281.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "523-242"
+    }
+  },
+  {
+    "id": "g3-as-527",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Imani had 564 tickets and gave away 41. How many tickets are left?",
+    "choices": [
+      "513",
+      "523",
+      "605",
+      "533"
+    ],
+    "answerIndex": 1,
+    "explanation": "Imani starts with 564 and takes away 41. Subtract 41 from 564, starting at the ones. Ones: 4 - 1 = 3. Tens: 6 - 4 = 2. Hundreds: 5 - 0 = 5. 41 + 523 = 564, so the difference is 523.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "564-41"
+    }
+  },
+  {
+    "id": "g3-as-528",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A shelf held 605 marbles. 60 were used. How many marbles are still on the shelf?",
+    "choices": [
+      "535",
+      "555",
+      "545",
+      "665"
+    ],
+    "answerIndex": 2,
+    "explanation": "Start at 605 and subtract 60. Subtract 60 from 605, starting at the ones. Ones: 5 - 0 = 5. Tens: borrow so 10 - 6 = 4. Hundreds: 5 - 0 = 5. 60 + 545 = 605, so the difference is 545.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "605-60"
+    }
+  },
+  {
+    "id": "g3-as-529",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rosa had 646 crayons and gave away 79. How many crayons are left?",
+    "choices": [
+      "725",
+      "557",
+      "567",
+      "577"
+    ],
+    "answerIndex": 2,
+    "explanation": "Rosa starts with 646 and takes away 79. Subtract 79 from 646, starting at the ones. Ones: borrow so 16 - 9 = 7. Tens: borrow so 13 - 7 = 6. Hundreds: 5 - 0 = 5. 79 + 567 = 646, so the difference is 567.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "646-79"
+    }
+  },
+  {
+    "id": "g3-as-530",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "A shelf held 687 seeds. 98 were used. How many seeds are still on the shelf?",
+    "choices": [
+      "599",
+      "579",
+      "785",
+      "589"
+    ],
+    "answerIndex": 3,
+    "explanation": "Start at 687 and subtract 98. Subtract 98 from 687, starting at the ones. Ones: borrow so 17 - 8 = 9. Tens: borrow so 17 - 9 = 8. Hundreds: 5 - 0 = 5. 98 + 589 = 687, so the difference is 589.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "687-98"
+    }
+  },
+  {
+    "id": "g3-as-531",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Anika had 728 points and gave away 117. How many points are left?",
+    "choices": [
+      "601",
+      "611",
+      "845",
+      "621"
+    ],
+    "answerIndex": 1,
+    "explanation": "Anika starts with 728 and takes away 117. Subtract 117 from 728, starting at the ones. Ones: 8 - 7 = 1. Tens: 2 - 1 = 1. Hundreds: 7 - 1 = 6. 117 + 611 = 728, so the difference is 611.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "728-117"
+    }
+  },
+  {
+    "id": "g3-as-532",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 140 + 25?",
+    "choices": [
+      "155",
+      "165",
+      "175",
+      "115"
+    ],
+    "answerIndex": 1,
+    "explanation": "Add 140 and 25, starting at the ones. Ones: 0 + 5 = 5. Tens: 4 + 2 = 6. Hundreds: 1 + 0 = 1. The sum is 165.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "140+25"
+    }
+  },
+  {
+    "id": "g3-as-533",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 800 - 45?",
+    "choices": [
+      "755",
+      "745",
+      "765",
+      "845"
+    ],
+    "answerIndex": 0,
+    "explanation": "Subtract 45 from 800, starting at the ones. Ones: borrow so 10 - 5 = 5. Tens: 9 - 4 = 5. Hundreds: 7 - 0 = 7. 45 + 755 = 800, so the difference is 755.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "800-45"
+    }
+  },
+  {
+    "id": "g3-as-534",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 157 + 34?",
+    "choices": [
+      "201",
+      "181",
+      "191",
+      "123"
+    ],
+    "answerIndex": 2,
+    "explanation": "Add 157 and 34, starting at the ones. Ones: 7 + 4 = 11. Write 1 and carry 1. Tens: 5 + 3 + 1 carried = 9. Hundreds: 1 + 0 = 1. The sum is 191.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "157+34"
+    }
+  },
+  {
+    "id": "g3-as-535",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 787 - 56?",
+    "choices": [
+      "843",
+      "721",
+      "731",
+      "741"
+    ],
+    "answerIndex": 2,
+    "explanation": "Subtract 56 from 787, starting at the ones. Ones: 7 - 6 = 1. Tens: 8 - 5 = 3. Hundreds: 7 - 0 = 7. 56 + 731 = 787, so the difference is 731.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "787-56"
+    }
+  },
+  {
+    "id": "g3-as-536",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 174 + 43?",
+    "choices": [
+      "131",
+      "207",
+      "227",
+      "217"
+    ],
+    "answerIndex": 3,
+    "explanation": "Add 174 and 43, starting at the ones. Ones: 4 + 3 = 7. Tens: 7 + 4 = 11. Write 1 and carry 1. Hundreds: 1 + 0 + 1 carried = 2. The sum is 217.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "174+43"
+    }
+  },
+  {
+    "id": "g3-as-537",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 774 - 67?",
+    "choices": [
+      "707",
+      "717",
+      "697",
+      "841"
+    ],
+    "answerIndex": 0,
+    "explanation": "Subtract 67 from 774, starting at the ones. Ones: borrow so 14 - 7 = 7. Tens: 6 - 6 = 0. Hundreds: 7 - 0 = 7. 67 + 707 = 774, so the difference is 707.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "774-67"
+    }
+  },
+  {
+    "id": "g3-as-538",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 191 + 52?",
+    "choices": [
+      "233",
+      "243",
+      "139",
+      "253"
+    ],
+    "answerIndex": 1,
+    "explanation": "Add 191 and 52, starting at the ones. Ones: 1 + 2 = 3. Tens: 9 + 5 = 14. Write 4 and carry 1. Hundreds: 1 + 0 + 1 carried = 2. The sum is 243.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "191+52"
+    }
+  },
+  {
+    "id": "g3-as-539",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 761 - 78?",
+    "choices": [
+      "839",
+      "673",
+      "693",
+      "683"
+    ],
+    "answerIndex": 3,
+    "explanation": "Subtract 78 from 761, starting at the ones. Ones: borrow so 11 - 8 = 3. Tens: borrow so 15 - 7 = 8. Hundreds: 6 - 0 = 6. 78 + 683 = 761, so the difference is 683.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "761-78"
+    }
+  },
+  {
+    "id": "g3-as-540",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 208 + 61?",
+    "choices": [
+      "279",
+      "259",
+      "147",
+      "269"
+    ],
+    "answerIndex": 3,
+    "explanation": "Add 208 and 61, starting at the ones. Ones: 8 + 1 = 9. Tens: 0 + 6 = 6. Hundreds: 2 + 0 = 2. The sum is 269.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "208+61"
+    }
+  },
+  {
+    "id": "g3-as-541",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 748 - 89?",
+    "choices": [
+      "649",
+      "837",
+      "659",
+      "669"
+    ],
+    "answerIndex": 2,
+    "explanation": "Subtract 89 from 748, starting at the ones. Ones: borrow so 18 - 9 = 9. Tens: borrow so 13 - 8 = 5. Hundreds: 6 - 0 = 6. 89 + 659 = 748, so the difference is 659.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "748-89"
+    }
+  },
+  {
+    "id": "g3-as-542",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 225 + 70?",
+    "choices": [
+      "155",
+      "285",
+      "295",
+      "305"
+    ],
+    "answerIndex": 2,
+    "explanation": "Add 225 and 70, starting at the ones. Ones: 5 + 0 = 5. Tens: 2 + 7 = 9. Hundreds: 2 + 0 = 2. The sum is 295.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "225+70"
+    }
+  },
+  {
+    "id": "g3-as-543",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 735 - 100?",
+    "choices": [
+      "645",
+      "625",
+      "835",
+      "635"
+    ],
+    "answerIndex": 3,
+    "explanation": "Subtract 100 from 735, starting at the ones. Ones: 5 - 0 = 5. Tens: 3 - 0 = 3. Hundreds: 7 - 1 = 6. 100 + 635 = 735, so the difference is 635.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "735-100"
+    }
+  },
+  {
+    "id": "g3-as-544",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 242 + 79?",
+    "choices": [
+      "331",
+      "321",
+      "311",
+      "163"
+    ],
+    "answerIndex": 1,
+    "explanation": "Add 242 and 79, starting at the ones. Ones: 2 + 9 = 11. Write 1 and carry 1. Tens: 4 + 7 + 1 carried = 12. Write 2 and carry 1. Hundreds: 2 + 0 + 1 carried = 3. The sum is 321.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "242+79"
+    }
+  },
+  {
+    "id": "g3-as-545",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 722 - 111?",
+    "choices": [
+      "601",
+      "833",
+      "621",
+      "611"
+    ],
+    "answerIndex": 3,
+    "explanation": "Subtract 111 from 722, starting at the ones. Ones: 2 - 1 = 1. Tens: 2 - 1 = 1. Hundreds: 7 - 1 = 6. 111 + 611 = 722, so the difference is 611.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "722-111"
+    }
+  },
+  {
+    "id": "g3-as-546",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 259 + 88?",
+    "choices": [
+      "171",
+      "337",
+      "357",
+      "347"
+    ],
+    "answerIndex": 3,
+    "explanation": "Add 259 and 88, starting at the ones. Ones: 9 + 8 = 17. Write 7 and carry 1. Tens: 5 + 8 + 1 carried = 14. Write 4 and carry 1. Hundreds: 2 + 0 + 1 carried = 3. The sum is 347.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "259+88"
+    }
+  },
+  {
+    "id": "g3-as-547",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 709 - 122?",
+    "choices": [
+      "587",
+      "831",
+      "597",
+      "577"
+    ],
+    "answerIndex": 0,
+    "explanation": "Subtract 122 from 709, starting at the ones. Ones: 9 - 2 = 7. Tens: borrow so 10 - 2 = 8. Hundreds: 6 - 1 = 5. 122 + 587 = 709, so the difference is 587.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "709-122"
+    }
+  },
+  {
+    "id": "g3-as-548",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 276 + 97?",
+    "choices": [
+      "179",
+      "383",
+      "363",
+      "373"
+    ],
+    "answerIndex": 3,
+    "explanation": "Add 276 and 97, starting at the ones. Ones: 6 + 7 = 13. Write 3 and carry 1. Tens: 7 + 9 + 1 carried = 17. Write 7 and carry 1. Hundreds: 2 + 0 + 1 carried = 3. The sum is 373.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "276+97"
+    }
+  },
+  {
+    "id": "g3-as-549",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 696 - 133?",
+    "choices": [
+      "553",
+      "829",
+      "573",
+      "563"
+    ],
+    "answerIndex": 3,
+    "explanation": "Subtract 133 from 696, starting at the ones. Ones: 6 - 3 = 3. Tens: 9 - 3 = 6. Hundreds: 6 - 1 = 5. 133 + 563 = 696, so the difference is 563.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "696-133"
+    }
+  },
+  {
+    "id": "g3-as-550",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 293 + 106?",
+    "choices": [
+      "389",
+      "399",
+      "409",
+      "187"
+    ],
+    "answerIndex": 1,
+    "explanation": "Add 293 and 106, starting at the ones. Ones: 3 + 6 = 9. Tens: 9 + 0 = 9. Hundreds: 2 + 1 = 3. The sum is 399.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "293+106"
+    }
+  },
+  {
+    "id": "g3-as-551",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 683 - 144?",
+    "choices": [
+      "549",
+      "529",
+      "539",
+      "827"
+    ],
+    "answerIndex": 2,
+    "explanation": "Subtract 144 from 683, starting at the ones. Ones: borrow so 13 - 4 = 9. Tens: 7 - 4 = 3. Hundreds: 6 - 1 = 5. 144 + 539 = 683, so the difference is 539.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "683-144"
+    }
+  },
+  {
+    "id": "g3-as-552",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 310 + 115?",
+    "choices": [
+      "195",
+      "435",
+      "415",
+      "425"
+    ],
+    "answerIndex": 3,
+    "explanation": "Add 310 and 115, starting at the ones. Ones: 0 + 5 = 5. Tens: 1 + 1 = 2. Hundreds: 3 + 1 = 4. The sum is 425.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "310+115"
+    }
+  },
+  {
+    "id": "g3-as-553",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 670 - 155?",
+    "choices": [
+      "505",
+      "525",
+      "515",
+      "825"
+    ],
+    "answerIndex": 2,
+    "explanation": "Subtract 155 from 670, starting at the ones. Ones: borrow so 10 - 5 = 5. Tens: 6 - 5 = 1. Hundreds: 6 - 1 = 5. 155 + 515 = 670, so the difference is 515.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "670-155"
+    }
+  },
+  {
+    "id": "g3-as-554",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 327 + 124?",
+    "choices": [
+      "451",
+      "461",
+      "441",
+      "203"
+    ],
+    "answerIndex": 0,
+    "explanation": "Add 327 and 124, starting at the ones. Ones: 7 + 4 = 11. Write 1 and carry 1. Tens: 2 + 2 + 1 carried = 5. Hundreds: 3 + 1 = 4. The sum is 451.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "327+124"
+    }
+  },
+  {
+    "id": "g3-as-555",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 657 - 166?",
+    "choices": [
+      "823",
+      "501",
+      "491",
+      "481"
+    ],
+    "answerIndex": 2,
+    "explanation": "Subtract 166 from 657, starting at the ones. Ones: 7 - 6 = 1. Tens: borrow so 15 - 6 = 9. Hundreds: 5 - 1 = 4. 166 + 491 = 657, so the difference is 491.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "657-166"
+    }
+  },
+  {
+    "id": "g3-as-556",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 344 + 133?",
+    "choices": [
+      "477",
+      "467",
+      "487",
+      "211"
+    ],
+    "answerIndex": 0,
+    "explanation": "Add 344 and 133, starting at the ones. Ones: 4 + 3 = 7. Tens: 4 + 3 = 7. Hundreds: 3 + 1 = 4. The sum is 477.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "344+133"
+    }
+  },
+  {
+    "id": "g3-as-557",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 644 - 177?",
+    "choices": [
+      "467",
+      "457",
+      "477",
+      "821"
+    ],
+    "answerIndex": 0,
+    "explanation": "Subtract 177 from 644, starting at the ones. Ones: borrow so 14 - 7 = 7. Tens: borrow so 13 - 7 = 6. Hundreds: 5 - 1 = 4. 177 + 467 = 644, so the difference is 467.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "644-177"
+    }
+  },
+  {
+    "id": "g3-as-558",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 361 + 142?",
+    "choices": [
+      "513",
+      "493",
+      "219",
+      "503"
+    ],
+    "answerIndex": 3,
+    "explanation": "Add 361 and 142, starting at the ones. Ones: 1 + 2 = 3. Tens: 6 + 4 = 10. Write 0 and carry 1. Hundreds: 3 + 1 + 1 carried = 5. The sum is 503.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "361+142"
+    }
+  },
+  {
+    "id": "g3-as-559",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 631 - 188?",
+    "choices": [
+      "819",
+      "433",
+      "443",
+      "453"
+    ],
+    "answerIndex": 2,
+    "explanation": "Subtract 188 from 631, starting at the ones. Ones: borrow so 11 - 8 = 3. Tens: borrow so 12 - 8 = 4. Hundreds: 5 - 1 = 4. 188 + 443 = 631, so the difference is 443.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "631-188"
+    }
+  },
+  {
+    "id": "g3-as-560",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 378 + 151?",
+    "choices": [
+      "539",
+      "529",
+      "519",
+      "227"
+    ],
+    "answerIndex": 1,
+    "explanation": "Add 378 and 151, starting at the ones. Ones: 8 + 1 = 9. Tens: 7 + 5 = 12. Write 2 and carry 1. Hundreds: 3 + 1 + 1 carried = 5. The sum is 529.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "378+151"
+    }
+  },
+  {
+    "id": "g3-as-561",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 618 - 199?",
+    "choices": [
+      "429",
+      "817",
+      "409",
+      "419"
+    ],
+    "answerIndex": 3,
+    "explanation": "Subtract 199 from 618, starting at the ones. Ones: borrow so 18 - 9 = 9. Tens: borrow so 10 - 9 = 1. Hundreds: 5 - 1 = 4. 199 + 419 = 618, so the difference is 419.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "618-199"
+    }
+  },
+  {
+    "id": "g3-as-562",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 395 + 160?",
+    "choices": [
+      "545",
+      "565",
+      "235",
+      "555"
+    ],
+    "answerIndex": 3,
+    "explanation": "Add 395 and 160, starting at the ones. Ones: 5 + 0 = 5. Tens: 9 + 6 = 15. Write 5 and carry 1. Hundreds: 3 + 1 + 1 carried = 5. The sum is 555.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "395+160"
+    }
+  },
+  {
+    "id": "g3-as-563",
+    "grade": 3,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "What is 605 - 210?",
+    "choices": [
+      "395",
+      "385",
+      "405",
+      "815"
+    ],
+    "answerIndex": 0,
+    "explanation": "Subtract 210 from 605, starting at the ones. Ones: 5 - 0 = 5. Tens: borrow so 10 - 1 = 9. Hundreds: 5 - 2 = 3. 210 + 395 = 605, so the difference is 395.",
+    "skill": "3.NBT.A.2",
+    "skillLabel": "Add and subtract within 1,000",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "605-210"
+    }
+  }
+]

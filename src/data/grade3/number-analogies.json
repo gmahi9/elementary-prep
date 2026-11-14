@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "g3-na-282",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 4, 3 goes to 6, 4 goes to 8. What does 6 go to if the same rule is used?",
+    "choices": [
+      "6",
+      "12",
+      "9",
+      "14"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first pair shows the rule: 2 goes to 4, so each number is multiplied by 2. 3 goes to 6, which matches. 6 goes to 12.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 2,
+      "input": 6,
+      "pairs": [
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-283",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 4, 5 goes to 10, 7 goes to 14. What does 8 go to if the same rule is used?",
+    "choices": [
+      "8",
+      "18",
+      "11",
+      "16"
+    ],
+    "answerIndex": 3,
+    "explanation": "The first pair shows the rule: 2 goes to 4, so each number is multiplied by 2. 5 goes to 10, which matches. 8 goes to 16.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 2,
+      "input": 8,
+      "pairs": [
+        [
+          2,
+          4
+        ],
+        [
+          5,
+          10
+        ],
+        [
+          7,
+          14
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-284",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 6, 3 goes to 9, 4 goes to 12. What does 6 go to if the same rule is used?",
+    "choices": [
+      "10",
+      "6",
+      "18",
+      "21"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 2 goes to 6, so each number is multiplied by 3. 3 goes to 9, which matches. 6 goes to 18.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 3,
+      "input": 6,
+      "pairs": [
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          4,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-285",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 6, 5 goes to 15, 7 goes to 21. What does 8 go to if the same rule is used?",
+    "choices": [
+      "8",
+      "27",
+      "12",
+      "24"
+    ],
+    "answerIndex": 3,
+    "explanation": "The first pair shows the rule: 2 goes to 6, so each number is multiplied by 3. 5 goes to 15, which matches. 8 goes to 24.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 3,
+      "input": 8,
+      "pairs": [
+        [
+          2,
+          6
+        ],
+        [
+          5,
+          15
+        ],
+        [
+          7,
+          21
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-286",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 8, 3 goes to 12, 4 goes to 16. What does 6 go to if the same rule is used?",
+    "choices": [
+      "28",
+      "11",
+      "6",
+      "24"
+    ],
+    "answerIndex": 3,
+    "explanation": "The first pair shows the rule: 2 goes to 8, so each number is multiplied by 4. 3 goes to 12, which matches. 6 goes to 24.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 4,
+      "input": 6,
+      "pairs": [
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          12
+        ],
+        [
+          4,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-287",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 8, 5 goes to 20, 7 goes to 28. What does 8 go to if the same rule is used?",
+    "choices": [
+      "8",
+      "13",
+      "32",
+      "36"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 2 goes to 8, so each number is multiplied by 4. 5 goes to 20, which matches. 8 goes to 32.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 4,
+      "input": 8,
+      "pairs": [
+        [
+          2,
+          8
+        ],
+        [
+          5,
+          20
+        ],
+        [
+          7,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-288",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 10, 3 goes to 15, 4 goes to 20. What does 6 go to if the same rule is used?",
+    "choices": [
+      "35",
+      "6",
+      "12",
+      "30"
+    ],
+    "answerIndex": 3,
+    "explanation": "The first pair shows the rule: 2 goes to 10, so each number is multiplied by 5. 3 goes to 15, which matches. 6 goes to 30.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 5,
+      "input": 6,
+      "pairs": [
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          15
+        ],
+        [
+          4,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-289",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 10, 5 goes to 25, 7 goes to 35. What does 8 go to if the same rule is used?",
+    "choices": [
+      "14",
+      "45",
+      "8",
+      "40"
+    ],
+    "answerIndex": 3,
+    "explanation": "The first pair shows the rule: 2 goes to 10, so each number is multiplied by 5. 5 goes to 25, which matches. 8 goes to 40.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 5,
+      "input": 8,
+      "pairs": [
+        [
+          2,
+          10
+        ],
+        [
+          5,
+          25
+        ],
+        [
+          7,
+          35
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-290",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 12, 3 goes to 18, 4 goes to 24. What does 6 go to if the same rule is used?",
+    "choices": [
+      "36",
+      "6",
+      "42",
+      "13"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first pair shows the rule: 2 goes to 12, so each number is multiplied by 6. 3 goes to 18, which matches. 6 goes to 36.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 6,
+      "input": 6,
+      "pairs": [
+        [
+          2,
+          12
+        ],
+        [
+          3,
+          18
+        ],
+        [
+          4,
+          24
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-291",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 12, 5 goes to 30, 7 goes to 42. What does 8 go to if the same rule is used?",
+    "choices": [
+      "8",
+      "15",
+      "48",
+      "54"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 2 goes to 12, so each number is multiplied by 6. 5 goes to 30, which matches. 8 goes to 48.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 6,
+      "input": 8,
+      "pairs": [
+        [
+          2,
+          12
+        ],
+        [
+          5,
+          30
+        ],
+        [
+          7,
+          42
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-292",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 14, 3 goes to 21, 4 goes to 28. What does 6 go to if the same rule is used?",
+    "choices": [
+      "49",
+      "14",
+      "42",
+      "6"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 2 goes to 14, so each number is multiplied by 7. 3 goes to 21, which matches. 6 goes to 42.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 7,
+      "input": 6,
+      "pairs": [
+        [
+          2,
+          14
+        ],
+        [
+          3,
+          21
+        ],
+        [
+          4,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-293",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 14, 5 goes to 35, 7 goes to 49. What does 8 go to if the same rule is used?",
+    "choices": [
+      "8",
+      "56",
+      "63",
+      "16"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first pair shows the rule: 2 goes to 14, so each number is multiplied by 7. 5 goes to 35, which matches. 8 goes to 56.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 7,
+      "input": 8,
+      "pairs": [
+        [
+          2,
+          14
+        ],
+        [
+          5,
+          35
+        ],
+        [
+          7,
+          49
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-294",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 16, 3 goes to 24, 4 goes to 32. What does 6 go to if the same rule is used?",
+    "choices": [
+      "6",
+      "15",
+      "48",
+      "56"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 2 goes to 16, so each number is multiplied by 8. 3 goes to 24, which matches. 6 goes to 48.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 8,
+      "input": 6,
+      "pairs": [
+        [
+          2,
+          16
+        ],
+        [
+          3,
+          24
+        ],
+        [
+          4,
+          32
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-295",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 16, 5 goes to 40, 7 goes to 56. What does 8 go to if the same rule is used?",
+    "choices": [
+      "64",
+      "17",
+      "8",
+      "72"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first pair shows the rule: 2 goes to 16, so each number is multiplied by 8. 5 goes to 40, which matches. 8 goes to 64.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 8,
+      "input": 8,
+      "pairs": [
+        [
+          2,
+          16
+        ],
+        [
+          5,
+          40
+        ],
+        [
+          7,
+          56
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-296",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 18, 3 goes to 27, 4 goes to 36. What does 6 go to if the same rule is used?",
+    "choices": [
+      "54",
+      "6",
+      "16",
+      "63"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first pair shows the rule: 2 goes to 18, so each number is multiplied by 9. 3 goes to 27, which matches. 6 goes to 54.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 9,
+      "input": 6,
+      "pairs": [
+        [
+          2,
+          18
+        ],
+        [
+          3,
+          27
+        ],
+        [
+          4,
+          36
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-297",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "2 goes to 18, 5 goes to 45, 7 goes to 63. What does 8 go to if the same rule is used?",
+    "choices": [
+      "18",
+      "72",
+      "81",
+      "8"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first pair shows the rule: 2 goes to 18, so each number is multiplied by 9. 5 goes to 45, which matches. 8 goes to 72.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 9,
+      "input": 8,
+      "pairs": [
+        [
+          2,
+          18
+        ],
+        [
+          5,
+          45
+        ],
+        [
+          7,
+          63
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-298",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "3 goes to 5, 6 goes to 8, 9 goes to 11. What does 12 go to if the same rule is used?",
+    "choices": [
+      "14",
+      "16",
+      "15",
+      "12"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first pair shows the rule: 3 goes to 5, so each number is increased by 2. 6 goes to 8, which matches. 12 goes to 14.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 2,
+      "input": 12,
+      "pairs": [
+        [
+          3,
+          5
+        ],
+        [
+          6,
+          8
+        ],
+        [
+          9,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-299",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "4 goes to 6, 8 goes to 10, 11 goes to 13. What does 15 go to if the same rule is used?",
+    "choices": [
+      "18",
+      "17",
+      "15",
+      "19"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first pair shows the rule: 4 goes to 6, so each number is increased by 2. 8 goes to 10, which matches. 15 goes to 17.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 2,
+      "input": 15,
+      "pairs": [
+        [
+          4,
+          6
+        ],
+        [
+          8,
+          10
+        ],
+        [
+          11,
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-300",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "3 goes to 6, 6 goes to 9, 9 goes to 12. What does 12 go to if the same rule is used?",
+    "choices": [
+      "15",
+      "16",
+      "12",
+      "18"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first pair shows the rule: 3 goes to 6, so each number is increased by 3. 6 goes to 9, which matches. 12 goes to 15.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 3,
+      "input": 12,
+      "pairs": [
+        [
+          3,
+          6
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          9,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-301",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "4 goes to 7, 8 goes to 11, 11 goes to 14. What does 15 go to if the same rule is used?",
+    "choices": [
+      "18",
+      "19",
+      "15",
+      "21"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first pair shows the rule: 4 goes to 7, so each number is increased by 3. 8 goes to 11, which matches. 15 goes to 18.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 3,
+      "input": 15,
+      "pairs": [
+        [
+          4,
+          7
+        ],
+        [
+          8,
+          11
+        ],
+        [
+          11,
+          14
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-302",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "3 goes to 7, 6 goes to 10, 9 goes to 13. What does 12 go to if the same rule is used?",
+    "choices": [
+      "17",
+      "20",
+      "16",
+      "12"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 3 goes to 7, so each number is increased by 4. 6 goes to 10, which matches. 12 goes to 16.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 4,
+      "input": 12,
+      "pairs": [
+        [
+          3,
+          7
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          9,
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-303",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "4 goes to 8, 8 goes to 12, 11 goes to 15. What does 15 go to if the same rule is used?",
+    "choices": [
+      "15",
+      "23",
+      "19",
+      "20"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 4 goes to 8, so each number is increased by 4. 8 goes to 12, which matches. 15 goes to 19.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 4,
+      "input": 15,
+      "pairs": [
+        [
+          4,
+          8
+        ],
+        [
+          8,
+          12
+        ],
+        [
+          11,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-304",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "3 goes to 8, 6 goes to 11, 9 goes to 14. What does 12 go to if the same rule is used?",
+    "choices": [
+      "17",
+      "18",
+      "12",
+      "22"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first pair shows the rule: 3 goes to 8, so each number is increased by 5. 6 goes to 11, which matches. 12 goes to 17.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 5,
+      "input": 12,
+      "pairs": [
+        [
+          3,
+          8
+        ],
+        [
+          6,
+          11
+        ],
+        [
+          9,
+          14
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-305",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "4 goes to 9, 8 goes to 13, 11 goes to 16. What does 15 go to if the same rule is used?",
+    "choices": [
+      "15",
+      "20",
+      "21",
+      "25"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first pair shows the rule: 4 goes to 9, so each number is increased by 5. 8 goes to 13, which matches. 15 goes to 20.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 5,
+      "input": 15,
+      "pairs": [
+        [
+          4,
+          9
+        ],
+        [
+          8,
+          13
+        ],
+        [
+          11,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-306",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "3 goes to 9, 6 goes to 12, 9 goes to 15. What does 12 go to if the same rule is used?",
+    "choices": [
+      "12",
+      "19",
+      "18",
+      "24"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 3 goes to 9, so each number is increased by 6. 6 goes to 12, which matches. 12 goes to 18.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 6,
+      "input": 12,
+      "pairs": [
+        [
+          3,
+          9
+        ],
+        [
+          6,
+          12
+        ],
+        [
+          9,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-307",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "4 goes to 10, 8 goes to 14, 11 goes to 17. What does 15 go to if the same rule is used?",
+    "choices": [
+      "15",
+      "22",
+      "21",
+      "27"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 4 goes to 10, so each number is increased by 6. 8 goes to 14, which matches. 15 goes to 21.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 6,
+      "input": 15,
+      "pairs": [
+        [
+          4,
+          10
+        ],
+        [
+          8,
+          14
+        ],
+        [
+          11,
+          17
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-308",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "3 goes to 10, 6 goes to 13, 9 goes to 16. What does 12 go to if the same rule is used?",
+    "choices": [
+      "12",
+      "19",
+      "26",
+      "20"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first pair shows the rule: 3 goes to 10, so each number is increased by 7. 6 goes to 13, which matches. 12 goes to 19.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 7,
+      "input": 12,
+      "pairs": [
+        [
+          3,
+          10
+        ],
+        [
+          6,
+          13
+        ],
+        [
+          9,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-309",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "4 goes to 11, 8 goes to 15, 11 goes to 18. What does 15 go to if the same rule is used?",
+    "choices": [
+      "15",
+      "23",
+      "22",
+      "29"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 4 goes to 11, so each number is increased by 7. 8 goes to 15, which matches. 15 goes to 22.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 7,
+      "input": 15,
+      "pairs": [
+        [
+          4,
+          11
+        ],
+        [
+          8,
+          15
+        ],
+        [
+          11,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-310",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "3 goes to 11, 6 goes to 14, 9 goes to 17. What does 12 go to if the same rule is used?",
+    "choices": [
+      "21",
+      "20",
+      "12",
+      "28"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first pair shows the rule: 3 goes to 11, so each number is increased by 8. 6 goes to 14, which matches. 12 goes to 20.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 8,
+      "input": 12,
+      "pairs": [
+        [
+          3,
+          11
+        ],
+        [
+          6,
+          14
+        ],
+        [
+          9,
+          17
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-311",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "4 goes to 12, 8 goes to 16, 11 goes to 19. What does 15 go to if the same rule is used?",
+    "choices": [
+      "31",
+      "24",
+      "15",
+      "23"
+    ],
+    "answerIndex": 3,
+    "explanation": "The first pair shows the rule: 4 goes to 12, so each number is increased by 8. 8 goes to 16, which matches. 15 goes to 23.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 8,
+      "input": 15,
+      "pairs": [
+        [
+          4,
+          12
+        ],
+        [
+          8,
+          16
+        ],
+        [
+          11,
+          19
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-312",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "3 goes to 12, 6 goes to 15, 9 goes to 18. What does 12 go to if the same rule is used?",
+    "choices": [
+      "12",
+      "22",
+      "21",
+      "30"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 3 goes to 12, so each number is increased by 9. 6 goes to 15, which matches. 12 goes to 21.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 9,
+      "input": 12,
+      "pairs": [
+        [
+          3,
+          12
+        ],
+        [
+          6,
+          15
+        ],
+        [
+          9,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-313",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "4 goes to 13, 8 goes to 17, 11 goes to 20. What does 15 go to if the same rule is used?",
+    "choices": [
+      "24",
+      "25",
+      "15",
+      "33"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first pair shows the rule: 4 goes to 13, so each number is increased by 9. 8 goes to 17, which matches. 15 goes to 24.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 9,
+      "input": 15,
+      "pairs": [
+        [
+          4,
+          13
+        ],
+        [
+          8,
+          17
+        ],
+        [
+          11,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-314",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "3 goes to 13, 6 goes to 16, 9 goes to 19. What does 12 go to if the same rule is used?",
+    "choices": [
+      "23",
+      "12",
+      "32",
+      "22"
+    ],
+    "answerIndex": 3,
+    "explanation": "The first pair shows the rule: 3 goes to 13, so each number is increased by 10. 6 goes to 16, which matches. 12 goes to 22.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 10,
+      "input": 12,
+      "pairs": [
+        [
+          3,
+          13
+        ],
+        [
+          6,
+          16
+        ],
+        [
+          9,
+          19
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-315",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "4 goes to 14, 8 goes to 18, 11 goes to 21. What does 15 go to if the same rule is used?",
+    "choices": [
+      "25",
+      "35",
+      "15",
+      "26"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first pair shows the rule: 4 goes to 14, so each number is increased by 10. 8 goes to 18, which matches. 15 goes to 25.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 10,
+      "input": 15,
+      "pairs": [
+        [
+          4,
+          14
+        ],
+        [
+          8,
+          18
+        ],
+        [
+          11,
+          21
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-316",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "3 goes to 14, 6 goes to 17, 9 goes to 20. What does 12 go to if the same rule is used?",
+    "choices": [
+      "34",
+      "12",
+      "23",
+      "24"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 3 goes to 14, so each number is increased by 11. 6 goes to 17, which matches. 12 goes to 23.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 11,
+      "input": 12,
+      "pairs": [
+        [
+          3,
+          14
+        ],
+        [
+          6,
+          17
+        ],
+        [
+          9,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-317",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "4 goes to 15, 8 goes to 19, 11 goes to 22. What does 15 go to if the same rule is used?",
+    "choices": [
+      "15",
+      "37",
+      "26",
+      "27"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 4 goes to 15, so each number is increased by 11. 8 goes to 19, which matches. 15 goes to 26.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 11,
+      "input": 15,
+      "pairs": [
+        [
+          4,
+          15
+        ],
+        [
+          8,
+          19
+        ],
+        [
+          11,
+          22
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-318",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "3 goes to 15, 6 goes to 18, 9 goes to 21. What does 12 go to if the same rule is used?",
+    "choices": [
+      "12",
+      "25",
+      "36",
+      "24"
+    ],
+    "answerIndex": 3,
+    "explanation": "The first pair shows the rule: 3 goes to 15, so each number is increased by 12. 6 goes to 18, which matches. 12 goes to 24.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 12,
+      "input": 12,
+      "pairs": [
+        [
+          3,
+          15
+        ],
+        [
+          6,
+          18
+        ],
+        [
+          9,
+          21
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-319",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "4 goes to 16, 8 goes to 20, 11 goes to 23. What does 15 go to if the same rule is used?",
+    "choices": [
+      "27",
+      "15",
+      "28",
+      "39"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first pair shows the rule: 4 goes to 16, so each number is increased by 12. 8 goes to 20, which matches. 15 goes to 27.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 12,
+      "input": 15,
+      "pairs": [
+        [
+          4,
+          16
+        ],
+        [
+          8,
+          20
+        ],
+        [
+          11,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-320",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "12 goes to 10, 15 goes to 13, 18 goes to 16. What does 20 go to if the same rule is used?",
+    "choices": [
+      "20",
+      "18",
+      "16",
+      "23"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first pair shows the rule: 12 goes to 10, so each number is decreased by 2. 15 goes to 13, which matches. 20 goes to 18.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 2,
+      "input": 20,
+      "pairs": [
+        [
+          12,
+          10
+        ],
+        [
+          15,
+          13
+        ],
+        [
+          18,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-321",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "11 goes to 9, 14 goes to 12, 17 goes to 15. What does 21 go to if the same rule is used?",
+    "choices": [
+      "21",
+      "19",
+      "17",
+      "24"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first pair shows the rule: 11 goes to 9, so each number is decreased by 2. 14 goes to 12, which matches. 21 goes to 19.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 2,
+      "input": 21,
+      "pairs": [
+        [
+          11,
+          9
+        ],
+        [
+          14,
+          12
+        ],
+        [
+          17,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-322",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "12 goes to 9, 15 goes to 12, 18 goes to 15. What does 20 go to if the same rule is used?",
+    "choices": [
+      "24",
+      "14",
+      "20",
+      "17"
+    ],
+    "answerIndex": 3,
+    "explanation": "The first pair shows the rule: 12 goes to 9, so each number is decreased by 3. 15 goes to 12, which matches. 20 goes to 17.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 3,
+      "input": 20,
+      "pairs": [
+        [
+          12,
+          9
+        ],
+        [
+          15,
+          12
+        ],
+        [
+          18,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-323",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "11 goes to 8, 14 goes to 11, 17 goes to 14. What does 21 go to if the same rule is used?",
+    "choices": [
+      "15",
+      "21",
+      "18",
+      "25"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 11 goes to 8, so each number is decreased by 3. 14 goes to 11, which matches. 21 goes to 18.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 3,
+      "input": 21,
+      "pairs": [
+        [
+          11,
+          8
+        ],
+        [
+          14,
+          11
+        ],
+        [
+          17,
+          14
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-324",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "12 goes to 8, 15 goes to 11, 18 goes to 14. What does 20 go to if the same rule is used?",
+    "choices": [
+      "25",
+      "16",
+      "12",
+      "20"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first pair shows the rule: 12 goes to 8, so each number is decreased by 4. 15 goes to 11, which matches. 20 goes to 16.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 4,
+      "input": 20,
+      "pairs": [
+        [
+          12,
+          8
+        ],
+        [
+          15,
+          11
+        ],
+        [
+          18,
+          14
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-325",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "11 goes to 7, 14 goes to 10, 17 goes to 13. What does 21 go to if the same rule is used?",
+    "choices": [
+      "17",
+      "13",
+      "26",
+      "21"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first pair shows the rule: 11 goes to 7, so each number is decreased by 4. 14 goes to 10, which matches. 21 goes to 17.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 4,
+      "input": 21,
+      "pairs": [
+        [
+          11,
+          7
+        ],
+        [
+          14,
+          10
+        ],
+        [
+          17,
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-326",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "12 goes to 7, 15 goes to 10, 18 goes to 13. What does 20 go to if the same rule is used?",
+    "choices": [
+      "20",
+      "15",
+      "26",
+      "10"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first pair shows the rule: 12 goes to 7, so each number is decreased by 5. 15 goes to 10, which matches. 20 goes to 15.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 5,
+      "input": 20,
+      "pairs": [
+        [
+          12,
+          7
+        ],
+        [
+          15,
+          10
+        ],
+        [
+          18,
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-327",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "11 goes to 6, 14 goes to 9, 17 goes to 12. What does 21 go to if the same rule is used?",
+    "choices": [
+      "16",
+      "27",
+      "11",
+      "21"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first pair shows the rule: 11 goes to 6, so each number is decreased by 5. 14 goes to 9, which matches. 21 goes to 16.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 5,
+      "input": 21,
+      "pairs": [
+        [
+          11,
+          6
+        ],
+        [
+          14,
+          9
+        ],
+        [
+          17,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-328",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "12 goes to 6, 15 goes to 9, 18 goes to 12. What does 20 go to if the same rule is used?",
+    "choices": [
+      "14",
+      "8",
+      "20",
+      "27"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first pair shows the rule: 12 goes to 6, so each number is decreased by 6. 15 goes to 9, which matches. 20 goes to 14.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 6,
+      "input": 20,
+      "pairs": [
+        [
+          12,
+          6
+        ],
+        [
+          15,
+          9
+        ],
+        [
+          18,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-329",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "11 goes to 5, 14 goes to 8, 17 goes to 11. What does 21 go to if the same rule is used?",
+    "choices": [
+      "9",
+      "28",
+      "15",
+      "21"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 11 goes to 5, so each number is decreased by 6. 14 goes to 8, which matches. 21 goes to 15.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 6,
+      "input": 21,
+      "pairs": [
+        [
+          11,
+          5
+        ],
+        [
+          14,
+          8
+        ],
+        [
+          17,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-330",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "12 goes to 5, 15 goes to 8, 18 goes to 11. What does 20 go to if the same rule is used?",
+    "choices": [
+      "6",
+      "20",
+      "13",
+      "28"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 12 goes to 5, so each number is decreased by 7. 15 goes to 8, which matches. 20 goes to 13.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 7,
+      "input": 20,
+      "pairs": [
+        [
+          12,
+          5
+        ],
+        [
+          15,
+          8
+        ],
+        [
+          18,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-331",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "11 goes to 4, 14 goes to 7, 17 goes to 10. What does 21 go to if the same rule is used?",
+    "choices": [
+      "29",
+      "21",
+      "7",
+      "14"
+    ],
+    "answerIndex": 3,
+    "explanation": "The first pair shows the rule: 11 goes to 4, so each number is decreased by 7. 14 goes to 7, which matches. 21 goes to 14.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 7,
+      "input": 21,
+      "pairs": [
+        [
+          11,
+          4
+        ],
+        [
+          14,
+          7
+        ],
+        [
+          17,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-332",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "12 goes to 4, 15 goes to 7, 18 goes to 10. What does 20 go to if the same rule is used?",
+    "choices": [
+      "29",
+      "20",
+      "12",
+      "4"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 12 goes to 4, so each number is decreased by 8. 15 goes to 7, which matches. 20 goes to 12.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 8,
+      "input": 20,
+      "pairs": [
+        [
+          12,
+          4
+        ],
+        [
+          15,
+          7
+        ],
+        [
+          18,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-333",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "11 goes to 3, 14 goes to 6, 17 goes to 9. What does 21 go to if the same rule is used?",
+    "choices": [
+      "30",
+      "21",
+      "13",
+      "5"
+    ],
+    "answerIndex": 2,
+    "explanation": "The first pair shows the rule: 11 goes to 3, so each number is decreased by 8. 14 goes to 6, which matches. 21 goes to 13.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 8,
+      "input": 21,
+      "pairs": [
+        [
+          11,
+          3
+        ],
+        [
+          14,
+          6
+        ],
+        [
+          17,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-334",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "12 goes to 3, 15 goes to 6, 18 goes to 9. What does 20 go to if the same rule is used?",
+    "choices": [
+      "11",
+      "2",
+      "20",
+      "30"
+    ],
+    "answerIndex": 0,
+    "explanation": "The first pair shows the rule: 12 goes to 3, so each number is decreased by 9. 15 goes to 6, which matches. 20 goes to 11.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 9,
+      "input": 20,
+      "pairs": [
+        [
+          12,
+          3
+        ],
+        [
+          15,
+          6
+        ],
+        [
+          18,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": "g3-na-335",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "11 goes to 2, 14 goes to 5, 17 goes to 8. What does 21 go to if the same rule is used?",
+    "choices": [
+      "3",
+      "12",
+      "31",
+      "21"
+    ],
+    "answerIndex": 1,
+    "explanation": "The first pair shows the rule: 11 goes to 2, so each number is decreased by 9. 14 goes to 5, which matches. 21 goes to 12.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 9,
+      "input": 21,
+      "pairs": [
+        [
+          11,
+          2
+        ],
+        [
+          14,
+          5
+        ],
+        [
+          17,
+          8
+        ]
+      ]
+    }
+  }
+]

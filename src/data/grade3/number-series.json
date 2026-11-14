@@ -1,0 +1,2290 @@
+[
+  {
+    "id": "g3-ns-145",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 2, 4, 6, 8, 10, ____",
+    "choices": [
+      "13",
+      "10",
+      "12",
+      "14"
+    ],
+    "answerIndex": 2,
+    "explanation": "Each number is 2 more than the one before it. 10 + 2 = 12. The next number is 12.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-146",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 2, 5, 8, 11, 14, ____",
+    "choices": [
+      "20",
+      "17",
+      "14",
+      "18"
+    ],
+    "answerIndex": 1,
+    "explanation": "Each number is 3 more than the one before it. 14 + 3 = 17. The next number is 17.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        2,
+        5,
+        8,
+        11,
+        14
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-147",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 2, 6, 10, 14, 18, ____",
+    "choices": [
+      "22",
+      "23",
+      "18",
+      "26"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each number is 4 more than the one before it. 18 + 4 = 22. The next number is 22.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        2,
+        6,
+        10,
+        14,
+        18
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-148",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 2, 7, 12, 17, 22, ____",
+    "choices": [
+      "32",
+      "22",
+      "27",
+      "28"
+    ],
+    "answerIndex": 2,
+    "explanation": "Each number is 5 more than the one before it. 22 + 5 = 27. The next number is 27.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        2,
+        7,
+        12,
+        17,
+        22
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-149",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 2, 12, 22, 32, 42, ____",
+    "choices": [
+      "53",
+      "62",
+      "52",
+      "42"
+    ],
+    "answerIndex": 2,
+    "explanation": "Each number is 10 more than the one before it. 42 + 10 = 52. The next number is 52.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        2,
+        12,
+        22,
+        32,
+        42
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-150",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 5, 7, 9, 11, 13, ____",
+    "choices": [
+      "16",
+      "13",
+      "15",
+      "17"
+    ],
+    "answerIndex": 2,
+    "explanation": "Each number is 2 more than the one before it. 13 + 2 = 15. The next number is 15.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        5,
+        7,
+        9,
+        11,
+        13
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-151",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 5, 8, 11, 14, 17, ____",
+    "choices": [
+      "20",
+      "17",
+      "21",
+      "23"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each number is 3 more than the one before it. 17 + 3 = 20. The next number is 20.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        5,
+        8,
+        11,
+        14,
+        17
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-152",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 5, 9, 13, 17, 21, ____",
+    "choices": [
+      "29",
+      "21",
+      "26",
+      "25"
+    ],
+    "answerIndex": 3,
+    "explanation": "Each number is 4 more than the one before it. 21 + 4 = 25. The next number is 25.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        5,
+        9,
+        13,
+        17,
+        21
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-153",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 5, 10, 15, 20, 25, ____",
+    "choices": [
+      "31",
+      "30",
+      "35",
+      "25"
+    ],
+    "answerIndex": 1,
+    "explanation": "Each number is 5 more than the one before it. 25 + 5 = 30. The next number is 30.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        5,
+        10,
+        15,
+        20,
+        25
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-154",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 5, 15, 25, 35, 45, ____",
+    "choices": [
+      "55",
+      "56",
+      "65",
+      "45"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each number is 10 more than the one before it. 45 + 10 = 55. The next number is 55.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        5,
+        15,
+        25,
+        35,
+        45
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-155",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 8, 10, 12, 14, 16, ____",
+    "choices": [
+      "20",
+      "16",
+      "18",
+      "19"
+    ],
+    "answerIndex": 2,
+    "explanation": "Each number is 2 more than the one before it. 16 + 2 = 18. The next number is 18.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        8,
+        10,
+        12,
+        14,
+        16
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-156",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 8, 11, 14, 17, 20, ____",
+    "choices": [
+      "23",
+      "26",
+      "24",
+      "20"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each number is 3 more than the one before it. 20 + 3 = 23. The next number is 23.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        8,
+        11,
+        14,
+        17,
+        20
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-157",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 8, 12, 16, 20, 24, ____",
+    "choices": [
+      "29",
+      "24",
+      "32",
+      "28"
+    ],
+    "answerIndex": 3,
+    "explanation": "Each number is 4 more than the one before it. 24 + 4 = 28. The next number is 28.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        8,
+        12,
+        16,
+        20,
+        24
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-158",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 8, 13, 18, 23, 28, ____",
+    "choices": [
+      "28",
+      "38",
+      "33",
+      "34"
+    ],
+    "answerIndex": 2,
+    "explanation": "Each number is 5 more than the one before it. 28 + 5 = 33. The next number is 33.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        8,
+        13,
+        18,
+        23,
+        28
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-159",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 8, 18, 28, 38, 48, ____",
+    "choices": [
+      "68",
+      "48",
+      "58",
+      "59"
+    ],
+    "answerIndex": 2,
+    "explanation": "Each number is 10 more than the one before it. 48 + 10 = 58. The next number is 58.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        8,
+        18,
+        28,
+        38,
+        48
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-160",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 11, 13, 15, 17, 19, ____",
+    "choices": [
+      "19",
+      "21",
+      "22",
+      "23"
+    ],
+    "answerIndex": 1,
+    "explanation": "Each number is 2 more than the one before it. 19 + 2 = 21. The next number is 21.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        11,
+        13,
+        15,
+        17,
+        19
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-161",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 11, 14, 17, 20, 23, ____",
+    "choices": [
+      "29",
+      "27",
+      "26",
+      "23"
+    ],
+    "answerIndex": 2,
+    "explanation": "Each number is 3 more than the one before it. 23 + 3 = 26. The next number is 26.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        11,
+        14,
+        17,
+        20,
+        23
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-162",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 11, 15, 19, 23, 27, ____",
+    "choices": [
+      "31",
+      "32",
+      "27",
+      "35"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each number is 4 more than the one before it. 27 + 4 = 31. The next number is 31.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        11,
+        15,
+        19,
+        23,
+        27
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-163",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 40, 38, 36, 34, 32, ____",
+    "choices": [
+      "28",
+      "31",
+      "30",
+      "32"
+    ],
+    "answerIndex": 2,
+    "explanation": "Each number is 2 less than the one before it. 32 - 2 = 30. The next number is 30.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "sub",
+      "terms": [
+        40,
+        38,
+        36,
+        34,
+        32
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-164",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 40, 37, 34, 31, 28, ____",
+    "choices": [
+      "22",
+      "26",
+      "25",
+      "28"
+    ],
+    "answerIndex": 2,
+    "explanation": "Each number is 3 less than the one before it. 28 - 3 = 25. The next number is 25.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "sub",
+      "terms": [
+        40,
+        37,
+        34,
+        31,
+        28
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-165",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 40, 36, 32, 28, 24, ____",
+    "choices": [
+      "21",
+      "20",
+      "24",
+      "16"
+    ],
+    "answerIndex": 1,
+    "explanation": "Each number is 4 less than the one before it. 24 - 4 = 20. The next number is 20.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "sub",
+      "terms": [
+        40,
+        36,
+        32,
+        28,
+        24
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-166",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 40, 35, 30, 25, 20, ____",
+    "choices": [
+      "15",
+      "16",
+      "10",
+      "20"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each number is 5 less than the one before it. 20 - 5 = 15. The next number is 15.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "sub",
+      "terms": [
+        40,
+        35,
+        30,
+        25,
+        20
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-167",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 47, 45, 43, 41, 39, ____",
+    "choices": [
+      "37",
+      "35",
+      "38",
+      "39"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each number is 2 less than the one before it. 39 - 2 = 37. The next number is 37.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "sub",
+      "terms": [
+        47,
+        45,
+        43,
+        41,
+        39
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-168",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 47, 44, 41, 38, 35, ____",
+    "choices": [
+      "29",
+      "32",
+      "35",
+      "33"
+    ],
+    "answerIndex": 1,
+    "explanation": "Each number is 3 less than the one before it. 35 - 3 = 32. The next number is 32.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "sub",
+      "terms": [
+        47,
+        44,
+        41,
+        38,
+        35
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-169",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 47, 43, 39, 35, 31, ____",
+    "choices": [
+      "31",
+      "28",
+      "23",
+      "27"
+    ],
+    "answerIndex": 3,
+    "explanation": "Each number is 4 less than the one before it. 31 - 4 = 27. The next number is 27.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "sub",
+      "terms": [
+        47,
+        43,
+        39,
+        35,
+        31
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-170",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 47, 42, 37, 32, 27, ____",
+    "choices": [
+      "17",
+      "22",
+      "23",
+      "27"
+    ],
+    "answerIndex": 1,
+    "explanation": "Each number is 5 less than the one before it. 27 - 5 = 22. The next number is 22.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "sub",
+      "terms": [
+        47,
+        42,
+        37,
+        32,
+        27
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-171",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 54, 52, 50, 48, 46, ____",
+    "choices": [
+      "42",
+      "46",
+      "45",
+      "44"
+    ],
+    "answerIndex": 3,
+    "explanation": "Each number is 2 less than the one before it. 46 - 2 = 44. The next number is 44.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "sub",
+      "terms": [
+        54,
+        52,
+        50,
+        48,
+        46
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-172",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 54, 51, 48, 45, 42, ____",
+    "choices": [
+      "36",
+      "39",
+      "42",
+      "40"
+    ],
+    "answerIndex": 1,
+    "explanation": "Each number is 3 less than the one before it. 42 - 3 = 39. The next number is 39.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "sub",
+      "terms": [
+        54,
+        51,
+        48,
+        45,
+        42
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-173",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 54, 50, 46, 42, 38, ____",
+    "choices": [
+      "38",
+      "30",
+      "35",
+      "34"
+    ],
+    "answerIndex": 3,
+    "explanation": "Each number is 4 less than the one before it. 38 - 4 = 34. The next number is 34.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "sub",
+      "terms": [
+        54,
+        50,
+        46,
+        42,
+        38
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-174",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 54, 49, 44, 39, 34, ____",
+    "choices": [
+      "24",
+      "30",
+      "34",
+      "29"
+    ],
+    "answerIndex": 3,
+    "explanation": "Each number is 5 less than the one before it. 34 - 5 = 29. The next number is 29.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "sub",
+      "terms": [
+        54,
+        49,
+        44,
+        39,
+        34
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-175",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 2, 4, 8, 16, ____",
+    "choices": [
+      "33",
+      "32",
+      "34",
+      "30"
+    ],
+    "answerIndex": 1,
+    "explanation": "Each number is multiplied by 2. 16 × 2 = 32. The next number is 32.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "mul",
+      "terms": [
+        2,
+        4,
+        8,
+        16
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-176",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 3, 6, 12, 24, ____",
+    "choices": [
+      "45",
+      "48",
+      "51",
+      "49"
+    ],
+    "answerIndex": 1,
+    "explanation": "Each number is multiplied by 2. 24 × 2 = 48. The next number is 48.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "mul",
+      "terms": [
+        3,
+        6,
+        12,
+        24
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-177",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 4, 8, 16, 32, ____",
+    "choices": [
+      "64",
+      "68",
+      "60",
+      "65"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each number is multiplied by 2. 32 × 2 = 64. The next number is 64.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "mul",
+      "terms": [
+        4,
+        8,
+        16,
+        32
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-178",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 5, 10, 20, 40, ____",
+    "choices": [
+      "81",
+      "75",
+      "85",
+      "80"
+    ],
+    "answerIndex": 3,
+    "explanation": "Each number is multiplied by 2. 40 × 2 = 80. The next number is 80.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "mul",
+      "terms": [
+        5,
+        10,
+        20,
+        40
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-179",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 6, 12, 24, 48, ____",
+    "choices": [
+      "97",
+      "90",
+      "102",
+      "96"
+    ],
+    "answerIndex": 3,
+    "explanation": "Each number is multiplied by 2. 48 × 2 = 96. The next number is 96.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "mul",
+      "terms": [
+        6,
+        12,
+        24,
+        48
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-180",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 2, 6, 18, 54, ____",
+    "choices": [
+      "158",
+      "162",
+      "163",
+      "166"
+    ],
+    "answerIndex": 1,
+    "explanation": "Each number is multiplied by 3. 54 × 3 = 162. The next number is 162.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "mul",
+      "terms": [
+        2,
+        6,
+        18,
+        54
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-181",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 3, 9, 27, 81, ____",
+    "choices": [
+      "249",
+      "243",
+      "244",
+      "237"
+    ],
+    "answerIndex": 1,
+    "explanation": "Each number is multiplied by 3. 81 × 3 = 243. The next number is 243.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "mul",
+      "terms": [
+        3,
+        9,
+        27,
+        81
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-182",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 4, 12, 36, 108, ____",
+    "choices": [
+      "316",
+      "325",
+      "332",
+      "324"
+    ],
+    "answerIndex": 3,
+    "explanation": "Each number is multiplied by 3. 108 × 3 = 324. The next number is 324.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "mul",
+      "terms": [
+        4,
+        12,
+        36,
+        108
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-183",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 1, 3, 6, 10, 15, ____",
+    "choices": [
+      "21",
+      "22",
+      "19",
+      "23"
+    ],
+    "answerIndex": 0,
+    "explanation": "The jumps grow by 1 each time: 2, 3, 4, 5. The next jump is 6. 15 + 6 = 21.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        1,
+        3,
+        6,
+        10,
+        15
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-184",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 1, 4, 8, 13, 19, ____",
+    "choices": [
+      "29",
+      "27",
+      "26",
+      "23"
+    ],
+    "answerIndex": 2,
+    "explanation": "The jumps grow by 1 each time: 3, 4, 5, 6. The next jump is 7. 19 + 7 = 26.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        1,
+        4,
+        8,
+        13,
+        19
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-185",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 1, 5, 10, 16, 23, ____",
+    "choices": [
+      "27",
+      "32",
+      "35",
+      "31"
+    ],
+    "answerIndex": 3,
+    "explanation": "The jumps grow by 1 each time: 4, 5, 6, 7. The next jump is 8. 23 + 8 = 31.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        1,
+        5,
+        10,
+        16,
+        23
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-186",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 3, 5, 8, 12, 17, ____",
+    "choices": [
+      "24",
+      "23",
+      "21",
+      "25"
+    ],
+    "answerIndex": 1,
+    "explanation": "The jumps grow by 1 each time: 2, 3, 4, 5. The next jump is 6. 17 + 6 = 23.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        3,
+        5,
+        8,
+        12,
+        17
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-187",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 3, 6, 10, 15, 21, ____",
+    "choices": [
+      "29",
+      "28",
+      "31",
+      "25"
+    ],
+    "answerIndex": 1,
+    "explanation": "The jumps grow by 1 each time: 3, 4, 5, 6. The next jump is 7. 21 + 7 = 28.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        3,
+        6,
+        10,
+        15,
+        21
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-188",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 3, 7, 12, 18, 25, ____",
+    "choices": [
+      "34",
+      "33",
+      "37",
+      "29"
+    ],
+    "answerIndex": 1,
+    "explanation": "The jumps grow by 1 each time: 4, 5, 6, 7. The next jump is 8. 25 + 8 = 33.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        3,
+        7,
+        12,
+        18,
+        25
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-189",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 5, 7, 10, 14, 19, ____",
+    "choices": [
+      "27",
+      "25",
+      "23",
+      "26"
+    ],
+    "answerIndex": 1,
+    "explanation": "The jumps grow by 1 each time: 2, 3, 4, 5. The next jump is 6. 19 + 6 = 25.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        5,
+        7,
+        10,
+        14,
+        19
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-190",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 5, 8, 12, 17, 23, ____",
+    "choices": [
+      "27",
+      "31",
+      "30",
+      "33"
+    ],
+    "answerIndex": 2,
+    "explanation": "The jumps grow by 1 each time: 3, 4, 5, 6. The next jump is 7. 23 + 7 = 30.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        5,
+        8,
+        12,
+        17,
+        23
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-191",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 5, 9, 14, 20, 27, ____",
+    "choices": [
+      "35",
+      "39",
+      "31",
+      "36"
+    ],
+    "answerIndex": 0,
+    "explanation": "The jumps grow by 1 each time: 4, 5, 6, 7. The next jump is 8. 27 + 8 = 35.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        5,
+        9,
+        14,
+        20,
+        27
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-192",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 7, 9, 12, 16, 21, ____",
+    "choices": [
+      "25",
+      "27",
+      "29",
+      "28"
+    ],
+    "answerIndex": 1,
+    "explanation": "The jumps grow by 1 each time: 2, 3, 4, 5. The next jump is 6. 21 + 6 = 27.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        7,
+        9,
+        12,
+        16,
+        21
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-193",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 7, 10, 14, 19, 25, ____",
+    "choices": [
+      "29",
+      "32",
+      "33",
+      "35"
+    ],
+    "answerIndex": 1,
+    "explanation": "The jumps grow by 1 each time: 3, 4, 5, 6. The next jump is 7. 25 + 7 = 32.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        7,
+        10,
+        14,
+        19,
+        25
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-194",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 7, 11, 16, 22, 29, ____",
+    "choices": [
+      "37",
+      "38",
+      "41",
+      "33"
+    ],
+    "answerIndex": 0,
+    "explanation": "The jumps grow by 1 each time: 4, 5, 6, 7. The next jump is 8. 29 + 8 = 37.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        7,
+        11,
+        16,
+        22,
+        29
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-195",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 9, 11, 14, 18, 23, ____",
+    "choices": [
+      "31",
+      "29",
+      "30",
+      "27"
+    ],
+    "answerIndex": 1,
+    "explanation": "The jumps grow by 1 each time: 2, 3, 4, 5. The next jump is 6. 23 + 6 = 29.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        9,
+        11,
+        14,
+        18,
+        23
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-196",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 9, 12, 16, 21, 27, ____",
+    "choices": [
+      "35",
+      "31",
+      "34",
+      "37"
+    ],
+    "answerIndex": 2,
+    "explanation": "The jumps grow by 1 each time: 3, 4, 5, 6. The next jump is 7. 27 + 7 = 34.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        9,
+        12,
+        16,
+        21,
+        27
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-197",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 9, 13, 18, 24, 31, ____",
+    "choices": [
+      "35",
+      "40",
+      "39",
+      "43"
+    ],
+    "answerIndex": 2,
+    "explanation": "The jumps grow by 1 each time: 4, 5, 6, 7. The next jump is 8. 31 + 8 = 39.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        9,
+        13,
+        18,
+        24,
+        31
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-198",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 11, 13, 16, 20, 25, ____",
+    "choices": [
+      "32",
+      "33",
+      "31",
+      "29"
+    ],
+    "answerIndex": 2,
+    "explanation": "The jumps grow by 1 each time: 2, 3, 4, 5. The next jump is 6. 25 + 6 = 31.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        11,
+        13,
+        16,
+        20,
+        25
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-199",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 11, 14, 18, 23, 29, ____",
+    "choices": [
+      "33",
+      "36",
+      "37",
+      "39"
+    ],
+    "answerIndex": 1,
+    "explanation": "The jumps grow by 1 each time: 3, 4, 5, 6. The next jump is 7. 29 + 7 = 36.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        11,
+        14,
+        18,
+        23,
+        29
+      ]
+    }
+  },
+  {
+    "id": "g3-ns-200",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 11, 15, 20, 26, 33, ____",
+    "choices": [
+      "37",
+      "41",
+      "45",
+      "42"
+    ],
+    "answerIndex": 1,
+    "explanation": "The jumps grow by 1 each time: 4, 5, 6, 7. The next jump is 8. 33 + 8 = 41.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        11,
+        15,
+        20,
+        26,
+        33
+      ]
+    }
+  }
+]

@@ -1,0 +1,737 @@
+[
+  {
+    "id": "g3-ev-942",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"The Library Plant\", Which sentence shows that Maya gave the plant water?",
+    "passageTitle": "The Library Plant",
+    "passage": "Maya watered the library plant every Tuesday. One week the leaves drooped, and the soil felt dry and hard. Maya checked the chart on the pot. It said, \"Water when the soil is dry.\" She filled a cup, poured slowly, and waited. By Friday the leaves looked perkier, and the librarian left a note that said, \"Thank you for noticing.\"",
+    "choices": [
+      "The librarian watered the plant on Monday.",
+      "Maya carried the plant to the playground.",
+      "She filled a cup, poured slowly, and waited.",
+      "Maya poured juice into the soil."
+    ],
+    "answerIndex": 2,
+    "explanation": "The sentence says she filled a cup and poured. That is the moment she watered the plant. The answer is \"She filled a cup, poured slowly, and waited\".",
+    "skill": "RL.3.1",
+    "skillLabel": "Evidence in stories",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-946",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"Peaches at the Market\", Which sentence shows that Luis saved the peaches instead of snacking?",
+    "passageTitle": "Peaches at the Market",
+    "passage": "Luis held the grocery list while his uncle pushed the cart. At the fruit stand, a sign said three peaches for two dollars. Luis counted six peaches into a bag and checked the list again. His uncle smiled and said they had enough for cobbler. On the way home, the bag bumped Luis’s knee and smelled sweet. He did not eat even one, because the peaches were for sharing.",
+    "choices": [
+      "The sign said the peaches were for display only.",
+      "Uncle hid the bag under the cart.",
+      "He did not eat even one, because the peaches were for sharing.",
+      "Luis ate two peaches before they left the stand."
+    ],
+    "answerIndex": 2,
+    "explanation": "The sentence says he did not eat even one because the peaches were for sharing. The answer is \"He did not eat even one, because the peaches were for sharing\".",
+    "skill": "RL.3.1",
+    "skillLabel": "Evidence in stories",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-950",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"The Paper Bridge\", Which sentence shows that the first design did not work?",
+    "passageTitle": "The Paper Bridge",
+    "passage": "Priya wanted her paper bridge to hold ten pennies. Her first bridge folded in the middle and dropped every coin. She looked at the classroom poster of a real bridge. The poster showed triangles under the road. Priya folded new supports into triangles and tried again. This time the pennies stayed on top, and Priya wrote \"triangles\" in her notebook.",
+    "choices": [
+      "Priya’s notebook was stronger than the paper.",
+      "Her first bridge folded in the middle and dropped every coin.",
+      "The poster fell off the wall.",
+      "The first bridge held twenty pennies."
+    ],
+    "answerIndex": 1,
+    "explanation": "That sentence says the first bridge folded and dropped every coin, so the design failed. The answer is \"Her first bridge folded in the middle and dropped every coin\".",
+    "skill": "RL.3.1",
+    "skillLabel": "Evidence in stories",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-954",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"Rain Plan\", Which sentence shows what the students moved out of the rain?",
+    "passageTitle": "Rain Plan",
+    "passage": "The class picnic was planned for the grassy field. At lunchtime, clouds piled up and the first drops hit the tables. Coach Ruiz pointed to the gym doors. Students carried blankets, oranges, and the speaker inside. They spread the blankets on the gym floor and started the music. Aisha said the picnic had changed shape, but it was still a picnic.",
+    "choices": [
+      "Aisha hid the speaker under a tree.",
+      "Students left the blankets on the grassy field.",
+      "Coach Ruiz carried the tables to the bus.",
+      "Students carried blankets, oranges, and the speaker inside."
+    ],
+    "answerIndex": 3,
+    "explanation": "The sentence lists the blankets, oranges, and speaker that students carried inside. The answer is \"Students carried blankets, oranges, and the speaker inside\".",
+    "skill": "RL.3.1",
+    "skillLabel": "Evidence in stories",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-958",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"Hamster Duty\", Which sentence shows that Noah remembered the water just in time?",
+    "passageTitle": "Hamster Duty",
+    "passage": "Room 12’s hamster, Nib, needed fresh water every morning. Noah’s name was on Thursday’s chart, but he almost forgot. At the door he turned around and filled the bottle at the sink. Nib stood up and drank right away. Noah checked the food cup too and found it half full. He washed his hands and slid the chart clip to Friday.",
+    "choices": [
+      "At the door he turned around and filled the bottle at the sink.",
+      "Noah left without looking at the cage.",
+      "Nib filled the bottle without help.",
+      "The chart said the hamster needed no water."
+    ],
+    "answerIndex": 0,
+    "explanation": "He was at the door, turned around, and filled the bottle. That shows he remembered before leaving. The answer is \"At the door he turned around and filled the bottle at the sink\".",
+    "skill": "RL.3.1",
+    "skillLabel": "Evidence in stories",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-962",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"The Quiet Birdwatcher\", Which sentence explains why Hana needed to be quiet?",
+    "passageTitle": "The Quiet Birdwatcher",
+    "passage": "On Saturday, Hana and her grandma walked to the pond with a notebook. Grandma whispered that sudden noises send birds away. Hana froze when a heron stepped into the shallow water. She sketched the long beak before the bird lifted off. On the walk home they counted four kinds of birds in the notebook. Hana said the quiet had been a tool, not just a rule.",
+    "choices": [
+      "The notebook pages were too noisy to turn.",
+      "Grandma whispered that sudden noises send birds away.",
+      "Grandma said loud songs bring herons closer.",
+      "Hana shouted so the bird would pose."
+    ],
+    "answerIndex": 1,
+    "explanation": "Grandma’s sentence gives the reason: sudden noises send birds away. The answer is \"Grandma whispered that sudden noises send birds away\".",
+    "skill": "RL.3.1",
+    "skillLabel": "Evidence in stories",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-966",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"New Laces\", Which sentence shows that Evan’s practice worked?",
+    "passageTitle": "New Laces",
+    "passage": "Evan’s new sneakers had long bright laces. On Monday the bows came undone three times before lunch. His friend Lila showed him the bunny-ear steps again. Evan practiced on a chair leg during indoor recess. By Wednesday the bows stayed tied through soccer. He thanked Lila and taught the steps to his little cousin.",
+    "choices": [
+      "Lila tied the shoes during the game.",
+      "By Wednesday the bows stayed tied through soccer.",
+      "On Wednesday the bows failed during soccer.",
+      "The chair leg broke before recess ended."
+    ],
+    "answerIndex": 1,
+    "explanation": "If the bows stayed tied through soccer, the practice had worked. The answer is \"By Wednesday the bows stayed tied through soccer\".",
+    "skill": "RL.3.1",
+    "skillLabel": "Evidence in stories",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-970",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"Fort Map\", Which sentence tells what the blue square meant on the map?",
+    "passageTitle": "Fort Map",
+    "passage": "Ruby and Andre built a blanket fort between two chairs. They made a map so their little brother could find the reading nook. A blue square stood for the pillow door. A red line showed the tunnel to the flashlight shelf. When the fort sagged, they added a third chair and fixed the map. Their brother followed the colors and crawled in with a book.",
+    "choices": [
+      "A blue square stood for the pillow door.",
+      "A blue square stood for the kitchen sink.",
+      "The red line was the pillow door.",
+      "Their brother drew a blue square on the book."
+    ],
+    "answerIndex": 0,
+    "explanation": "The sentence says the blue square stood for the pillow door. The answer is \"A blue square stood for the pillow door\".",
+    "skill": "RL.3.1",
+    "skillLabel": "Evidence in stories",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-974",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"A Letter to Cousin Imani\", Which sentence shows that Imani wrote back?",
+    "passageTitle": "A Letter to Cousin Imani",
+    "passage": "Kai wrote a letter instead of sending a short message. He told Imani about the class play and the cardboard castle. He asked what her new school served for lunch. Mom helped him address the envelope and add a stamp. At the mailbox he paused, then let the letter go. Two weeks later a thick reply arrived, full of questions for him.",
+    "choices": [
+      "Kai received a reply before he wrote.",
+      "Imani did not answer the letter.",
+      "Two weeks later a thick reply arrived, full of questions for him.",
+      "The mailbox returned an empty envelope the same day."
+    ],
+    "answerIndex": 2,
+    "explanation": "The sentence says a thick reply arrived and it was full of questions for Kai. The answer is \"Two weeks later a thick reply arrived, full of questions for him\".",
+    "skill": "RL.3.1",
+    "skillLabel": "Evidence in stories",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-978",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"The Patched Kite\", Which sentence shows how they fixed the tear?",
+    "passageTitle": "The Patched Kite",
+    "passage": "The wind was finally right, but Tara’s kite had a tear near the corner. Grandpa brought tissue paper, glue, and a scrap of red ribbon. They matched the patch to the tear and let it dry on the porch. While they waited, Tara retied the tail so it would not spin. At the hill the kite climbed, dipped once, and then stayed high. Tara said the patch looked like a small flag of patience.",
+    "choices": [
+      "Tara glued the ribbon to her shoe.",
+      "They matched the patch to the tear and let it dry on the porch.",
+      "They ignored the tear and flew the kite at once.",
+      "Grandpa cut the corner off the kite."
+    ],
+    "answerIndex": 1,
+    "explanation": "Matching a patch to the tear and letting it dry is the repair. The answer is \"They matched the patch to the tear and let it dry on the porch\".",
+    "skill": "RL.3.1",
+    "skillLabel": "Evidence in stories",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-982",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"Almost Snow\", Which sentence shows that recess moved inside?",
+    "passageTitle": "Almost Snow",
+    "passage": "The forecast had promised snow before recess. Students lined up with hats, but the sky sent cold rain instead. Ms. Ortiz changed the plan and opened the indoor obstacle course. Sofia crawled under the yarn bridge and waited her turn at the hoop. She still checked the window twice, hoping for flakes. At dismissal the rain slowed, and Sofia said, \"Maybe the snow is just late.\"",
+    "choices": [
+      "Ms. Ortiz changed the plan and opened the indoor obstacle course.",
+      "Ms. Ortiz sent the class out into the rain.",
+      "The forecast moved recess to Saturday.",
+      "Sofia opened the obstacle course on the blacktop."
+    ],
+    "answerIndex": 0,
+    "explanation": "The sentence says the teacher changed the plan and opened the indoor course. The answer is \"Ms. Ortiz changed the plan and opened the indoor obstacle course\".",
+    "skill": "RL.3.1",
+    "skillLabel": "Evidence in stories",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-986",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"Choir Tryouts\", Which sentence tells the result of Jonah’s tryout?",
+    "passageTitle": "Choir Tryouts",
+    "passage": "Jonah wanted a solo, but his voice cracked on the high note. He asked the music teacher for one extra practice. They broke the line into three smaller pieces. Jonah hummed each piece until the note felt steady. At tryouts he sang the whole line without stopping. He did not get the solo, but he earned a duet with Mei.",
+    "choices": [
+      "The teacher erased the high note.",
+      "He did not get the solo, but he earned a duet with Mei.",
+      "Jonah got the solo on the first try.",
+      "Mei asked Jonah not to sing."
+    ],
+    "answerIndex": 1,
+    "explanation": "The sentence gives the result: no solo, but a duet with Mei. The answer is \"He did not get the solo, but he earned a duet with Mei\".",
+    "skill": "RL.3.1",
+    "skillLabel": "Evidence in stories",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-990",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"How Honeybees Help\", Which sentence tells how people can help bees?",
+    "passageTitle": "How Honeybees Help",
+    "passage": "Honeybees visit flowers to drink nectar. Pollen sticks to their fuzzy bodies and rides to the next bloom. That move is called pollination, and it lets many plants make seeds. Apples, almonds, and cucumbers all depend on this kind of help. A hive works as a group, with different bees caring for young, guarding the door, or searching for flowers. People can help bees by planting flowers and avoiding sprays that harm them.",
+    "choices": [
+      "Bees should avoid all plants.",
+      "People help bees by removing every flower.",
+      "Sprays are useful food inside a hive.",
+      "People can help bees by planting flowers and avoiding sprays that harm them."
+    ],
+    "answerIndex": 3,
+    "explanation": "The last sentence lists two helpful actions: plant flowers and avoid harmful sprays. The answer is \"People can help bees by planting flowers and avoiding sprays that harm them\".",
+    "skill": "RI.3.1",
+    "skillLabel": "Evidence in informational text",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink classroom resources",
+        "href": "https://www.readwritethink.org/classroom-resources"
+      },
+      {
+        "label": "Common Core RI.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-994",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"Garden Soil\", Which sentence explains why the sandy bed is watered more often?",
+    "passageTitle": "Garden Soil",
+    "passage": "The school garden has three beds of soil. Clay soil feels sticky and holds water for a long time. Sandy soil feels gritty and lets water drain quickly. The middle bed is loam, a mix that many vegetable roots like. Students add dried leaves to the clay bed so it will not pack so hard. They water the sandy bed a little more often because it dries out.",
+    "choices": [
+      "Clay soil lets water drain the fastest.",
+      "They water the sandy bed because it never dries.",
+      "Loam is watered every hour by a machine.",
+      "They water the sandy bed a little more often because it dries out."
+    ],
+    "answerIndex": 3,
+    "explanation": "The sentence gives the reason: the sandy bed dries out. The answer is \"They water the sandy bed a little more often because it dries out\".",
+    "skill": "RI.3.1",
+    "skillLabel": "Evidence in informational text",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink classroom resources",
+        "href": "https://www.readwritethink.org/classroom-resources"
+      },
+      {
+        "label": "Common Core RI.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-998",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"Triangles in Bridges\", Which sentence tells why a triangle is a steady shape?",
+    "passageTitle": "Triangles in Bridges",
+    "passage": "Look under many bridges and you will see triangles. A triangle keeps its shape when it is pushed at the corners. A square frame can lean and turn into a slanted shape unless it is braced. Engineers add a diagonal bar to make two triangles. That is why cranes, roofs, and bike frames use triangles too. The shape is simple, but it is strong for its weight.",
+    "choices": [
+      "A square never changes shape.",
+      "A triangle folds flat as soon as you touch it.",
+      "A triangle keeps its shape when it is pushed at the corners.",
+      "Engineers avoid diagonal bars."
+    ],
+    "answerIndex": 2,
+    "explanation": "That sentence states the reason: a triangle keeps its shape when pushed at the corners. The answer is \"A triangle keeps its shape when it is pushed at the corners\".",
+    "skill": "RI.3.1",
+    "skillLabel": "Evidence in informational text",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink classroom resources",
+        "href": "https://www.readwritethink.org/classroom-resources"
+      },
+      {
+        "label": "Common Core RI.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-1002",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"Saving Water at Home\", Which sentence tells a safe use for collected rain?",
+    "passageTitle": "Saving Water at Home",
+    "passage": "A dripping faucet can waste more than a gallon of water in a day. Turning the tap off while brushing teeth saves even more. A full dishwasher uses less water than washing the same load by hand with the tap running. Short showers help too, and a timer can make the goal clear. Collected rain is not for drinking, but it can water garden plants. Small habits add up because families use water every single day.",
+    "choices": [
+      "Collected rain is not for drinking, but it can water garden plants.",
+      "Collected rain should be used as drinking water.",
+      "Rain cannot water any plants.",
+      "A dripping faucet is the best drinking fountain."
+    ],
+    "answerIndex": 0,
+    "explanation": "The sentence says collected rain is not for drinking, but it can water garden plants. The answer is \"Collected rain is not for drinking, but it can water garden plants\".",
+    "skill": "RI.3.1",
+    "skillLabel": "Evidence in informational text",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink classroom resources",
+        "href": "https://www.readwritethink.org/classroom-resources"
+      },
+      {
+        "label": "Common Core RI.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-1006",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"How a Compass Helps\", Which sentence explains why a compass is not enough by itself?",
+    "passageTitle": "How a Compass Helps",
+    "passage": "A compass needle is a small magnet. It lines up with Earth’s magnetic field and points toward magnetic north. Hikers still need a map, because north alone does not name the trail. To use both tools, find north on the compass and turn the map until its north matches. Then the paths on the map face the same way as the paths on the ground. A compass can be confused by a nearby magnet or a metal post, so users step away and check again.",
+    "choices": [
+      "Hikers should ignore maps once they see the needle.",
+      "A compass names every trail by itself.",
+      "Hikers still need a map, because north alone does not name the trail.",
+      "North always tells the name of the path."
+    ],
+    "answerIndex": 2,
+    "explanation": "The sentence says hikers still need a map because north alone does not name the trail. The answer is \"Hikers still need a map, because north alone does not name the trail\".",
+    "skill": "RI.3.1",
+    "skillLabel": "Evidence in informational text",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink classroom resources",
+        "href": "https://www.readwritethink.org/classroom-resources"
+      },
+      {
+        "label": "Common Core RI.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-1010",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"Animal Homes\", Which sentence shows that not every animal builds its home?",
+    "passageTitle": "Animal Homes",
+    "passage": "Animals build homes that fit their bodies and the weather. A beaver lodge has an underwater door, which keeps many predators out. Termites in hot places build mounds with tunnels that move air. A bird’s nest may be a cup of twigs, or a hole in a cactus, depending on the species. Some animals borrow homes, as hermit crabs do when they move into empty shells. Studying a home can tell you what dangers the animal faces.",
+    "choices": [
+      "Hermit crabs weave nests from fresh twigs.",
+      "Termites borrow bird nests in the desert.",
+      "Every animal builds a lodge with an underwater door.",
+      "Some animals borrow homes, as hermit crabs do when they move into empty shells."
+    ],
+    "answerIndex": 3,
+    "explanation": "The sentence says some animals borrow homes and gives hermit crabs as the example. The answer is \"Some animals borrow homes, as hermit crabs do when they move into empty shells\".",
+    "skill": "RI.3.1",
+    "skillLabel": "Evidence in informational text",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink classroom resources",
+        "href": "https://www.readwritethink.org/classroom-resources"
+      },
+      {
+        "label": "Common Core RI.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-1014",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"From Seed to Tomato\", Which sentence explains how the plant’s leaves get food?",
+    "passageTitle": "From Seed to Tomato",
+    "passage": "A tomato seed holds a tiny plant and a small store of food. When the soil is warm and damp, the seed coat splits. A root grows down, and a shoot grows up toward the light. Leaves open and start making food from sunlight, air, and water. Yellow flowers appear next, and bees may carry pollen from bloom to bloom. After pollination, the flower’s base swells into a green tomato that later turns red.",
+    "choices": [
+      "Leaves open and start making food from sunlight, air, and water.",
+      "Leaves eat the seed coat after it splits.",
+      "The red tomato makes food for the leaves.",
+      "Bees bring sunlight to the leaves."
+    ],
+    "answerIndex": 0,
+    "explanation": "The sentence says leaves make food from sunlight, air, and water. The answer is \"Leaves open and start making food from sunlight, air, and water\".",
+    "skill": "RI.3.1",
+    "skillLabel": "Evidence in informational text",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink classroom resources",
+        "href": "https://www.readwritethink.org/classroom-resources"
+      },
+      {
+        "label": "Common Core RI.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-1018",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"Lunchbox Sorting\", Which sentence tells students what to do first?",
+    "passageTitle": "Lunchbox Sorting",
+    "passage": "A lunchbox can hold more than food. It can also be a sorting lesson. Apple cores and banana peels belong in compost if your school collects it. A clean plastic bottle can go in recycling, but a bottle with leftover milk should be rinsed first. Foil that is crumpled and full of cheese is too dirty to recycle in many towns. Napkins used for spills usually go in the trash or compost, depending on local rules. The best first step is to learn the signs posted in the school cafeteria.",
+    "choices": [
+      "Foil with cheese is always compost.",
+      "Students should put every scrap into recycling.",
+      "The best first step is to ignore the cafeteria signs.",
+      "The best first step is to learn the signs posted in the school cafeteria."
+    ],
+    "answerIndex": 3,
+    "explanation": "The sentence says the best first step is to learn the posted signs. The answer is \"The best first step is to learn the signs posted in the school cafeteria\".",
+    "skill": "RI.3.1",
+    "skillLabel": "Evidence in informational text",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink classroom resources",
+        "href": "https://www.readwritethink.org/classroom-resources"
+      },
+      {
+        "label": "Common Core RI.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  },
+  {
+    "id": "g3-ev-1022",
+    "grade": 3,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"Shadows Through the Day\", Which sentence pair explains why the shadow changes even though the stick stays the same?",
+    "passageTitle": "Shadows Through the Day",
+    "passage": "A shadow forms when an object blocks light. In the morning the sun is low, and a student’s shadow can stretch far across the playground. Near noon the sun is higher, so the same shadow grows short. Clouds do not erase shadows completely, but they make the edges softer. You can test this with a stick, chalk, and three marks made at different times. The stick does not change height. The sun’s position does.",
+    "choices": [
+      "Shadows form only when nothing blocks the light.",
+      "Clouds erase the stick. Chalk blocks the sun.",
+      "The stick does not change height. The sun’s position does.",
+      "The stick grows at noon. The sun stays still."
+    ],
+    "answerIndex": 2,
+    "explanation": "Those two sentences say the stick stays the same height and the sun’s position changes. That is the explanation. The answer is \"The stick does not change height. The sun’s position does\".",
+    "skill": "RI.3.1",
+    "skillLabel": "Evidence in informational text",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink classroom resources",
+        "href": "https://www.readwritethink.org/classroom-resources"
+      },
+      {
+        "label": "Common Core RI.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "evidence"
+    }
+  }
+]

@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "g3-ms-756",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a pencil?",
+    "choices": [
+      "meters",
+      "grams",
+      "centimeters",
+      "kilograms"
+    ],
+    "answerIndex": 2,
+    "explanation": "Think about the size of a pencil. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is centimeters.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "pencil"
+    }
+  },
+  {
+    "id": "g3-ms-757",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a crayon?",
+    "choices": [
+      "centimeters",
+      "meters",
+      "kilograms",
+      "grams"
+    ],
+    "answerIndex": 0,
+    "explanation": "Think about the size of a crayon. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is centimeters.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "crayon"
+    }
+  },
+  {
+    "id": "g3-ms-758",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a eraser?",
+    "choices": [
+      "meters",
+      "kilograms",
+      "grams",
+      "centimeters"
+    ],
+    "answerIndex": 3,
+    "explanation": "Think about the size of a eraser. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is centimeters.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "eraser"
+    }
+  },
+  {
+    "id": "g3-ms-759",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a classroom?",
+    "choices": [
+      "centimeters",
+      "kilograms",
+      "grams",
+      "meters"
+    ],
+    "answerIndex": 3,
+    "explanation": "Think about the size of a classroom. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is meters.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "classroom"
+    }
+  },
+  {
+    "id": "g3-ms-760",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a hallway?",
+    "choices": [
+      "meters",
+      "centimeters",
+      "grams",
+      "kilograms"
+    ],
+    "answerIndex": 0,
+    "explanation": "Think about the size of a hallway. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is meters.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "hallway"
+    }
+  },
+  {
+    "id": "g3-ms-761",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a soccer field?",
+    "choices": [
+      "kilograms",
+      "centimeters",
+      "grams",
+      "meters"
+    ],
+    "answerIndex": 3,
+    "explanation": "Think about the size of a soccer field. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is meters.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "soccer field"
+    }
+  },
+  {
+    "id": "g3-ms-762",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a paper clip?",
+    "choices": [
+      "kilograms",
+      "centimeters",
+      "meters",
+      "grams"
+    ],
+    "answerIndex": 3,
+    "explanation": "Think about the size of a paper clip. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is grams.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "paper clip"
+    }
+  },
+  {
+    "id": "g3-ms-763",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a grape?",
+    "choices": [
+      "meters",
+      "kilograms",
+      "centimeters",
+      "grams"
+    ],
+    "answerIndex": 3,
+    "explanation": "Think about the size of a grape. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is grams.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "grape"
+    }
+  },
+  {
+    "id": "g3-ms-764",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a strawberry?",
+    "choices": [
+      "centimeters",
+      "grams",
+      "meters",
+      "kilograms"
+    ],
+    "answerIndex": 1,
+    "explanation": "Think about the size of a strawberry. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is grams.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "strawberry"
+    }
+  },
+  {
+    "id": "g3-ms-765",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a dog?",
+    "choices": [
+      "grams",
+      "centimeters",
+      "meters",
+      "kilograms"
+    ],
+    "answerIndex": 3,
+    "explanation": "Think about the size of a dog. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is kilograms.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "dog"
+    }
+  },
+  {
+    "id": "g3-ms-766",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a cat?",
+    "choices": [
+      "centimeters",
+      "grams",
+      "kilograms",
+      "meters"
+    ],
+    "answerIndex": 2,
+    "explanation": "Think about the size of a cat. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is kilograms.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "cat"
+    }
+  },
+  {
+    "id": "g3-ms-767",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a bicycle?",
+    "choices": [
+      "kilograms",
+      "grams",
+      "centimeters",
+      "meters"
+    ],
+    "answerIndex": 0,
+    "explanation": "Think about the size of a bicycle. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is kilograms.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "bicycle"
+    }
+  },
+  {
+    "id": "g3-ms-768",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a spoon?",
+    "choices": [
+      "milliliters",
+      "meters",
+      "centimeters",
+      "grams"
+    ],
+    "answerIndex": 0,
+    "explanation": "Think about the size of a spoon. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is milliliters.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "spoon"
+    }
+  },
+  {
+    "id": "g3-ms-769",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a medicine cup?",
+    "choices": [
+      "centimeters",
+      "meters",
+      "grams",
+      "milliliters"
+    ],
+    "answerIndex": 3,
+    "explanation": "Think about the size of a medicine cup. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is milliliters.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "medicine cup"
+    }
+  },
+  {
+    "id": "g3-ms-770",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a bathtub?",
+    "choices": [
+      "meters",
+      "grams",
+      "liters",
+      "centimeters"
+    ],
+    "answerIndex": 2,
+    "explanation": "Think about the size of a bathtub. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is liters.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "bathtub"
+    }
+  },
+  {
+    "id": "g3-ms-771",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a bucket?",
+    "choices": [
+      "centimeters",
+      "meters",
+      "grams",
+      "liters"
+    ],
+    "answerIndex": 3,
+    "explanation": "Think about the size of a bucket. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is liters.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "bucket"
+    }
+  },
+  {
+    "id": "g3-ms-772",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Which unit is the best choice for measuring a water bottle?",
+    "choices": [
+      "meters",
+      "grams",
+      "liters",
+      "centimeters"
+    ],
+    "answerIndex": 2,
+    "explanation": "Think about the size of a water bottle. A small length uses centimeters, a room-sized length uses meters, a light object uses grams, a heavier object uses kilograms, a sip uses milliliters, and a large amount of liquid uses liters. The best unit here is liters.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "unit",
+      "object": "water bottle"
+    }
+  },
+  {
+    "id": "g3-ms-773",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Maya cuts a ribbon that is 12 centimeters and another that is 8 centimeters. Placed end to end, how many centimeters long are they?",
+    "choices": [
+      "20",
+      "96",
+      "30",
+      "4"
+    ],
+    "answerIndex": 0,
+    "explanation": "End to end means add the lengths. Add 12 and 8, starting at the ones. Ones: 2 + 8 = 10. Write 0 and carry 1. Tens: 1 + 0 + 1 carried = 2. The sum is 20.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "12+8"
+    }
+  },
+  {
+    "id": "g3-ms-774",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Jordan cuts a ribbon that is 15 centimeters and another that is 10 centimeters. Placed end to end, how many centimeters long are they?",
+    "choices": [
+      "150",
+      "35",
+      "5",
+      "25"
+    ],
+    "answerIndex": 3,
+    "explanation": "End to end means add the lengths. Add 15 and 10, starting at the ones. Ones: 5 + 0 = 5. Tens: 1 + 1 = 2. The sum is 25.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "15+10"
+    }
+  },
+  {
+    "id": "g3-ms-775",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Priya cuts a ribbon that is 18 centimeters and another that is 12 centimeters. Placed end to end, how many centimeters long are they?",
+    "choices": [
+      "40",
+      "6",
+      "30",
+      "216"
+    ],
+    "answerIndex": 2,
+    "explanation": "End to end means add the lengths. Add 18 and 12, starting at the ones. Ones: 8 + 2 = 10. Write 0 and carry 1. Tens: 1 + 1 + 1 carried = 3. The sum is 30.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "18+12"
+    }
+  },
+  {
+    "id": "g3-ms-776",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Luis cuts a ribbon that is 21 centimeters and another that is 14 centimeters. Placed end to end, how many centimeters long are they?",
+    "choices": [
+      "35",
+      "7",
+      "45",
+      "294"
+    ],
+    "answerIndex": 0,
+    "explanation": "End to end means add the lengths. Add 21 and 14, starting at the ones. Ones: 1 + 4 = 5. Tens: 2 + 1 = 3. The sum is 35.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "21+14"
+    }
+  },
+  {
+    "id": "g3-ms-777",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Aisha cuts a ribbon that is 24 centimeters and another that is 16 centimeters. Placed end to end, how many centimeters long are they?",
+    "choices": [
+      "40",
+      "384",
+      "50",
+      "8"
+    ],
+    "answerIndex": 0,
+    "explanation": "End to end means add the lengths. Add 24 and 16, starting at the ones. Ones: 4 + 6 = 10. Write 0 and carry 1. Tens: 2 + 1 + 1 carried = 4. The sum is 40.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "24+16"
+    }
+  },
+  {
+    "id": "g3-ms-778",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Noah cuts a ribbon that is 27 centimeters and another that is 8 centimeters. Placed end to end, how many centimeters long are they?",
+    "choices": [
+      "45",
+      "19",
+      "216",
+      "35"
+    ],
+    "answerIndex": 3,
+    "explanation": "End to end means add the lengths. Add 27 and 8, starting at the ones. Ones: 7 + 8 = 15. Write 5 and carry 1. Tens: 2 + 0 + 1 carried = 3. The sum is 35.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "27+8"
+    }
+  },
+  {
+    "id": "g3-ms-779",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Mei cuts a ribbon that is 30 centimeters and another that is 10 centimeters. Placed end to end, how many centimeters long are they?",
+    "choices": [
+      "20",
+      "300",
+      "40",
+      "50"
+    ],
+    "answerIndex": 2,
+    "explanation": "End to end means add the lengths. Add 30 and 10, starting at the ones. Ones: 0 + 0 = 0. Tens: 3 + 1 = 4. The sum is 40.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "30+10"
+    }
+  },
+  {
+    "id": "g3-ms-780",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Sam cuts a ribbon that is 33 centimeters and another that is 12 centimeters. Placed end to end, how many centimeters long are they?",
+    "choices": [
+      "45",
+      "396",
+      "55",
+      "21"
+    ],
+    "answerIndex": 0,
+    "explanation": "End to end means add the lengths. Add 33 and 12, starting at the ones. Ones: 3 + 2 = 5. Tens: 3 + 1 = 4. The sum is 45.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "33+12"
+    }
+  },
+  {
+    "id": "g3-ms-781",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Elena cuts a ribbon that is 36 centimeters and another that is 14 centimeters. Placed end to end, how many centimeters long are they?",
+    "choices": [
+      "60",
+      "50",
+      "504",
+      "22"
+    ],
+    "answerIndex": 1,
+    "explanation": "End to end means add the lengths. Add 36 and 14, starting at the ones. Ones: 6 + 4 = 10. Write 0 and carry 1. Tens: 3 + 1 + 1 carried = 5. The sum is 50.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "36+14"
+    }
+  },
+  {
+    "id": "g3-ms-782",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Omar cuts a ribbon that is 39 centimeters and another that is 16 centimeters. Placed end to end, how many centimeters long are they?",
+    "choices": [
+      "23",
+      "55",
+      "65",
+      "624"
+    ],
+    "answerIndex": 1,
+    "explanation": "End to end means add the lengths. Add 39 and 16, starting at the ones. Ones: 9 + 6 = 15. Write 5 and carry 1. Tens: 3 + 1 + 1 carried = 5. The sum is 55.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "39+16"
+    }
+  },
+  {
+    "id": "g3-ms-783",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Theo cuts a ribbon that is 42 centimeters and another that is 8 centimeters. Placed end to end, how many centimeters long are they?",
+    "choices": [
+      "336",
+      "60",
+      "34",
+      "50"
+    ],
+    "answerIndex": 3,
+    "explanation": "End to end means add the lengths. Add 42 and 8, starting at the ones. Ones: 2 + 8 = 10. Write 0 and carry 1. Tens: 4 + 0 + 1 carried = 5. The sum is 50.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "42+8"
+    }
+  },
+  {
+    "id": "g3-ms-784",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Hana cuts a ribbon that is 45 centimeters and another that is 10 centimeters. Placed end to end, how many centimeters long are they?",
+    "choices": [
+      "55",
+      "450",
+      "65",
+      "35"
+    ],
+    "answerIndex": 0,
+    "explanation": "End to end means add the lengths. Add 45 and 10, starting at the ones. Ones: 5 + 0 = 5. Tens: 4 + 1 = 5. The sum is 55.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "45+10"
+    }
+  },
+  {
+    "id": "g3-ms-785",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Leo cuts a ribbon that is 48 centimeters and another that is 12 centimeters. Placed end to end, how many centimeters long are they?",
+    "choices": [
+      "60",
+      "576",
+      "36",
+      "70"
+    ],
+    "answerIndex": 0,
+    "explanation": "End to end means add the lengths. Add 48 and 12, starting at the ones. Ones: 8 + 2 = 10. Write 0 and carry 1. Tens: 4 + 1 + 1 carried = 6. The sum is 60.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "48+12"
+    }
+  },
+  {
+    "id": "g3-ms-786",
+    "grade": 3,
+    "section": "iready",
+    "topic": "measurement",
+    "topicLabel": "Measurement",
+    "prompt": "Sofia cuts a ribbon that is 51 centimeters and another that is 14 centimeters. Placed end to end, how many centimeters long are they?",
+    "choices": [
+      "65",
+      "37",
+      "75",
+      "714"
+    ],
+    "answerIndex": 0,
+    "explanation": "End to end means add the lengths. Add 51 and 14, starting at the ones. Ones: 1 + 4 = 5. Tens: 5 + 1 = 6. The sum is 65.",
+    "skill": "3.MD.A.2",
+    "skillLabel": "Liquid volume and mass",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "51+14"
+    }
+  }
+]

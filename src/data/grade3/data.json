@@ -1,0 +1,1435 @@
+[
+  {
+    "id": "g3-dt-915",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Books read in March\", how many books does Priya have?",
+    "figure": {
+      "kind": "bars",
+      "title": "Books read in March",
+      "unit": "books",
+      "rows": [
+        {
+          "label": "Maya",
+          "value": 6
+        },
+        {
+          "label": "Noah",
+          "value": 4
+        },
+        {
+          "label": "Priya",
+          "value": 9
+        },
+        {
+          "label": "Luis",
+          "value": 5
+        }
+      ],
+      "alt": "Bar graph titled Books read in March. Maya: 6 books. Noah: 4 books. Priya: 9 books. Luis: 5 books."
+    },
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "9"
+    ],
+    "answerIndex": 3,
+    "explanation": "Find the row or bar for Priya. Read its value on the scale. Priya has 9 books.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-value",
+      "label": "Priya"
+    }
+  },
+  {
+    "id": "g3-dt-916",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Books read in March\", how many more books does Priya have than Noah?",
+    "figure": {
+      "kind": "bars",
+      "title": "Books read in March",
+      "unit": "books",
+      "rows": [
+        {
+          "label": "Maya",
+          "value": 6
+        },
+        {
+          "label": "Noah",
+          "value": 4
+        },
+        {
+          "label": "Priya",
+          "value": 9
+        },
+        {
+          "label": "Luis",
+          "value": 5
+        }
+      ],
+      "alt": "Bar graph titled Books read in March. Maya: 6 books. Noah: 4 books. Priya: 9 books. Luis: 5 books."
+    },
+    "choices": [
+      "5",
+      "4",
+      "9",
+      "6"
+    ],
+    "answerIndex": 0,
+    "explanation": "Priya has 9 and Noah has 4. Subtract: 9 - 4 = 5.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-diff",
+      "a": "Priya",
+      "b": "Noah"
+    }
+  },
+  {
+    "id": "g3-dt-917",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Books read in March\", how many books do Maya and Noah have together?",
+    "figure": {
+      "kind": "bars",
+      "title": "Books read in March",
+      "unit": "books",
+      "rows": [
+        {
+          "label": "Maya",
+          "value": 6
+        },
+        {
+          "label": "Noah",
+          "value": 4
+        },
+        {
+          "label": "Priya",
+          "value": 9
+        },
+        {
+          "label": "Luis",
+          "value": 5
+        }
+      ],
+      "alt": "Bar graph titled Books read in March. Maya: 6 books. Noah: 4 books. Priya: 9 books. Luis: 5 books."
+    },
+    "choices": [
+      "6",
+      "2",
+      "4",
+      "10"
+    ],
+    "answerIndex": 3,
+    "explanation": "Add the two amounts. Maya has 6 and Noah has 4. 6 + 4 = 10.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-sum",
+      "labels": [
+        "Maya",
+        "Noah"
+      ]
+    }
+  },
+  {
+    "id": "g3-dt-918",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Cans collected\", how many cans does Room 15 have?",
+    "figure": {
+      "kind": "bars",
+      "title": "Cans collected",
+      "unit": "cans",
+      "rows": [
+        {
+          "label": "Room 12",
+          "value": 8
+        },
+        {
+          "label": "Room 14",
+          "value": 5
+        },
+        {
+          "label": "Room 15",
+          "value": 11
+        },
+        {
+          "label": "Room 18",
+          "value": 7
+        }
+      ],
+      "alt": "Bar graph titled Cans collected. Room 12: 8 cans. Room 14: 5 cans. Room 15: 11 cans. Room 18: 7 cans."
+    },
+    "choices": [
+      "8",
+      "7",
+      "5",
+      "11"
+    ],
+    "answerIndex": 3,
+    "explanation": "Find the row or bar for Room 15. Read its value on the scale. Room 15 has 11 cans.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-value",
+      "label": "Room 15"
+    }
+  },
+  {
+    "id": "g3-dt-919",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Cans collected\", how many more cans does Room 15 have than Room 14?",
+    "figure": {
+      "kind": "bars",
+      "title": "Cans collected",
+      "unit": "cans",
+      "rows": [
+        {
+          "label": "Room 12",
+          "value": 8
+        },
+        {
+          "label": "Room 14",
+          "value": 5
+        },
+        {
+          "label": "Room 15",
+          "value": 11
+        },
+        {
+          "label": "Room 18",
+          "value": 7
+        }
+      ],
+      "alt": "Bar graph titled Cans collected. Room 12: 8 cans. Room 14: 5 cans. Room 15: 11 cans. Room 18: 7 cans."
+    },
+    "choices": [
+      "5",
+      "7",
+      "6",
+      "11"
+    ],
+    "answerIndex": 2,
+    "explanation": "Room 15 has 11 and Room 14 has 5. Subtract: 11 - 5 = 6.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-diff",
+      "a": "Room 15",
+      "b": "Room 14"
+    }
+  },
+  {
+    "id": "g3-dt-920",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Cans collected\", how many cans do Room 12 and Room 14 have together?",
+    "figure": {
+      "kind": "bars",
+      "title": "Cans collected",
+      "unit": "cans",
+      "rows": [
+        {
+          "label": "Room 12",
+          "value": 8
+        },
+        {
+          "label": "Room 14",
+          "value": 5
+        },
+        {
+          "label": "Room 15",
+          "value": 11
+        },
+        {
+          "label": "Room 18",
+          "value": 7
+        }
+      ],
+      "alt": "Bar graph titled Cans collected. Room 12: 8 cans. Room 14: 5 cans. Room 15: 11 cans. Room 18: 7 cans."
+    },
+    "choices": [
+      "13",
+      "3",
+      "8",
+      "5"
+    ],
+    "answerIndex": 0,
+    "explanation": "Add the two amounts. Room 12 has 8 and Room 14 has 5. 8 + 5 = 13.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-sum",
+      "labels": [
+        "Room 12",
+        "Room 14"
+      ]
+    }
+  },
+  {
+    "id": "g3-dt-921",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Goals scored\", how many goals does Leo have?",
+    "figure": {
+      "kind": "bars",
+      "title": "Goals scored",
+      "unit": "goals",
+      "rows": [
+        {
+          "label": "Aisha",
+          "value": 3
+        },
+        {
+          "label": "Leo",
+          "value": 7
+        },
+        {
+          "label": "Mei",
+          "value": 4
+        },
+        {
+          "label": "Omar",
+          "value": 6
+        }
+      ],
+      "alt": "Bar graph titled Goals scored. Aisha: 3 goals. Leo: 7 goals. Mei: 4 goals. Omar: 6 goals."
+    },
+    "choices": [
+      "3",
+      "6",
+      "4",
+      "7"
+    ],
+    "answerIndex": 3,
+    "explanation": "Find the row or bar for Leo. Read its value on the scale. Leo has 7 goals.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-value",
+      "label": "Leo"
+    }
+  },
+  {
+    "id": "g3-dt-922",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Goals scored\", how many more goals does Leo have than Aisha?",
+    "figure": {
+      "kind": "bars",
+      "title": "Goals scored",
+      "unit": "goals",
+      "rows": [
+        {
+          "label": "Aisha",
+          "value": 3
+        },
+        {
+          "label": "Leo",
+          "value": 7
+        },
+        {
+          "label": "Mei",
+          "value": 4
+        },
+        {
+          "label": "Omar",
+          "value": 6
+        }
+      ],
+      "alt": "Bar graph titled Goals scored. Aisha: 3 goals. Leo: 7 goals. Mei: 4 goals. Omar: 6 goals."
+    },
+    "choices": [
+      "5",
+      "7",
+      "3",
+      "4"
+    ],
+    "answerIndex": 3,
+    "explanation": "Leo has 7 and Aisha has 3. Subtract: 7 - 3 = 4.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-diff",
+      "a": "Leo",
+      "b": "Aisha"
+    }
+  },
+  {
+    "id": "g3-dt-923",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Goals scored\", how many goals do Aisha and Leo have together?",
+    "figure": {
+      "kind": "bars",
+      "title": "Goals scored",
+      "unit": "goals",
+      "rows": [
+        {
+          "label": "Aisha",
+          "value": 3
+        },
+        {
+          "label": "Leo",
+          "value": 7
+        },
+        {
+          "label": "Mei",
+          "value": 4
+        },
+        {
+          "label": "Omar",
+          "value": 6
+        }
+      ],
+      "alt": "Bar graph titled Goals scored. Aisha: 3 goals. Leo: 7 goals. Mei: 4 goals. Omar: 6 goals."
+    },
+    "choices": [
+      "10",
+      "4",
+      "3",
+      "7"
+    ],
+    "answerIndex": 0,
+    "explanation": "Add the two amounts. Aisha has 3 and Leo has 7. 3 + 7 = 10.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-sum",
+      "labels": [
+        "Aisha",
+        "Leo"
+      ]
+    }
+  },
+  {
+    "id": "g3-dt-924",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Miles walked\", how many miles does Ruby have?",
+    "figure": {
+      "kind": "bars",
+      "title": "Miles walked",
+      "unit": "miles",
+      "rows": [
+        {
+          "label": "Hana",
+          "value": 5
+        },
+        {
+          "label": "Theo",
+          "value": 2
+        },
+        {
+          "label": "Ruby",
+          "value": 8
+        },
+        {
+          "label": "Evan",
+          "value": 4
+        }
+      ],
+      "alt": "Bar graph titled Miles walked. Hana: 5 miles. Theo: 2 miles. Ruby: 8 miles. Evan: 4 miles."
+    },
+    "choices": [
+      "5",
+      "4",
+      "2",
+      "8"
+    ],
+    "answerIndex": 3,
+    "explanation": "Find the row or bar for Ruby. Read its value on the scale. Ruby has 8 miles.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-value",
+      "label": "Ruby"
+    }
+  },
+  {
+    "id": "g3-dt-925",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Miles walked\", how many more miles does Ruby have than Theo?",
+    "figure": {
+      "kind": "bars",
+      "title": "Miles walked",
+      "unit": "miles",
+      "rows": [
+        {
+          "label": "Hana",
+          "value": 5
+        },
+        {
+          "label": "Theo",
+          "value": 2
+        },
+        {
+          "label": "Ruby",
+          "value": 8
+        },
+        {
+          "label": "Evan",
+          "value": 4
+        }
+      ],
+      "alt": "Bar graph titled Miles walked. Hana: 5 miles. Theo: 2 miles. Ruby: 8 miles. Evan: 4 miles."
+    },
+    "choices": [
+      "2",
+      "7",
+      "8",
+      "6"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ruby has 8 and Theo has 2. Subtract: 8 - 2 = 6.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-diff",
+      "a": "Ruby",
+      "b": "Theo"
+    }
+  },
+  {
+    "id": "g3-dt-926",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Miles walked\", how many miles do Hana and Theo have together?",
+    "figure": {
+      "kind": "bars",
+      "title": "Miles walked",
+      "unit": "miles",
+      "rows": [
+        {
+          "label": "Hana",
+          "value": 5
+        },
+        {
+          "label": "Theo",
+          "value": 2
+        },
+        {
+          "label": "Ruby",
+          "value": 8
+        },
+        {
+          "label": "Evan",
+          "value": 4
+        }
+      ],
+      "alt": "Bar graph titled Miles walked. Hana: 5 miles. Theo: 2 miles. Ruby: 8 miles. Evan: 4 miles."
+    },
+    "choices": [
+      "7",
+      "5",
+      "3",
+      "2"
+    ],
+    "answerIndex": 0,
+    "explanation": "Add the two amounts. Hana has 5 and Theo has 2. 5 + 2 = 7.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-sum",
+      "labels": [
+        "Hana",
+        "Theo"
+      ]
+    }
+  },
+  {
+    "id": "g3-dt-927",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Stickers earned\", how many stickers does Caleb have?",
+    "figure": {
+      "kind": "pictograph",
+      "title": "Stickers earned",
+      "unit": "stickers",
+      "rows": [
+        {
+          "label": "Sam",
+          "value": 8
+        },
+        {
+          "label": "Nina",
+          "value": 4
+        },
+        {
+          "label": "Caleb",
+          "value": 10
+        },
+        {
+          "label": "Zoe",
+          "value": 6
+        }
+      ],
+      "key": 2,
+      "alt": "Picture graph titled Stickers earned. Each symbol stands for 2 stickers. Sam: 8 stickers. Nina: 4 stickers. Caleb: 10 stickers. Zoe: 6 stickers."
+    },
+    "choices": [
+      "4",
+      "10",
+      "6",
+      "8"
+    ],
+    "answerIndex": 1,
+    "explanation": "Find the row or bar for Caleb. Read its value on the scale, remembering each symbol means 2. Caleb has 10 stickers.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-value",
+      "label": "Caleb"
+    }
+  },
+  {
+    "id": "g3-dt-928",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Stickers earned\", how many more stickers does Caleb have than Nina?",
+    "figure": {
+      "kind": "pictograph",
+      "title": "Stickers earned",
+      "unit": "stickers",
+      "rows": [
+        {
+          "label": "Sam",
+          "value": 8
+        },
+        {
+          "label": "Nina",
+          "value": 4
+        },
+        {
+          "label": "Caleb",
+          "value": 10
+        },
+        {
+          "label": "Zoe",
+          "value": 6
+        }
+      ],
+      "key": 2,
+      "alt": "Picture graph titled Stickers earned. Each symbol stands for 2 stickers. Sam: 8 stickers. Nina: 4 stickers. Caleb: 10 stickers. Zoe: 6 stickers."
+    },
+    "choices": [
+      "4",
+      "10",
+      "6",
+      "8"
+    ],
+    "answerIndex": 2,
+    "explanation": "Caleb has 10 and Nina has 4. Subtract: 10 - 4 = 6.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-diff",
+      "a": "Caleb",
+      "b": "Nina"
+    }
+  },
+  {
+    "id": "g3-dt-929",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Stickers earned\", how many stickers do Sam and Nina have together?",
+    "figure": {
+      "kind": "pictograph",
+      "title": "Stickers earned",
+      "unit": "stickers",
+      "rows": [
+        {
+          "label": "Sam",
+          "value": 8
+        },
+        {
+          "label": "Nina",
+          "value": 4
+        },
+        {
+          "label": "Caleb",
+          "value": 10
+        },
+        {
+          "label": "Zoe",
+          "value": 6
+        }
+      ],
+      "key": 2,
+      "alt": "Picture graph titled Stickers earned. Each symbol stands for 2 stickers. Sam: 8 stickers. Nina: 4 stickers. Caleb: 10 stickers. Zoe: 6 stickers."
+    },
+    "choices": [
+      "4",
+      "14",
+      "12",
+      "8"
+    ],
+    "answerIndex": 2,
+    "explanation": "Add the two amounts. Sam has 8 and Nina has 4. 8 + 4 = 12.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-sum",
+      "labels": [
+        "Sam",
+        "Nina"
+      ]
+    }
+  },
+  {
+    "id": "g3-dt-930",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Birds counted\", how many birds does Oak have?",
+    "figure": {
+      "kind": "pictograph",
+      "title": "Birds counted",
+      "unit": "birds",
+      "rows": [
+        {
+          "label": "Pond",
+          "value": 6
+        },
+        {
+          "label": "Oak",
+          "value": 10
+        },
+        {
+          "label": "Garden",
+          "value": 4
+        },
+        {
+          "label": "Roof",
+          "value": 8
+        }
+      ],
+      "key": 2,
+      "alt": "Picture graph titled Birds counted. Each symbol stands for 2 birds. Pond: 6 birds. Oak: 10 birds. Garden: 4 birds. Roof: 8 birds."
+    },
+    "choices": [
+      "10",
+      "4",
+      "8",
+      "6"
+    ],
+    "answerIndex": 0,
+    "explanation": "Find the row or bar for Oak. Read its value on the scale, remembering each symbol means 2. Oak has 10 birds.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-value",
+      "label": "Oak"
+    }
+  },
+  {
+    "id": "g3-dt-931",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Birds counted\", how many more birds does Oak have than Garden?",
+    "figure": {
+      "kind": "pictograph",
+      "title": "Birds counted",
+      "unit": "birds",
+      "rows": [
+        {
+          "label": "Pond",
+          "value": 6
+        },
+        {
+          "label": "Oak",
+          "value": 10
+        },
+        {
+          "label": "Garden",
+          "value": 4
+        },
+        {
+          "label": "Roof",
+          "value": 8
+        }
+      ],
+      "key": 2,
+      "alt": "Picture graph titled Birds counted. Each symbol stands for 2 birds. Pond: 6 birds. Oak: 10 birds. Garden: 4 birds. Roof: 8 birds."
+    },
+    "choices": [
+      "4",
+      "10",
+      "6",
+      "8"
+    ],
+    "answerIndex": 2,
+    "explanation": "Oak has 10 and Garden has 4. Subtract: 10 - 4 = 6.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-diff",
+      "a": "Oak",
+      "b": "Garden"
+    }
+  },
+  {
+    "id": "g3-dt-932",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Birds counted\", how many birds do Pond and Oak have together?",
+    "figure": {
+      "kind": "pictograph",
+      "title": "Birds counted",
+      "unit": "birds",
+      "rows": [
+        {
+          "label": "Pond",
+          "value": 6
+        },
+        {
+          "label": "Oak",
+          "value": 10
+        },
+        {
+          "label": "Garden",
+          "value": 4
+        },
+        {
+          "label": "Roof",
+          "value": 8
+        }
+      ],
+      "key": 2,
+      "alt": "Picture graph titled Birds counted. Each symbol stands for 2 birds. Pond: 6 birds. Oak: 10 birds. Garden: 4 birds. Roof: 8 birds."
+    },
+    "choices": [
+      "6",
+      "10",
+      "16",
+      "4"
+    ],
+    "answerIndex": 2,
+    "explanation": "Add the two amounts. Pond has 6 and Oak has 10. 6 + 10 = 16.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-sum",
+      "labels": [
+        "Pond",
+        "Oak"
+      ]
+    }
+  },
+  {
+    "id": "g3-dt-933",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Tickets sold\", how many tickets does Thursday have?",
+    "figure": {
+      "kind": "bars",
+      "title": "Tickets sold",
+      "unit": "tickets",
+      "rows": [
+        {
+          "label": "Monday",
+          "value": 4
+        },
+        {
+          "label": "Tuesday",
+          "value": 9
+        },
+        {
+          "label": "Wednesday",
+          "value": 6
+        },
+        {
+          "label": "Thursday",
+          "value": 12
+        }
+      ],
+      "alt": "Bar graph titled Tickets sold. Monday: 4 tickets. Tuesday: 9 tickets. Wednesday: 6 tickets. Thursday: 12 tickets."
+    },
+    "choices": [
+      "12",
+      "9",
+      "4",
+      "6"
+    ],
+    "answerIndex": 0,
+    "explanation": "Find the row or bar for Thursday. Read its value on the scale. Thursday has 12 tickets.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-value",
+      "label": "Thursday"
+    }
+  },
+  {
+    "id": "g3-dt-934",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Tickets sold\", how many more tickets does Thursday have than Monday?",
+    "figure": {
+      "kind": "bars",
+      "title": "Tickets sold",
+      "unit": "tickets",
+      "rows": [
+        {
+          "label": "Monday",
+          "value": 4
+        },
+        {
+          "label": "Tuesday",
+          "value": 9
+        },
+        {
+          "label": "Wednesday",
+          "value": 6
+        },
+        {
+          "label": "Thursday",
+          "value": 12
+        }
+      ],
+      "alt": "Bar graph titled Tickets sold. Monday: 4 tickets. Tuesday: 9 tickets. Wednesday: 6 tickets. Thursday: 12 tickets."
+    },
+    "choices": [
+      "9",
+      "8",
+      "12",
+      "4"
+    ],
+    "answerIndex": 1,
+    "explanation": "Thursday has 12 and Monday has 4. Subtract: 12 - 4 = 8.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-diff",
+      "a": "Thursday",
+      "b": "Monday"
+    }
+  },
+  {
+    "id": "g3-dt-935",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Tickets sold\", how many tickets do Monday and Tuesday have together?",
+    "figure": {
+      "kind": "bars",
+      "title": "Tickets sold",
+      "unit": "tickets",
+      "rows": [
+        {
+          "label": "Monday",
+          "value": 4
+        },
+        {
+          "label": "Tuesday",
+          "value": 9
+        },
+        {
+          "label": "Wednesday",
+          "value": 6
+        },
+        {
+          "label": "Thursday",
+          "value": 12
+        }
+      ],
+      "alt": "Bar graph titled Tickets sold. Monday: 4 tickets. Tuesday: 9 tickets. Wednesday: 6 tickets. Thursday: 12 tickets."
+    },
+    "choices": [
+      "4",
+      "13",
+      "9",
+      "5"
+    ],
+    "answerIndex": 1,
+    "explanation": "Add the two amounts. Monday has 4 and Tuesday has 9. 4 + 9 = 13.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-sum",
+      "labels": [
+        "Monday",
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "id": "g3-dt-936",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Flowers planted\", how many flowers does White have?",
+    "figure": {
+      "kind": "pictograph",
+      "title": "Flowers planted",
+      "unit": "flowers",
+      "rows": [
+        {
+          "label": "Red",
+          "value": 10
+        },
+        {
+          "label": "Yellow",
+          "value": 15
+        },
+        {
+          "label": "Purple",
+          "value": 5
+        },
+        {
+          "label": "White",
+          "value": 20
+        }
+      ],
+      "key": 5,
+      "alt": "Picture graph titled Flowers planted. Each symbol stands for 5 flowers. Red: 10 flowers. Yellow: 15 flowers. Purple: 5 flowers. White: 20 flowers."
+    },
+    "choices": [
+      "5",
+      "20",
+      "10",
+      "15"
+    ],
+    "answerIndex": 1,
+    "explanation": "Find the row or bar for White. Read its value on the scale, remembering each symbol means 5. White has 20 flowers.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-value",
+      "label": "White"
+    }
+  },
+  {
+    "id": "g3-dt-937",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Flowers planted\", how many more flowers does White have than Purple?",
+    "figure": {
+      "kind": "pictograph",
+      "title": "Flowers planted",
+      "unit": "flowers",
+      "rows": [
+        {
+          "label": "Red",
+          "value": 10
+        },
+        {
+          "label": "Yellow",
+          "value": 15
+        },
+        {
+          "label": "Purple",
+          "value": 5
+        },
+        {
+          "label": "White",
+          "value": 20
+        }
+      ],
+      "key": 5,
+      "alt": "Picture graph titled Flowers planted. Each symbol stands for 5 flowers. Red: 10 flowers. Yellow: 15 flowers. Purple: 5 flowers. White: 20 flowers."
+    },
+    "choices": [
+      "20",
+      "15",
+      "25",
+      "5"
+    ],
+    "answerIndex": 1,
+    "explanation": "White has 20 and Purple has 5. Subtract: 20 - 5 = 15.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-diff",
+      "a": "White",
+      "b": "Purple"
+    }
+  },
+  {
+    "id": "g3-dt-938",
+    "grade": 3,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "On the graph \"Flowers planted\", how many flowers do Red and Yellow have together?",
+    "figure": {
+      "kind": "pictograph",
+      "title": "Flowers planted",
+      "unit": "flowers",
+      "rows": [
+        {
+          "label": "Red",
+          "value": 10
+        },
+        {
+          "label": "Yellow",
+          "value": 15
+        },
+        {
+          "label": "Purple",
+          "value": 5
+        },
+        {
+          "label": "White",
+          "value": 20
+        }
+      ],
+      "key": 5,
+      "alt": "Picture graph titled Flowers planted. Each symbol stands for 5 flowers. Red: 10 flowers. Yellow: 15 flowers. Purple: 5 flowers. White: 20 flowers."
+    },
+    "choices": [
+      "15",
+      "10",
+      "5",
+      "25"
+    ],
+    "answerIndex": 3,
+    "explanation": "Add the two amounts. Red has 10 and Yellow has 15. 10 + 15 = 25.",
+    "skill": "3.MD.B.3",
+    "skillLabel": "Bar graphs and picture graphs",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "table-sum",
+      "labels": [
+        "Red",
+        "Yellow"
+      ]
+    }
+  }
+]

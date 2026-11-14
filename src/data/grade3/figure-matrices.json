@@ -1,0 +1,2454 @@
+[
+  {
+    "id": "g3-mx-336",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium blue circle and 1 medium blue triangle. Bottom row starts with 1 medium red circle.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "circle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "circle",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium blue circle; 1 medium blue triangle; 1 medium red circle; empty box."
+    },
+    "choices": [
+      "1 medium red circle",
+      "1 medium red triangle",
+      "1 medium blue triangle",
+      "3 medium red triangles turned 90 degrees"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "circle",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 3,
+        "rotation": 90,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "Across a row, the shape changes and the color stays the same. Down a column, the color changes and the shape stays the same. The empty box is 1 medium red triangle.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "circle",
+        "triangle"
+      ],
+      "colorNames": [
+        "blue",
+        "red"
+      ],
+      "colors": [
+        "#2f6fed",
+        "#e23b3b"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-337",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium gold circle and 1 medium gold triangle. Bottom row starts with 1 medium green circle.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "circle",
+          "colorName": "gold",
+          "color": "#c98404",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "gold",
+          "color": "#c98404",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "circle",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium gold circle; 1 medium gold triangle; 1 medium green circle; empty box."
+    },
+    "choices": [
+      "3 medium green triangles turned 90 degrees",
+      "1 medium green triangle",
+      "1 medium green circle",
+      "1 medium gold triangle"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "triangle",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 3,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "circle",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "gold",
+        "color": "#c98404",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "Across a row, the shape changes and the color stays the same. Down a column, the color changes and the shape stays the same. The empty box is 1 medium green triangle.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "circle",
+        "triangle"
+      ],
+      "colorNames": [
+        "gold",
+        "green"
+      ],
+      "colors": [
+        "#c98404",
+        "#1f9d57"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-338",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium purple circle and 1 medium purple triangle. Bottom row starts with 1 medium orange circle.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "circle",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "circle",
+          "colorName": "orange",
+          "color": "#ef7b2d",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium purple circle; 1 medium purple triangle; 1 medium orange circle; empty box."
+    },
+    "choices": [
+      "3 medium orange triangles turned 90 degrees",
+      "1 medium purple triangle",
+      "1 medium orange triangle",
+      "1 medium orange circle"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "triangle",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 3,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "circle",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 2,
+    "explanation": "Across a row, the shape changes and the color stays the same. Down a column, the color changes and the shape stays the same. The empty box is 1 medium orange triangle.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "circle",
+        "triangle"
+      ],
+      "colorNames": [
+        "purple",
+        "orange"
+      ],
+      "colors": [
+        "#7a45d6",
+        "#ef7b2d"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-339",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium blue square and 1 medium blue diamond. Bottom row starts with 1 medium red square.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "square",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "diamond",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "square",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium blue square; 1 medium blue diamond; 1 medium red square; empty box."
+    },
+    "choices": [
+      "1 medium blue diamond",
+      "1 medium red diamond",
+      "3 medium red diamonds turned 90 degrees",
+      "1 medium red square"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "diamond",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 3,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "square",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "Across a row, the shape changes and the color stays the same. Down a column, the color changes and the shape stays the same. The empty box is 1 medium red diamond.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "square",
+        "diamond"
+      ],
+      "colorNames": [
+        "blue",
+        "red"
+      ],
+      "colors": [
+        "#2f6fed",
+        "#e23b3b"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-340",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium gold square and 1 medium gold diamond. Bottom row starts with 1 medium green square.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "square",
+          "colorName": "gold",
+          "color": "#c98404",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "diamond",
+          "colorName": "gold",
+          "color": "#c98404",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "square",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium gold square; 1 medium gold diamond; 1 medium green square; empty box."
+    },
+    "choices": [
+      "1 medium green diamond",
+      "1 medium gold diamond",
+      "3 medium green diamonds turned 90 degrees",
+      "1 medium green square"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "diamond",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "gold",
+        "color": "#c98404",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 3,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "square",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 0,
+    "explanation": "Across a row, the shape changes and the color stays the same. Down a column, the color changes and the shape stays the same. The empty box is 1 medium green diamond.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "square",
+        "diamond"
+      ],
+      "colorNames": [
+        "gold",
+        "green"
+      ],
+      "colors": [
+        "#c98404",
+        "#1f9d57"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-341",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium purple square and 1 medium purple diamond. Bottom row starts with 1 medium orange square.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "square",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "diamond",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "square",
+          "colorName": "orange",
+          "color": "#ef7b2d",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium purple square; 1 medium purple diamond; 1 medium orange square; empty box."
+    },
+    "choices": [
+      "3 medium orange diamonds turned 90 degrees",
+      "1 medium orange square",
+      "1 medium purple diamond",
+      "1 medium orange diamond"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "diamond",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 3,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "square",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 3,
+    "explanation": "Across a row, the shape changes and the color stays the same. Down a column, the color changes and the shape stays the same. The empty box is 1 medium orange diamond.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "square",
+        "diamond"
+      ],
+      "colorNames": [
+        "purple",
+        "orange"
+      ],
+      "colors": [
+        "#7a45d6",
+        "#ef7b2d"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-342",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium blue triangle and 1 medium blue star. Bottom row starts with 1 medium red triangle.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "triangle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "star",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium blue triangle; 1 medium blue star; 1 medium red triangle; empty box."
+    },
+    "choices": [
+      "1 medium blue star",
+      "3 medium red stars turned 90 degrees",
+      "1 medium red star",
+      "1 medium red triangle"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "star",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 3,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 2,
+    "explanation": "Across a row, the shape changes and the color stays the same. Down a column, the color changes and the shape stays the same. The empty box is 1 medium red star.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "triangle",
+        "star"
+      ],
+      "colorNames": [
+        "blue",
+        "red"
+      ],
+      "colors": [
+        "#2f6fed",
+        "#e23b3b"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-343",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium gold triangle and 1 medium gold star. Bottom row starts with 1 medium green triangle.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "triangle",
+          "colorName": "gold",
+          "color": "#c98404",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "star",
+          "colorName": "gold",
+          "color": "#c98404",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium gold triangle; 1 medium gold star; 1 medium green triangle; empty box."
+    },
+    "choices": [
+      "1 medium green triangle",
+      "1 medium green star",
+      "1 medium gold star",
+      "3 medium green stars turned 90 degrees"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "triangle",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "gold",
+        "color": "#c98404",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 3,
+        "rotation": 90,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "Across a row, the shape changes and the color stays the same. Down a column, the color changes and the shape stays the same. The empty box is 1 medium green star.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "triangle",
+        "star"
+      ],
+      "colorNames": [
+        "gold",
+        "green"
+      ],
+      "colors": [
+        "#c98404",
+        "#1f9d57"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-344",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium purple triangle and 1 medium purple star. Bottom row starts with 1 medium orange triangle.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "triangle",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "star",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "orange",
+          "color": "#ef7b2d",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium purple triangle; 1 medium purple star; 1 medium orange triangle; empty box."
+    },
+    "choices": [
+      "1 medium orange triangle",
+      "3 medium orange stars turned 90 degrees",
+      "1 medium purple star",
+      "1 medium orange star"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "triangle",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 3,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 3,
+    "explanation": "Across a row, the shape changes and the color stays the same. Down a column, the color changes and the shape stays the same. The empty box is 1 medium orange star.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "triangle",
+        "star"
+      ],
+      "colorNames": [
+        "purple",
+        "orange"
+      ],
+      "colors": [
+        "#7a45d6",
+        "#ef7b2d"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-345",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium blue diamond and 1 medium blue hexagon. Bottom row starts with 1 medium red diamond.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "diamond",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "hex",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "diamond",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium blue diamond; 1 medium blue hexagon; 1 medium red diamond; empty box."
+    },
+    "choices": [
+      "3 medium red hexagons turned 90 degrees",
+      "1 medium blue hexagon",
+      "1 medium red hexagon",
+      "1 medium red diamond"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "hex",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 3,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 2,
+    "explanation": "Across a row, the shape changes and the color stays the same. Down a column, the color changes and the shape stays the same. The empty box is 1 medium red hexagon.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "diamond",
+        "hex"
+      ],
+      "colorNames": [
+        "blue",
+        "red"
+      ],
+      "colors": [
+        "#2f6fed",
+        "#e23b3b"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-346",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium gold diamond and 1 medium gold hexagon. Bottom row starts with 1 medium green diamond.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "diamond",
+          "colorName": "gold",
+          "color": "#c98404",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "hex",
+          "colorName": "gold",
+          "color": "#c98404",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "diamond",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium gold diamond; 1 medium gold hexagon; 1 medium green diamond; empty box."
+    },
+    "choices": [
+      "1 medium green diamond",
+      "1 medium gold hexagon",
+      "1 medium green hexagon",
+      "3 medium green hexagons turned 90 degrees"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "diamond",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "gold",
+        "color": "#c98404",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 3,
+        "rotation": 90,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 2,
+    "explanation": "Across a row, the shape changes and the color stays the same. Down a column, the color changes and the shape stays the same. The empty box is 1 medium green hexagon.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "diamond",
+        "hex"
+      ],
+      "colorNames": [
+        "gold",
+        "green"
+      ],
+      "colors": [
+        "#c98404",
+        "#1f9d57"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-347",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium purple diamond and 1 medium purple hexagon. Bottom row starts with 1 medium orange diamond.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "diamond",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "hex",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "diamond",
+          "colorName": "orange",
+          "color": "#ef7b2d",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium purple diamond; 1 medium purple hexagon; 1 medium orange diamond; empty box."
+    },
+    "choices": [
+      "1 medium orange hexagon",
+      "3 medium orange hexagons turned 90 degrees",
+      "1 medium purple hexagon",
+      "1 medium orange diamond"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "hex",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 3,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 0,
+    "explanation": "Across a row, the shape changes and the color stays the same. Down a column, the color changes and the shape stays the same. The empty box is 1 medium orange hexagon.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "diamond",
+        "hex"
+      ],
+      "colorNames": [
+        "purple",
+        "orange"
+      ],
+      "colors": [
+        "#7a45d6",
+        "#ef7b2d"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-348",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium blue circle and 3 medium blue circles. Bottom row starts with 1 medium green circle.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "circle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "circle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 3,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "circle",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium blue circle; 3 medium blue circles; 1 medium green circle; empty box."
+    },
+    "choices": [
+      "1 medium green circle",
+      "3 medium blue circles",
+      "3 medium green circles",
+      "5 medium green circles turned 90 degrees"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "circle",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "circle",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 3,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "circle",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 3,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "circle",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 5,
+        "rotation": 90,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 2,
+    "explanation": "Across a row, the number of shapes changes and the color stays the same. Down a column, the color changes. The empty box is 3 medium green circles.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "count-col-color-row",
+      "shape": "circle",
+      "counts": [
+        1,
+        3
+      ],
+      "colorNames": [
+        "blue",
+        "green"
+      ],
+      "colors": [
+        "#2f6fed",
+        "#1f9d57"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-349",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 2 medium red squares and 4 medium red squares. Bottom row starts with 2 medium purple squares.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "square",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 2,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "square",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 4,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "square",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "count": 2,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 2 medium red squares; 4 medium red squares; 2 medium purple squares; empty box."
+    },
+    "choices": [
+      "2 medium purple squares",
+      "4 medium purple squares",
+      "6 medium purple squares turned 90 degrees",
+      "4 medium red squares"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "square",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 2,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "square",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 4,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "square",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 6,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "square",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 4,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "Across a row, the number of shapes changes and the color stays the same. Down a column, the color changes. The empty box is 4 medium purple squares.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "count-col-color-row",
+      "shape": "square",
+      "counts": [
+        2,
+        4
+      ],
+      "colorNames": [
+        "red",
+        "purple"
+      ],
+      "colors": [
+        "#e23b3b",
+        "#7a45d6"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-350",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium gold triangle and 3 medium gold triangles. Bottom row starts with 1 medium orange triangle.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "triangle",
+          "colorName": "gold",
+          "color": "#c98404",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "gold",
+          "color": "#c98404",
+          "count": 3,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "orange",
+          "color": "#ef7b2d",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium gold triangle; 3 medium gold triangles; 1 medium orange triangle; empty box."
+    },
+    "choices": [
+      "3 medium orange triangles",
+      "5 medium orange triangles turned 90 degrees",
+      "3 medium gold triangles",
+      "1 medium orange triangle"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "triangle",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 3,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 5,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "gold",
+        "color": "#c98404",
+        "count": 3,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 0,
+    "explanation": "Across a row, the number of shapes changes and the color stays the same. Down a column, the color changes. The empty box is 3 medium orange triangles.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "count-col-color-row",
+      "shape": "triangle",
+      "counts": [
+        1,
+        3
+      ],
+      "colorNames": [
+        "gold",
+        "orange"
+      ],
+      "colors": [
+        "#c98404",
+        "#ef7b2d"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-351",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 2 medium green diamonds and 4 medium green diamonds. Bottom row starts with 2 medium blue diamonds.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "diamond",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "count": 2,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "diamond",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "count": 4,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "diamond",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 2,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 2 medium green diamonds; 4 medium green diamonds; 2 medium blue diamonds; empty box."
+    },
+    "choices": [
+      "4 medium blue diamonds",
+      "4 medium green diamonds",
+      "6 medium blue diamonds turned 90 degrees",
+      "2 medium blue diamonds"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "diamond",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 4,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 4,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 6,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 2,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 0,
+    "explanation": "Across a row, the number of shapes changes and the color stays the same. Down a column, the color changes. The empty box is 4 medium blue diamonds.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "count-col-color-row",
+      "shape": "diamond",
+      "counts": [
+        2,
+        4
+      ],
+      "colorNames": [
+        "green",
+        "blue"
+      ],
+      "colors": [
+        "#1f9d57",
+        "#2f6fed"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-352",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium purple star and 3 medium purple stars. Bottom row starts with 1 medium red star.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "star",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "star",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "count": 3,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "star",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium purple star; 3 medium purple stars; 1 medium red star; empty box."
+    },
+    "choices": [
+      "5 medium red stars turned 90 degrees",
+      "1 medium red star",
+      "3 medium red stars",
+      "3 medium purple stars"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "star",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 5,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 3,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 3,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 2,
+    "explanation": "Across a row, the number of shapes changes and the color stays the same. Down a column, the color changes. The empty box is 3 medium red stars.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "count-col-color-row",
+      "shape": "star",
+      "counts": [
+        1,
+        3
+      ],
+      "colorNames": [
+        "purple",
+        "red"
+      ],
+      "colors": [
+        "#7a45d6",
+        "#e23b3b"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-353",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 2 medium orange hexagons and 4 medium orange hexagons. Bottom row starts with 2 medium gold hexagons.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "hex",
+          "colorName": "orange",
+          "color": "#ef7b2d",
+          "count": 2,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "hex",
+          "colorName": "orange",
+          "color": "#ef7b2d",
+          "count": 4,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "hex",
+          "colorName": "gold",
+          "color": "#c98404",
+          "count": 2,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 2 medium orange hexagons; 4 medium orange hexagons; 2 medium gold hexagons; empty box."
+    },
+    "choices": [
+      "4 medium orange hexagons",
+      "6 medium gold hexagons turned 90 degrees",
+      "4 medium gold hexagons",
+      "2 medium gold hexagons"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "hex",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 4,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "gold",
+        "color": "#c98404",
+        "count": 6,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "gold",
+        "color": "#c98404",
+        "count": 4,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "gold",
+        "color": "#c98404",
+        "count": 2,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 2,
+    "explanation": "Across a row, the number of shapes changes and the color stays the same. Down a column, the color changes. The empty box is 4 medium gold hexagons.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "count-col-color-row",
+      "shape": "hex",
+      "counts": [
+        2,
+        4
+      ],
+      "colorNames": [
+        "orange",
+        "gold"
+      ],
+      "colors": [
+        "#ef7b2d",
+        "#c98404"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-354",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium purple triangle and 1 medium purple triangle turned 90 degrees. Bottom row starts with 1 medium red triangle.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "triangle",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "count": 1,
+          "rotation": 90,
+          "size": "medium"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium purple triangle; 1 medium purple triangle turned 90 degrees; 1 medium red triangle; empty box."
+    },
+    "choices": [
+      "3 medium red triangles turned 180 degrees",
+      "1 medium red triangle turned 90 degrees",
+      "1 medium red triangle",
+      "1 medium purple triangle turned 90 degrees"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "triangle",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 3,
+        "rotation": 180,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 90,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "Across a row, the shape turns and the color stays the same. Down a column, the color changes. The empty box is 1 medium red triangle turned 90 degrees.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "rotate-col-color-row",
+      "shape": "triangle",
+      "rotations": [
+        0,
+        90
+      ],
+      "colorNames": [
+        "purple",
+        "red"
+      ],
+      "colors": [
+        "#7a45d6",
+        "#e23b3b"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-355",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium gold star and 1 medium gold star turned 90 degrees. Bottom row starts with 1 medium green star.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "star",
+          "colorName": "gold",
+          "color": "#c98404",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "star",
+          "colorName": "gold",
+          "color": "#c98404",
+          "count": 1,
+          "rotation": 90,
+          "size": "medium"
+        },
+        {
+          "shape": "star",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium gold star; 1 medium gold star turned 90 degrees; 1 medium green star; empty box."
+    },
+    "choices": [
+      "1 medium green star turned 90 degrees",
+      "3 medium green stars turned 180 degrees",
+      "1 medium green star",
+      "1 medium gold star turned 90 degrees"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "star",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 1,
+        "rotation": 90,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 3,
+        "rotation": 180,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "gold",
+        "color": "#c98404",
+        "count": 1,
+        "rotation": 90,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 0,
+    "explanation": "Across a row, the shape turns and the color stays the same. Down a column, the color changes. The empty box is 1 medium green star turned 90 degrees.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "rotate-col-color-row",
+      "shape": "star",
+      "rotations": [
+        0,
+        90
+      ],
+      "colorNames": [
+        "gold",
+        "green"
+      ],
+      "colors": [
+        "#c98404",
+        "#1f9d57"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-356",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium blue diamond and 1 medium blue diamond turned 45 degrees. Bottom row starts with 1 medium orange diamond.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "diamond",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "diamond",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 45,
+          "size": "medium"
+        },
+        {
+          "shape": "diamond",
+          "colorName": "orange",
+          "color": "#ef7b2d",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium blue diamond; 1 medium blue diamond turned 45 degrees; 1 medium orange diamond; empty box."
+    },
+    "choices": [
+      "3 medium orange diamonds turned 135 degrees",
+      "1 medium blue diamond turned 45 degrees",
+      "1 medium orange diamond",
+      "1 medium orange diamond turned 45 degrees"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "diamond",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 3,
+        "rotation": 135,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 1,
+        "rotation": 45,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "count": 1,
+        "rotation": 45,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 3,
+    "explanation": "Across a row, the shape turns and the color stays the same. Down a column, the color changes. The empty box is 1 medium orange diamond turned 45 degrees.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "rotate-col-color-row",
+      "shape": "diamond",
+      "rotations": [
+        0,
+        45
+      ],
+      "colorNames": [
+        "blue",
+        "orange"
+      ],
+      "colors": [
+        "#2f6fed",
+        "#ef7b2d"
+      ]
+    }
+  },
+  {
+    "id": "g3-mx-357",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Which picture completes the empty box? Top row: 1 medium green hexagon and 1 medium green hexagon turned 30 degrees. Bottom row starts with 1 medium purple hexagon.",
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "hex",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "hex",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "count": 1,
+          "rotation": 30,
+          "size": "medium"
+        },
+        {
+          "shape": "hex",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "A two by two pattern. 1 medium green hexagon; 1 medium green hexagon turned 30 degrees; 1 medium purple hexagon; empty box."
+    },
+    "choices": [
+      "1 medium purple hexagon",
+      "3 medium purple hexagons turned 120 degrees",
+      "1 medium green hexagon turned 30 degrees",
+      "1 medium purple hexagon turned 30 degrees"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "hex",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 3,
+        "rotation": 120,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "count": 1,
+        "rotation": 30,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 30,
+        "size": "medium"
+      }
+    ],
+    "answerIndex": 3,
+    "explanation": "Across a row, the shape turns and the color stays the same. Down a column, the color changes. The empty box is 1 medium purple hexagon turned 30 degrees.",
+    "skill": "G3.REASON.MATRIX",
+    "skillLabel": "Figure patterns",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "matrix",
+      "rule": "rotate-col-color-row",
+      "shape": "hex",
+      "rotations": [
+        0,
+        30
+      ],
+      "colorNames": [
+        "green",
+        "purple"
+      ],
+      "colors": [
+        "#1f9d57",
+        "#7a45d6"
+      ]
+    }
+  }
+]

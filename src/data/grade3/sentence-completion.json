@@ -1,0 +1,1388 @@
+[
+  {
+    "id": "g3-sc-103",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The puppy was so ____ that it wagged its tail and licked Maya’s hand.",
+    "choices": [
+      "square",
+      "metal",
+      "happy",
+      "silent"
+    ],
+    "answerIndex": 2,
+    "explanation": "Wagging and licking are friendly, happy actions. The other words do not match that mood.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-104",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The trail was so muddy that every step made a ____ sound.",
+    "choices": [
+      "silent",
+      "squish",
+      "frozen",
+      "sparkle"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mud under a boot makes a squish. Sparkle, silent, and frozen do not fit a wet sound.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-105",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "Because the sun was bright, we sat in the ____ of the oak tree.",
+    "choices": [
+      "oven",
+      "middle",
+      "calendar",
+      "shade"
+    ],
+    "answerIndex": 3,
+    "explanation": "A bright sun makes people look for shade. The other words are not a cool place under a tree.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-106",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The clue said to ____ the secret word, so we said nothing out loud.",
+    "choices": [
+      "shout",
+      "paint",
+      "whisper",
+      "erase"
+    ],
+    "answerIndex": 2,
+    "explanation": "Saying nothing out loud matches a whisper, not a shout.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-107",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "After the long hike, Jordan’s legs felt ____ and he wanted to sit.",
+    "choices": [
+      "purple",
+      "tired",
+      "quick",
+      "new"
+    ],
+    "answerIndex": 1,
+    "explanation": "A long hike makes legs tired. The other choices do not describe that feeling.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-108",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The soup was too ____, so Priya added a spoon of water.",
+    "choices": [
+      "round",
+      "early",
+      "salty",
+      "quiet"
+    ],
+    "answerIndex": 2,
+    "explanation": "Adding water is a clue that the soup had too much salt. The answer is \"salty\".",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-109",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The baby chick was still ____, so it stayed close to the hen.",
+    "choices": [
+      "small",
+      "ancient",
+      "loudest",
+      "square"
+    ],
+    "answerIndex": 0,
+    "explanation": "A baby chick that stays with the hen is small and young, not ancient.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-110",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "We packed an umbrella ____ the sky was full of dark clouds.",
+    "choices": [
+      "because",
+      "or",
+      "unless",
+      "but"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dark clouds are the reason for the umbrella, so because fits.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-111",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The librarian asked us to be ____ near the reading corner.",
+    "choices": [
+      "quiet",
+      "huge",
+      "spicy",
+      "late"
+    ],
+    "answerIndex": 0,
+    "explanation": "A reading corner is a place for quiet voices.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-112",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "Luis tied the rope twice so the boat would stay ____ to the dock.",
+    "choices": [
+      "invisible",
+      "fastened",
+      "sour",
+      "asleep"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tying a rope keeps a boat fastened, or held, to the dock.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-113",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The word enormous means the pumpkin was very ____.",
+    "choices": [
+      "large",
+      "tiny",
+      "early",
+      "sour"
+    ],
+    "answerIndex": 0,
+    "explanation": "Enormous means very large. Tiny is the opposite.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-114",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "If you nibble a cracker, you take a ____ bite.",
+    "choices": [
+      "giant",
+      "square",
+      "silent",
+      "small"
+    ],
+    "answerIndex": 3,
+    "explanation": "A nibble is a small bite. The best choice is \"small.\"",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-115",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The coins ____ when they dropped into the empty jar.",
+    "choices": [
+      "melted",
+      "bloomed",
+      "clinked",
+      "slept"
+    ],
+    "answerIndex": 2,
+    "explanation": "Coins hitting a jar make a clink. They do not bloom or sleep. The answer is \"clinked\".",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-116",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "Aisha read the recipe again ____ she would not forget the salt.",
+    "choices": [
+      "so",
+      "yet",
+      "or",
+      "but"
+    ],
+    "answerIndex": 0,
+    "explanation": "She reread for a purpose: so she would not forget.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-117",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The opposite of scarce is ____, because we had more than enough pencils.",
+    "choices": [
+      "plentiful",
+      "rare",
+      "broken",
+      "empty"
+    ],
+    "answerIndex": 0,
+    "explanation": "The sentence says there were more than enough, which means plentiful. Scarce means not enough.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-118",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The kitten crept ____ so it would not wake the baby.",
+    "choices": [
+      "sourly",
+      "loudly",
+      "softly",
+      "squarely"
+    ],
+    "answerIndex": 2,
+    "explanation": "Not waking the baby is a clue for a soft, quiet movement. The answer is \"softly\".",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-119",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "Noah checked both ways ____ he crossed the street.",
+    "choices": [
+      "without",
+      "before",
+      "after",
+      "unless"
+    ],
+    "answerIndex": 1,
+    "explanation": "You look both ways before you cross, not after.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-120",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The stage lights were so ____ that the actors squinted.",
+    "choices": [
+      "tasty",
+      "sleepy",
+      "bright",
+      "whispery"
+    ],
+    "answerIndex": 2,
+    "explanation": "Squinting is a clue that the lights were bright.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-121",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "We will ____ the game if the thunder gets closer.",
+    "choices": [
+      "postpone",
+      "measure",
+      "devour",
+      "polish"
+    ],
+    "answerIndex": 0,
+    "explanation": "Postpone means to put off until later, which fits a storm delay. The answer is \"postpone\".",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-122",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The cactus can survive with little water, so it is used to a ____ place.",
+    "choices": [
+      "dry",
+      "soggy",
+      "frozen",
+      "noisy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Little water matches a dry place. The best choice is \"dry.\"",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-123",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "Mei returned the book ____ it was due on Friday.",
+    "choices": [
+      "although",
+      "because",
+      "or",
+      "unless"
+    ],
+    "answerIndex": 1,
+    "explanation": "The due date is the reason she returned it. The answer is \"because\".",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-124",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The synonym of chilly is ____.",
+    "choices": [
+      "huge",
+      "loud",
+      "cool",
+      "boiling"
+    ],
+    "answerIndex": 2,
+    "explanation": "Chilly and cool both mean a little cold.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-125",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The ants marched in a ____ line from the crumb to the crack.",
+    "choices": [
+      "flavorful",
+      "woolen",
+      "straight",
+      "sleepy"
+    ],
+    "answerIndex": 2,
+    "explanation": "A marching line of ants is straight, not a flavor or a fabric.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-126",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "Hugo was ____ to share, so he passed the crayons before anyone asked.",
+    "choices": [
+      "unwilling",
+      "eager",
+      "asleep",
+      "invisible"
+    ],
+    "answerIndex": 1,
+    "explanation": "Passing the crayons before being asked shows he was eager.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-127",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The bridge is narrow, ____ we walked in a single line.",
+    "choices": [
+      "so",
+      "yet",
+      "nor",
+      "or"
+    ],
+    "answerIndex": 0,
+    "explanation": "The narrow bridge is the reason for the single line.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-128",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "A habitat is the place an animal ____.",
+    "choices": [
+      "borrows",
+      "spells",
+      "subtracts",
+      "lives"
+    ],
+    "answerIndex": 3,
+    "explanation": "A habitat is a home, the place an animal lives.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-129",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The dough needs to ____ in a warm spot until it doubles in size.",
+    "choices": [
+      "freeze",
+      "rise",
+      "shrink",
+      "erase"
+    ],
+    "answerIndex": 1,
+    "explanation": "Doubling in size is a clue that the dough should rise.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-130",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "Please ____ your name on the top line so the teacher knows whose work it is.",
+    "choices": [
+      "fold",
+      "write",
+      "hide",
+      "erase"
+    ],
+    "answerIndex": 1,
+    "explanation": "The purpose is for the teacher to see the name, so write fits.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-131",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The museum sign said “Fragile,” which means the vase can ____ easily.",
+    "choices": [
+      "sing",
+      "break",
+      "fly",
+      "grow"
+    ],
+    "answerIndex": 1,
+    "explanation": "Fragile objects break easily. The best choice is \"break.\"",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-132",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "We saved our coins ____ the class could buy a new soccer ball.",
+    "choices": [
+      "but",
+      "nor",
+      "so",
+      "or"
+    ],
+    "answerIndex": 2,
+    "explanation": "The purpose of saving was so the class could buy the ball.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-133",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The path was ____, and the sign showed a steep hill ahead.",
+    "choices": [
+      "plural",
+      "flavorless",
+      "uphill",
+      "midnight"
+    ],
+    "answerIndex": 2,
+    "explanation": "A steep hill ahead means the path was uphill.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-134",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "If the bucket ____, water will spill on the floor.",
+    "choices": [
+      "blooms",
+      "tips",
+      "yawns",
+      "rhymes"
+    ],
+    "answerIndex": 1,
+    "explanation": "A bucket that tips will spill. The best choice is \"tips.\"",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-135",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The story’s hero was ____, because she told the truth even when it was hard.",
+    "choices": [
+      "tardy",
+      "spicy",
+      "invisible",
+      "honest"
+    ],
+    "answerIndex": 3,
+    "explanation": "Telling the truth is a clue for honest. The best choice is \"honest.\"",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-136",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The leaves turned red ____ the weather grew cooler.",
+    "choices": [
+      "nor",
+      "or",
+      "when",
+      "unless"
+    ],
+    "answerIndex": 2,
+    "explanation": "The color change happened at the time the weather cooled, so when fits.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-137",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "A dozen means ____, so twelve eggs filled the carton.",
+    "choices": [
+      "one hundred",
+      "two",
+      "twelve",
+      "zero"
+    ],
+    "answerIndex": 2,
+    "explanation": "The sentence tells you a dozen is twelve.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-138",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The saxophone was ____ at first, but practice made the notes smoother.",
+    "choices": [
+      "squeaky",
+      "edible",
+      "silent forever",
+      "square"
+    ],
+    "answerIndex": 0,
+    "explanation": "A new player’s notes can be squeaky before practice helps.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-139",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "We labeled the jars ____ we would remember which seeds were inside.",
+    "choices": [
+      "or",
+      "so",
+      "nor",
+      "yet"
+    ],
+    "answerIndex": 1,
+    "explanation": "The labels have a purpose: so we would remember.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-140",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The opposite of ancient is ____.",
+    "choices": [
+      "modern",
+      "huge",
+      "dusty",
+      "old"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ancient means very old. Modern means of the present time. The answer is \"modern\".",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-141",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The puppy ____ under the porch until the fireworks ended.",
+    "choices": [
+      "spelled",
+      "hid",
+      "divided",
+      "bloomed"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hiding under the porch fits a scared puppy. The other words are not actions a puppy does. The answer is \"hid\".",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-142",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "Because the recipe serves four, we ____ it to feed eight people.",
+    "choices": [
+      "hid",
+      "erased",
+      "folded",
+      "doubled"
+    ],
+    "answerIndex": 3,
+    "explanation": "Eight is twice four, so the recipe was doubled.",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-143",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "The compass needle points north, ____ hikers can find their way.",
+    "choices": [
+      "nor",
+      "or",
+      "so",
+      "yet"
+    ],
+    "answerIndex": 2,
+    "explanation": "The needle gives a result: hikers can find their way. The answer is \"so\".",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-sc-144",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "sentence-completion",
+    "topicLabel": "Sentence completion",
+    "prompt": "A glossary is a list of ____ and their meanings.",
+    "choices": [
+      "words",
+      "lunches",
+      "clouds",
+      "rulers"
+    ],
+    "answerIndex": 0,
+    "explanation": "A glossary explains word meanings. The answer is \"words\".",
+    "skill": "L.3.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  }
+]

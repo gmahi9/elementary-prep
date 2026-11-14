@@ -1,0 +1,1964 @@
+[
+  {
+    "id": "g3-pf-358",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 64 across and 18 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 64,
+        "y": 18
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 64 across and 18 down."
+    },
+    "choices": [
+      "Only one hole: upper right of the fold",
+      "Two holes: lower right of the fold and upper right of the fold",
+      "Two holes: upper left of the fold and upper right of the fold",
+      "4 holes: lower left of the fold; lower right of the fold; upper left of the fold; upper right of the fold"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 18
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 18
+          },
+          {
+            "x": 64,
+            "y": 82
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 18
+          },
+          {
+            "x": 36,
+            "y": 18
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 18
+          },
+          {
+            "x": 64,
+            "y": 82
+          },
+          {
+            "x": 36,
+            "y": 18
+          },
+          {
+            "x": 36,
+            "y": 82
+          }
+        ]
+      }
+    ],
+    "answerIndex": 2,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: upper left of the fold and upper right of the fold.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 64,
+        "y": 18
+      }
+    }
+  },
+  {
+    "id": "g3-pf-359",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 64 across and 28 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 64,
+        "y": 28
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 64 across and 28 down."
+    },
+    "choices": [
+      "Two holes: upper left of the fold and upper right of the fold",
+      "Two holes: lower right of the fold and upper right of the fold",
+      "Only one hole: upper right of the fold",
+      "4 holes: lower left of the fold; lower right of the fold; upper left of the fold; upper right of the fold"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 28
+          },
+          {
+            "x": 36,
+            "y": 28
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 28
+          },
+          {
+            "x": 64,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 28
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 28
+          },
+          {
+            "x": 64,
+            "y": 72
+          },
+          {
+            "x": 36,
+            "y": 28
+          },
+          {
+            "x": 36,
+            "y": 72
+          }
+        ]
+      }
+    ],
+    "answerIndex": 0,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: upper left of the fold and upper right of the fold.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 64,
+        "y": 28
+      }
+    }
+  },
+  {
+    "id": "g3-pf-360",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 64 across and 38 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 64,
+        "y": 38
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 64 across and 38 down."
+    },
+    "choices": [
+      "4 holes: high left of the fold; high right of the fold; low left of the fold; low right of the fold",
+      "Two holes: high left of the fold and high right of the fold",
+      "Two holes: high right of the fold and low right of the fold",
+      "Only one hole: high right of the fold"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 38
+          },
+          {
+            "x": 64,
+            "y": 62
+          },
+          {
+            "x": 36,
+            "y": 38
+          },
+          {
+            "x": 36,
+            "y": 62
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 38
+          },
+          {
+            "x": 36,
+            "y": 38
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 38
+          },
+          {
+            "x": 64,
+            "y": 62
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 38
+          }
+        ]
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: high left of the fold and high right of the fold.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 64,
+        "y": 38
+      }
+    }
+  },
+  {
+    "id": "g3-pf-361",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 64 across and 66 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 64,
+        "y": 66
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 64 across and 66 down."
+    },
+    "choices": [
+      "Two holes: low left of the fold and low right of the fold",
+      "4 holes: high left of the fold; high right of the fold; low left of the fold; low right of the fold",
+      "Only one hole: low right of the fold",
+      "Two holes: high right of the fold and low right of the fold"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 66
+          },
+          {
+            "x": 36,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 66
+          },
+          {
+            "x": 64,
+            "y": 34
+          },
+          {
+            "x": 36,
+            "y": 66
+          },
+          {
+            "x": 36,
+            "y": 34
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 66
+          },
+          {
+            "x": 64,
+            "y": 34
+          }
+        ]
+      }
+    ],
+    "answerIndex": 0,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: low left of the fold and low right of the fold.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 64,
+        "y": 66
+      }
+    }
+  },
+  {
+    "id": "g3-pf-362",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 64 across and 76 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 64,
+        "y": 76
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 64 across and 76 down."
+    },
+    "choices": [
+      "Only one hole: lower right of the fold",
+      "4 holes: lower left of the fold; lower right of the fold; upper left of the fold; upper right of the fold",
+      "Two holes: lower left of the fold and lower right of the fold",
+      "Two holes: lower right of the fold and upper right of the fold"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 76
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 76
+          },
+          {
+            "x": 64,
+            "y": 24
+          },
+          {
+            "x": 36,
+            "y": 76
+          },
+          {
+            "x": 36,
+            "y": 24
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 76
+          },
+          {
+            "x": 36,
+            "y": 76
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 76
+          },
+          {
+            "x": 64,
+            "y": 24
+          }
+        ]
+      }
+    ],
+    "answerIndex": 2,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: lower left of the fold and lower right of the fold.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 64,
+        "y": 76
+      }
+    }
+  },
+  {
+    "id": "g3-pf-363",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 64 across and 86 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 64,
+        "y": 86
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 64 across and 86 down."
+    },
+    "choices": [
+      "Two holes: lower left of the fold and lower right of the fold",
+      "Two holes: lower right of the fold and upper right of the fold",
+      "4 holes: lower left of the fold; lower right of the fold; upper left of the fold; upper right of the fold",
+      "Only one hole: lower right of the fold"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 86
+          },
+          {
+            "x": 36,
+            "y": 86
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 86
+          },
+          {
+            "x": 64,
+            "y": 14
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 86
+          },
+          {
+            "x": 64,
+            "y": 14
+          },
+          {
+            "x": 36,
+            "y": 86
+          },
+          {
+            "x": 36,
+            "y": 14
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 64,
+            "y": 86
+          }
+        ]
+      }
+    ],
+    "answerIndex": 0,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: lower left of the fold and lower right of the fold.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 64,
+        "y": 86
+      }
+    }
+  },
+  {
+    "id": "g3-pf-364",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 72 across and 18 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 72,
+        "y": 18
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 72 across and 18 down."
+    },
+    "choices": [
+      "Only one hole: upper far right",
+      "Two holes: lower far right and upper far right",
+      "4 holes: lower far left; lower far right; upper far left; upper far right",
+      "Two holes: upper far left and upper far right"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 18
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 18
+          },
+          {
+            "x": 72,
+            "y": 82
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 18
+          },
+          {
+            "x": 72,
+            "y": 82
+          },
+          {
+            "x": 28,
+            "y": 18
+          },
+          {
+            "x": 28,
+            "y": 82
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 18
+          },
+          {
+            "x": 28,
+            "y": 18
+          }
+        ]
+      }
+    ],
+    "answerIndex": 3,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: upper far left and upper far right.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 72,
+        "y": 18
+      }
+    }
+  },
+  {
+    "id": "g3-pf-365",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 72 across and 28 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 72,
+        "y": 28
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 72 across and 28 down."
+    },
+    "choices": [
+      "Only one hole: upper far right",
+      "Two holes: upper far left and upper far right",
+      "Two holes: lower far right and upper far right",
+      "4 holes: lower far left; lower far right; upper far left; upper far right"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 28
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 28
+          },
+          {
+            "x": 28,
+            "y": 28
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 28
+          },
+          {
+            "x": 72,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 28
+          },
+          {
+            "x": 72,
+            "y": 72
+          },
+          {
+            "x": 28,
+            "y": 28
+          },
+          {
+            "x": 28,
+            "y": 72
+          }
+        ]
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: upper far left and upper far right.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 72,
+        "y": 28
+      }
+    }
+  },
+  {
+    "id": "g3-pf-366",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 72 across and 38 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 72,
+        "y": 38
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 72 across and 38 down."
+    },
+    "choices": [
+      "Two holes: high far right and low far right",
+      "Two holes: high far left and high far right",
+      "4 holes: high far left; high far right; low far left; low far right",
+      "Only one hole: high far right"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 38
+          },
+          {
+            "x": 72,
+            "y": 62
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 38
+          },
+          {
+            "x": 28,
+            "y": 38
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 38
+          },
+          {
+            "x": 72,
+            "y": 62
+          },
+          {
+            "x": 28,
+            "y": 38
+          },
+          {
+            "x": 28,
+            "y": 62
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 38
+          }
+        ]
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: high far left and high far right.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 72,
+        "y": 38
+      }
+    }
+  },
+  {
+    "id": "g3-pf-367",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 72 across and 66 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 72,
+        "y": 66
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 72 across and 66 down."
+    },
+    "choices": [
+      "Two holes: low far left and low far right",
+      "Two holes: high far right and low far right",
+      "4 holes: high far left; high far right; low far left; low far right",
+      "Only one hole: low far right"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 66
+          },
+          {
+            "x": 28,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 66
+          },
+          {
+            "x": 72,
+            "y": 34
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 66
+          },
+          {
+            "x": 72,
+            "y": 34
+          },
+          {
+            "x": 28,
+            "y": 66
+          },
+          {
+            "x": 28,
+            "y": 34
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 66
+          }
+        ]
+      }
+    ],
+    "answerIndex": 0,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: low far left and low far right.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 72,
+        "y": 66
+      }
+    }
+  },
+  {
+    "id": "g3-pf-368",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 72 across and 76 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 72,
+        "y": 76
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 72 across and 76 down."
+    },
+    "choices": [
+      "4 holes: lower far left; lower far right; upper far left; upper far right",
+      "Two holes: lower far left and lower far right",
+      "Only one hole: lower far right",
+      "Two holes: lower far right and upper far right"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 76
+          },
+          {
+            "x": 72,
+            "y": 24
+          },
+          {
+            "x": 28,
+            "y": 76
+          },
+          {
+            "x": 28,
+            "y": 24
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 76
+          },
+          {
+            "x": 28,
+            "y": 76
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 76
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 76
+          },
+          {
+            "x": 72,
+            "y": 24
+          }
+        ]
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: lower far left and lower far right.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 72,
+        "y": 76
+      }
+    }
+  },
+  {
+    "id": "g3-pf-369",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 72 across and 86 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 72,
+        "y": 86
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 72 across and 86 down."
+    },
+    "choices": [
+      "4 holes: lower far left; lower far right; upper far left; upper far right",
+      "Only one hole: lower far right",
+      "Two holes: lower far left and lower far right",
+      "Two holes: lower far right and upper far right"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 86
+          },
+          {
+            "x": 72,
+            "y": 14
+          },
+          {
+            "x": 28,
+            "y": 86
+          },
+          {
+            "x": 28,
+            "y": 14
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 86
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 86
+          },
+          {
+            "x": 28,
+            "y": 86
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 72,
+            "y": 86
+          },
+          {
+            "x": 72,
+            "y": 14
+          }
+        ]
+      }
+    ],
+    "answerIndex": 2,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: lower far left and lower far right.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 72,
+        "y": 86
+      }
+    }
+  },
+  {
+    "id": "g3-pf-370",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 78 across and 18 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 78,
+        "y": 18
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 78 across and 18 down."
+    },
+    "choices": [
+      "Two holes: upper far left and upper far right",
+      "Two holes: lower far right and upper far right",
+      "4 holes: lower far left; lower far right; upper far left; upper far right",
+      "Only one hole: upper far right"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 18
+          },
+          {
+            "x": 22,
+            "y": 18
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 18
+          },
+          {
+            "x": 78,
+            "y": 82
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 18
+          },
+          {
+            "x": 78,
+            "y": 82
+          },
+          {
+            "x": 22,
+            "y": 18
+          },
+          {
+            "x": 22,
+            "y": 82
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 18
+          }
+        ]
+      }
+    ],
+    "answerIndex": 0,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: upper far left and upper far right.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 78,
+        "y": 18
+      }
+    }
+  },
+  {
+    "id": "g3-pf-371",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 78 across and 28 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 78,
+        "y": 28
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 78 across and 28 down."
+    },
+    "choices": [
+      "4 holes: lower far left; lower far right; upper far left; upper far right",
+      "Two holes: lower far right and upper far right",
+      "Only one hole: upper far right",
+      "Two holes: upper far left and upper far right"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 28
+          },
+          {
+            "x": 78,
+            "y": 72
+          },
+          {
+            "x": 22,
+            "y": 28
+          },
+          {
+            "x": 22,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 28
+          },
+          {
+            "x": 78,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 28
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 28
+          },
+          {
+            "x": 22,
+            "y": 28
+          }
+        ]
+      }
+    ],
+    "answerIndex": 3,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: upper far left and upper far right.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 78,
+        "y": 28
+      }
+    }
+  },
+  {
+    "id": "g3-pf-372",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 78 across and 38 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 78,
+        "y": 38
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 78 across and 38 down."
+    },
+    "choices": [
+      "Two holes: high far left and high far right",
+      "Two holes: high far right and low far right",
+      "Only one hole: high far right",
+      "4 holes: high far left; high far right; low far left; low far right"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 38
+          },
+          {
+            "x": 22,
+            "y": 38
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 38
+          },
+          {
+            "x": 78,
+            "y": 62
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 38
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 38
+          },
+          {
+            "x": 78,
+            "y": 62
+          },
+          {
+            "x": 22,
+            "y": 38
+          },
+          {
+            "x": 22,
+            "y": 62
+          }
+        ]
+      }
+    ],
+    "answerIndex": 0,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: high far left and high far right.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 78,
+        "y": 38
+      }
+    }
+  },
+  {
+    "id": "g3-pf-373",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 78 across and 66 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 78,
+        "y": 66
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 78 across and 66 down."
+    },
+    "choices": [
+      "4 holes: high far left; high far right; low far left; low far right",
+      "Two holes: low far left and low far right",
+      "Two holes: high far right and low far right",
+      "Only one hole: low far right"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 66
+          },
+          {
+            "x": 78,
+            "y": 34
+          },
+          {
+            "x": 22,
+            "y": 66
+          },
+          {
+            "x": 22,
+            "y": 34
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 66
+          },
+          {
+            "x": 22,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 66
+          },
+          {
+            "x": 78,
+            "y": 34
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 66
+          }
+        ]
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: low far left and low far right.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 78,
+        "y": 66
+      }
+    }
+  },
+  {
+    "id": "g3-pf-374",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 78 across and 76 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 78,
+        "y": 76
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 78 across and 76 down."
+    },
+    "choices": [
+      "4 holes: lower far left; lower far right; upper far left; upper far right",
+      "Only one hole: lower far right",
+      "Two holes: lower far left and lower far right",
+      "Two holes: lower far right and upper far right"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 76
+          },
+          {
+            "x": 78,
+            "y": 24
+          },
+          {
+            "x": 22,
+            "y": 76
+          },
+          {
+            "x": 22,
+            "y": 24
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 76
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 76
+          },
+          {
+            "x": 22,
+            "y": 76
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 76
+          },
+          {
+            "x": 78,
+            "y": 24
+          }
+        ]
+      }
+    ],
+    "answerIndex": 2,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: lower far left and lower far right.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 78,
+        "y": 76
+      }
+    }
+  },
+  {
+    "id": "g3-pf-375",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "A square is folded on the vertical dashed line. One punch goes through the layers at 78 across and 86 down on a 100 by 100 square. Where are the holes when the paper opens?",
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 78,
+        "y": 86
+      },
+      "alt": "A square paper with the vertical dashed line. The red punch mark is 78 across and 86 down."
+    },
+    "choices": [
+      "Two holes: lower far right and upper far right",
+      "Two holes: lower far left and lower far right",
+      "4 holes: lower far left; lower far right; upper far left; upper far right",
+      "Only one hole: lower far right"
+    ],
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 86
+          },
+          {
+            "x": 78,
+            "y": 14
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 86
+          },
+          {
+            "x": 22,
+            "y": 86
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 86
+          },
+          {
+            "x": 78,
+            "y": 14
+          },
+          {
+            "x": 22,
+            "y": 86
+          },
+          {
+            "x": 22,
+            "y": 14
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 78,
+            "y": 86
+          }
+        ]
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "The vertical fold mirrors the hole from left to right. Opening the paper shows Two holes: lower far left and lower far right.",
+    "skill": "G3.REASON.FOLD",
+    "skillLabel": "Paper folding and symmetry",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 78,
+        "y": 86
+      }
+    }
+  }
+]

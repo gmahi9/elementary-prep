@@ -1,0 +1,758 @@
+[
+  {
+    "id": "g3-voc-941",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"The Library Plant\", what does \"perkier\" mean?",
+    "passageTitle": "The Library Plant",
+    "passage": "Maya watered the library plant every Tuesday. One week the leaves drooped, and the soil felt dry and hard. Maya checked the chart on the pot. It said, \"Water when the soil is dry.\" She filled a cup, poured slowly, and waited. By Friday the leaves looked perkier, and the librarian left a note that said, \"Thank you for noticing.\"",
+    "choices": [
+      "smaller than before",
+      "looking healthier and less droopy",
+      "much noisier",
+      "darker in color"
+    ],
+    "answerIndex": 1,
+    "explanation": "The leaves had drooped. After water, they looked perkier, so the word means healthier and less droopy. The answer is \"looking healthier and less droopy\".",
+    "skill": "RL.3.4",
+    "skillLabel": "Story vocabulary",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RL.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "perkier"
+    }
+  },
+  {
+    "id": "g3-voc-945",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"Peaches at the Market\", what does \"cobbler\" mean?",
+    "passageTitle": "Peaches at the Market",
+    "passage": "Luis held the grocery list while his uncle pushed the cart. At the fruit stand, a sign said three peaches for two dollars. Luis counted six peaches into a bag and checked the list again. His uncle smiled and said they had enough for cobbler. On the way home, the bag bumped Luis’s knee and smelled sweet. He did not eat even one, because the peaches were for sharing.",
+    "choices": [
+      "a baked dessert, here made with peaches",
+      "a sour drink",
+      "a person who fixes shoes only",
+      "a kind of shopping cart"
+    ],
+    "answerIndex": 0,
+    "explanation": "Uncle says the peaches are enough for cobbler, and they are fruit. In this story cobbler means a baked dessert. Shoe-repair is another meaning, but it does not fit peaches. The answer is \"a baked dessert, here made with peaches\".",
+    "skill": "RL.3.4",
+    "skillLabel": "Story vocabulary",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RL.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "cobbler"
+    }
+  },
+  {
+    "id": "g3-voc-949",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"The Paper Bridge\", what does \"supports\" mean?",
+    "passageTitle": "The Paper Bridge",
+    "passage": "Priya wanted her paper bridge to hold ten pennies. Her first bridge folded in the middle and dropped every coin. She looked at the classroom poster of a real bridge. The poster showed triangles under the road. Priya folded new supports into triangles and tried again. This time the pennies stayed on top, and Priya wrote \"triangles\" in her notebook.",
+    "choices": [
+      "coins used as prizes",
+      "words written in a notebook",
+      "posters on a wall",
+      "parts that hold something up"
+    ],
+    "answerIndex": 3,
+    "explanation": "Priya folded supports into triangles so the bridge could hold pennies. Supports are the parts that hold it up. The answer is \"parts that hold something up\".",
+    "skill": "RL.3.4",
+    "skillLabel": "Story vocabulary",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RL.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "supports"
+    }
+  },
+  {
+    "id": "g3-voc-953",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"Rain Plan\", what does \"piled\" mean?",
+    "passageTitle": "Rain Plan",
+    "passage": "The class picnic was planned for the grassy field. At lunchtime, clouds piled up and the first drops hit the tables. Coach Ruiz pointed to the gym doors. Students carried blankets, oranges, and the speaker inside. They spread the blankets on the gym floor and started the music. Aisha said the picnic had changed shape, but it was still a picnic.",
+    "choices": [
+      "lined up in alphabetical order",
+      "turned into music",
+      "gathered into a big heap",
+      "dried in the sun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Clouds piled up means they gathered into a large heap in the sky before the rain. The answer is \"gathered into a big heap\".",
+    "skill": "RL.3.4",
+    "skillLabel": "Story vocabulary",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RL.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "piled"
+    }
+  },
+  {
+    "id": "g3-voc-957",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"Hamster Duty\", what does \"slid\" mean?",
+    "passageTitle": "Hamster Duty",
+    "passage": "Room 12’s hamster, Nib, needed fresh water every morning. Noah’s name was on Thursday’s chart, but he almost forgot. At the door he turned around and filled the bottle at the sink. Nib stood up and drank right away. Noah checked the food cup too and found it half full. He washed his hands and slid the chart clip to Friday.",
+    "choices": [
+      "tore into tiny pieces",
+      "hid under a desk",
+      "read in a loud voice",
+      "moved something smoothly along"
+    ],
+    "answerIndex": 3,
+    "explanation": "Noah slid the chart clip to Friday, which means he moved the clip smoothly to the next day. The answer is \"moved something smoothly along\".",
+    "skill": "RL.3.4",
+    "skillLabel": "Story vocabulary",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RL.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "slid"
+    }
+  },
+  {
+    "id": "g3-voc-961",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"The Quiet Birdwatcher\", what does \"shallow\" mean?",
+    "passageTitle": "The Quiet Birdwatcher",
+    "passage": "On Saturday, Hana and her grandma walked to the pond with a notebook. Grandma whispered that sudden noises send birds away. Hana froze when a heron stepped into the shallow water. She sketched the long beak before the bird lifted off. On the walk home they counted four kinds of birds in the notebook. Hana said the quiet had been a tool, not just a rule.",
+    "choices": [
+      "very salty",
+      "full of ice",
+      "not deep",
+      "too dark to see"
+    ],
+    "answerIndex": 2,
+    "explanation": "The heron stepped into shallow water, meaning water that is not deep.",
+    "skill": "RL.3.4",
+    "skillLabel": "Story vocabulary",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RL.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "shallow"
+    }
+  },
+  {
+    "id": "g3-voc-965",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"New Laces\", what does \"undone\" mean?",
+    "passageTitle": "New Laces",
+    "passage": "Evan’s new sneakers had long bright laces. On Monday the bows came undone three times before lunch. His friend Lila showed him the bunny-ear steps again. Evan practiced on a chair leg during indoor recess. By Wednesday the bows stayed tied through soccer. He thanked Lila and taught the steps to his little cousin.",
+    "choices": [
+      "untied or come loose",
+      "hidden in a locker",
+      "tied in a double knot",
+      "painted a new color"
+    ],
+    "answerIndex": 0,
+    "explanation": "The bows came undone three times, which means they came loose. The story is about ties that did not stay knotted. The answer is \"untied or come loose\".",
+    "skill": "RL.3.4",
+    "skillLabel": "Story vocabulary",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RL.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "undone"
+    }
+  },
+  {
+    "id": "g3-voc-969",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"Fort Map\", what does \"sagged\" mean?",
+    "passageTitle": "Fort Map",
+    "passage": "Ruby and Andre built a blanket fort between two chairs. They made a map so their little brother could find the reading nook. A blue square stood for the pillow door. A red line showed the tunnel to the flashlight shelf. When the fort sagged, they added a third chair and fixed the map. Their brother followed the colors and crawled in with a book.",
+    "choices": [
+      "grew twice as tall",
+      "made a loud bell sound",
+      "turned bright red",
+      "drooped or sank in the middle"
+    ],
+    "answerIndex": 3,
+    "explanation": "The fort sagged and needed another chair. Sagged means the blankets drooped. The answer is \"drooped or sank in the middle\".",
+    "skill": "RL.3.4",
+    "skillLabel": "Story vocabulary",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RL.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "sagged"
+    }
+  },
+  {
+    "id": "g3-voc-973",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"A Letter to Cousin Imani\", what does \"reply\" mean?",
+    "passageTitle": "A Letter to Cousin Imani",
+    "passage": "Kai wrote a letter instead of sending a short message. He told Imani about the class play and the cardboard castle. He asked what her new school served for lunch. Mom helped him address the envelope and add a stamp. At the mailbox he paused, then let the letter go. Two weeks later a thick reply arrived, full of questions for him.",
+    "choices": [
+      "a cardboard castle",
+      "a kind of mailbox",
+      "an answer sent back to someone",
+      "a lunch menu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kai sent a letter, and a reply arrived. A reply is the answer that comes back. The answer is \"an answer sent back to someone\".",
+    "skill": "RL.3.4",
+    "skillLabel": "Story vocabulary",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RL.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "reply"
+    }
+  },
+  {
+    "id": "g3-voc-977",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"The Patched Kite\", what does \"dipped\" mean?",
+    "passageTitle": "The Patched Kite",
+    "passage": "The wind was finally right, but Tara’s kite had a tear near the corner. Grandpa brought tissue paper, glue, and a scrap of red ribbon. They matched the patch to the tear and let it dry on the porch. While they waited, Tara retied the tail so it would not spin. At the hill the kite climbed, dipped once, and then stayed high. Tara said the patch looked like a small flag of patience.",
+    "choices": [
+      "went down for a moment",
+      "broke into two pieces",
+      "turned into a porch",
+      "lost its tail forever"
+    ],
+    "answerIndex": 0,
+    "explanation": "The kite climbed, dipped once, and then stayed high. Dipped means it went down briefly and recovered. The answer is \"went down for a moment\".",
+    "skill": "RL.3.4",
+    "skillLabel": "Story vocabulary",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RL.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "dipped"
+    }
+  },
+  {
+    "id": "g3-voc-981",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"Almost Snow\", what does \"forecast\" mean?",
+    "passageTitle": "Almost Snow",
+    "passage": "The forecast had promised snow before recess. Students lined up with hats, but the sky sent cold rain instead. Ms. Ortiz changed the plan and opened the indoor obstacle course. Sofia crawled under the yarn bridge and waited her turn at the hoop. She still checked the window twice, hoping for flakes. At dismissal the rain slowed, and Sofia said, \"Maybe the snow is just late.\"",
+    "choices": [
+      "a kind of indoor hoop",
+      "a late dismissal bell",
+      "a pile of hats",
+      "a prediction of the weather"
+    ],
+    "answerIndex": 3,
+    "explanation": "The forecast promised snow. A forecast is a weather prediction. The answer is \"a prediction of the weather\".",
+    "skill": "RL.3.4",
+    "skillLabel": "Story vocabulary",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RL.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "forecast"
+    }
+  },
+  {
+    "id": "g3-voc-985",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"Choir Tryouts\", what does \"solo\" mean?",
+    "passageTitle": "Choir Tryouts",
+    "passage": "Jonah wanted a solo, but his voice cracked on the high note. He asked the music teacher for one extra practice. They broke the line into three smaller pieces. Jonah hummed each piece until the note felt steady. At tryouts he sang the whole line without stopping. He did not get the solo, but he earned a duet with Mei.",
+    "choices": [
+      "a song with no notes",
+      "a broken piano key",
+      "a part sung by one person",
+      "a seat in the back row"
+    ],
+    "answerIndex": 2,
+    "explanation": "Jonah wanted a solo, and later he earned a duet instead. A solo is a part for one singer. A duet is for two. The answer is \"a part sung by one person\".",
+    "skill": "RL.3.4",
+    "skillLabel": "Story vocabulary",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RL.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "solo"
+    }
+  },
+  {
+    "id": "g3-voc-989",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"How Honeybees Help\", what does \"pollination\" mean?",
+    "passageTitle": "How Honeybees Help",
+    "passage": "Honeybees visit flowers to drink nectar. Pollen sticks to their fuzzy bodies and rides to the next bloom. That move is called pollination, and it lets many plants make seeds. Apples, almonds, and cucumbers all depend on this kind of help. A hive works as a group, with different bees caring for young, guarding the door, or searching for flowers. People can help bees by planting flowers and avoiding sprays that harm them.",
+    "choices": [
+      "moving pollen so a plant can make seeds",
+      "guarding a hive from rain",
+      "building a wax door",
+      "drinking water from a puddle"
+    ],
+    "answerIndex": 0,
+    "explanation": "The passage says pollen rides to the next bloom and that move is called pollination, which lets plants make seeds. The answer is \"moving pollen so a plant can make seeds\".",
+    "skill": "RI.3.4",
+    "skillLabel": "Informational vocabulary",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RI.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "pollination"
+    }
+  },
+  {
+    "id": "g3-voc-993",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"Garden Soil\", what does \"gritty\" mean?",
+    "passageTitle": "Garden Soil",
+    "passage": "The school garden has three beds of soil. Clay soil feels sticky and holds water for a long time. Sandy soil feels gritty and lets water drain quickly. The middle bed is loam, a mix that many vegetable roots like. Students add dried leaves to the clay bed so it will not pack so hard. They water the sandy bed a little more often because it dries out.",
+    "choices": [
+      "rough, like tiny grains",
+      "smooth and icy",
+      "full of leaves only",
+      "very quiet"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sandy soil feels gritty. Sand is made of tiny grains, so gritty means rough like those grains. The answer is \"rough, like tiny grains\".",
+    "skill": "RI.3.4",
+    "skillLabel": "Informational vocabulary",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RI.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "gritty"
+    }
+  },
+  {
+    "id": "g3-voc-997",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"Triangles in Bridges\", what does \"braced\" mean?",
+    "passageTitle": "Triangles in Bridges",
+    "passage": "Look under many bridges and you will see triangles. A triangle keeps its shape when it is pushed at the corners. A square frame can lean and turn into a slanted shape unless it is braced. Engineers add a diagonal bar to make two triangles. That is why cranes, roofs, and bike frames use triangles too. The shape is simple, but it is strong for its weight.",
+    "choices": [
+      "moved to a different city",
+      "supported so it will not lean or collapse",
+      "painted a new color",
+      "weighed on a scale"
+    ],
+    "answerIndex": 1,
+    "explanation": "A square can lean unless it is braced. In this passage, braced means supported so it keeps its shape. The answer is \"supported so it will not lean or collapse\".",
+    "skill": "RI.3.4",
+    "skillLabel": "Informational vocabulary",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RI.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "braced"
+    }
+  },
+  {
+    "id": "g3-voc-1001",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"Saving Water at Home\", what does \"collected\" mean?",
+    "passageTitle": "Saving Water at Home",
+    "passage": "A dripping faucet can waste more than a gallon of water in a day. Turning the tap off while brushing teeth saves even more. A full dishwasher uses less water than washing the same load by hand with the tap running. Short showers help too, and a timer can make the goal clear. Collected rain is not for drinking, but it can water garden plants. Small habits add up because families use water every single day.",
+    "choices": [
+      "gathered and saved",
+      "heated until it boils",
+      "poured down the drain",
+      "colored with paint"
+    ],
+    "answerIndex": 0,
+    "explanation": "Collected rain means rain that was gathered and saved for later, here for garden plants.",
+    "skill": "RI.3.4",
+    "skillLabel": "Informational vocabulary",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RI.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "collected"
+    }
+  },
+  {
+    "id": "g3-voc-1005",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"How a Compass Helps\", what does \"magnetic\" mean?",
+    "passageTitle": "How a Compass Helps",
+    "passage": "A compass needle is a small magnet. It lines up with Earth’s magnetic field and points toward magnetic north. Hikers still need a map, because north alone does not name the trail. To use both tools, find north on the compass and turn the map until its north matches. Then the paths on the map face the same way as the paths on the ground. A compass can be confused by a nearby magnet or a metal post, so users step away and check again.",
+    "choices": [
+      "closed for the winter",
+      "acting like a magnet or pulled by one",
+      "drawn in colored ink",
+      "too heavy to carry"
+    ],
+    "answerIndex": 1,
+    "explanation": "The needle is a magnet and lines up with Earth’s magnetic field. Magnetic describes that magnet pull. The answer is \"acting like a magnet or pulled by one\".",
+    "skill": "RI.3.4",
+    "skillLabel": "Informational vocabulary",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RI.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "magnetic"
+    }
+  },
+  {
+    "id": "g3-voc-1009",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"Animal Homes\", what does \"predators\" mean?",
+    "passageTitle": "Animal Homes",
+    "passage": "Animals build homes that fit their bodies and the weather. A beaver lodge has an underwater door, which keeps many predators out. Termites in hot places build mounds with tunnels that move air. A bird’s nest may be a cup of twigs, or a hole in a cactus, depending on the species. Some animals borrow homes, as hermit crabs do when they move into empty shells. Studying a home can tell you what dangers the animal faces.",
+    "choices": [
+      "tunnels that move air",
+      "twigs used in a nest",
+      "animals that hunt other animals",
+      "empty shells on a beach"
+    ],
+    "answerIndex": 2,
+    "explanation": "The door keeps many predators out. In this sentence predators are animals that would hunt the beavers. The answer is \"animals that hunt other animals\".",
+    "skill": "RI.3.4",
+    "skillLabel": "Informational vocabulary",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RI.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "predators"
+    }
+  },
+  {
+    "id": "g3-voc-1013",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"From Seed to Tomato\", what does \"swells\" mean?",
+    "passageTitle": "From Seed to Tomato",
+    "passage": "A tomato seed holds a tiny plant and a small store of food. When the soil is warm and damp, the seed coat splits. A root grows down, and a shoot grows up toward the light. Leaves open and start making food from sunlight, air, and water. Yellow flowers appear next, and bees may carry pollen from bloom to bloom. After pollination, the flower’s base swells into a green tomato that later turns red.",
+    "choices": [
+      "dries into a seed coat",
+      "falls off at once",
+      "turns into a root",
+      "grows larger and rounder"
+    ],
+    "answerIndex": 3,
+    "explanation": "The flower’s base swells into a tomato. Swells means it grows larger, here into the fruit. The answer is \"grows larger and rounder\".",
+    "skill": "RI.3.4",
+    "skillLabel": "Informational vocabulary",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RI.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "swells"
+    }
+  },
+  {
+    "id": "g3-voc-1017",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"Lunchbox Sorting\", what does \"compost\" mean?",
+    "passageTitle": "Lunchbox Sorting",
+    "passage": "A lunchbox can hold more than food. It can also be a sorting lesson. Apple cores and banana peels belong in compost if your school collects it. A clean plastic bottle can go in recycling, but a bottle with leftover milk should be rinsed first. Foil that is crumpled and full of cheese is too dirty to recycle in many towns. Napkins used for spills usually go in the trash or compost, depending on local rules. The best first step is to learn the signs posted in the school cafeteria.",
+    "choices": [
+      "a napkin used for spills",
+      "a metal bin for clean bottles only",
+      "a sign in the cafeteria",
+      "plant and food scraps collected to break down into soil"
+    ],
+    "answerIndex": 3,
+    "explanation": "Apple cores and banana peels can go in compost. Those are food scraps that break down, which is what compost means here. The answer is \"plant and food scraps collected to break down into soil\".",
+    "skill": "RI.3.4",
+    "skillLabel": "Informational vocabulary",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RI.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "compost"
+    }
+  },
+  {
+    "id": "g3-voc-1021",
+    "grade": 3,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"Shadows Through the Day\", what does \"softer\" mean?",
+    "passageTitle": "Shadows Through the Day",
+    "passage": "A shadow forms when an object blocks light. In the morning the sun is low, and a student’s shadow can stretch far across the playground. Near noon the sun is higher, so the same shadow grows short. Clouds do not erase shadows completely, but they make the edges softer. You can test this with a stick, chalk, and three marks made at different times. The stick does not change height. The sun’s position does.",
+    "choices": [
+      "much longer than before",
+      "higher in the sky",
+      "made of chalk",
+      "less sharp or less clear at the edge"
+    ],
+    "answerIndex": 3,
+    "explanation": "Clouds make the edges softer. Here softer means the shadow’s edge is less sharp. The answer is \"less sharp or less clear at the edge\".",
+    "skill": "RI.3.4",
+    "skillLabel": "Informational vocabulary",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RI.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "vocab",
+      "word": "softer"
+    }
+  }
+]

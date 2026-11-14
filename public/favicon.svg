@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sunny Steps">
+  <rect width="64" height="64" rx="16" fill="#fff6e8"/>
+  <circle cx="32" cy="32" r="16" fill="#ffc857" stroke="#241b38" stroke-width="3"/>
+  <circle cx="26" cy="30" r="2" fill="#241b38"/>
+  <circle cx="38" cy="30" r="2" fill="#241b38"/>
+  <path d="M24 38c2.5 3 13.5 3 16 0" fill="none" stroke="#241b38" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 8v6M32 50v6M8 32h6M50 32h6M14 14l4 4M46 46l4 4M50 14l-4 4M18 46l-4 4" stroke="#ef7b2d" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,1388 @@
+[
+  {
+    "id": "g3-vc-061",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? rose, tulip, daisy, oak",
+    "choices": [
+      "oak",
+      "rose",
+      "tulip",
+      "daisy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Rose, tulip, and daisy are flowers. An oak is a tree.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-062",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? apple, banana, grape, carrot",
+    "choices": [
+      "grape",
+      "carrot",
+      "apple",
+      "banana"
+    ],
+    "answerIndex": 1,
+    "explanation": "Apple, banana, and grape are fruits. A carrot is a vegetable.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-063",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? red, blue, green, circle",
+    "choices": [
+      "green",
+      "blue",
+      "red",
+      "circle"
+    ],
+    "answerIndex": 3,
+    "explanation": "Red, blue, and green are colors. A circle is a shape.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-064",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? Monday, Friday, Sunday, January",
+    "choices": [
+      "Sunday",
+      "January",
+      "Friday",
+      "Monday"
+    ],
+    "answerIndex": 1,
+    "explanation": "Monday, Friday, and Sunday are days. January is a month.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-065",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? penny, nickel, dime, dollar",
+    "choices": [
+      "dollar",
+      "dime",
+      "penny",
+      "nickel"
+    ],
+    "answerIndex": 0,
+    "explanation": "A penny, nickel, and dime are coins. A dollar bill is paper money.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-066",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? triangle, square, circle, cube",
+    "choices": [
+      "triangle",
+      "circle",
+      "cube",
+      "square"
+    ],
+    "answerIndex": 2,
+    "explanation": "A triangle, square, and circle are flat shapes. A cube is a solid shape.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-067",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? inch, foot, yard, pound",
+    "choices": [
+      "foot",
+      "inch",
+      "pound",
+      "yard"
+    ],
+    "answerIndex": 2,
+    "explanation": "Inch, foot, and yard measure length. A pound measures weight.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-068",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? see, hear, smell, jump",
+    "choices": [
+      "smell",
+      "see",
+      "jump",
+      "hear"
+    ],
+    "answerIndex": 2,
+    "explanation": "See, hear, and smell are senses. Jump is an action. The answer is \"jump\".",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-069",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? addition, subtraction, multiplication, fraction",
+    "choices": [
+      "subtraction",
+      "multiplication",
+      "addition",
+      "fraction"
+    ],
+    "answerIndex": 3,
+    "explanation": "Addition, subtraction, and multiplication are operations. A fraction names part of a whole.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-070",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? dog, cat, hamster, oak",
+    "choices": [
+      "dog",
+      "hamster",
+      "oak",
+      "cat"
+    ],
+    "answerIndex": 2,
+    "explanation": "A dog, cat, and hamster are animals. An oak is a tree.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-071",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? spoon, fork, knife, plate",
+    "choices": [
+      "spoon",
+      "knife",
+      "plate",
+      "fork"
+    ],
+    "answerIndex": 2,
+    "explanation": "A spoon, fork, and knife are utensils you hold to eat. A plate holds the food.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-072",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? violin, flute, drum, song",
+    "choices": [
+      "violin",
+      "song",
+      "drum",
+      "flute"
+    ],
+    "answerIndex": 1,
+    "explanation": "A violin, flute, and drum are instruments. A song is music you can play on them.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-073",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? boots, sandals, sneakers, scarf",
+    "choices": [
+      "boots",
+      "sandals",
+      "scarf",
+      "sneakers"
+    ],
+    "answerIndex": 2,
+    "explanation": "Boots, sandals, and sneakers are worn on feet. A scarf is worn at the neck.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-074",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? shark, trout, goldfish, eagle",
+    "choices": [
+      "shark",
+      "goldfish",
+      "trout",
+      "eagle"
+    ],
+    "answerIndex": 3,
+    "explanation": "A shark, trout, and goldfish are fish. An eagle is a bird.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-075",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? summer, winter, spring, Tuesday",
+    "choices": [
+      "Tuesday",
+      "spring",
+      "summer",
+      "winter"
+    ],
+    "answerIndex": 0,
+    "explanation": "Summer, winter, and spring are seasons. Tuesday is a day of the week.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-076",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? happy, angry, proud, quickly",
+    "choices": [
+      "happy",
+      "proud",
+      "angry",
+      "quickly"
+    ],
+    "answerIndex": 3,
+    "explanation": "Happy, angry, and proud are feelings. Quickly tells how something is done. The answer is \"quickly\".",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-077",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? car, bus, train, sidewalk",
+    "choices": [
+      "sidewalk",
+      "train",
+      "car",
+      "bus"
+    ],
+    "answerIndex": 0,
+    "explanation": "A car, bus, and train are vehicles. A sidewalk is a place to walk.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-078",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? two, four, eight, three",
+    "choices": [
+      "three",
+      "two",
+      "eight",
+      "four"
+    ],
+    "answerIndex": 0,
+    "explanation": "Two, four, and eight are even numbers. Three is odd. The answer is \"three\".",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-079",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? square, rectangle, rhombus, triangle",
+    "choices": [
+      "rhombus",
+      "square",
+      "triangle",
+      "rectangle"
+    ],
+    "answerIndex": 2,
+    "explanation": "A square, rectangle, and rhombus have four sides. A triangle has three.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-080",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? milk, juice, water, bread",
+    "choices": [
+      "water",
+      "bread",
+      "milk",
+      "juice"
+    ],
+    "answerIndex": 1,
+    "explanation": "Milk, juice, and water are drinks. Bread is a solid food. The answer is \"bread\".",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-081",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? jacket, coat, sweater, shorts",
+    "choices": [
+      "coat",
+      "sweater",
+      "shorts",
+      "jacket"
+    ],
+    "answerIndex": 2,
+    "explanation": "A jacket, coat, and sweater are worn to stay warm. Shorts are worn in warm weather. The answer is \"shorts\".",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-082",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? plus, minus, times, twelve",
+    "choices": [
+      "minus",
+      "times",
+      "plus",
+      "twelve"
+    ],
+    "answerIndex": 3,
+    "explanation": "Plus, minus, and times are operation words. Twelve is a number. The answer is \"twelve\".",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-083",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? poem, story, article, pencil",
+    "choices": [
+      "pencil",
+      "story",
+      "article",
+      "poem"
+    ],
+    "answerIndex": 0,
+    "explanation": "A poem, story, and article are kinds of writing. A pencil is a tool.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-084",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? mercury, venus, mars, moon",
+    "choices": [
+      "mars",
+      "moon",
+      "mercury",
+      "venus"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mercury, Venus, and Mars are planets. The moon is a satellite of Earth.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-085",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? oak, pine, maple, tulip",
+    "choices": [
+      "oak",
+      "pine",
+      "maple",
+      "tulip"
+    ],
+    "answerIndex": 3,
+    "explanation": "Oak, pine, and maple are trees. A tulip is a flower.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-086",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? soccer, basketball, tennis, chess",
+    "choices": [
+      "basketball",
+      "chess",
+      "tennis",
+      "soccer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Soccer, basketball, and tennis are sports played with a ball. Chess is a board game. The answer is \"chess\".",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-087",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? river, lake, ocean, desert",
+    "choices": [
+      "ocean",
+      "desert",
+      "river",
+      "lake"
+    ],
+    "answerIndex": 1,
+    "explanation": "A river, lake, and ocean are bodies of water. A desert is dry land.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-088",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? whisper, shout, talk, listen",
+    "choices": [
+      "talk",
+      "whisper",
+      "listen",
+      "shout"
+    ],
+    "answerIndex": 2,
+    "explanation": "Whisper, shout, and talk are ways of speaking. Listen is a way of hearing. The answer is \"listen\".",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-089",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? puppy, kitten, calf, fence",
+    "choices": [
+      "puppy",
+      "kitten",
+      "calf",
+      "fence"
+    ],
+    "answerIndex": 3,
+    "explanation": "A puppy, kitten, and calf are young animals. A fence is an object.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-090",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? circle, oval, sphere, square",
+    "choices": [
+      "sphere",
+      "oval",
+      "square",
+      "circle"
+    ],
+    "answerIndex": 2,
+    "explanation": "A circle, oval, and sphere are round. A square has straight sides and corners.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-091",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? gram, kilogram, pound, liter",
+    "choices": [
+      "liter",
+      "gram",
+      "pound",
+      "kilogram"
+    ],
+    "answerIndex": 0,
+    "explanation": "Gram, kilogram, and pound measure mass or weight. A liter measures liquid volume.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-092",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? minute, hour, week, ruler",
+    "choices": [
+      "minute",
+      "week",
+      "hour",
+      "ruler"
+    ],
+    "answerIndex": 3,
+    "explanation": "Minute, hour, and week measure time. A ruler measures length.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-093",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? noun, verb, adjective, period",
+    "choices": [
+      "adjective",
+      "period",
+      "verb",
+      "noun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Noun, verb, and adjective are parts of speech. A period is a punctuation mark.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-094",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? north, south, east, uphill",
+    "choices": [
+      "uphill",
+      "north",
+      "east",
+      "south"
+    ],
+    "answerIndex": 0,
+    "explanation": "North, south, and east are compass directions. Uphill describes a slope. The answer is \"uphill\".",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-095",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? peach, plum, cherry, potato",
+    "choices": [
+      "potato",
+      "plum",
+      "cherry",
+      "peach"
+    ],
+    "answerIndex": 0,
+    "explanation": "A peach, plum, and cherry are fruits with pits. A potato is a vegetable.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-096",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? tent, cabin, igloo, highway",
+    "choices": [
+      "tent",
+      "highway",
+      "igloo",
+      "cabin"
+    ],
+    "answerIndex": 1,
+    "explanation": "A tent, cabin, and igloo are shelters. A highway is a road.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-097",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? addend, sum, total, difference",
+    "choices": [
+      "addend",
+      "sum",
+      "total",
+      "difference"
+    ],
+    "answerIndex": 3,
+    "explanation": "Addend, sum, and total belong with addition. A difference belongs with subtraction.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-098",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? clarinet, trumpet, trombone, piano",
+    "choices": [
+      "clarinet",
+      "trombone",
+      "trumpet",
+      "piano"
+    ],
+    "answerIndex": 3,
+    "explanation": "A clarinet, trumpet, and trombone are played by blowing. A piano is played with keys.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-099",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? robin, sparrow, crow, bat",
+    "choices": [
+      "robin",
+      "crow",
+      "bat",
+      "sparrow"
+    ],
+    "answerIndex": 2,
+    "explanation": "A robin, sparrow, and crow are birds. A bat is a mammal that flies.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-100",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? cup, pint, quart, inch",
+    "choices": [
+      "inch",
+      "quart",
+      "pint",
+      "cup"
+    ],
+    "answerIndex": 0,
+    "explanation": "Cup, pint, and quart measure capacity. An inch measures length.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-101",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? globe, map, atlas, novel",
+    "choices": [
+      "novel",
+      "globe",
+      "map",
+      "atlas"
+    ],
+    "answerIndex": 0,
+    "explanation": "A globe, map, and atlas show places. A novel is a long story.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-vc-102",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-classification",
+    "topicLabel": "Verbal classification",
+    "prompt": "Which word does not belong with the others? freeze, melt, boil, purple",
+    "choices": [
+      "purple",
+      "freeze",
+      "boil",
+      "melt"
+    ],
+    "answerIndex": 0,
+    "explanation": "Freeze, melt, and boil are changes in matter. Purple is a color. The answer is \"purple\".",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  }
+]
