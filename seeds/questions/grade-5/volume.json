@@ -1,0 +1,410 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "volume",
+    "topicLabel": "Volume",
+    "prompt": "Owen packs a box that is 2 units long, 3 units wide, and 4 units tall. What is the volume in cubic units?",
+    "explanation": "Step 1: Volume of a rectangular box is length times width times height. Step 2: Multiply 2 × 3 × 4. Step 3: The volume is 24 cubic units.",
+    "skill": "5.MD.C.5",
+    "skillLabel": "Volume",
+    "links": [
+      {
+        "label": "Khan Academy: Volume",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/5th-volume"
+      },
+      {
+        "label": "Math is Fun: Volume of a cuboid",
+        "href": "https://www.mathsisfun.com/geometry/cuboids.html"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(2*3)*4"
+    },
+    "choices": [
+      "25",
+      "24",
+      "23",
+      "26"
+    ],
+    "answerIndex": 1,
+    "id": "g5-volume-0001",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "volume",
+    "topicLabel": "Volume",
+    "prompt": "Pia packs a box that is 5 units long, 2 units wide, and 2 units tall. What is the volume in cubic units?",
+    "explanation": "Step 1: Volume of a rectangular box is length times width times height. Step 2: Multiply 5 × 2 × 2. Step 3: The volume is 20 cubic units.",
+    "skill": "5.MD.C.5",
+    "skillLabel": "Volume",
+    "links": [
+      {
+        "label": "Khan Academy: Volume",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/5th-volume"
+      },
+      {
+        "label": "Math is Fun: Volume of a cuboid",
+        "href": "https://www.mathsisfun.com/geometry/cuboids.html"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(5*2)*2"
+    },
+    "choices": [
+      "21",
+      "20",
+      "19",
+      "22"
+    ],
+    "answerIndex": 1,
+    "id": "g5-volume-0002",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "volume",
+    "topicLabel": "Volume",
+    "prompt": "Quinn packs a box that is 4 units long, 4 units wide, and 3 units tall. What is the volume in cubic units?",
+    "explanation": "Step 1: Volume of a rectangular box is length times width times height. Step 2: Multiply 4 × 4 × 3. Step 3: The volume is 48 cubic units.",
+    "skill": "5.MD.C.5",
+    "skillLabel": "Volume",
+    "links": [
+      {
+        "label": "Khan Academy: Volume",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/5th-volume"
+      },
+      {
+        "label": "Math is Fun: Volume of a cuboid",
+        "href": "https://www.mathsisfun.com/geometry/cuboids.html"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(4*4)*3"
+    },
+    "choices": [
+      "48",
+      "49",
+      "47",
+      "50"
+    ],
+    "answerIndex": 0,
+    "id": "g5-volume-0003",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "volume",
+    "topicLabel": "Volume",
+    "prompt": "Rosa packs a box that is 6 units long, 2 units wide, and 3 units tall. What is the volume in cubic units?",
+    "explanation": "Step 1: Volume of a rectangular box is length times width times height. Step 2: Multiply 6 × 2 × 3. Step 3: The volume is 36 cubic units.",
+    "skill": "5.MD.C.5",
+    "skillLabel": "Volume",
+    "links": [
+      {
+        "label": "Khan Academy: Volume",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/5th-volume"
+      },
+      {
+        "label": "Math is Fun: Volume of a cuboid",
+        "href": "https://www.mathsisfun.com/geometry/cuboids.html"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(6*2)*3"
+    },
+    "choices": [
+      "36",
+      "37",
+      "35",
+      "38"
+    ],
+    "answerIndex": 0,
+    "id": "g5-volume-0004",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "volume",
+    "topicLabel": "Volume",
+    "prompt": "Sam packs a box that is 3 units long, 3 units wide, and 3 units tall. What is the volume in cubic units?",
+    "explanation": "Step 1: Volume of a rectangular box is length times width times height. Step 2: Multiply 3 × 3 × 3. Step 3: The volume is 27 cubic units.",
+    "skill": "5.MD.C.5",
+    "skillLabel": "Volume",
+    "links": [
+      {
+        "label": "Khan Academy: Volume",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/5th-volume"
+      },
+      {
+        "label": "Math is Fun: Volume of a cuboid",
+        "href": "https://www.mathsisfun.com/geometry/cuboids.html"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(3*3)*3"
+    },
+    "choices": [
+      "27",
+      "28",
+      "26",
+      "29"
+    ],
+    "answerIndex": 0,
+    "id": "g5-volume-0005",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "volume",
+    "topicLabel": "Volume",
+    "prompt": "Tara packs a box that is 8 units long, 2 units wide, and 2 units tall. What is the volume in cubic units?",
+    "explanation": "Step 1: Volume of a rectangular box is length times width times height. Step 2: Multiply 8 × 2 × 2. Step 3: The volume is 32 cubic units.",
+    "skill": "5.MD.C.5",
+    "skillLabel": "Volume",
+    "links": [
+      {
+        "label": "Khan Academy: Volume",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/5th-volume"
+      },
+      {
+        "label": "Math is Fun: Volume of a cuboid",
+        "href": "https://www.mathsisfun.com/geometry/cuboids.html"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(8*2)*2"
+    },
+    "choices": [
+      "33",
+      "31",
+      "32",
+      "34"
+    ],
+    "answerIndex": 2,
+    "id": "g5-volume-0006",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "volume",
+    "topicLabel": "Volume",
+    "prompt": "Uma packs a box that is 5 units long, 4 units wide, and 2 units tall. What is the volume in cubic units?",
+    "explanation": "Step 1: Volume of a rectangular box is length times width times height. Step 2: Multiply 5 × 4 × 2. Step 3: The volume is 40 cubic units.",
+    "skill": "5.MD.C.5",
+    "skillLabel": "Volume",
+    "links": [
+      {
+        "label": "Khan Academy: Volume",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/5th-volume"
+      },
+      {
+        "label": "Math is Fun: Volume of a cuboid",
+        "href": "https://www.mathsisfun.com/geometry/cuboids.html"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(5*4)*2"
+    },
+    "choices": [
+      "41",
+      "39",
+      "40",
+      "42"
+    ],
+    "answerIndex": 2,
+    "id": "g5-volume-0007",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "volume",
+    "topicLabel": "Volume",
+    "prompt": "Vik packs a box that is 7 units long, 2 units wide, and 1 units tall. What is the volume in cubic units?",
+    "explanation": "Step 1: Volume of a rectangular box is length times width times height. Step 2: Multiply 7 × 2 × 1. Step 3: The volume is 14 cubic units.",
+    "skill": "5.MD.C.5",
+    "skillLabel": "Volume",
+    "links": [
+      {
+        "label": "Khan Academy: Volume",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/5th-volume"
+      },
+      {
+        "label": "Math is Fun: Volume of a cuboid",
+        "href": "https://www.mathsisfun.com/geometry/cuboids.html"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(7*2)*1"
+    },
+    "choices": [
+      "15",
+      "13",
+      "16",
+      "14"
+    ],
+    "answerIndex": 3,
+    "id": "g5-volume-0008",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "volume",
+    "topicLabel": "Volume",
+    "prompt": "Willa packs a box that is 6 units long, 5 units wide, and 2 units tall. What is the volume in cubic units?",
+    "explanation": "Step 1: Volume of a rectangular box is length times width times height. Step 2: Multiply 6 × 5 × 2. Step 3: The volume is 60 cubic units.",
+    "skill": "5.MD.C.5",
+    "skillLabel": "Volume",
+    "links": [
+      {
+        "label": "Khan Academy: Volume",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/5th-volume"
+      },
+      {
+        "label": "Math is Fun: Volume of a cuboid",
+        "href": "https://www.mathsisfun.com/geometry/cuboids.html"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(6*5)*2"
+    },
+    "choices": [
+      "61",
+      "59",
+      "60",
+      "62"
+    ],
+    "answerIndex": 2,
+    "id": "g5-volume-0009",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "volume",
+    "topicLabel": "Volume",
+    "prompt": "Nico packs a box that is 4 units long, 3 units wide, and 5 units tall. What is the volume in cubic units?",
+    "explanation": "Step 1: Volume of a rectangular box is length times width times height. Step 2: Multiply 4 × 3 × 5. Step 3: The volume is 60 cubic units.",
+    "skill": "5.MD.C.5",
+    "skillLabel": "Volume",
+    "links": [
+      {
+        "label": "Khan Academy: Volume",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/5th-volume"
+      },
+      {
+        "label": "Math is Fun: Volume of a cuboid",
+        "href": "https://www.mathsisfun.com/geometry/cuboids.html"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(4*3)*5"
+    },
+    "choices": [
+      "61",
+      "59",
+      "60",
+      "62"
+    ],
+    "answerIndex": 2,
+    "id": "g5-volume-0010",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "volume",
+    "topicLabel": "Volume",
+    "prompt": "Lila packs a box that is 9 units long, 2 units wide, and 2 units tall. What is the volume in cubic units?",
+    "explanation": "Step 1: Volume of a rectangular box is length times width times height. Step 2: Multiply 9 × 2 × 2. Step 3: The volume is 36 cubic units.",
+    "skill": "5.MD.C.5",
+    "skillLabel": "Volume",
+    "links": [
+      {
+        "label": "Khan Academy: Volume",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/5th-volume"
+      },
+      {
+        "label": "Math is Fun: Volume of a cuboid",
+        "href": "https://www.mathsisfun.com/geometry/cuboids.html"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(9*2)*2"
+    },
+    "choices": [
+      "37",
+      "35",
+      "38",
+      "36"
+    ],
+    "answerIndex": 3,
+    "id": "g5-volume-0011",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "volume",
+    "topicLabel": "Volume",
+    "prompt": "Omar packs a box that is 3 units long, 5 units wide, and 4 units tall. What is the volume in cubic units?",
+    "explanation": "Step 1: Volume of a rectangular box is length times width times height. Step 2: Multiply 3 × 5 × 4. Step 3: The volume is 60 cubic units.",
+    "skill": "5.MD.C.5",
+    "skillLabel": "Volume",
+    "links": [
+      {
+        "label": "Khan Academy: Volume",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/5th-volume"
+      },
+      {
+        "label": "Math is Fun: Volume of a cuboid",
+        "href": "https://www.mathsisfun.com/geometry/cuboids.html"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(3*5)*4"
+    },
+    "choices": [
+      "60",
+      "61",
+      "59",
+      "62"
+    ],
+    "answerIndex": 0,
+    "id": "g5-volume-0012",
+    "grade": 5
+  }
+]

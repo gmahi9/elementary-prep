@@ -1,0 +1,362 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Ida adds 1.3 and 1.4. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 1.3 and 1.4. Step 3: The sum is 2.7.",
+    "skill": "4.NF.C.6",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimals",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 13,
+      "right": 14,
+      "scale": 10
+    },
+    "choices": [
+      "2.8",
+      "2.6",
+      "2.7",
+      "1.3"
+    ],
+    "answerIndex": 2,
+    "id": "g4-decimals-0001",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Rex adds 2.1 and 0.6. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 2.1 and 0.6. Step 3: The sum is 2.7.",
+    "skill": "4.NF.C.6",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimals",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 21,
+      "right": 6,
+      "scale": 10
+    },
+    "choices": [
+      "2.8",
+      "2.6",
+      "2.1",
+      "2.7"
+    ],
+    "answerIndex": 3,
+    "id": "g4-decimals-0002",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Cleo adds 3.2 and 0.5. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 3.2 and 0.5. Step 3: The sum is 3.7.",
+    "skill": "4.NF.C.6",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimals",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 32,
+      "right": 5,
+      "scale": 10
+    },
+    "choices": [
+      "3.8",
+      "3.7",
+      "3.6",
+      "3.2"
+    ],
+    "answerIndex": 1,
+    "id": "g4-decimals-0003",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Wes adds 4.1 and 0.7. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 4.1 and 0.7. Step 3: The sum is 4.8.",
+    "skill": "4.NF.C.6",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimals",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 41,
+      "right": 7,
+      "scale": 10
+    },
+    "choices": [
+      "4.9",
+      "4.8",
+      "4.7",
+      "4.1"
+    ],
+    "answerIndex": 1,
+    "id": "g4-decimals-0004",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Nora adds 1.5 and 1.8. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 1.5 and 1.8. Step 3: The sum is 3.3.",
+    "skill": "4.NF.C.6",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimals",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 15,
+      "right": 18,
+      "scale": 10
+    },
+    "choices": [
+      "3.4",
+      "3.2",
+      "1.5",
+      "3.3"
+    ],
+    "answerIndex": 3,
+    "id": "g4-decimals-0005",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Owen adds 2.4 and 1.3. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 2.4 and 1.3. Step 3: The sum is 3.7.",
+    "skill": "4.NF.C.6",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimals",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 24,
+      "right": 13,
+      "scale": 10
+    },
+    "choices": [
+      "3.7",
+      "3.8",
+      "3.6",
+      "2.4"
+    ],
+    "answerIndex": 0,
+    "id": "g4-decimals-0006",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Pia adds 3.6 and 0.8. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 3.6 and 0.8. Step 3: The sum is 4.4.",
+    "skill": "4.NF.C.6",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimals",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 36,
+      "right": 8,
+      "scale": 10
+    },
+    "choices": [
+      "4.4",
+      "4.5",
+      "4.3",
+      "3.6"
+    ],
+    "answerIndex": 0,
+    "id": "g4-decimals-0007",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Quinn adds 4.7 and 0.6. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 4.7 and 0.6. Step 3: The sum is 5.3.",
+    "skill": "4.NF.C.6",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimals",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 47,
+      "right": 6,
+      "scale": 10
+    },
+    "choices": [
+      "5.4",
+      "5.2",
+      "4.7",
+      "5.3"
+    ],
+    "answerIndex": 3,
+    "id": "g4-decimals-0008",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Rosa adds 1.8 and 2.1. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 1.8 and 2.1. Step 3: The sum is 3.9.",
+    "skill": "4.NF.C.6",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimals",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 18,
+      "right": 21,
+      "scale": 10
+    },
+    "choices": [
+      "4.0",
+      "3.8",
+      "1.8",
+      "3.9"
+    ],
+    "answerIndex": 3,
+    "id": "g4-decimals-0009",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Sam adds 2.7 and 1.2. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 2.7 and 1.2. Step 3: The sum is 3.9.",
+    "skill": "4.NF.C.6",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimals",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 27,
+      "right": 12,
+      "scale": 10
+    },
+    "choices": [
+      "4.0",
+      "3.8",
+      "2.7",
+      "3.9"
+    ],
+    "answerIndex": 3,
+    "id": "g4-decimals-0010",
+    "grade": 4
+  }
+]

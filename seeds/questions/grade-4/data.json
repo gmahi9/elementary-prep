@@ -1,0 +1,326 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "Ida reads the bar graph titled Books read. How many books does Bo have?",
+    "explanation": "Step 1: Find the bar for Bo. Step 2: Read the value of that bar. Step 3: Bo has 5 books.",
+    "skill": "2.MD.D.10",
+    "skillLabel": "Bar graphs",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Counting",
+        "href": "https://www.mathsisfun.com/numbers/counting.html"
+      }
+    ],
+    "figure": {
+      "kind": "bars",
+      "title": "Books read",
+      "unit": "books",
+      "rows": [
+        {
+          "label": "Ana",
+          "value": 2
+        },
+        {
+          "label": "Bo",
+          "value": 5
+        },
+        {
+          "label": "Cy",
+          "value": 3
+        }
+      ],
+      "alt": "Bar graph titled Books read. Ana has 2; Bo has 5; Cy has 3."
+    },
+    "verify": {
+      "kind": "table-value",
+      "label": "Bo"
+    },
+    "choices": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answerIndex": 3,
+    "id": "g4-data-0001",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "Rex reads the bar graph titled Goals scored. How many goals does Oli have?",
+    "explanation": "Step 1: Find the bar for Oli. Step 2: Read the value of that bar. Step 3: Oli has 6 goals.",
+    "skill": "2.MD.D.10",
+    "skillLabel": "Bar graphs",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Counting",
+        "href": "https://www.mathsisfun.com/numbers/counting.html"
+      }
+    ],
+    "figure": {
+      "kind": "bars",
+      "title": "Goals scored",
+      "unit": "goals",
+      "rows": [
+        {
+          "label": "Mia",
+          "value": 4
+        },
+        {
+          "label": "Ned",
+          "value": 1
+        },
+        {
+          "label": "Oli",
+          "value": 6
+        }
+      ],
+      "alt": "Bar graph titled Goals scored. Mia has 4; Ned has 1; Oli has 6."
+    },
+    "verify": {
+      "kind": "table-value",
+      "label": "Oli"
+    },
+    "choices": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "answerIndex": 3,
+    "id": "g4-data-0002",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "Cleo reads the bar graph titled Birds seen. How many birds does Fay have?",
+    "explanation": "Step 1: Find the bar for Fay. Step 2: Read the value of that bar. Step 3: Fay has 8 birds.",
+    "skill": "2.MD.D.10",
+    "skillLabel": "Bar graphs",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Counting",
+        "href": "https://www.mathsisfun.com/numbers/counting.html"
+      }
+    ],
+    "figure": {
+      "kind": "bars",
+      "title": "Birds seen",
+      "unit": "birds",
+      "rows": [
+        {
+          "label": "Dot",
+          "value": 3
+        },
+        {
+          "label": "Eli",
+          "value": 3
+        },
+        {
+          "label": "Fay",
+          "value": 8
+        }
+      ],
+      "alt": "Bar graph titled Birds seen. Dot has 3; Eli has 3; Fay has 8."
+    },
+    "verify": {
+      "kind": "table-value",
+      "label": "Fay"
+    },
+    "choices": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answerIndex": 3,
+    "id": "g4-data-0003",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "Wes reads the bar graph titled Cans recycled. How many cans does Gus have?",
+    "explanation": "Step 1: Find the bar for Gus. Step 2: Read the value of that bar. Step 3: Gus has 6 cans.",
+    "skill": "2.MD.D.10",
+    "skillLabel": "Bar graphs",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Counting",
+        "href": "https://www.mathsisfun.com/numbers/counting.html"
+      }
+    ],
+    "figure": {
+      "kind": "bars",
+      "title": "Cans recycled",
+      "unit": "cans",
+      "rows": [
+        {
+          "label": "Gus",
+          "value": 6
+        },
+        {
+          "label": "Hana",
+          "value": 2
+        },
+        {
+          "label": "Ian",
+          "value": 4
+        }
+      ],
+      "alt": "Bar graph titled Cans recycled. Gus has 6; Hana has 2; Ian has 4."
+    },
+    "verify": {
+      "kind": "table-value",
+      "label": "Gus"
+    },
+    "choices": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "answerIndex": 1,
+    "id": "g4-data-0004",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "Nora reads the bar graph titled Miles walked. How many miles does Kai have?",
+    "explanation": "Step 1: Find the bar for Kai. Step 2: Read the value of that bar. Step 3: Kai has 4 miles.",
+    "skill": "2.MD.D.10",
+    "skillLabel": "Bar graphs",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Counting",
+        "href": "https://www.mathsisfun.com/numbers/counting.html"
+      }
+    ],
+    "figure": {
+      "kind": "bars",
+      "title": "Miles walked",
+      "unit": "miles",
+      "rows": [
+        {
+          "label": "Jin",
+          "value": 1
+        },
+        {
+          "label": "Kai",
+          "value": 4
+        },
+        {
+          "label": "Lux",
+          "value": 2
+        }
+      ],
+      "alt": "Bar graph titled Miles walked. Jin has 1; Kai has 4; Lux has 2."
+    },
+    "verify": {
+      "kind": "table-value",
+      "label": "Kai"
+    },
+    "choices": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answerIndex": 3,
+    "id": "g4-data-0005",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "data",
+    "topicLabel": "Graphs and data",
+    "prompt": "Owen reads the bar graph titled Stars earned. How many stars does Rue have?",
+    "explanation": "Step 1: Find the bar for Rue. Step 2: Read the value of that bar. Step 3: Rue has 7 stars.",
+    "skill": "2.MD.D.10",
+    "skillLabel": "Bar graphs",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Counting",
+        "href": "https://www.mathsisfun.com/numbers/counting.html"
+      }
+    ],
+    "figure": {
+      "kind": "bars",
+      "title": "Stars earned",
+      "unit": "stars",
+      "rows": [
+        {
+          "label": "Noa",
+          "value": 5
+        },
+        {
+          "label": "Paz",
+          "value": 2
+        },
+        {
+          "label": "Rue",
+          "value": 7
+        }
+      ],
+      "alt": "Bar graph titled Stars earned. Noa has 5; Paz has 2; Rue has 7."
+    },
+    "verify": {
+      "kind": "table-value",
+      "label": "Rue"
+    },
+    "choices": [
+      "7",
+      "8",
+      "6",
+      "9"
+    ],
+    "answerIndex": 0,
+    "id": "g4-data-0006",
+    "grade": 4
+  }
+]

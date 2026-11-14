@@ -1,0 +1,177 @@
+[
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Which reading was warmer?",
+    "passageTitle": "Field Notes",
+    "passage": "Priya recorded the temperature at 8:00 a.m. and again at noon. The noon reading was 9 degrees higher. She concluded the morning had been cooler.",
+    "explanation": "Step 1: The noon reading was 9 degrees higher. Step 2: Higher temperature means warmer. Step 3: Noon was warmer.",
+    "skill": "RI.4.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "The 8:00 a.m. reading",
+      "The noon reading",
+      "Both were the same.",
+      "Neither was recorded."
+    ],
+    "answerIndex": 1,
+    "id": "g4-inference-0001",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Why should visitors not touch the case?",
+    "passageTitle": "Museum Label",
+    "passage": "The label explained that the clay pot was made about 800 years ago. A crack ran from the rim to the base. Visitors were asked not to touch the glass case.",
+    "explanation": "Step 1: The pot is about 800 years old and cracked. Step 2: It is kept in a glass case. Step 3: Not touching protects it.",
+    "skill": "RI.4.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "To protect the old pot",
+      "The pot is a toy.",
+      "The case is empty.",
+      "Touching makes the pot newer."
+    ],
+    "answerIndex": 0,
+    "id": "g4-inference-0002",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Which team had more points in the first half?",
+    "passageTitle": "Team Data",
+    "passage": "The chart showed that Team North scored 18 points in the first half. Team South scored 11 points in that same half. A caption reminded readers to compare the bars, not the colors.",
+    "explanation": "Step 1: Team North scored 18 and Team South scored 11. Step 2: 18 is more than 11. Step 3: Team North had more points.",
+    "skill": "RI.4.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "Team South",
+      "The teams tied.",
+      "The chart does not say.",
+      "Team North"
+    ],
+    "answerIndex": 3,
+    "id": "g4-inference-0003",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Where did the partner look up the meaning?",
+    "passageTitle": "Word Study",
+    "passage": "Mateo underlined the root in transportation. He wrote that the root had to do with carrying. His partner checked the meaning in a student dictionary.",
+    "explanation": "Step 1: The partner checked the meaning. Step 2: The sentence names a student dictionary. Step 3: That is where the partner looked.",
+    "skill": "RI.4.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "On a sports chart",
+      "In a student dictionary",
+      "In a math book",
+      "Nowhere"
+    ],
+    "answerIndex": 1,
+    "id": "g4-inference-0004",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Which sample was clearer?",
+    "passageTitle": "Creek Sample",
+    "passage": "The class collected one water sample from the shady bank. The sample was clearer than the sample from the muddy bend. They recorded both results before leaving.",
+    "explanation": "Step 1: The shady-bank sample was clearer than the muddy-bend sample. Step 2: The sentence makes the comparison directly. Step 3: The shady bank sample was clearer.",
+    "skill": "RI.4.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "The sample from the muddy bend",
+      "The sample from the shady bank",
+      "They were the same.",
+      "Neither sample was water."
+    ],
+    "answerIndex": 1,
+    "id": "g4-inference-0005",
+    "grade": 4
+  }
+]

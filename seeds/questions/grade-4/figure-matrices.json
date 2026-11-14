@@ -1,0 +1,890 @@
+[
+  {
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Ida needs the missing picture. Top row: 1 medium blue circle, then 1 medium blue square. Bottom row starts with 1 medium red circle. Which picture belongs in the empty box?",
+    "explanation": "Step 1: Each column keeps the same shape. Step 2: Each row keeps the same color. Step 3: The empty box needs 1 medium red square.",
+    "skill": "K.G.B.4",
+    "skillLabel": "Picture patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "circle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "square",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "circle",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "Two by two pattern. 1 medium blue circle; 1 medium blue square; 1 medium red circle; empty box."
+    },
+    "choiceFigures": [
+      {
+        "shape": "square",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "circle",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "square",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 2,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "choices": [
+      "1 medium red square",
+      "1 medium red circle",
+      "1 medium blue square",
+      "2 medium red diamonds"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "circle",
+        "square"
+      ],
+      "colorNames": [
+        "blue",
+        "red"
+      ],
+      "colors": [
+        "#2f6fed",
+        "#e23b3b"
+      ]
+    },
+    "id": "g4-figure-matrices-0001",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Rex needs the missing picture. Top row: 1 medium green circle, then 1 medium green square. Bottom row starts with 1 medium gold circle. Which picture belongs in the empty box?",
+    "explanation": "Step 1: Each column keeps the same shape. Step 2: Each row keeps the same color. Step 3: The empty box needs 1 medium gold square.",
+    "skill": "K.G.B.4",
+    "skillLabel": "Picture patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "circle",
+          "colorName": "green",
+          "color": "#2f9e6b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "square",
+          "colorName": "green",
+          "color": "#2f9e6b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "circle",
+          "colorName": "gold",
+          "color": "#e2a308",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "Two by two pattern. 1 medium green circle; 1 medium green square; 1 medium gold circle; empty box."
+    },
+    "choiceFigures": [
+      {
+        "shape": "circle",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "square",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "square",
+        "colorName": "green",
+        "color": "#2f9e6b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 2,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "choices": [
+      "1 medium gold circle",
+      "1 medium gold square",
+      "1 medium green square",
+      "2 medium gold diamonds"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "circle",
+        "square"
+      ],
+      "colorNames": [
+        "green",
+        "gold"
+      ],
+      "colors": [
+        "#2f9e6b",
+        "#e2a308"
+      ]
+    },
+    "id": "g4-figure-matrices-0002",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Cleo needs the missing picture. Top row: 1 medium blue circle, then 1 medium blue triangle. Bottom row starts with 1 medium red circle. Which picture belongs in the empty box?",
+    "explanation": "Step 1: Each column keeps the same shape. Step 2: Each row keeps the same color. Step 3: The empty box needs 1 medium red triangle.",
+    "skill": "K.G.B.4",
+    "skillLabel": "Picture patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "circle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "circle",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "Two by two pattern. 1 medium blue circle; 1 medium blue triangle; 1 medium red circle; empty box."
+    },
+    "choiceFigures": [
+      {
+        "shape": "circle",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 2,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "choices": [
+      "1 medium red circle",
+      "1 medium blue triangle",
+      "1 medium red triangle",
+      "2 medium red hexagons"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "circle",
+        "triangle"
+      ],
+      "colorNames": [
+        "blue",
+        "red"
+      ],
+      "colors": [
+        "#2f6fed",
+        "#e23b3b"
+      ]
+    },
+    "id": "g4-figure-matrices-0003",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Wes needs the missing picture. Top row: 1 medium green circle, then 1 medium green triangle. Bottom row starts with 1 medium gold circle. Which picture belongs in the empty box?",
+    "explanation": "Step 1: Each column keeps the same shape. Step 2: Each row keeps the same color. Step 3: The empty box needs 1 medium gold triangle.",
+    "skill": "K.G.B.4",
+    "skillLabel": "Picture patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "circle",
+          "colorName": "green",
+          "color": "#2f9e6b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "green",
+          "color": "#2f9e6b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "circle",
+          "colorName": "gold",
+          "color": "#e2a308",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "Two by two pattern. 1 medium green circle; 1 medium green triangle; 1 medium gold circle; empty box."
+    },
+    "choiceFigures": [
+      {
+        "shape": "circle",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "green",
+        "color": "#2f9e6b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 2,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "choices": [
+      "1 medium gold circle",
+      "1 medium green triangle",
+      "2 medium gold hexagons",
+      "1 medium gold triangle"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "circle",
+        "triangle"
+      ],
+      "colorNames": [
+        "green",
+        "gold"
+      ],
+      "colors": [
+        "#2f9e6b",
+        "#e2a308"
+      ]
+    },
+    "id": "g4-figure-matrices-0004",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Nora needs the missing picture. Top row: 1 medium blue circle, then 1 medium blue diamond. Bottom row starts with 1 medium red circle. Which picture belongs in the empty box?",
+    "explanation": "Step 1: Each column keeps the same shape. Step 2: Each row keeps the same color. Step 3: The empty box needs 1 medium red diamond.",
+    "skill": "K.G.B.4",
+    "skillLabel": "Picture patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "circle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "diamond",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "circle",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "Two by two pattern. 1 medium blue circle; 1 medium blue diamond; 1 medium red circle; empty box."
+    },
+    "choiceFigures": [
+      {
+        "shape": "diamond",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "circle",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 2,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "choices": [
+      "1 medium red diamond",
+      "1 medium red circle",
+      "1 medium blue diamond",
+      "2 medium red stars"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "circle",
+        "diamond"
+      ],
+      "colorNames": [
+        "blue",
+        "red"
+      ],
+      "colors": [
+        "#2f6fed",
+        "#e23b3b"
+      ]
+    },
+    "id": "g4-figure-matrices-0005",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Owen needs the missing picture. Top row: 1 medium green circle, then 1 medium green diamond. Bottom row starts with 1 medium gold circle. Which picture belongs in the empty box?",
+    "explanation": "Step 1: Each column keeps the same shape. Step 2: Each row keeps the same color. Step 3: The empty box needs 1 medium gold diamond.",
+    "skill": "K.G.B.4",
+    "skillLabel": "Picture patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "circle",
+          "colorName": "green",
+          "color": "#2f9e6b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "diamond",
+          "colorName": "green",
+          "color": "#2f9e6b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "circle",
+          "colorName": "gold",
+          "color": "#e2a308",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "Two by two pattern. 1 medium green circle; 1 medium green diamond; 1 medium gold circle; empty box."
+    },
+    "choiceFigures": [
+      {
+        "shape": "circle",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "green",
+        "color": "#2f9e6b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 2,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "choices": [
+      "1 medium gold circle",
+      "1 medium gold diamond",
+      "1 medium green diamond",
+      "2 medium gold stars"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "circle",
+        "diamond"
+      ],
+      "colorNames": [
+        "green",
+        "gold"
+      ],
+      "colors": [
+        "#2f9e6b",
+        "#e2a308"
+      ]
+    },
+    "id": "g4-figure-matrices-0006",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Pia needs the missing picture. Top row: 1 medium blue circle, then 1 medium blue hexagon. Bottom row starts with 1 medium red circle. Which picture belongs in the empty box?",
+    "explanation": "Step 1: Each column keeps the same shape. Step 2: Each row keeps the same color. Step 3: The empty box needs 1 medium red hexagon.",
+    "skill": "K.G.B.4",
+    "skillLabel": "Picture patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "circle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "hex",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "circle",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "Two by two pattern. 1 medium blue circle; 1 medium blue hexagon; 1 medium red circle; empty box."
+    },
+    "choiceFigures": [
+      {
+        "shape": "circle",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "circle",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 2,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "choices": [
+      "1 medium red circle",
+      "1 medium blue hexagon",
+      "1 medium red hexagon",
+      "2 medium red circles"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "circle",
+        "hex"
+      ],
+      "colorNames": [
+        "blue",
+        "red"
+      ],
+      "colors": [
+        "#2f6fed",
+        "#e23b3b"
+      ]
+    },
+    "id": "g4-figure-matrices-0007",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "figure-matrices",
+    "topicLabel": "Figure matrices",
+    "prompt": "Quinn needs the missing picture. Top row: 1 medium green circle, then 1 medium green hexagon. Bottom row starts with 1 medium gold circle. Which picture belongs in the empty box?",
+    "explanation": "Step 1: Each column keeps the same shape. Step 2: Each row keeps the same color. Step 3: The empty box needs 1 medium gold hexagon.",
+    "skill": "K.G.B.4",
+    "skillLabel": "Picture patterns",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "matrix",
+      "cells": [
+        {
+          "shape": "circle",
+          "colorName": "green",
+          "color": "#2f9e6b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "hex",
+          "colorName": "green",
+          "color": "#2f9e6b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "circle",
+          "colorName": "gold",
+          "color": "#e2a308",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        null
+      ],
+      "alt": "Two by two pattern. 1 medium green circle; 1 medium green hexagon; 1 medium gold circle; empty box."
+    },
+    "choiceFigures": [
+      {
+        "shape": "circle",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "green",
+        "color": "#2f9e6b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "circle",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 2,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "hex",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      }
+    ],
+    "choices": [
+      "1 medium gold circle",
+      "1 medium green hexagon",
+      "2 medium gold circles",
+      "1 medium gold hexagon"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "matrix",
+      "rule": "col-shape-row-color",
+      "shapes": [
+        "circle",
+        "hex"
+      ],
+      "colorNames": [
+        "green",
+        "gold"
+      ],
+      "colors": [
+        "#2f9e6b",
+        "#e2a308"
+      ]
+    },
+    "id": "g4-figure-matrices-0008",
+    "grade": 4,
+    "scored": true
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In the story, what is a wagon?",
+    "passageTitle": "The Red Wagon",
+    "passage": "Nora pulled a red wagon. The wagon held two blocks. A blue ball fell out.",
+    "explanation": "Step 1: Find the word \"wagon\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: wagon means a cart you can pull.",
+    "skill": "L.K.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "a kind of soup",
+      "a cart you can pull",
+      "a number",
+      "a loud sound"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "vocab",
+      "word": "wagon"
+    },
+    "id": "gk-vocabulary-0001",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What are cups in this story?",
+    "passageTitle": "Snack Time",
+    "passage": "Pia set three cups on the table. Each cup had milk. Sam drank from the blue cup.",
+    "explanation": "Step 1: Find the word \"cups\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: cups means containers you can drink from.",
+    "skill": "L.K.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "animals",
+      "songs",
+      "containers you can drink from",
+      "clouds"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "vocab",
+      "word": "cups"
+    },
+    "id": "gk-vocabulary-0002",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What does chased mean here?",
+    "passageTitle": "Park Walk",
+    "passage": "Quinn saw a brown dog. The dog chased a red ball. Quinn clapped and smiled.",
+    "explanation": "Step 1: Find the word \"chased\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: chased means ran after.",
+    "skill": "L.K.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "painted",
+      "ran after",
+      "counted",
+      "folded"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "vocab",
+      "word": "chased"
+    },
+    "id": "gk-vocabulary-0003",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What is a basket in this story?",
+    "passageTitle": "Leaf Pile",
+    "passage": "Rosa found a yellow leaf. Owen found a red leaf. They put both leaves in a basket.",
+    "explanation": "Step 1: Find the word \"basket\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: basket means a container that can hold things.",
+    "skill": "L.K.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "a color",
+      "a container that can hold things",
+      "a season",
+      "a song"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "vocab",
+      "word": "basket"
+    },
+    "id": "gk-vocabulary-0004",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What does whispered mean?",
+    "passageTitle": "Bedtime Book",
+    "passage": "Tara opened a picture book. The book showed a sleeping cat. Tara whispered, Good night.",
+    "explanation": "Step 1: Find the word \"whispered\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: whispered means said very softly.",
+    "skill": "L.K.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "said very softly",
+      "shouted",
+      "drew",
+      "counted"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "vocab",
+      "word": "whispered"
+    },
+    "id": "gk-vocabulary-0005",
+    "grade": 0,
+    "scored": true
+  }
+]

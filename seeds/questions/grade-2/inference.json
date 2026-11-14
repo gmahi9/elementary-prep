@@ -1,0 +1,177 @@
+[
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "How many apples stayed in the crate?",
+    "passageTitle": "Market Day",
+    "passage": "Finn counted 24 apples in one crate. He moved 10 apples to a smaller basket. The crate still held the rest of the apples.",
+    "explanation": "Step 1: The crate started with 24 apples. Step 2: Finn moved 10 away. Step 3: 24 minus 10 is 14.",
+    "skill": "RI.2.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "14",
+      "10",
+      "24",
+      "34"
+    ],
+    "answerIndex": 0,
+    "id": "g2-inference-0001",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "What was Gia studying?",
+    "passageTitle": "Science Notes",
+    "passage": "Gia observed a melting ice cube. She wrote that the puddle grew for ten minutes. Then she drew the cup and labeled the water.",
+    "explanation": "Step 1: She observed a melting ice cube. Step 2: She wrote about the puddle and labeled the water. Step 3: She was studying melting ice.",
+    "skill": "RI.2.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "A plant growing",
+      "A magnet",
+      "A rock collection",
+      "An ice cube melting"
+    ],
+    "answerIndex": 3,
+    "id": "g2-inference-0002",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Which loop did Hugo walk?",
+    "passageTitle": "Trail Map",
+    "passage": "Hugo followed the blue trail marks. The map key said blue marks meant the short loop. He finished back at the wooden sign.",
+    "explanation": "Step 1: He followed blue marks. Step 2: The key said blue marks meant the short loop. Step 3: So he walked the short loop.",
+    "skill": "RI.2.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "The long loop",
+      "No loop",
+      "A loop with red marks",
+      "The short loop"
+    ],
+    "answerIndex": 3,
+    "id": "g2-inference-0003",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Did Ivy plan to send the postcard?",
+    "passageTitle": "Postcard",
+    "passage": "Ivy wrote a postcard to her aunt. The postcard described a lighthouse and a sandy path. Ivy put a stamp in the corner before mailing it.",
+    "explanation": "Step 1: She wrote the postcard to her aunt. Step 2: She put a stamp on it before mailing it. Step 3: Mailing it means she planned to send it.",
+    "skill": "RI.2.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "No",
+      "Yes",
+      "She threw it away.",
+      "The story never says."
+    ],
+    "answerIndex": 1,
+    "id": "g2-inference-0004",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Why did the soil change color?",
+    "passageTitle": "Classroom Jobs",
+    "passage": "Jules watered the fern by the window. The soil was dry before he started. After watering, the soil looked dark.",
+    "explanation": "Step 1: The soil was dry at first. Step 2: After watering, it looked dark. Step 3: The water changed how it looked.",
+    "skill": "RI.2.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "The fern was moved.",
+      "The window broke.",
+      "Jules watered it.",
+      "Someone painted it."
+    ],
+    "answerIndex": 2,
+    "id": "g2-inference-0005",
+    "grade": 2
+  }
+]

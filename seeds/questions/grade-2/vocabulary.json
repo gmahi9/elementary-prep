@@ -1,0 +1,182 @@
+[
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What is a crate in this story?",
+    "passageTitle": "Market Day",
+    "passage": "Finn counted 24 apples in one crate. He moved 10 apples to a smaller basket. The crate still held the rest of the apples.",
+    "explanation": "Step 1: Find the word \"crate\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: crate means a box that holds things.",
+    "skill": "L.2.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "a coin",
+      "a recipe",
+      "a box that holds things",
+      "a song"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "vocab",
+      "word": "crate"
+    },
+    "id": "g2-vocabulary-0001",
+    "grade": 2,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What does observed mean?",
+    "passageTitle": "Science Notes",
+    "passage": "Gia observed a melting ice cube. She wrote that the puddle grew for ten minutes. Then she drew the cup and labeled the water.",
+    "explanation": "Step 1: Find the word \"observed\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: observed means watched carefully.",
+    "skill": "L.2.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "guessed",
+      "watched carefully",
+      "forgot",
+      "mixed"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "vocab",
+      "word": "observed"
+    },
+    "id": "g2-vocabulary-0002",
+    "grade": 2,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What does key mean in this story?",
+    "passageTitle": "Trail Map",
+    "passage": "Hugo followed the blue trail marks. The map key said blue marks meant the short loop. He finished back at the wooden sign.",
+    "explanation": "Step 1: Find the word \"key\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: key means the part of a map that explains the marks.",
+    "skill": "L.2.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "a metal door opener",
+      "the part of a map that explains the marks",
+      "a song",
+      "a backpack"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "vocab",
+      "word": "key"
+    },
+    "id": "g2-vocabulary-0003",
+    "grade": 2,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What is a stamp here?",
+    "passageTitle": "Postcard",
+    "passage": "Ivy wrote a postcard to her aunt. The postcard described a lighthouse and a sandy path. Ivy put a stamp in the corner before mailing it.",
+    "explanation": "Step 1: Find the word \"stamp\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: stamp means a small sticker that pays for mail.",
+    "skill": "L.2.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "a small sticker that pays for mail",
+      "a lighthouse lamp",
+      "a sandy shoe",
+      "a pencil"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "vocab",
+      "word": "stamp"
+    },
+    "id": "g2-vocabulary-0004",
+    "grade": 2,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What is soil?",
+    "passageTitle": "Classroom Jobs",
+    "passage": "Jules watered the fern by the window. The soil was dry before he started. After watering, the soil looked dark.",
+    "explanation": "Step 1: Find the word \"soil\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: soil means the dirt a plant grows in.",
+    "skill": "L.2.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "a window",
+      "a job chart",
+      "the dirt a plant grows in",
+      "a watering can"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "vocab",
+      "word": "soil"
+    },
+    "id": "g2-vocabulary-0005",
+    "grade": 2,
+    "scored": true
+  }
+]

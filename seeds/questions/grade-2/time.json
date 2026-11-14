@@ -1,0 +1,464 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Second grade: Nico checks the clock in the picture. What time does it show?",
+    "explanation": "Step 1: The short hand tells the hour. Step 2: The long hand tells the minutes. Step 3: The clock shows 3:00.",
+    "skill": "2.MD.C.7",
+    "skillLabel": "Tell time",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "figure": {
+      "kind": "clock",
+      "h": 3,
+      "m": 0,
+      "alt": "A clock showing 3:00"
+    },
+    "verify": {
+      "kind": "clock",
+      "h": 3,
+      "m": 0
+    },
+    "choices": [
+      "6:00",
+      "3:00",
+      "9:30",
+      "1:15"
+    ],
+    "answerIndex": 1,
+    "id": "g2-time-0001",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Second grade: Lila checks the clock in the picture. What time does it show?",
+    "explanation": "Step 1: The short hand tells the hour. Step 2: The long hand tells the minutes. Step 3: The clock shows 6:00.",
+    "skill": "2.MD.C.7",
+    "skillLabel": "Tell time",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "figure": {
+      "kind": "clock",
+      "h": 6,
+      "m": 0,
+      "alt": "A clock showing 6:00"
+    },
+    "verify": {
+      "kind": "clock",
+      "h": 6,
+      "m": 0
+    },
+    "choices": [
+      "3:00",
+      "9:30",
+      "6:00",
+      "1:15"
+    ],
+    "answerIndex": 2,
+    "id": "g2-time-0002",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Second grade: Omar checks the clock in the picture. What time does it show?",
+    "explanation": "Step 1: The short hand tells the hour. Step 2: The long hand tells the minutes. Step 3: The clock shows 9:30.",
+    "skill": "2.MD.C.7",
+    "skillLabel": "Tell time",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "figure": {
+      "kind": "clock",
+      "h": 9,
+      "m": 30,
+      "alt": "A clock showing 9:30"
+    },
+    "verify": {
+      "kind": "clock",
+      "h": 9,
+      "m": 30
+    },
+    "choices": [
+      "3:00",
+      "6:00",
+      "1:15",
+      "9:30"
+    ],
+    "answerIndex": 3,
+    "id": "g2-time-0003",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Hana checks the clock in the picture. What time does it show?",
+    "explanation": "Step 1: The short hand tells the hour. Step 2: The long hand tells the minutes. Step 3: The clock shows 1:15.",
+    "skill": "2.MD.C.7",
+    "skillLabel": "Tell time",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "figure": {
+      "kind": "clock",
+      "h": 1,
+      "m": 15,
+      "alt": "A clock showing 1:15"
+    },
+    "verify": {
+      "kind": "clock",
+      "h": 1,
+      "m": 15
+    },
+    "choices": [
+      "1:15",
+      "3:00",
+      "6:00",
+      "9:30"
+    ],
+    "answerIndex": 0,
+    "id": "g2-time-0004",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Bea checks the clock in the picture. What time does it show?",
+    "explanation": "Step 1: The short hand tells the hour. Step 2: The long hand tells the minutes. Step 3: The clock shows 4:45.",
+    "skill": "2.MD.C.7",
+    "skillLabel": "Tell time",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "figure": {
+      "kind": "clock",
+      "h": 4,
+      "m": 45,
+      "alt": "A clock showing 4:45"
+    },
+    "verify": {
+      "kind": "clock",
+      "h": 4,
+      "m": 45
+    },
+    "choices": [
+      "4:45",
+      "3:00",
+      "6:00",
+      "9:30"
+    ],
+    "answerIndex": 0,
+    "id": "g2-time-0005",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Luis checks the clock in the picture. What time does it show?",
+    "explanation": "Step 1: The short hand tells the hour. Step 2: The long hand tells the minutes. Step 3: The clock shows 7:30.",
+    "skill": "2.MD.C.7",
+    "skillLabel": "Tell time",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "figure": {
+      "kind": "clock",
+      "h": 7,
+      "m": 30,
+      "alt": "A clock showing 7:30"
+    },
+    "verify": {
+      "kind": "clock",
+      "h": 7,
+      "m": 30
+    },
+    "choices": [
+      "3:00",
+      "6:00",
+      "7:30",
+      "9:30"
+    ],
+    "answerIndex": 2,
+    "id": "g2-time-0006",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Bea starts reading at 2:10 and reads for 15 minutes. What time is it then?",
+    "explanation": "Step 1: The start time is 2:10. Step 2: Add 15 minutes. Step 3: The end time is 2:25.",
+    "skill": "3.MD.A.1",
+    "skillLabel": "Elapsed time",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "verify": {
+      "kind": "time-add",
+      "h": 2,
+      "m": 10,
+      "add": 15
+    },
+    "choices": [
+      "2:25",
+      "1:00",
+      "2:00",
+      "3:30"
+    ],
+    "answerIndex": 0,
+    "id": "g2-time-0007",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Luis starts reading at 3:20 and reads for 30 minutes. What time is it then?",
+    "explanation": "Step 1: The start time is 3:20. Step 2: Add 30 minutes. Step 3: The end time is 3:50.",
+    "skill": "3.MD.A.1",
+    "skillLabel": "Elapsed time",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "verify": {
+      "kind": "time-add",
+      "h": 3,
+      "m": 20,
+      "add": 30
+    },
+    "choices": [
+      "1:00",
+      "2:00",
+      "3:50",
+      "3:30"
+    ],
+    "answerIndex": 2,
+    "id": "g2-time-0008",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Mina starts reading at 4:00 and reads for 45 minutes. What time is it then?",
+    "explanation": "Step 1: The start time is 4:00. Step 2: Add 45 minutes. Step 3: The end time is 4:45.",
+    "skill": "3.MD.A.1",
+    "skillLabel": "Elapsed time",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "verify": {
+      "kind": "time-add",
+      "h": 4,
+      "m": 0,
+      "add": 45
+    },
+    "choices": [
+      "1:00",
+      "2:00",
+      "3:30",
+      "4:45"
+    ],
+    "answerIndex": 3,
+    "id": "g2-time-0009",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Theo starts reading at 7:15 and reads for 20 minutes. What time is it then?",
+    "explanation": "Step 1: The start time is 7:15. Step 2: Add 20 minutes. Step 3: The end time is 7:35.",
+    "skill": "3.MD.A.1",
+    "skillLabel": "Elapsed time",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "verify": {
+      "kind": "time-add",
+      "h": 7,
+      "m": 15,
+      "add": 20
+    },
+    "choices": [
+      "7:35",
+      "1:00",
+      "2:00",
+      "3:30"
+    ],
+    "answerIndex": 0,
+    "id": "g2-time-0010",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Asha starts reading at 9:40 and reads for 10 minutes. What time is it then?",
+    "explanation": "Step 1: The start time is 9:40. Step 2: Add 10 minutes. Step 3: The end time is 9:50.",
+    "skill": "3.MD.A.1",
+    "skillLabel": "Elapsed time",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "verify": {
+      "kind": "time-add",
+      "h": 9,
+      "m": 40,
+      "add": 10
+    },
+    "choices": [
+      "1:00",
+      "9:50",
+      "2:00",
+      "3:30"
+    ],
+    "answerIndex": 1,
+    "id": "g2-time-0011",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Jo starts reading at 1:05 and reads for 25 minutes. What time is it then?",
+    "explanation": "Step 1: The start time is 1:05. Step 2: Add 25 minutes. Step 3: The end time is 1:30.",
+    "skill": "3.MD.A.1",
+    "skillLabel": "Elapsed time",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "verify": {
+      "kind": "time-add",
+      "h": 1,
+      "m": 5,
+      "add": 25
+    },
+    "choices": [
+      "1:30",
+      "1:00",
+      "2:00",
+      "3:30"
+    ],
+    "answerIndex": 0,
+    "id": "g2-time-0012",
+    "grade": 2
+  }
+]

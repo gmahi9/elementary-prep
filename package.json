@@ -5,13 +5,15 @@
   "type": "module",
   "author": "gmahi9",
   "license": "MIT",
-  "description": "Unofficial elementary practice and test prep. Grade 3 is ready; other grades are planned.",
+  "description": "Unofficial elementary practice and test prep for kindergarten through grade 5.",
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview --host 127.0.0.1",
     "test": "vitest run",
-    "generate": "node scripts/generate-grade3.mjs"
+    "generate": "node scripts/generate-grade3.mjs",
+    "seed:sql": "node scripts/seed-sql.mjs",
+    "seed:local": "node scripts/seed-sql.mjs && npx wrangler d1 migrations apply elementary-prep --local && npx wrangler d1 execute elementary-prep --local --file=seeds/out/questions.sql"
   },
   "dependencies": {
     "@fontsource-variable/outfit": "^5.3.0",

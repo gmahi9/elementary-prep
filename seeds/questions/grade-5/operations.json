@@ -1,0 +1,1532 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Owen evaluates (8+2) × 3. What is the value?",
+    "explanation": "Step 1: Do the work inside parentheses first. Step 2: Then multiply or divide before adding or subtracting. Step 3: (8+2)*3 equals 30.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Order of operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(8+2)*3"
+    },
+    "choices": [
+      "30",
+      "31",
+      "29",
+      "32"
+    ],
+    "answerIndex": 0,
+    "id": "g5-operations-0001",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Pia evaluates (6 × 4)+5. What is the value?",
+    "explanation": "Step 1: Do the work inside parentheses first. Step 2: Then multiply or divide before adding or subtracting. Step 3: (6*4)+5 equals 29.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Order of operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(6*4)+5"
+    },
+    "choices": [
+      "29",
+      "30",
+      "28",
+      "31"
+    ],
+    "answerIndex": 0,
+    "id": "g5-operations-0002",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Quinn evaluates 20-(3 × 4). What is the value?",
+    "explanation": "Step 1: Do the work inside parentheses first. Step 2: Then multiply or divide before adding or subtracting. Step 3: 20-(3*4) equals 8.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Order of operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "20-(3*4)"
+    },
+    "choices": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "answerIndex": 0,
+    "id": "g5-operations-0003",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Rosa evaluates (15-5) ÷ 2. What is the value?",
+    "explanation": "Step 1: Do the work inside parentheses first. Step 2: Then multiply or divide before adding or subtracting. Step 3: (15-5)/2 equals 5.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Order of operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(15-5)/2"
+    },
+    "choices": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answerIndex": 0,
+    "id": "g5-operations-0004",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Sam evaluates 7 × (3+1). What is the value?",
+    "explanation": "Step 1: Do the work inside parentheses first. Step 2: Then multiply or divide before adding or subtracting. Step 3: 7*(3+1) equals 28.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Order of operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "7*(3+1)"
+    },
+    "choices": [
+      "29",
+      "27",
+      "30",
+      "28"
+    ],
+    "answerIndex": 3,
+    "id": "g5-operations-0005",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Tara evaluates (9 × 2)-4. What is the value?",
+    "explanation": "Step 1: Do the work inside parentheses first. Step 2: Then multiply or divide before adding or subtracting. Step 3: (9*2)-4 equals 14.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Order of operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(9*2)-4"
+    },
+    "choices": [
+      "15",
+      "14",
+      "13",
+      "16"
+    ],
+    "answerIndex": 1,
+    "id": "g5-operations-0006",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Uma evaluates 18 ÷ (2+1). What is the value?",
+    "explanation": "Step 1: Do the work inside parentheses first. Step 2: Then multiply or divide before adding or subtracting. Step 3: 18/(2+1) equals 6.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Order of operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "18/(2+1)"
+    },
+    "choices": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "answerIndex": 2,
+    "id": "g5-operations-0007",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Vik evaluates (4+6) × 5. What is the value?",
+    "explanation": "Step 1: Do the work inside parentheses first. Step 2: Then multiply or divide before adding or subtracting. Step 3: (4+6)*5 equals 50.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Order of operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(4+6)*5"
+    },
+    "choices": [
+      "51",
+      "49",
+      "50",
+      "52"
+    ],
+    "answerIndex": 2,
+    "id": "g5-operations-0008",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Owen has 13 bags with 6 beads in each bag, then finds 1 extra beads on the red bowl. How many beads is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (13 × 6)+1. Step 3: The result is 79.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(13*6)+1"
+    },
+    "choices": [
+      "79",
+      "80",
+      "78",
+      "81"
+    ],
+    "answerIndex": 0,
+    "id": "g5-operations-0009",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Pia has 14 bags with 6 cards in each bag, then finds 2 extra cards on the blue tray. How many cards is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (14 × 6)+2. Step 3: The result is 86.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(14*6)+2"
+    },
+    "choices": [
+      "87",
+      "86",
+      "85",
+      "88"
+    ],
+    "answerIndex": 1,
+    "id": "g5-operations-0010",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Quinn has 15 bags with 6 seeds in each bag, then finds 3 extra seeds on the green bin. How many seeds is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (15 × 6)+3. Step 3: The result is 93.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(15*6)+3"
+    },
+    "choices": [
+      "93",
+      "94",
+      "92",
+      "95"
+    ],
+    "answerIndex": 0,
+    "id": "g5-operations-0011",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Rosa has 16 bags with 6 tiles in each bag, then finds 4 extra tiles on the yellow cup. How many tiles is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (16 × 6)+4. Step 3: The result is 100.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(16*6)+4"
+    },
+    "choices": [
+      "101",
+      "100",
+      "99",
+      "102"
+    ],
+    "answerIndex": 1,
+    "id": "g5-operations-0012",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Sam has 17 bags with 6 tokens in each bag, then finds 5 extra tokens on the picnic mat. How many tokens is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (17 × 6)+5. Step 3: The result is 107.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(17*6)+5"
+    },
+    "choices": [
+      "107",
+      "108",
+      "106",
+      "109"
+    ],
+    "answerIndex": 0,
+    "id": "g5-operations-0013",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Tara has 18 bags with 6 stickers in each bag, then finds 1 extra stickers on the reading rug. How many stickers is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (18 × 6)+1. Step 3: The result is 109.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(18*6)+1"
+    },
+    "choices": [
+      "110",
+      "109",
+      "108",
+      "111"
+    ],
+    "answerIndex": 1,
+    "id": "g5-operations-0014",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Uma has 19 bags with 7 beads in each bag, then finds 2 extra beads on the window ledge. How many beads is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (19 × 7)+2. Step 3: The result is 135.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(19*7)+2"
+    },
+    "choices": [
+      "136",
+      "135",
+      "134",
+      "137"
+    ],
+    "answerIndex": 1,
+    "id": "g5-operations-0015",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Vik has 20 bags with 7 cards in each bag, then finds 3 extra cards on the class shelf. How many cards is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (20 × 7)+3. Step 3: The result is 143.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(20*7)+3"
+    },
+    "choices": [
+      "144",
+      "143",
+      "142",
+      "145"
+    ],
+    "answerIndex": 1,
+    "id": "g5-operations-0016",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Willa has 21 bags with 7 seeds in each bag, then finds 4 extra seeds on the red bowl. How many seeds is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (21 × 7)+4. Step 3: The result is 151.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(21*7)+4"
+    },
+    "choices": [
+      "152",
+      "151",
+      "150",
+      "153"
+    ],
+    "answerIndex": 1,
+    "id": "g5-operations-0017",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Nico has 22 bags with 7 tiles in each bag, then finds 5 extra tiles on the blue tray. How many tiles is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (22 × 7)+5. Step 3: The result is 159.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(22*7)+5"
+    },
+    "choices": [
+      "160",
+      "158",
+      "159",
+      "161"
+    ],
+    "answerIndex": 2,
+    "id": "g5-operations-0018",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Lila has 23 bags with 7 tokens in each bag, then finds 1 extra tokens on the green bin. How many tokens is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (23 × 7)+1. Step 3: The result is 162.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(23*7)+1"
+    },
+    "choices": [
+      "163",
+      "161",
+      "162",
+      "164"
+    ],
+    "answerIndex": 2,
+    "id": "g5-operations-0019",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Omar has 24 bags with 7 stickers in each bag, then finds 2 extra stickers on the yellow cup. How many stickers is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (24 × 7)+2. Step 3: The result is 170.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(24*7)+2"
+    },
+    "choices": [
+      "171",
+      "169",
+      "170",
+      "172"
+    ],
+    "answerIndex": 2,
+    "id": "g5-operations-0020",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Hana has 25 bags with 8 beads in each bag, then finds 3 extra beads on the picnic mat. How many beads is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (25 × 8)+3. Step 3: The result is 203.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(25*8)+3"
+    },
+    "choices": [
+      "204",
+      "202",
+      "203",
+      "205"
+    ],
+    "answerIndex": 2,
+    "id": "g5-operations-0021",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Bea has 26 bags with 8 cards in each bag, then finds 4 extra cards on the reading rug. How many cards is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (26 × 8)+4. Step 3: The result is 212.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(26*8)+4"
+    },
+    "choices": [
+      "213",
+      "211",
+      "214",
+      "212"
+    ],
+    "answerIndex": 3,
+    "id": "g5-operations-0022",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Luis has 27 bags with 8 seeds in each bag, then finds 5 extra seeds on the window ledge. How many seeds is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (27 × 8)+5. Step 3: The result is 221.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(27*8)+5"
+    },
+    "choices": [
+      "222",
+      "220",
+      "221",
+      "223"
+    ],
+    "answerIndex": 2,
+    "id": "g5-operations-0023",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Mina has 28 bags with 8 tiles in each bag, then finds 1 extra tiles on the class shelf. How many tiles is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (28 × 8)+1. Step 3: The result is 225.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(28*8)+1"
+    },
+    "choices": [
+      "226",
+      "224",
+      "225",
+      "227"
+    ],
+    "answerIndex": 2,
+    "id": "g5-operations-0024",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Theo has 13 bags with 8 tokens in each bag, then finds 2 extra tokens on the red bowl. How many tokens is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (13 × 8)+2. Step 3: The result is 106.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(13*8)+2"
+    },
+    "choices": [
+      "107",
+      "105",
+      "108",
+      "106"
+    ],
+    "answerIndex": 3,
+    "id": "g5-operations-0025",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Asha has 14 bags with 8 stickers in each bag, then finds 3 extra stickers on the blue tray. How many stickers is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (14 × 8)+3. Step 3: The result is 115.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(14*8)+3"
+    },
+    "choices": [
+      "116",
+      "114",
+      "117",
+      "115"
+    ],
+    "answerIndex": 3,
+    "id": "g5-operations-0026",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Jo has 15 bags with 9 beads in each bag, then finds 4 extra beads on the green bin. How many beads is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (15 × 9)+4. Step 3: The result is 139.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(15*9)+4"
+    },
+    "choices": [
+      "140",
+      "139",
+      "138",
+      "141"
+    ],
+    "answerIndex": 1,
+    "id": "g5-operations-0027",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Ida has 16 bags with 9 cards in each bag, then finds 5 extra cards on the yellow cup. How many cards is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (16 × 9)+5. Step 3: The result is 149.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(16*9)+5"
+    },
+    "choices": [
+      "149",
+      "150",
+      "148",
+      "151"
+    ],
+    "answerIndex": 0,
+    "id": "g5-operations-0028",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Rex has 17 bags with 9 seeds in each bag, then finds 1 extra seeds on the picnic mat. How many seeds is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (17 × 9)+1. Step 3: The result is 154.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(17*9)+1"
+    },
+    "choices": [
+      "155",
+      "154",
+      "153",
+      "156"
+    ],
+    "answerIndex": 1,
+    "id": "g5-operations-0029",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Cleo has 18 bags with 9 tiles in each bag, then finds 2 extra tiles on the reading rug. How many tiles is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (18 × 9)+2. Step 3: The result is 164.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(18*9)+2"
+    },
+    "choices": [
+      "164",
+      "165",
+      "163",
+      "166"
+    ],
+    "answerIndex": 0,
+    "id": "g5-operations-0030",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Wes has 19 bags with 9 tokens in each bag, then finds 3 extra tokens on the window ledge. How many tokens is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (19 × 9)+3. Step 3: The result is 174.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(19*9)+3"
+    },
+    "choices": [
+      "174",
+      "175",
+      "173",
+      "176"
+    ],
+    "answerIndex": 0,
+    "id": "g5-operations-0031",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Nora has 20 bags with 9 stickers in each bag, then finds 4 extra stickers on the class shelf. How many stickers is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (20 × 9)+4. Step 3: The result is 184.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(20*9)+4"
+    },
+    "choices": [
+      "185",
+      "183",
+      "186",
+      "184"
+    ],
+    "answerIndex": 3,
+    "id": "g5-operations-0032",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Owen has 21 bags with 10 beads in each bag, then finds 5 extra beads on the red bowl. How many beads is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (21 × 10)+5. Step 3: The result is 215.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(21*10)+5"
+    },
+    "choices": [
+      "216",
+      "215",
+      "214",
+      "217"
+    ],
+    "answerIndex": 1,
+    "id": "g5-operations-0033",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Pia has 22 bags with 10 cards in each bag, then finds 1 extra cards on the blue tray. How many cards is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (22 × 10)+1. Step 3: The result is 221.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(22*10)+1"
+    },
+    "choices": [
+      "222",
+      "220",
+      "221",
+      "223"
+    ],
+    "answerIndex": 2,
+    "id": "g5-operations-0034",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Quinn has 23 bags with 10 seeds in each bag, then finds 2 extra seeds on the green bin. How many seeds is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (23 × 10)+2. Step 3: The result is 232.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(23*10)+2"
+    },
+    "choices": [
+      "233",
+      "232",
+      "231",
+      "234"
+    ],
+    "answerIndex": 1,
+    "id": "g5-operations-0035",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Rosa has 24 bags with 10 tiles in each bag, then finds 3 extra tiles on the yellow cup. How many tiles is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (24 × 10)+3. Step 3: The result is 243.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(24*10)+3"
+    },
+    "choices": [
+      "244",
+      "242",
+      "243",
+      "245"
+    ],
+    "answerIndex": 2,
+    "id": "g5-operations-0036",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Sam has 25 bags with 10 tokens in each bag, then finds 4 extra tokens on the picnic mat. How many tokens is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (25 × 10)+4. Step 3: The result is 254.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(25*10)+4"
+    },
+    "choices": [
+      "255",
+      "254",
+      "253",
+      "256"
+    ],
+    "answerIndex": 1,
+    "id": "g5-operations-0037",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Tara has 26 bags with 10 stickers in each bag, then finds 5 extra stickers on the reading rug. How many stickers is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (26 × 10)+5. Step 3: The result is 265.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(26*10)+5"
+    },
+    "choices": [
+      "266",
+      "264",
+      "265",
+      "267"
+    ],
+    "answerIndex": 2,
+    "id": "g5-operations-0038",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Uma has 27 bags with 11 beads in each bag, then finds 1 extra beads on the window ledge. How many beads is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (27 × 11)+1. Step 3: The result is 298.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(27*11)+1"
+    },
+    "choices": [
+      "299",
+      "297",
+      "298",
+      "300"
+    ],
+    "answerIndex": 2,
+    "id": "g5-operations-0039",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Vik has 28 bags with 11 cards in each bag, then finds 2 extra cards on the class shelf. How many cards is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (28 × 11)+2. Step 3: The result is 310.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(28*11)+2"
+    },
+    "choices": [
+      "311",
+      "309",
+      "310",
+      "312"
+    ],
+    "answerIndex": 2,
+    "id": "g5-operations-0040",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Willa has 13 bags with 11 seeds in each bag, then finds 3 extra seeds on the red bowl. How many seeds is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (13 × 11)+3. Step 3: The result is 146.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(13*11)+3"
+    },
+    "choices": [
+      "147",
+      "145",
+      "146",
+      "148"
+    ],
+    "answerIndex": 2,
+    "id": "g5-operations-0041",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Nico has 14 bags with 11 tiles in each bag, then finds 4 extra tiles on the blue tray. How many tiles is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (14 × 11)+4. Step 3: The result is 158.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(14*11)+4"
+    },
+    "choices": [
+      "159",
+      "157",
+      "160",
+      "158"
+    ],
+    "answerIndex": 3,
+    "id": "g5-operations-0042",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Lila has 15 bags with 11 tokens in each bag, then finds 5 extra tokens on the green bin. How many tokens is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (15 × 11)+5. Step 3: The result is 170.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(15*11)+5"
+    },
+    "choices": [
+      "171",
+      "169",
+      "172",
+      "170"
+    ],
+    "answerIndex": 3,
+    "id": "g5-operations-0043",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Omar has 16 bags with 11 stickers in each bag, then finds 1 extra stickers on the yellow cup. How many stickers is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (16 × 11)+1. Step 3: The result is 177.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(16*11)+1"
+    },
+    "choices": [
+      "178",
+      "176",
+      "179",
+      "177"
+    ],
+    "answerIndex": 3,
+    "id": "g5-operations-0044",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "operations",
+    "topicLabel": "Operations",
+    "prompt": "Hana has 17 bags with 12 beads in each bag, then finds 2 extra beads on the picnic mat. How many beads is that?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is (17 × 12)+2. Step 3: The result is 206.",
+    "skill": "5.OA.A.1",
+    "skillLabel": "Operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "(17*12)+2"
+    },
+    "choices": [
+      "207",
+      "205",
+      "208",
+      "206"
+    ],
+    "answerIndex": 3,
+    "id": "g5-operations-0045",
+    "grade": 5
+  }
+]

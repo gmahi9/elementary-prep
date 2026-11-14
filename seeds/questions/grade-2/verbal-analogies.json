@@ -1,0 +1,596 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Nico's analogy card, glove matches hand. What matches sock?",
+    "explanation": "Step 1: Look at how glove and hand go together. Step 2: A glove covers a hand, and a sock covers a foot. Step 3: So sock goes with foot.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "foot",
+      "pencil"
+    ],
+    "answerIndex": 2,
+    "id": "g2-verbal-analogies-0001",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Lila's analogy card, beak matches bird. What matches fin?",
+    "explanation": "Step 1: Look at how beak and bird go together. Step 2: A beak is a bird part, and a fin is a fish part. Step 3: So fin goes with fish.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "fish",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 1,
+    "id": "g2-verbal-analogies-0002",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Omar's analogy card, teacher matches school. What matches doctor?",
+    "explanation": "Step 1: Look at how teacher and school go together. Step 2: A teacher works at a school, and a doctor works at a hospital. Step 3: So doctor goes with hospital.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "hospital",
+      "pencil"
+    ],
+    "answerIndex": 2,
+    "id": "g2-verbal-analogies-0003",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Hana's analogy card, cub matches lion. What matches calf?",
+    "explanation": "Step 1: Look at how cub and lion go together. Step 2: A cub is a young lion, and a calf is a young cow. Step 3: So calf goes with cow.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "cow"
+    ],
+    "answerIndex": 3,
+    "id": "g2-verbal-analogies-0004",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Bea's analogy card, petal matches flower. What matches feather?",
+    "explanation": "Step 1: Look at how petal and flower go together. Step 2: A petal is part of a flower, and a feather is part of a bird. Step 3: So feather goes with bird.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "bird",
+      "pencil"
+    ],
+    "answerIndex": 2,
+    "id": "g2-verbal-analogies-0005",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Luis's analogy card, author matches book. What matches painter?",
+    "explanation": "Step 1: Look at how author and book go together. Step 2: An author makes a book, and a painter makes a picture. Step 3: So painter goes with picture.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "picture"
+    ],
+    "answerIndex": 3,
+    "id": "g2-verbal-analogies-0006",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Mina's analogy card, pilot matches airplane. What matches captain?",
+    "explanation": "Step 1: Look at how pilot and airplane go together. Step 2: A pilot flies an airplane, and a captain leads a ship. Step 3: So captain goes with ship.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "ship"
+    ],
+    "answerIndex": 3,
+    "id": "g2-verbal-analogies-0007",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Theo's analogy card, seed matches plant. What matches egg?",
+    "explanation": "Step 1: Look at how seed and plant go together. Step 2: A seed grows into a plant, and an egg can hold a baby bird. Step 3: So egg goes with bird.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "bird",
+      "house",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 0,
+    "id": "g2-verbal-analogies-0008",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Asha's analogy card, finger matches hand. What matches toe?",
+    "explanation": "Step 1: Look at how finger and hand go together. Step 2: A finger is part of a hand, and a toe is part of a foot. Step 3: So toe goes with foot.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "foot",
+      "pencil"
+    ],
+    "answerIndex": 2,
+    "id": "g2-verbal-analogies-0009",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Jo's analogy card, whisper matches quiet. What matches shout?",
+    "explanation": "Step 1: Look at how whisper and quiet go together. Step 2: A whisper is quiet, and a shout is loud. Step 3: So shout goes with loud.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "loud",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 1,
+    "id": "g2-verbal-analogies-0010",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Ida's analogy card, begin matches start. What matches end?",
+    "explanation": "Step 1: Look at how begin and start go together. Step 2: Begin means start, and end means finish. Step 3: So end goes with finish.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "finish"
+    ],
+    "answerIndex": 3,
+    "id": "g2-verbal-analogies-0011",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Rex's analogy card, tiny matches small. What matches huge?",
+    "explanation": "Step 1: Look at how tiny and small go together. Step 2: Tiny means small, and huge means large. Step 3: So huge goes with large.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "large",
+      "house",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 0,
+    "id": "g2-verbal-analogies-0012",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Cleo's analogy card, chilly matches cold. What matches scorching?",
+    "explanation": "Step 1: Look at how chilly and cold go together. Step 2: Chilly means cold, and scorching means hot. Step 3: So scorching goes with hot.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "hot",
+      "house",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 0,
+    "id": "g2-verbal-analogies-0013",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Wes's analogy card, wheel matches wagon. What matches sail?",
+    "explanation": "Step 1: Look at how wheel and wagon go together. Step 2: A wheel helps a wagon move, and a sail helps a boat move. Step 3: So sail goes with boat.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "boat"
+    ],
+    "answerIndex": 3,
+    "id": "g2-verbal-analogies-0014",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Nora's analogy card, page matches book. What matches drawer?",
+    "explanation": "Step 1: Look at how page and book go together. Step 2: A page is part of a book, and a drawer is part of a desk. Step 3: So drawer goes with desk.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "desk",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 1,
+    "id": "g2-verbal-analogies-0015",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Owen's analogy card, key matches lock. What matches lid?",
+    "explanation": "Step 1: Look at how key and lock go together. Step 2: A key opens a lock, and a lid covers a jar. Step 3: So lid goes with jar.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "jar",
+      "pencil"
+    ],
+    "answerIndex": 2,
+    "id": "g2-verbal-analogies-0016",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Pia's analogy card, branch matches tree. What matches sleeve?",
+    "explanation": "Step 1: Look at how branch and tree go together. Step 2: A branch is part of a tree, and a sleeve is part of a coat. Step 3: So sleeve goes with coat.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "coat",
+      "house",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 0,
+    "id": "g2-verbal-analogies-0017",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "On Quinn's analogy card, rain matches wet. What matches sun?",
+    "explanation": "Step 1: Look at how rain and wet go together. Step 2: Rain makes things wet, and the sun makes the day bright. Step 3: So sun goes with bright.",
+    "skill": "L.2.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "bright",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 1,
+    "id": "g2-verbal-analogies-0018",
+    "grade": 2
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Nora says glove goes with hand. In the same way, sock goes with ____.",
+    "explanation": "Step 1: Look at how glove and hand go together. Step 2: A glove covers a hand, and a sock covers a foot. Step 3: So sock goes with foot.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "foot",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 1,
+    "id": "gk-verbal-analogies-0001",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Owen says beak goes with bird. In the same way, fin goes with ____.",
+    "explanation": "Step 1: Look at how beak and bird go together. Step 2: A beak is a bird part, and a fin is a fish part. Step 3: So fin goes with fish.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "fish",
+      "house",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 0,
+    "id": "gk-verbal-analogies-0002",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Pia says teacher goes with school. In the same way, doctor goes with ____.",
+    "explanation": "Step 1: Look at how teacher and school go together. Step 2: A teacher works at a school, and a doctor works at a hospital. Step 3: So doctor goes with hospital.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "hospital",
+      "house",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 0,
+    "id": "gk-verbal-analogies-0003",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Quinn says cub goes with lion. In the same way, calf goes with ____.",
+    "explanation": "Step 1: Look at how cub and lion go together. Step 2: A cub is a young lion, and a calf is a young cow. Step 3: So calf goes with cow.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "cow"
+    ],
+    "answerIndex": 3,
+    "id": "gk-verbal-analogies-0004",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Rosa says petal goes with flower. In the same way, feather goes with ____.",
+    "explanation": "Step 1: Look at how petal and flower go together. Step 2: A petal is part of a flower, and a feather is part of a bird. Step 3: So feather goes with bird.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "bird",
+      "pencil"
+    ],
+    "answerIndex": 2,
+    "id": "gk-verbal-analogies-0005",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Sam says author goes with book. In the same way, painter goes with ____.",
+    "explanation": "Step 1: Look at how author and book go together. Step 2: An author makes a book, and a painter makes a picture. Step 3: So painter goes with picture.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "picture",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 1,
+    "id": "gk-verbal-analogies-0006",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Tara says pilot goes with airplane. In the same way, captain goes with ____.",
+    "explanation": "Step 1: Look at how pilot and airplane go together. Step 2: A pilot flies an airplane, and a captain leads a ship. Step 3: So captain goes with ship.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "ship",
+      "pencil"
+    ],
+    "answerIndex": 2,
+    "id": "gk-verbal-analogies-0007",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Uma says seed goes with plant. In the same way, egg goes with ____.",
+    "explanation": "Step 1: Look at how seed and plant go together. Step 2: A seed grows into a plant, and an egg can hold a baby bird. Step 3: So egg goes with bird.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "bird",
+      "pencil"
+    ],
+    "answerIndex": 2,
+    "id": "gk-verbal-analogies-0008",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Vik says finger goes with hand. In the same way, toe goes with ____.",
+    "explanation": "Step 1: Look at how finger and hand go together. Step 2: A finger is part of a hand, and a toe is part of a foot. Step 3: So toe goes with foot.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "foot",
+      "house",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 0,
+    "id": "gk-verbal-analogies-0009",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Willa says whisper goes with quiet. In the same way, shout goes with ____.",
+    "explanation": "Step 1: Look at how whisper and quiet go together. Step 2: A whisper is quiet, and a shout is loud. Step 3: So shout goes with loud.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "loud"
+    ],
+    "answerIndex": 3,
+    "id": "gk-verbal-analogies-0010",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Nico says begin goes with start. In the same way, end goes with ____.",
+    "explanation": "Step 1: Look at how begin and start go together. Step 2: Begin means start, and end means finish. Step 3: So end goes with finish.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "finish"
+    ],
+    "answerIndex": 3,
+    "id": "gk-verbal-analogies-0011",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Lila says tiny goes with small. In the same way, huge goes with ____.",
+    "explanation": "Step 1: Look at how tiny and small go together. Step 2: Tiny means small, and huge means large. Step 3: So huge goes with large.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "large",
+      "house",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 0,
+    "id": "gk-verbal-analogies-0012",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Omar says chilly goes with cold. In the same way, scorching goes with ____.",
+    "explanation": "Step 1: Look at how chilly and cold go together. Step 2: Chilly means cold, and scorching means hot. Step 3: So scorching goes with hot.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "hot"
+    ],
+    "answerIndex": 3,
+    "id": "gk-verbal-analogies-0013",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Hana says wheel goes with wagon. In the same way, sail goes with ____.",
+    "explanation": "Step 1: Look at how wheel and wagon go together. Step 2: A wheel helps a wagon move, and a sail helps a boat move. Step 3: So sail goes with boat.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "boat"
+    ],
+    "answerIndex": 3,
+    "id": "gk-verbal-analogies-0014",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Bea says page goes with book. In the same way, drawer goes with ____.",
+    "explanation": "Step 1: Look at how page and book go together. Step 2: A page is part of a book, and a drawer is part of a desk. Step 3: So drawer goes with desk.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "desk"
+    ],
+    "answerIndex": 3,
+    "id": "gk-verbal-analogies-0015",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Luis says key goes with lock. In the same way, lid goes with ____.",
+    "explanation": "Step 1: Look at how key and lock go together. Step 2: A key opens a lock, and a lid covers a jar. Step 3: So lid goes with jar.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "jar",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 1,
+    "id": "gk-verbal-analogies-0016",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Mina says branch goes with tree. In the same way, sleeve goes with ____.",
+    "explanation": "Step 1: Look at how branch and tree go together. Step 2: A branch is part of a tree, and a sleeve is part of a coat. Step 3: So sleeve goes with coat.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "coat",
+      "house",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 0,
+    "id": "gk-verbal-analogies-0017",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Theo says rain goes with wet. In the same way, sun goes with ____.",
+    "explanation": "Step 1: Look at how rain and wet go together. Step 2: Rain makes things wet, and the sun makes the day bright. Step 3: So sun goes with bright.",
+    "skill": "L.K.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "bright"
+    ],
+    "answerIndex": 3,
+    "id": "gk-verbal-analogies-0018",
+    "grade": 0
+  }
+]

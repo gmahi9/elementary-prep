@@ -1,0 +1,440 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "shapes",
+    "topicLabel": "Shapes",
+    "prompt": "Sam traces a triangle. How many sides does Sam trace?",
+    "explanation": "Step 1: A triangle is a flat shape. Step 2: Count each straight side once. Step 3: There are 3 sides.",
+    "skill": "2.G.A.1",
+    "skillLabel": "Shapes and sides",
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "shape",
+      "shape": "triangle",
+      "alt": "A triangle"
+    },
+    "verify": {
+      "kind": "sides",
+      "shape": "triangle"
+    },
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answerIndex": 1,
+    "id": "g1-shapes-0001",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "shapes",
+    "topicLabel": "Shapes",
+    "prompt": "Tara traces a square. How many sides does Tara trace?",
+    "explanation": "Step 1: A square is a flat shape. Step 2: Count each straight side once. Step 3: There are 4 sides.",
+    "skill": "2.G.A.1",
+    "skillLabel": "Shapes and sides",
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "shape",
+      "shape": "square",
+      "alt": "A square"
+    },
+    "verify": {
+      "kind": "sides",
+      "shape": "square"
+    },
+    "choices": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "answerIndex": 2,
+    "id": "g1-shapes-0002",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "shapes",
+    "topicLabel": "Shapes",
+    "prompt": "Uma traces a rectangle. How many sides does Uma trace?",
+    "explanation": "Step 1: A rectangle is a flat shape. Step 2: Count each straight side once. Step 3: There are 4 sides.",
+    "skill": "2.G.A.1",
+    "skillLabel": "Shapes and sides",
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "shape",
+      "shape": "rectangle",
+      "alt": "A rectangle"
+    },
+    "verify": {
+      "kind": "sides",
+      "shape": "rectangle"
+    },
+    "choices": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answerIndex": 0,
+    "id": "g1-shapes-0003",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "shapes",
+    "topicLabel": "Shapes",
+    "prompt": "Vik traces a pentagon. How many sides does Vik trace?",
+    "explanation": "Step 1: A pentagon is a flat shape. Step 2: Count each straight side once. Step 3: There are 5 sides.",
+    "skill": "2.G.A.1",
+    "skillLabel": "Shapes and sides",
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "shape",
+      "shape": "pentagon",
+      "alt": "A pentagon"
+    },
+    "verify": {
+      "kind": "sides",
+      "shape": "pentagon"
+    },
+    "choices": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answerIndex": 0,
+    "id": "g1-shapes-0004",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "shapes",
+    "topicLabel": "Shapes",
+    "prompt": "Willa traces a hexagon. How many sides does Willa trace?",
+    "explanation": "Step 1: A hexagon is a flat shape. Step 2: Count each straight side once. Step 3: There are 6 sides.",
+    "skill": "2.G.A.1",
+    "skillLabel": "Shapes and sides",
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "shape",
+      "shape": "hexagon",
+      "alt": "A hexagon"
+    },
+    "verify": {
+      "kind": "sides",
+      "shape": "hexagon"
+    },
+    "choices": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "answerIndex": 0,
+    "id": "g1-shapes-0005",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "shapes",
+    "topicLabel": "Shapes",
+    "prompt": "Nico traces a octagon. How many sides does Nico trace?",
+    "explanation": "Step 1: A octagon is a flat shape. Step 2: Count each straight side once. Step 3: There are 8 sides.",
+    "skill": "2.G.A.1",
+    "skillLabel": "Shapes and sides",
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "shape",
+      "shape": "octagon",
+      "alt": "A octagon"
+    },
+    "verify": {
+      "kind": "sides",
+      "shape": "octagon"
+    },
+    "choices": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answerIndex": 3,
+    "id": "g1-shapes-0006",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "shapes",
+    "topicLabel": "Shapes",
+    "prompt": "Willa asks: which shape matches this clue: three sides?",
+    "explanation": "Step 1: Read the clue: three sides. Step 2: Match the clue to the shape name. Step 3: The shape is a triangle.",
+    "skill": "K.G.A.2",
+    "skillLabel": "Name shapes",
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Common Core K.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/G/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "shape-name",
+      "key": "three-sides"
+    },
+    "choices": [
+      "circle",
+      "triangle",
+      "square",
+      "pentagon"
+    ],
+    "answerIndex": 1,
+    "id": "g1-shapes-0007",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "shapes",
+    "topicLabel": "Shapes",
+    "prompt": "Nico asks: which shape matches this clue: four equal sides and four right angles?",
+    "explanation": "Step 1: Read the clue: four equal sides and four right angles. Step 2: Match the clue to the shape name. Step 3: The shape is a square.",
+    "skill": "K.G.A.2",
+    "skillLabel": "Name shapes",
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Common Core K.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/G/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "shape-name",
+      "key": "four-equal-sides-and-four-right-angles"
+    },
+    "choices": [
+      "square",
+      "circle",
+      "triangle",
+      "pentagon"
+    ],
+    "answerIndex": 0,
+    "id": "g1-shapes-0008",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "shapes",
+    "topicLabel": "Shapes",
+    "prompt": "Lila asks: which shape matches this clue: five sides?",
+    "explanation": "Step 1: Read the clue: five sides. Step 2: Match the clue to the shape name. Step 3: The shape is a pentagon.",
+    "skill": "K.G.A.2",
+    "skillLabel": "Name shapes",
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Common Core K.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/G/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "shape-name",
+      "key": "five-sides"
+    },
+    "choices": [
+      "circle",
+      "pentagon",
+      "triangle",
+      "square"
+    ],
+    "answerIndex": 1,
+    "id": "g1-shapes-0009",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "shapes",
+    "topicLabel": "Shapes",
+    "prompt": "Omar asks: which shape matches this clue: six sides?",
+    "explanation": "Step 1: Read the clue: six sides. Step 2: Match the clue to the shape name. Step 3: The shape is a hexagon.",
+    "skill": "K.G.A.2",
+    "skillLabel": "Name shapes",
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Common Core K.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/G/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "shape-name",
+      "key": "six-sides"
+    },
+    "choices": [
+      "circle",
+      "hexagon",
+      "triangle",
+      "square"
+    ],
+    "answerIndex": 1,
+    "id": "g1-shapes-0010",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "shapes",
+    "topicLabel": "Shapes",
+    "prompt": "Hana asks: which shape matches this clue: no straight sides?",
+    "explanation": "Step 1: Read the clue: no straight sides. Step 2: Match the clue to the shape name. Step 3: The shape is a circle.",
+    "skill": "K.G.A.2",
+    "skillLabel": "Name shapes",
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Common Core K.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/G/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "shape-name",
+      "key": "no-straight-sides"
+    },
+    "choices": [
+      "triangle",
+      "square",
+      "circle",
+      "pentagon"
+    ],
+    "answerIndex": 2,
+    "id": "g1-shapes-0011",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "shapes",
+    "topicLabel": "Shapes",
+    "prompt": "Bea asks: which shape matches this clue: exactly one pair of parallel sides?",
+    "explanation": "Step 1: Read the clue: exactly one pair of parallel sides. Step 2: Match the clue to the shape name. Step 3: The shape is a trapezoid.",
+    "skill": "K.G.A.2",
+    "skillLabel": "Name shapes",
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Common Core K.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/G/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "shape-name",
+      "key": "exactly-one-pair-of-parallel-sides"
+    },
+    "choices": [
+      "circle",
+      "triangle",
+      "square",
+      "trapezoid"
+    ],
+    "answerIndex": 3,
+    "id": "g1-shapes-0012",
+    "grade": 1
+  }
+]

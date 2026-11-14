@@ -1,0 +1,682 @@
+[
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Owen reads a word built on the root geo. Which meaning belongs to geo?",
+    "explanation": "Step 1: Find the root geo inside the longer word. Step 2: That root has one meaning to remember. Step 3: geo means earth.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "far",
+      "earth",
+      "light",
+      "water"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "root",
+      "root": "geo"
+    },
+    "id": "g5-roots-0001",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Pia reads a word built on the root tele. Which meaning belongs to tele?",
+    "explanation": "Step 1: Find the root tele inside the longer word. Step 2: That root has one meaning to remember. Step 3: tele means far.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "light",
+      "far",
+      "water"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "root",
+      "root": "tele"
+    },
+    "id": "g5-roots-0002",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Quinn reads a word built on the root photo. Which meaning belongs to photo?",
+    "explanation": "Step 1: Find the root photo inside the longer word. Step 2: That root has one meaning to remember. Step 3: photo means light.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "water",
+      "light"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "root",
+      "root": "photo"
+    },
+    "id": "g5-roots-0003",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Rosa reads a word built on the root aqua. Which meaning belongs to aqua?",
+    "explanation": "Step 1: Find the root aqua inside the longer word. Step 2: That root has one meaning to remember. Step 3: aqua means water.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "water",
+      "earth",
+      "far",
+      "light"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "root",
+      "root": "aqua"
+    },
+    "id": "g5-roots-0004",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Sam reads a word built on the root bio. Which meaning belongs to bio?",
+    "explanation": "Step 1: Find the root bio inside the longer word. Step 2: That root has one meaning to remember. Step 3: bio means life.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "life",
+      "far",
+      "light"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "root",
+      "root": "bio"
+    },
+    "id": "g5-roots-0005",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Tara reads a word built on the root therm. Which meaning belongs to therm?",
+    "explanation": "Step 1: Find the root therm inside the longer word. Step 2: That root has one meaning to remember. Step 3: therm means heat.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "heat",
+      "light"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "root",
+      "root": "therm"
+    },
+    "id": "g5-roots-0006",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Uma reads a word built on the root aud. Which meaning belongs to aud?",
+    "explanation": "Step 1: Find the root aud inside the longer word. Step 2: That root has one meaning to remember. Step 3: aud means hear.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "light",
+      "hear"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "root",
+      "root": "aud"
+    },
+    "id": "g5-roots-0007",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Vik reads a word built on the root graph. Which meaning belongs to graph?",
+    "explanation": "Step 1: Find the root graph inside the longer word. Step 2: That root has one meaning to remember. Step 3: graph means write.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "write",
+      "earth",
+      "far",
+      "light"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "root",
+      "root": "graph"
+    },
+    "id": "g5-roots-0008",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Willa reads a word built on the root scope. Which meaning belongs to scope?",
+    "explanation": "Step 1: Find the root scope inside the longer word. Step 2: That root has one meaning to remember. Step 3: scope means see.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "see",
+      "far",
+      "light"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "root",
+      "root": "scope"
+    },
+    "id": "g5-roots-0009",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Nico reads a word built on the root chron. Which meaning belongs to chron?",
+    "explanation": "Step 1: Find the root chron inside the longer word. Step 2: That root has one meaning to remember. Step 3: chron means time.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "time",
+      "light"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "root",
+      "root": "chron"
+    },
+    "id": "g5-roots-0010",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Lila reads a word built on the root port. Which meaning belongs to port?",
+    "explanation": "Step 1: Find the root port inside the longer word. Step 2: That root has one meaning to remember. Step 3: port means carry.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "light",
+      "carry"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "root",
+      "root": "port"
+    },
+    "id": "g5-roots-0011",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Omar reads a word built on the root rupt. Which meaning belongs to rupt?",
+    "explanation": "Step 1: Find the root rupt inside the longer word. Step 2: That root has one meaning to remember. Step 3: rupt means break.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "break",
+      "earth",
+      "far",
+      "light"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "root",
+      "root": "rupt"
+    },
+    "id": "g5-roots-0012",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Hana reads a word built on the root struct. Which meaning belongs to struct?",
+    "explanation": "Step 1: Find the root struct inside the longer word. Step 2: That root has one meaning to remember. Step 3: struct means build.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "build",
+      "far",
+      "light"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "root",
+      "root": "struct"
+    },
+    "id": "g5-roots-0013",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Bea reads a word built on the root dict. Which meaning belongs to dict?",
+    "explanation": "Step 1: Find the root dict inside the longer word. Step 2: That root has one meaning to remember. Step 3: dict means say.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "say",
+      "light"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "root",
+      "root": "dict"
+    },
+    "id": "g5-roots-0014",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Luis reads a word built on the root tract. Which meaning belongs to tract?",
+    "explanation": "Step 1: Find the root tract inside the longer word. Step 2: That root has one meaning to remember. Step 3: tract means pull.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "light",
+      "pull"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "root",
+      "root": "tract"
+    },
+    "id": "g5-roots-0015",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Mina reads a word built on the root ject. Which meaning belongs to ject?",
+    "explanation": "Step 1: Find the root ject inside the longer word. Step 2: That root has one meaning to remember. Step 3: ject means throw.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "throw",
+      "earth",
+      "far",
+      "light"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "root",
+      "root": "ject"
+    },
+    "id": "g5-roots-0016",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Theo reads a word built on the root vis. Which meaning belongs to vis?",
+    "explanation": "Step 1: Find the root vis inside the longer word. Step 2: That root has one meaning to remember. Step 3: vis means see.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "see",
+      "far",
+      "light"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "root",
+      "root": "vis"
+    },
+    "id": "g5-roots-0017",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Asha reads a word built on the root meter. Which meaning belongs to meter?",
+    "explanation": "Step 1: Find the root meter inside the longer word. Step 2: That root has one meaning to remember. Step 3: meter means measure.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "measure",
+      "light"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "root",
+      "root": "meter"
+    },
+    "id": "g5-roots-0018",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Jo reads a word built on the root cycl. Which meaning belongs to cycl?",
+    "explanation": "Step 1: Find the root cycl inside the longer word. Step 2: That root has one meaning to remember. Step 3: cycl means circle.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "light",
+      "circle"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "root",
+      "root": "cycl"
+    },
+    "id": "g5-roots-0019",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Ida reads a word built on the root phon. Which meaning belongs to phon?",
+    "explanation": "Step 1: Find the root phon inside the longer word. Step 2: That root has one meaning to remember. Step 3: phon means sound.",
+    "skill": "L.5.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.5.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/5/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "sound",
+      "earth",
+      "far",
+      "light"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "root",
+      "root": "phon"
+    },
+    "id": "g5-roots-0020",
+    "grade": 5,
+    "scored": true
+  }
+]

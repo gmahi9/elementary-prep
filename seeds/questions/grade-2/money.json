@@ -1,0 +1,410 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Nico has 1 quarter and 1 dime. How much money is that?",
+    "explanation": "Step 1: Add the value of each coin. Step 2: The coins make 35 cents. Step 3: That is $0.35.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Count coins",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "verify": {
+      "kind": "money",
+      "cents": 35
+    },
+    "choices": [
+      "$0.40",
+      "$0.30",
+      "$0.35",
+      "$0.45"
+    ],
+    "answerIndex": 2,
+    "id": "g2-money-0001",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Lila has 2 dimes and 1 nickel. How much money is that?",
+    "explanation": "Step 1: Add the value of each coin. Step 2: The coins make 25 cents. Step 3: That is $0.25.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Count coins",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "verify": {
+      "kind": "money",
+      "cents": 25
+    },
+    "choices": [
+      "$0.30",
+      "$0.20",
+      "$0.35",
+      "$0.25"
+    ],
+    "answerIndex": 3,
+    "id": "g2-money-0002",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Omar has 3 nickels. How much money is that?",
+    "explanation": "Step 1: Add the value of each coin. Step 2: The coins make 15 cents. Step 3: That is $0.15.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Count coins",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "verify": {
+      "kind": "money",
+      "cents": 15
+    },
+    "choices": [
+      "$0.20",
+      "$0.15",
+      "$0.10",
+      "$0.25"
+    ],
+    "answerIndex": 1,
+    "id": "g2-money-0003",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Hana has 1 quarter and 2 pennies. How much money is that?",
+    "explanation": "Step 1: Add the value of each coin. Step 2: The coins make 27 cents. Step 3: That is $0.27.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Count coins",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "verify": {
+      "kind": "money",
+      "cents": 27
+    },
+    "choices": [
+      "$0.27",
+      "$0.32",
+      "$0.22",
+      "$0.37"
+    ],
+    "answerIndex": 0,
+    "id": "g2-money-0004",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Bea has 4 dimes. How much money is that?",
+    "explanation": "Step 1: Add the value of each coin. Step 2: The coins make 40 cents. Step 3: That is $0.40.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Count coins",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "verify": {
+      "kind": "money",
+      "cents": 40
+    },
+    "choices": [
+      "$0.40",
+      "$0.45",
+      "$0.35",
+      "$0.50"
+    ],
+    "answerIndex": 0,
+    "id": "g2-money-0005",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Luis has 1 dime and 3 pennies. How much money is that?",
+    "explanation": "Step 1: Add the value of each coin. Step 2: The coins make 13 cents. Step 3: That is $0.13.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Count coins",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "verify": {
+      "kind": "money",
+      "cents": 13
+    },
+    "choices": [
+      "$0.18",
+      "$0.08",
+      "$0.23",
+      "$0.13"
+    ],
+    "answerIndex": 3,
+    "id": "g2-money-0006",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Mina has 2 quarters. How much money is that?",
+    "explanation": "Step 1: Add the value of each coin. Step 2: The coins make 50 cents. Step 3: That is $0.50.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Count coins",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "verify": {
+      "kind": "money",
+      "cents": 50
+    },
+    "choices": [
+      "$0.55",
+      "$0.45",
+      "$0.50",
+      "$0.60"
+    ],
+    "answerIndex": 2,
+    "id": "g2-money-0007",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Theo has 1 quarter, 1 dime, and 1 nickel. How much money is that?",
+    "explanation": "Step 1: Add the value of each coin. Step 2: The coins make 40 cents. Step 3: That is $0.40.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Count coins",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "verify": {
+      "kind": "money",
+      "cents": 40
+    },
+    "choices": [
+      "$0.40",
+      "$0.45",
+      "$0.35",
+      "$0.50"
+    ],
+    "answerIndex": 0,
+    "id": "g2-money-0008",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Asha has 6 pennies and 1 nickel. How much money is that?",
+    "explanation": "Step 1: Add the value of each coin. Step 2: The coins make 11 cents. Step 3: That is $0.11.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Count coins",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "verify": {
+      "kind": "money",
+      "cents": 11
+    },
+    "choices": [
+      "$0.11",
+      "$0.16",
+      "$0.06",
+      "$0.21"
+    ],
+    "answerIndex": 0,
+    "id": "g2-money-0009",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Jo has 1 dime and 1 nickel and 2 pennies. How much money is that?",
+    "explanation": "Step 1: Add the value of each coin. Step 2: The coins make 17 cents. Step 3: That is $0.17.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Count coins",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "verify": {
+      "kind": "money",
+      "cents": 17
+    },
+    "choices": [
+      "$0.22",
+      "$0.12",
+      "$0.17",
+      "$0.27"
+    ],
+    "answerIndex": 2,
+    "id": "g2-money-0010",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Ida has 3 dimes and 1 penny. How much money is that?",
+    "explanation": "Step 1: Add the value of each coin. Step 2: The coins make 31 cents. Step 3: That is $0.31.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Count coins",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "verify": {
+      "kind": "money",
+      "cents": 31
+    },
+    "choices": [
+      "$0.36",
+      "$0.26",
+      "$0.31",
+      "$0.41"
+    ],
+    "answerIndex": 2,
+    "id": "g2-money-0011",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Rex has 1 quarter and 1 nickel. How much money is that?",
+    "explanation": "Step 1: Add the value of each coin. Step 2: The coins make 30 cents. Step 3: That is $0.30.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Count coins",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "verify": {
+      "kind": "money",
+      "cents": 30
+    },
+    "choices": [
+      "$0.35",
+      "$0.25",
+      "$0.30",
+      "$0.40"
+    ],
+    "answerIndex": 2,
+    "id": "g2-money-0012",
+    "grade": 2
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Does 5 × 4 × 3 match the reported volume?",
+    "passageTitle": "Lab Report",
+    "passage": "Amina measured a box that was 5 centimeters long, 4 centimeters wide, and 3 centimeters tall. She multiplied the three edge lengths to find the volume. Her report said the box could hold 60 cubic centimeters.",
+    "explanation": "Step 1: The edges are 5, 4, and 3. Step 2: 5 × 4 × 3 = 60. Step 3: The report says 60 cubic centimeters, so it matches.",
+    "skill": "RI.5.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "No",
+      "Yes",
+      "She reported area.",
+      "The story gives no numbers."
+    ],
+    "answerIndex": 1,
+    "id": "g5-inference-0001",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "What problem supports Luis's argument?",
+    "passageTitle": "Editorial",
+    "passage": "Luis argued that the town should repair the library roof before buying new benches. He cited a leak over the history section. The final paragraph asked readers to write to the council.",
+    "explanation": "Step 1: He wants the roof repaired first. Step 2: He cites a leak over the history section. Step 3: That leak is the supporting problem.",
+    "skill": "RI.5.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "A need for new paint only",
+      "A missing playground",
+      "No problem is named",
+      "A leak over the history section"
+    ],
+    "answerIndex": 3,
+    "id": "g5-inference-0002",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "If east is the first coordinate, is (4, 2) reasonable?",
+    "passageTitle": "Coordinate Clue",
+    "passage": "The map key placed the origin at the old oak. The picnic blanket was 4 units east and 2 units north of the oak. The clue wrote that spot as the ordered pair (4, 2).",
+    "explanation": "Step 1: The blanket is 4 units east and 2 units north. Step 2: East is the first number and north is the second. Step 3: (4, 2) matches that move.",
+    "skill": "RI.5.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "Yes",
+      "No",
+      "The story uses (2, 4).",
+      "Coordinates are not mentioned."
+    ],
+    "answerIndex": 0,
+    "id": "g5-inference-0003",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Which meaning fits the root Noor circled?",
+    "passageTitle": "Root Hunt",
+    "passage": "Noor circled the root aud in auditorium. She explained that aud has to do with hearing. Her example sentence described a room where an audience listens.",
+    "explanation": "Step 1: She circled aud. Step 2: She explained that aud has to do with hearing. Step 3: The meaning is hearing.",
+    "skill": "RI.5.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "Hearing",
+      "Earth",
+      "Light",
+      "Water"
+    ],
+    "answerIndex": 0,
+    "id": "g5-inference-0004",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "How much change should Theo get from $3.00?",
+    "passageTitle": "Decimal Shop",
+    "passage": "A notebook cost $2.40 and a pencil cost $0.35. Theo paid with three one-dollar bills. The receipt showed a total of $2.75 before any change.",
+    "explanation": "Step 1: The total is $2.75. Step 2: He paid $3.00. Step 3: $3.00 - $2.75 = $0.25.",
+    "skill": "RI.5.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "$0.35",
+      "$2.40",
+      "$0.75",
+      "$0.25"
+    ],
+    "answerIndex": 3,
+    "id": "g5-inference-0005",
+    "grade": 5
+  }
+]

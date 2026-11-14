@@ -1,0 +1,186 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "Vik uses one rule. 2 becomes 5 and 4 becomes 7. Using that same rule, what does 6 become?",
+    "explanation": "Step 1: Check the rule on the pairs that are already filled. Step 2: Each number increases by 3. Step 3: 6 becomes 9.",
+    "skill": "4.OA.A.3",
+    "skillLabel": "Number rules",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 3,
+      "pairs": [
+        [
+          2,
+          5
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "input": 6
+    },
+    "choices": [
+      "10",
+      "9",
+      "8",
+      "11"
+    ],
+    "answerIndex": 1,
+    "id": "g1-number-analogies-0001",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "Willa uses one rule. 1 becomes 11 and 5 becomes 15. Using that same rule, what does 8 become?",
+    "explanation": "Step 1: Check the rule on the pairs that are already filled. Step 2: Each number increases by 10. Step 3: 8 becomes 18.",
+    "skill": "4.OA.A.3",
+    "skillLabel": "Number rules",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 10,
+      "pairs": [
+        [
+          1,
+          11
+        ],
+        [
+          5,
+          15
+        ]
+      ],
+      "input": 8
+    },
+    "choices": [
+      "19",
+      "17",
+      "18",
+      "20"
+    ],
+    "answerIndex": 2,
+    "id": "g1-number-analogies-0002",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "Nico uses one rule. 3 becomes 6 and 4 becomes 8. Using that same rule, what does 7 become?",
+    "explanation": "Step 1: Check the rule on the pairs that are already filled. Step 2: Each number is multiplied by 2. Step 3: 7 becomes 14.",
+    "skill": "4.OA.A.3",
+    "skillLabel": "Number rules",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 2,
+      "pairs": [
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          8
+        ]
+      ],
+      "input": 7
+    },
+    "choices": [
+      "14",
+      "15",
+      "13",
+      "16"
+    ],
+    "answerIndex": 0,
+    "id": "g1-number-analogies-0003",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "Lila uses one rule. 2 becomes 6 and 5 becomes 15. Using that same rule, what does 4 become?",
+    "explanation": "Step 1: Check the rule on the pairs that are already filled. Step 2: Each number is multiplied by 3. Step 3: 4 becomes 12.",
+    "skill": "4.OA.A.3",
+    "skillLabel": "Number rules",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 3,
+      "pairs": [
+        [
+          2,
+          6
+        ],
+        [
+          5,
+          15
+        ]
+      ],
+      "input": 4
+    },
+    "choices": [
+      "13",
+      "11",
+      "12",
+      "14"
+    ],
+    "answerIndex": 2,
+    "id": "g1-number-analogies-0004",
+    "grade": 1
+  }
+]

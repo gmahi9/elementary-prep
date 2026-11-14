@@ -1,0 +1,527 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells when Priya recorded the temperature?",
+    "passageTitle": "Field Notes",
+    "passage": "Priya recorded the temperature at 8:00 a.m. and again at noon. The noon reading was 9 degrees higher. She concluded the morning had been cooler.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Priya recorded the temperature at 8:00 a.m. and again at noon.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Priya recorded the temperature at 6:00 a.m. and again at night.",
+      "Priya recorded the temperature at 8:00 a.m. and again at noon.",
+      "The noon reading was 2 degrees lower.",
+      "She concluded the morning had been warmer."
+    ],
+    "answerIndex": 1,
+    "id": "g4-evidence-0001",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence compares the two readings?",
+    "passageTitle": "Field Notes",
+    "passage": "Priya recorded the temperature at 8:00 a.m. and again at noon. The noon reading was 9 degrees higher. She concluded the morning had been cooler.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The noon reading was 9 degrees higher.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The noon reading was 9 degrees lower.",
+      "Priya lost her thermometer.",
+      "The noon reading was 9 degrees higher.",
+      "She measured rainfall instead."
+    ],
+    "answerIndex": 2,
+    "id": "g4-evidence-0002",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells her conclusion?",
+    "passageTitle": "Field Notes",
+    "passage": "Priya recorded the temperature at 8:00 a.m. and again at noon. The noon reading was 9 degrees higher. She concluded the morning had been cooler.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: She concluded the morning had been cooler.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "She concluded the morning had been warmer.",
+      "She refused to decide.",
+      "She concluded the morning had been cooler.",
+      "The thermometer broke at noon."
+    ],
+    "answerIndex": 2,
+    "id": "g4-evidence-0003",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells the age of the pot?",
+    "passageTitle": "Museum Label",
+    "passage": "The label explained that the clay pot was made about 800 years ago. A crack ran from the rim to the base. Visitors were asked not to touch the glass case.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The label explained that the clay pot was made about 800 years ago.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The label explained that the clay pot was made about 80 years ago.",
+      "A crack ran across the lid only.",
+      "Visitors were asked to lift the pot.",
+      "The label explained that the clay pot was made about 800 years ago."
+    ],
+    "answerIndex": 3,
+    "id": "g4-evidence-0004",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence describes the crack?",
+    "passageTitle": "Museum Label",
+    "passage": "The label explained that the clay pot was made about 800 years ago. A crack ran from the rim to the base. Visitors were asked not to touch the glass case.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: A crack ran from the rim to the base.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "A painted bird covered the crack.",
+      "The pot was brand new.",
+      "The base was missing entirely.",
+      "A crack ran from the rim to the base."
+    ],
+    "answerIndex": 3,
+    "id": "g4-evidence-0005",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells the rule for visitors?",
+    "passageTitle": "Museum Label",
+    "passage": "The label explained that the clay pot was made about 800 years ago. A crack ran from the rim to the base. Visitors were asked not to touch the glass case.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Visitors were asked not to touch the glass case.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Visitors were asked not to touch the glass case.",
+      "Visitors were asked to open the glass case.",
+      "The label was blank.",
+      "Cameras were required."
+    ],
+    "answerIndex": 0,
+    "id": "g4-evidence-0006",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells Team North's first-half score?",
+    "passageTitle": "Team Data",
+    "passage": "The chart showed that Team North scored 18 points in the first half. Team South scored 11 points in that same half. A caption reminded readers to compare the bars, not the colors.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The chart showed that Team North scored 18 points in the first half.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The chart showed that Team North scored 30 points in the first half.",
+      "The chart showed that Team North scored 18 points in the first half.",
+      "Team South scored 21 points in that same half.",
+      "A caption told readers to ignore the bars."
+    ],
+    "answerIndex": 1,
+    "id": "g4-evidence-0007",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells Team South's score?",
+    "passageTitle": "Team Data",
+    "passage": "The chart showed that Team North scored 18 points in the first half. Team South scored 11 points in that same half. A caption reminded readers to compare the bars, not the colors.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Team South scored 11 points in that same half.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Team South scored 18 points in the second half.",
+      "Team North did not play.",
+      "The chart had no numbers.",
+      "Team South scored 11 points in that same half."
+    ],
+    "answerIndex": 3,
+    "id": "g4-evidence-0008",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells how to read the chart?",
+    "passageTitle": "Team Data",
+    "passage": "The chart showed that Team North scored 18 points in the first half. Team South scored 11 points in that same half. A caption reminded readers to compare the bars, not the colors.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: A caption reminded readers to compare the bars, not the colors.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "A caption reminded readers to compare the colors, not the bars.",
+      "The caption was missing.",
+      "Readers were told to guess.",
+      "A caption reminded readers to compare the bars, not the colors."
+    ],
+    "answerIndex": 3,
+    "id": "g4-evidence-0009",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Mateo underlined?",
+    "passageTitle": "Word Study",
+    "passage": "Mateo underlined the root in transportation. He wrote that the root had to do with carrying. His partner checked the meaning in a student dictionary.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Mateo underlined the root in transportation.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Mateo underlined the root in transportation.",
+      "Mateo underlined the ending in transportation.",
+      "He wrote that the root had to do with flying.",
+      "His partner closed the dictionary."
+    ],
+    "answerIndex": 0,
+    "id": "g4-evidence-0010",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what he wrote?",
+    "passageTitle": "Word Study",
+    "passage": "Mateo underlined the root in transportation. He wrote that the root had to do with carrying. His partner checked the meaning in a student dictionary.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: He wrote that the root had to do with carrying.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "He wrote that the root had to do with painting.",
+      "He wrote that the root had to do with carrying.",
+      "Mateo skipped the word.",
+      "The dictionary was for science only."
+    ],
+    "answerIndex": 1,
+    "id": "g4-evidence-0011",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what his partner did?",
+    "passageTitle": "Word Study",
+    "passage": "Mateo underlined the root in transportation. He wrote that the root had to do with carrying. His partner checked the meaning in a student dictionary.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: His partner checked the meaning in a student dictionary.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "His partner checked the spelling on a poster only.",
+      "His partner checked the meaning in a student dictionary.",
+      "His partner erased the root.",
+      "The dictionary was left at home."
+    ],
+    "answerIndex": 1,
+    "id": "g4-evidence-0012",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells where the first sample came from?",
+    "passageTitle": "Creek Sample",
+    "passage": "The class collected one water sample from the shady bank. The sample was clearer than the sample from the muddy bend. They recorded both results before leaving.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The class collected one water sample from the shady bank.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The class collected one water sample from the sunny dock.",
+      "The sample was darker than the sample from the muddy bend.",
+      "The class collected one water sample from the shady bank.",
+      "They recorded nothing."
+    ],
+    "answerIndex": 2,
+    "id": "g4-evidence-0013",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence compares the two samples?",
+    "passageTitle": "Creek Sample",
+    "passage": "The class collected one water sample from the shady bank. The sample was clearer than the sample from the muddy bend. They recorded both results before leaving.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The sample was clearer than the sample from the muddy bend.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The sample was muddier than the sample from the rocky shore.",
+      "The sample was clearer than the sample from the muddy bend.",
+      "They tested soil instead.",
+      "The bend was dry."
+    ],
+    "answerIndex": 1,
+    "id": "g4-evidence-0014",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells when they recorded the results?",
+    "passageTitle": "Creek Sample",
+    "passage": "The class collected one water sample from the shady bank. The sample was clearer than the sample from the muddy bend. They recorded both results before leaving.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: They recorded both results before leaving.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "They recorded both results after a week at school.",
+      "They forgot the bottles.",
+      "They recorded both results before leaving.",
+      "Only one result was kept."
+    ],
+    "answerIndex": 2,
+    "id": "g4-evidence-0015",
+    "grade": 4
+  }
+]

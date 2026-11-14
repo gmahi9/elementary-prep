@@ -1,0 +1,2348 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Sam has 2 stickers and gets 1 more. How many stickers does Sam have in all?",
+    "explanation": "Step 1: Sam starts with 2 stickers. Step 2: Add the 1 new stickers. Step 3: 2 + 1 = 3.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+1"
+    },
+    "choices": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0001",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Tara has 2 shells and gets 2 more. How many shells does Tara have in all?",
+    "explanation": "Step 1: Tara starts with 2 shells. Step 2: Add the 2 new shells. Step 3: 2 + 2 = 4.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+2"
+    },
+    "choices": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0002",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Uma has 2 blocks and gets 3 more. How many blocks does Uma have in all?",
+    "explanation": "Step 1: Uma starts with 2 blocks. Step 2: Add the 3 new blocks. Step 3: 2 + 3 = 5.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+3"
+    },
+    "choices": [
+      "6",
+      "5",
+      "4",
+      "7"
+    ],
+    "answerIndex": 1,
+    "id": "g1-add-subtract-0003",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Vik has 2 cards and gets 4 more. How many cards does Vik have in all?",
+    "explanation": "Step 1: Vik starts with 2 cards. Step 2: Add the 4 new cards. Step 3: 2 + 4 = 6.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+4"
+    },
+    "choices": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0004",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Willa has 2 marbles and gets 5 more. How many marbles does Willa have in all?",
+    "explanation": "Step 1: Willa starts with 2 marbles. Step 2: Add the 5 new marbles. Step 3: 2 + 5 = 7.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+5"
+    },
+    "choices": [
+      "8",
+      "7",
+      "6",
+      "9"
+    ],
+    "answerIndex": 1,
+    "id": "g1-add-subtract-0005",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nico has 2 stickers and gets 6 more. How many stickers does Nico have in all?",
+    "explanation": "Step 1: Nico starts with 2 stickers. Step 2: Add the 6 new stickers. Step 3: 2 + 6 = 8.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+6"
+    },
+    "choices": [
+      "9",
+      "7",
+      "8",
+      "10"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0006",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Lila has 2 shells and gets 7 more. How many shells does Lila have in all?",
+    "explanation": "Step 1: Lila starts with 2 shells. Step 2: Add the 7 new shells. Step 3: 2 + 7 = 9.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+7"
+    },
+    "choices": [
+      "10",
+      "8",
+      "11",
+      "9"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0007",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Omar has 2 blocks and gets 8 more. How many blocks does Omar have in all?",
+    "explanation": "Step 1: Omar starts with 2 blocks. Step 2: Add the 8 new blocks. Step 3: 2 + 8 = 10.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+8"
+    },
+    "choices": [
+      "10",
+      "11",
+      "9",
+      "12"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0008",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Hana has 2 cards and gets 9 more. How many cards does Hana have in all?",
+    "explanation": "Step 1: Hana starts with 2 cards. Step 2: Add the 9 new cards. Step 3: 2 + 9 = 11.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+9"
+    },
+    "choices": [
+      "12",
+      "10",
+      "13",
+      "11"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0009",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Bea has 2 marbles and gets 10 more. How many marbles does Bea have in all?",
+    "explanation": "Step 1: Bea starts with 2 marbles. Step 2: Add the 10 new marbles. Step 3: 2 + 10 = 12.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+10"
+    },
+    "choices": [
+      "13",
+      "11",
+      "14",
+      "12"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0010",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Luis has 2 stickers and gets 11 more. How many stickers does Luis have in all?",
+    "explanation": "Step 1: Luis starts with 2 stickers. Step 2: Add the 11 new stickers. Step 3: 2 + 11 = 13.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+11"
+    },
+    "choices": [
+      "13",
+      "14",
+      "12",
+      "15"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0011",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Mina has 2 shells and gets 12 more. How many shells does Mina have in all?",
+    "explanation": "Step 1: Mina starts with 2 shells. Step 2: Add the 12 new shells. Step 3: 2 + 12 = 14.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+12"
+    },
+    "choices": [
+      "15",
+      "14",
+      "13",
+      "16"
+    ],
+    "answerIndex": 1,
+    "id": "g1-add-subtract-0012",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Theo has 3 blocks and gets 1 more. How many blocks does Theo have in all?",
+    "explanation": "Step 1: Theo starts with 3 blocks. Step 2: Add the 1 new blocks. Step 3: 3 + 1 = 4.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+1"
+    },
+    "choices": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "answerIndex": 1,
+    "id": "g1-add-subtract-0013",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Asha has 3 cards and gets 2 more. How many cards does Asha have in all?",
+    "explanation": "Step 1: Asha starts with 3 cards. Step 2: Add the 2 new cards. Step 3: 3 + 2 = 5.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+2"
+    },
+    "choices": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0014",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Jo has 3 marbles and gets 3 more. How many marbles does Jo have in all?",
+    "explanation": "Step 1: Jo starts with 3 marbles. Step 2: Add the 3 new marbles. Step 3: 3 + 3 = 6.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+3"
+    },
+    "choices": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "answerIndex": 1,
+    "id": "g1-add-subtract-0015",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Ida has 3 stickers and gets 4 more. How many stickers does Ida have in all?",
+    "explanation": "Step 1: Ida starts with 3 stickers. Step 2: Add the 4 new stickers. Step 3: 3 + 4 = 7.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+4"
+    },
+    "choices": [
+      "8",
+      "6",
+      "7",
+      "9"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0016",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rex has 3 shells and gets 5 more. How many shells does Rex have in all?",
+    "explanation": "Step 1: Rex starts with 3 shells. Step 2: Add the 5 new shells. Step 3: 3 + 5 = 8.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+5"
+    },
+    "choices": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0017",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Cleo has 3 blocks and gets 6 more. How many blocks does Cleo have in all?",
+    "explanation": "Step 1: Cleo starts with 3 blocks. Step 2: Add the 6 new blocks. Step 3: 3 + 6 = 9.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+6"
+    },
+    "choices": [
+      "10",
+      "8",
+      "9",
+      "11"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0018",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Wes has 3 cards and gets 7 more. How many cards does Wes have in all?",
+    "explanation": "Step 1: Wes starts with 3 cards. Step 2: Add the 7 new cards. Step 3: 3 + 7 = 10.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+7"
+    },
+    "choices": [
+      "11",
+      "9",
+      "12",
+      "10"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0019",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nora has 3 marbles and gets 8 more. How many marbles does Nora have in all?",
+    "explanation": "Step 1: Nora starts with 3 marbles. Step 2: Add the 8 new marbles. Step 3: 3 + 8 = 11.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+8"
+    },
+    "choices": [
+      "12",
+      "10",
+      "11",
+      "13"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0020",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Owen has 3 stickers and gets 9 more. How many stickers does Owen have in all?",
+    "explanation": "Step 1: Owen starts with 3 stickers. Step 2: Add the 9 new stickers. Step 3: 3 + 9 = 12.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+9"
+    },
+    "choices": [
+      "13",
+      "12",
+      "11",
+      "14"
+    ],
+    "answerIndex": 1,
+    "id": "g1-add-subtract-0021",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Pia has 3 shells and gets 10 more. How many shells does Pia have in all?",
+    "explanation": "Step 1: Pia starts with 3 shells. Step 2: Add the 10 new shells. Step 3: 3 + 10 = 13.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+10"
+    },
+    "choices": [
+      "14",
+      "13",
+      "12",
+      "15"
+    ],
+    "answerIndex": 1,
+    "id": "g1-add-subtract-0022",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Quinn has 3 blocks and gets 11 more. How many blocks does Quinn have in all?",
+    "explanation": "Step 1: Quinn starts with 3 blocks. Step 2: Add the 11 new blocks. Step 3: 3 + 11 = 14.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+11"
+    },
+    "choices": [
+      "15",
+      "13",
+      "14",
+      "16"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0023",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rosa has 3 cards and gets 12 more. How many cards does Rosa have in all?",
+    "explanation": "Step 1: Rosa starts with 3 cards. Step 2: Add the 12 new cards. Step 3: 3 + 12 = 15.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+12"
+    },
+    "choices": [
+      "16",
+      "14",
+      "17",
+      "15"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0024",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Omar had 2 apples and gave away 1. How many apples are left?",
+    "explanation": "Step 1: Start with 2. Step 2: Take away 1. Step 3: 2 - 1 = 1.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2-1"
+    },
+    "choices": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0025",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Hana had 3 crayons and gave away 2. How many crayons are left?",
+    "explanation": "Step 1: Start with 3. Step 2: Take away 2. Step 3: 3 - 2 = 1.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3-2"
+    },
+    "choices": [
+      "2",
+      "0",
+      "3",
+      "1"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0026",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Bea had 4 tokens and gave away 3. How many tokens are left?",
+    "explanation": "Step 1: Start with 4. Step 2: Take away 3. Step 3: 4 - 3 = 1.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "4-3"
+    },
+    "choices": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "answerIndex": 1,
+    "id": "g1-add-subtract-0027",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Luis had 5 books and gave away 4. How many books are left?",
+    "explanation": "Step 1: Start with 5. Step 2: Take away 4. Step 3: 5 - 4 = 1.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "5-4"
+    },
+    "choices": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "answerIndex": 1,
+    "id": "g1-add-subtract-0028",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Mina had 6 apples and gave away 5. How many apples are left?",
+    "explanation": "Step 1: Start with 6. Step 2: Take away 5. Step 3: 6 - 5 = 1.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "6-5"
+    },
+    "choices": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0029",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Theo had 7 crayons and gave away 6. How many crayons are left?",
+    "explanation": "Step 1: Start with 7. Step 2: Take away 6. Step 3: 7 - 6 = 1.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "7-6"
+    },
+    "choices": [
+      "2",
+      "0",
+      "3",
+      "1"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0030",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Asha had 8 tokens and gave away 7. How many tokens are left?",
+    "explanation": "Step 1: Start with 8. Step 2: Take away 7. Step 3: 8 - 7 = 1.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "8-7"
+    },
+    "choices": [
+      "2",
+      "0",
+      "1",
+      "3"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0031",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Jo had 9 books and gave away 8. How many books are left?",
+    "explanation": "Step 1: Start with 9. Step 2: Take away 8. Step 3: 9 - 8 = 1.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "9-8"
+    },
+    "choices": [
+      "2",
+      "0",
+      "3",
+      "1"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0032",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Ida had 10 apples and gave away 9. How many apples are left?",
+    "explanation": "Step 1: Start with 10. Step 2: Take away 9. Step 3: 10 - 9 = 1.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10-9"
+    },
+    "choices": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0033",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rex had 11 crayons and gave away 10. How many crayons are left?",
+    "explanation": "Step 1: Start with 11. Step 2: Take away 10. Step 3: 11 - 10 = 1.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "11-10"
+    },
+    "choices": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0034",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Cleo had 12 tokens and gave away 11. How many tokens are left?",
+    "explanation": "Step 1: Start with 12. Step 2: Take away 11. Step 3: 12 - 11 = 1.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "12-11"
+    },
+    "choices": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0035",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Wes had 13 books and gave away 12. How many books are left?",
+    "explanation": "Step 1: Start with 13. Step 2: Take away 12. Step 3: 13 - 12 = 1.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "13-12"
+    },
+    "choices": [
+      "2",
+      "0",
+      "1",
+      "3"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0036",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Sam collects 4 beads from the red bowl and 2 beads from a friend. How many beads does Sam have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 4+2. Step 3: The result is 6.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "4+2"
+    },
+    "choices": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0037",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Tara has 7 cards in the blue tray and gives 2 away. How many cards remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 7-2. Step 3: The result is 5.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "7-2"
+    },
+    "choices": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0038",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Uma collects 6 seeds from the green bin and 2 seeds from a friend. How many seeds does Uma have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 6+2. Step 3: The result is 8.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "6+2"
+    },
+    "choices": [
+      "9",
+      "7",
+      "8",
+      "10"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0039",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Vik has 9 tiles in the yellow cup and gives 2 away. How many tiles remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 9-2. Step 3: The result is 7.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "9-2"
+    },
+    "choices": [
+      "8",
+      "7",
+      "6",
+      "9"
+    ],
+    "answerIndex": 1,
+    "id": "g1-add-subtract-0040",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Willa collects 8 tokens from the picnic mat and 2 tokens from a friend. How many tokens does Willa have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 8+2. Step 3: The result is 10.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "8+2"
+    },
+    "choices": [
+      "10",
+      "11",
+      "9",
+      "12"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0041",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nico has 11 stickers in the reading rug and gives 2 away. How many stickers remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 11-2. Step 3: The result is 9.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "11-2"
+    },
+    "choices": [
+      "9",
+      "10",
+      "8",
+      "11"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0042",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Lila collects 10 beads from the window ledge and 2 beads from a friend. How many beads does Lila have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 10+2. Step 3: The result is 12.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+2"
+    },
+    "choices": [
+      "12",
+      "13",
+      "11",
+      "14"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0043",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Omar has 13 cards in the class shelf and gives 2 away. How many cards remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 13-2. Step 3: The result is 11.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "13-2"
+    },
+    "choices": [
+      "11",
+      "12",
+      "10",
+      "13"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0044",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Hana collects 12 seeds from the red bowl and 2 seeds from a friend. How many seeds does Hana have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 12+2. Step 3: The result is 14.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "12+2"
+    },
+    "choices": [
+      "15",
+      "13",
+      "14",
+      "16"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0045",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Bea has 7 tiles in the blue tray and gives 3 away. How many tiles remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 7-3. Step 3: The result is 4.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "7-3"
+    },
+    "choices": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0046",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Luis collects 5 tokens from the green bin and 3 tokens from a friend. How many tokens does Luis have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 5+3. Step 3: The result is 8.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "5+3"
+    },
+    "choices": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0047",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Mina has 9 stickers in the yellow cup and gives 3 away. How many stickers remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 9-3. Step 3: The result is 6.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "9-3"
+    },
+    "choices": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0048",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Theo collects 7 beads from the picnic mat and 3 beads from a friend. How many beads does Theo have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 7+3. Step 3: The result is 10.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "7+3"
+    },
+    "choices": [
+      "11",
+      "9",
+      "12",
+      "10"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0049",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Asha has 11 cards in the reading rug and gives 3 away. How many cards remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 11-3. Step 3: The result is 8.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "11-3"
+    },
+    "choices": [
+      "9",
+      "7",
+      "8",
+      "10"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0050",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Jo collects 9 seeds from the window ledge and 3 seeds from a friend. How many seeds does Jo have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 9+3. Step 3: The result is 12.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "9+3"
+    },
+    "choices": [
+      "13",
+      "11",
+      "14",
+      "12"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0051",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Ida has 13 tiles in the class shelf and gives 3 away. How many tiles remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 13-3. Step 3: The result is 10.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "13-3"
+    },
+    "choices": [
+      "11",
+      "9",
+      "12",
+      "10"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0052",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rex collects 11 tokens from the red bowl and 3 tokens from a friend. How many tokens does Rex have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 11+3. Step 3: The result is 14.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "11+3"
+    },
+    "choices": [
+      "15",
+      "13",
+      "16",
+      "14"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0053",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Cleo has 15 stickers in the blue tray and gives 3 away. How many stickers remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 15-3. Step 3: The result is 12.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "15-3"
+    },
+    "choices": [
+      "13",
+      "11",
+      "12",
+      "14"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0054",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Wes collects 4 beads from the green bin and 4 beads from a friend. How many beads does Wes have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 4+4. Step 3: The result is 8.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "4+4"
+    },
+    "choices": [
+      "9",
+      "7",
+      "8",
+      "10"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0055",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nora has 9 cards in the yellow cup and gives 4 away. How many cards remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 9-4. Step 3: The result is 5.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "9-4"
+    },
+    "choices": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0056",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Owen collects 6 seeds from the picnic mat and 4 seeds from a friend. How many seeds does Owen have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 6+4. Step 3: The result is 10.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "6+4"
+    },
+    "choices": [
+      "11",
+      "9",
+      "12",
+      "10"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0057",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Pia has 11 tiles in the reading rug and gives 4 away. How many tiles remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 11-4. Step 3: The result is 7.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "11-4"
+    },
+    "choices": [
+      "8",
+      "7",
+      "6",
+      "9"
+    ],
+    "answerIndex": 1,
+    "id": "g1-add-subtract-0058",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Quinn collects 8 tokens from the window ledge and 4 tokens from a friend. How many tokens does Quinn have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 8+4. Step 3: The result is 12.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "8+4"
+    },
+    "choices": [
+      "12",
+      "13",
+      "11",
+      "14"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0059",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rosa has 13 stickers in the class shelf and gives 4 away. How many stickers remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 13-4. Step 3: The result is 9.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "13-4"
+    },
+    "choices": [
+      "10",
+      "8",
+      "9",
+      "11"
+    ],
+    "answerIndex": 2,
+    "id": "g1-add-subtract-0060",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Sam collects 10 beads from the red bowl and 4 beads from a friend. How many beads does Sam have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 10+4. Step 3: The result is 14.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+4"
+    },
+    "choices": [
+      "14",
+      "15",
+      "13",
+      "16"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0061",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Tara has 15 cards in the blue tray and gives 4 away. How many cards remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 15-4. Step 3: The result is 11.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "15-4"
+    },
+    "choices": [
+      "11",
+      "12",
+      "10",
+      "13"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0062",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Uma collects 12 seeds from the green bin and 4 seeds from a friend. How many seeds does Uma have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 12+4. Step 3: The result is 16.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "12+4"
+    },
+    "choices": [
+      "17",
+      "15",
+      "18",
+      "16"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0063",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Vik has 9 tiles in the yellow cup and gives 5 away. How many tiles remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 9-5. Step 3: The result is 4.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "9-5"
+    },
+    "choices": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "answerIndex": 1,
+    "id": "g1-add-subtract-0064",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Willa collects 5 tokens from the picnic mat and 5 tokens from a friend. How many tokens does Willa have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 5+5. Step 3: The result is 10.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "5+5"
+    },
+    "choices": [
+      "10",
+      "11",
+      "9",
+      "12"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0065",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nico has 11 stickers in the reading rug and gives 5 away. How many stickers remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 11-5. Step 3: The result is 6.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "11-5"
+    },
+    "choices": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0066",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Lila collects 7 beads from the window ledge and 5 beads from a friend. How many beads does Lila have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 7+5. Step 3: The result is 12.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "7+5"
+    },
+    "choices": [
+      "13",
+      "11",
+      "14",
+      "12"
+    ],
+    "answerIndex": 3,
+    "id": "g1-add-subtract-0067",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Omar has 13 cards in the class shelf and gives 5 away. How many cards remain?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 13-5. Step 3: The result is 8.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "13-5"
+    },
+    "choices": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "answerIndex": 0,
+    "id": "g1-add-subtract-0068",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Hana collects 9 seeds from the red bowl and 5 seeds from a friend. How many seeds does Hana have?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 9+5. Step 3: The result is 14.",
+    "skill": "1.OA.C.6",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "9+5"
+    },
+    "choices": [
+      "15",
+      "14",
+      "13",
+      "16"
+    ],
+    "answerIndex": 1,
+    "id": "g1-add-subtract-0069",
+    "grade": 1
+  }
+]

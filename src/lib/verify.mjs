@@ -544,9 +544,86 @@ export function expectedChoice(q) {
       return foldChoiceLabel(foldHoles(verify.axes, verify.punch));
     case 'classify':
       return classifyExpected(q);
+    case 'fraction-sum':
+      return fractionCombine(verify.left, verify.right, 1);
+    case 'fraction-diff':
+      return fractionCombine(verify.left, verify.right, -1);
+    case 'decimal-add':
+      return decimalCombine(verify, 1);
+    case 'decimal-sub':
+      return decimalCombine(verify, -1);
+    case 'point':
+      return pointLabel(verify.x, verify.y);
+    case 'rhyme':
+      return uniqueEnding(q, verify.ending);
+    case 'root':
+      return rootMeaning(q, verify.root);
     default:
       throw new Error(`Unknown verify kind ${verify.kind}`);
   }
+}
+
+const ROOTS = {
+  geo: 'earth',
+  tele: 'far',
+  photo: 'light',
+  aqua: 'water',
+  bio: 'life',
+  therm: 'heat',
+  aud: 'hear',
+  graph: 'write',
+  scope: 'see',
+  chron: 'time',
+  port: 'carry',
+  rupt: 'break',
+  struct: 'build',
+  dict: 'say',
+  tract: 'pull',
+  ject: 'throw',
+  vis: 'see',
+  meter: 'measure',
+  cycl: 'circle',
+  phon: 'sound',
+};
+
+function fractionCombine(left, right, sign) {
+  if (!pairOk(left) || !pairOk(right)) throw new Error('Bad fraction pair');
+  const num = left[0] * right[1] + sign * right[0] * left[1];
+  if (num < 0) throw new Error('Negative fraction');
+  return reduceFraction(num, left[1] * right[1]);
+}
+
+function pairOk(pair) {
+  return Array.isArray(pair) && pair.length === 2 && Number.isInteger(pair[0]) && Number.isInteger(pair[1]) && pair[1] > 0 && pair[0] >= 0;
+}
+
+function decimalCombine(verify, sign) {
+  const scale = verify.scale === 100 ? 100 : verify.scale === 10 ? 10 : 0;
+  if (!scale || !Number.isInteger(verify.left) || !Number.isInteger(verify.right)) throw new Error('Bad decimal');
+  const value = verify.left + sign * verify.right;
+  if (value < 0) throw new Error('Negative decimal');
+  return (value / scale).toFixed(scale === 100 ? 2 : 1);
+}
+
+function pointLabel(x, y) {
+  if (!Number.isInteger(x) || !Number.isInteger(y)) throw new Error('Bad point');
+  return `(${x}, ${y})`;
+}
+
+function uniqueEnding(q, ending) {
+  const tail = String(ending || '').toLowerCase();
+  if (tail.length < 2) throw new Error('Rhyme ending is too short');
+  const matches = q.choices.filter((choice) => String(choice).toLowerCase().endsWith(tail));
+  if (matches.length !== 1) throw new Error(`Rhyme was not unique for ${q.id || q.prompt}`);
+  return matches[0];
+}
+
+function rootMeaning(q, root) {
+  const meaning = ROOTS[root];
+  if (!meaning) throw new Error(`Unknown root ${root}`);
+  const matches = q.choices.filter((choice) => String(choice).toLowerCase() === meaning);
+  if (matches.length !== 1) throw new Error(`Root meaning was not unique for ${q.id || q.prompt}`);
+  return matches[0];
 }
 
 function mapNumber(op, k, input) {

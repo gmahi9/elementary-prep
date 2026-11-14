@@ -1,0 +1,177 @@
+[
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Did Abby finish both books on the bus?",
+    "passageTitle": "Library Card",
+    "passage": "Abby checked out two books about frogs. She read one book on the bus. She saved the other book for bedtime.",
+    "explanation": "Step 1: She checked out two books. Step 2: She read one book on the bus and saved the other. Step 3: So she did not finish both on the bus.",
+    "skill": "RI.1.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "Yes",
+      "The story does not mention books.",
+      "No",
+      "She read three books on the bus."
+    ],
+    "answerIndex": 2,
+    "id": "g1-inference-0001",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "What helped the seed start growing?",
+    "passageTitle": "Class Garden",
+    "passage": "Ben planted bean seeds in a cup. He watered the cup each morning. A green sprout came up on Friday.",
+    "explanation": "Step 1: Ben planted bean seeds. Step 2: He watered the cup each morning. Step 3: The water and planting led to the sprout.",
+    "skill": "RI.1.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "Water each morning",
+      "A cold closet",
+      "No soil",
+      "Leaving town"
+    ],
+    "answerIndex": 0,
+    "id": "g1-inference-0002",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Why did the class stay inside?",
+    "passageTitle": "Rainy Recess",
+    "passage": "Cora heard rain on the roof. The class stayed inside to build with blocks. Cora made a tower taller than her chair.",
+    "explanation": "Step 1: Cora heard rain on the roof. Step 2: Then the class stayed inside. Step 3: The rain is why they stayed in.",
+    "skill": "RI.1.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "It was raining.",
+      "It was too sunny.",
+      "The blocks were lost.",
+      "Cora wanted lunch."
+    ],
+    "answerIndex": 0,
+    "id": "g1-inference-0003",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "What is the puppy's name?",
+    "passageTitle": "Pet Visit",
+    "passage": "Dev brought a photo of his puppy. The puppy in the photo had one white paw. The class wrote the name Pip under the photo.",
+    "explanation": "Step 1: The class wrote the name Pip under the photo. Step 2: The photo is of the puppy. Step 3: The name under it is Pip.",
+    "skill": "RI.1.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "Pip",
+      "Max",
+      "Dev",
+      "Spot"
+    ],
+    "answerIndex": 0,
+    "id": "g1-inference-0004",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "How many paper clips long was the pencil?",
+    "passageTitle": "Measure the Desk",
+    "passage": "Eva lined up six paper clips along her pencil. The pencil was longer than her eraser. She recorded 6 on her chart.",
+    "explanation": "Step 1: Eva lined up six paper clips. Step 2: She recorded 6. Step 3: The pencil measured 6 paper clips.",
+    "skill": "RI.1.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "5",
+      "6",
+      "10",
+      "12"
+    ],
+    "answerIndex": 1,
+    "id": "g1-inference-0005",
+    "grade": 1
+  }
+]

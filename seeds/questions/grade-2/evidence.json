@@ -1,0 +1,527 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells how many apples started in the crate?",
+    "passageTitle": "Market Day",
+    "passage": "Finn counted 24 apples in one crate. He moved 10 apples to a smaller basket. The crate still held the rest of the apples.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Finn counted 24 apples in one crate.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Finn counted 40 apples in one crate.",
+      "He moved 3 apples to a smaller basket.",
+      "Finn counted 24 apples in one crate.",
+      "The basket was heavier than the crate."
+    ],
+    "answerIndex": 2,
+    "id": "g2-evidence-0001",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells where Finn moved some apples?",
+    "passageTitle": "Market Day",
+    "passage": "Finn counted 24 apples in one crate. He moved 10 apples to a smaller basket. The crate still held the rest of the apples.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: He moved 10 apples to a smaller basket.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "He moved 10 apples to a red wagon.",
+      "Finn ate an apple first.",
+      "The crate was empty at the start.",
+      "He moved 10 apples to a smaller basket."
+    ],
+    "answerIndex": 3,
+    "id": "g2-evidence-0002",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what the crate held at the end?",
+    "passageTitle": "Market Day",
+    "passage": "Finn counted 24 apples in one crate. He moved 10 apples to a smaller basket. The crate still held the rest of the apples.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The crate still held the rest of the apples.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The crate held nothing.",
+      "The basket still held the rest of the apples.",
+      "The crate still held the rest of the apples.",
+      "Finn closed the market."
+    ],
+    "answerIndex": 2,
+    "id": "g2-evidence-0003",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Gia observed?",
+    "passageTitle": "Science Notes",
+    "passage": "Gia observed a melting ice cube. She wrote that the puddle grew for ten minutes. Then she drew the cup and labeled the water.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Gia observed a melting ice cube.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Gia observed a boiling pot.",
+      "She wrote that the puddle shrank for ten minutes.",
+      "Gia observed a melting ice cube.",
+      "Then she hid the cup."
+    ],
+    "answerIndex": 2,
+    "id": "g2-evidence-0004",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what she wrote?",
+    "passageTitle": "Science Notes",
+    "passage": "Gia observed a melting ice cube. She wrote that the puddle grew for ten minutes. Then she drew the cup and labeled the water.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: She wrote that the puddle grew for ten minutes.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "She wrote that the puddle grew for ten minutes.",
+      "She wrote that the puddle grew for two hours.",
+      "Gia left the page blank.",
+      "The ice cube stayed frozen."
+    ],
+    "answerIndex": 0,
+    "id": "g2-evidence-0005",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what she drew?",
+    "passageTitle": "Science Notes",
+    "passage": "Gia observed a melting ice cube. She wrote that the puddle grew for ten minutes. Then she drew the cup and labeled the water.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Then she drew the cup and labeled the water.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Then she drew the cup and labeled the water.",
+      "Then she drew the window and labeled the snow.",
+      "She tore the page.",
+      "The water was labeled juice."
+    ],
+    "answerIndex": 0,
+    "id": "g2-evidence-0006",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells which marks Hugo followed?",
+    "passageTitle": "Trail Map",
+    "passage": "Hugo followed the blue trail marks. The map key said blue marks meant the short loop. He finished back at the wooden sign.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Hugo followed the blue trail marks.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Hugo followed the red trail marks.",
+      "Hugo followed the blue trail marks.",
+      "The map key said blue marks meant the long loop.",
+      "He finished at the parking lot only."
+    ],
+    "answerIndex": 1,
+    "id": "g2-evidence-0007",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what the map key said?",
+    "passageTitle": "Trail Map",
+    "passage": "Hugo followed the blue trail marks. The map key said blue marks meant the short loop. He finished back at the wooden sign.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The map key said blue marks meant the short loop.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The map key said yellow marks meant the short loop.",
+      "Hugo ignored the map.",
+      "The map key said blue marks meant the short loop.",
+      "The wooden sign was missing."
+    ],
+    "answerIndex": 2,
+    "id": "g2-evidence-0008",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells where Hugo finished?",
+    "passageTitle": "Trail Map",
+    "passage": "Hugo followed the blue trail marks. The map key said blue marks meant the short loop. He finished back at the wooden sign.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: He finished back at the wooden sign.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "He finished back at the creek.",
+      "He finished back at the wooden sign.",
+      "He stopped halfway and camped.",
+      "The short loop was closed."
+    ],
+    "answerIndex": 1,
+    "id": "g2-evidence-0009",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells who Ivy wrote to?",
+    "passageTitle": "Postcard",
+    "passage": "Ivy wrote a postcard to her aunt. The postcard described a lighthouse and a sandy path. Ivy put a stamp in the corner before mailing it.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Ivy wrote a postcard to her aunt.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Ivy wrote a postcard to her coach.",
+      "The postcard described a castle and a snowy path.",
+      "Ivy forgot the stamp.",
+      "Ivy wrote a postcard to her aunt."
+    ],
+    "answerIndex": 3,
+    "id": "g2-evidence-0010",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what the postcard described?",
+    "passageTitle": "Postcard",
+    "passage": "Ivy wrote a postcard to her aunt. The postcard described a lighthouse and a sandy path. Ivy put a stamp in the corner before mailing it.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The postcard described a lighthouse and a sandy path.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The postcard described a farm and a muddy road.",
+      "Ivy called her aunt instead.",
+      "The lighthouse was inland.",
+      "The postcard described a lighthouse and a sandy path."
+    ],
+    "answerIndex": 3,
+    "id": "g2-evidence-0011",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Ivy did before mailing it?",
+    "passageTitle": "Postcard",
+    "passage": "Ivy wrote a postcard to her aunt. The postcard described a lighthouse and a sandy path. Ivy put a stamp in the corner before mailing it.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Ivy put a stamp in the corner before mailing it.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Ivy put a sticker in the center before mailing it.",
+      "She mailed it without writing.",
+      "The corner stayed blank.",
+      "Ivy put a stamp in the corner before mailing it."
+    ],
+    "answerIndex": 3,
+    "id": "g2-evidence-0012",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Jules watered?",
+    "passageTitle": "Classroom Jobs",
+    "passage": "Jules watered the fern by the window. The soil was dry before he started. After watering, the soil looked dark.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Jules watered the fern by the window.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Jules watered the fern by the window.",
+      "Jules watered the cactus by the door.",
+      "The soil was muddy before he started.",
+      "After watering, the soil looked pale."
+    ],
+    "answerIndex": 0,
+    "id": "g2-evidence-0013",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells about the soil at the start?",
+    "passageTitle": "Classroom Jobs",
+    "passage": "Jules watered the fern by the window. The soil was dry before he started. After watering, the soil looked dark.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The soil was dry before he started.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The soil was soaked before he started.",
+      "Jules skipped the fern.",
+      "The soil was dry before he started.",
+      "The window was closed all year."
+    ],
+    "answerIndex": 2,
+    "id": "g2-evidence-0014",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells how the soil looked afterward?",
+    "passageTitle": "Classroom Jobs",
+    "passage": "Jules watered the fern by the window. The soil was dry before he started. After watering, the soil looked dark.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: After watering, the soil looked dark.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "After watering, the soil looked dusty.",
+      "After watering, the soil looked dark.",
+      "Jules emptied the watering can outside.",
+      "The fern lost every leaf."
+    ],
+    "answerIndex": 1,
+    "id": "g2-evidence-0015",
+    "grade": 2
+  }
+]

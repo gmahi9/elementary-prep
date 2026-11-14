@@ -1,0 +1,656 @@
+[
+  {
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "Pia folds a square on the vertical line, then punches at 18 across and 16 down. Where are the holes when the paper opens?",
+    "explanation": "Step 1: A fold makes a matching hole on the other side of that line. Step 2: The punch starts at 18 across and 16 down. Step 3: Opened paper shows: Two holes: upper far left and upper far right.",
+    "skill": "4.G.A.3",
+    "skillLabel": "Paper folding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 18,
+        "y": 16
+      },
+      "alt": "A square folded on the vertical line. The punch is 18 across and 16 down."
+    },
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 34
+          },
+          {
+            "x": 82,
+            "y": 34
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 74
+          },
+          {
+            "x": 82,
+            "y": 74
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 16
+          },
+          {
+            "x": 82,
+            "y": 16
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 16
+          },
+          {
+            "x": 18,
+            "y": 84
+          }
+        ]
+      }
+    ],
+    "choices": [
+      "Two holes: high far left and high far right",
+      "Two holes: lower far left and lower far right",
+      "Two holes: upper far left and upper far right",
+      "Two holes: lower far left and upper far left"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 18,
+        "y": 16
+      }
+    },
+    "id": "g4-paper-folding-0001",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "Quinn folds a square on the vertical line, then punches at 18 across and 34 down. Where are the holes when the paper opens?",
+    "explanation": "Step 1: A fold makes a matching hole on the other side of that line. Step 2: The punch starts at 18 across and 34 down. Step 3: Opened paper shows: Two holes: high far left and high far right.",
+    "skill": "4.G.A.3",
+    "skillLabel": "Paper folding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 18,
+        "y": 34
+      },
+      "alt": "A square folded on the vertical line. The punch is 18 across and 34 down."
+    },
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 74
+          },
+          {
+            "x": 82,
+            "y": 74
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 16
+          },
+          {
+            "x": 18,
+            "y": 84
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 34
+          },
+          {
+            "x": 18,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 34
+          },
+          {
+            "x": 82,
+            "y": 34
+          }
+        ]
+      }
+    ],
+    "choices": [
+      "Two holes: lower far left and lower far right",
+      "Two holes: lower far left and upper far left",
+      "Two holes: high far left and low far left",
+      "Two holes: high far left and high far right"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 18,
+        "y": 34
+      }
+    },
+    "id": "g4-paper-folding-0002",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "Rosa folds a square on the vertical line, then punches at 18 across and 74 down. Where are the holes when the paper opens?",
+    "explanation": "Step 1: A fold makes a matching hole on the other side of that line. Step 2: The punch starts at 18 across and 74 down. Step 3: Opened paper shows: Two holes: lower far left and lower far right.",
+    "skill": "4.G.A.3",
+    "skillLabel": "Paper folding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 18,
+        "y": 74
+      },
+      "alt": "A square folded on the vertical line. The punch is 18 across and 74 down."
+    },
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 74
+          },
+          {
+            "x": 82,
+            "y": 74
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 16
+          },
+          {
+            "x": 18,
+            "y": 84
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 34
+          },
+          {
+            "x": 18,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 76,
+            "y": 16
+          },
+          {
+            "x": 76,
+            "y": 84
+          }
+        ]
+      }
+    ],
+    "choices": [
+      "Two holes: lower far left and lower far right",
+      "Two holes: lower far left and upper far left",
+      "Two holes: high far left and low far left",
+      "Two holes: lower far right and upper far right"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "v"
+      ],
+      "punch": {
+        "x": 18,
+        "y": 74
+      }
+    },
+    "id": "g4-paper-folding-0003",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "Sam folds a square on the horizontal line, then punches at 18 across and 16 down. Where are the holes when the paper opens?",
+    "explanation": "Step 1: A fold makes a matching hole on the other side of that line. Step 2: The punch starts at 18 across and 16 down. Step 3: Opened paper shows: Two holes: lower far left and upper far left.",
+    "skill": "4.G.A.3",
+    "skillLabel": "Paper folding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "h"
+      ],
+      "punch": {
+        "x": 18,
+        "y": 16
+      },
+      "alt": "A square folded on the horizontal line. The punch is 18 across and 16 down."
+    },
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 34
+          },
+          {
+            "x": 18,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 16
+          },
+          {
+            "x": 18,
+            "y": 84
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 76,
+            "y": 16
+          },
+          {
+            "x": 76,
+            "y": 84
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 76,
+            "y": 34
+          },
+          {
+            "x": 76,
+            "y": 66
+          }
+        ]
+      }
+    ],
+    "choices": [
+      "Two holes: high far left and low far left",
+      "Two holes: lower far left and upper far left",
+      "Two holes: lower far right and upper far right",
+      "Two holes: high far right and low far right"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "h"
+      ],
+      "punch": {
+        "x": 18,
+        "y": 16
+      }
+    },
+    "id": "g4-paper-folding-0004",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "Tara folds a square on the horizontal line, then punches at 18 across and 34 down. Where are the holes when the paper opens?",
+    "explanation": "Step 1: A fold makes a matching hole on the other side of that line. Step 2: The punch starts at 18 across and 34 down. Step 3: Opened paper shows: Two holes: high far left and low far left.",
+    "skill": "4.G.A.3",
+    "skillLabel": "Paper folding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "h"
+      ],
+      "punch": {
+        "x": 18,
+        "y": 34
+      },
+      "alt": "A square folded on the horizontal line. The punch is 18 across and 34 down."
+    },
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 76,
+            "y": 16
+          },
+          {
+            "x": 76,
+            "y": 84
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 76,
+            "y": 34
+          },
+          {
+            "x": 76,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 34
+          },
+          {
+            "x": 18,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 16
+          },
+          {
+            "x": 18,
+            "y": 84
+          },
+          {
+            "x": 82,
+            "y": 16
+          },
+          {
+            "x": 82,
+            "y": 84
+          }
+        ]
+      }
+    ],
+    "choices": [
+      "Two holes: lower far right and upper far right",
+      "Two holes: high far right and low far right",
+      "Two holes: high far left and low far left",
+      "4 holes: lower far left; lower far right; upper far left; upper far right"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "h"
+      ],
+      "punch": {
+        "x": 18,
+        "y": 34
+      }
+    },
+    "id": "g4-paper-folding-0005",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "paper-folding",
+    "topicLabel": "Paper folding",
+    "prompt": "Uma folds a square on the horizontal line, then punches at 76 across and 16 down. Where are the holes when the paper opens?",
+    "explanation": "Step 1: A fold makes a matching hole on the other side of that line. Step 2: The punch starts at 76 across and 16 down. Step 3: Opened paper shows: Two holes: lower far right and upper far right.",
+    "skill": "4.G.A.3",
+    "skillLabel": "Paper folding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "fold",
+      "axes": [
+        "h"
+      ],
+      "punch": {
+        "x": 76,
+        "y": 16
+      },
+      "alt": "A square folded on the horizontal line. The punch is 76 across and 16 down."
+    },
+    "choiceFigures": [
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 76,
+            "y": 34
+          },
+          {
+            "x": 76,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 16
+          },
+          {
+            "x": 18,
+            "y": 84
+          },
+          {
+            "x": 82,
+            "y": 16
+          },
+          {
+            "x": 82,
+            "y": 84
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 18,
+            "y": 34
+          },
+          {
+            "x": 18,
+            "y": 66
+          },
+          {
+            "x": 82,
+            "y": 34
+          },
+          {
+            "x": 82,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "kind": "holes",
+        "holes": [
+          {
+            "x": 76,
+            "y": 16
+          },
+          {
+            "x": 76,
+            "y": 84
+          }
+        ]
+      }
+    ],
+    "choices": [
+      "Two holes: high far right and low far right",
+      "4 holes: lower far left; lower far right; upper far left; upper far right",
+      "4 holes: high far left; high far right; low far left; low far right",
+      "Two holes: lower far right and upper far right"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "fold",
+      "axes": [
+        "h"
+      ],
+      "punch": {
+        "x": 76,
+        "y": 16
+      }
+    },
+    "id": "g4-paper-folding-0006",
+    "grade": 4,
+    "scored": true
+  }
+]

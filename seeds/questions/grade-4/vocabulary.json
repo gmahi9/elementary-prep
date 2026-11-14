@@ -1,0 +1,182 @@
+[
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What does concluded mean here?",
+    "passageTitle": "Field Notes",
+    "passage": "Priya recorded the temperature at 8:00 a.m. and again at noon. The noon reading was 9 degrees higher. She concluded the morning had been cooler.",
+    "explanation": "Step 1: Find the word \"concluded\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: concluded means decided from the evidence.",
+    "skill": "L.4.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "guessed without looking",
+      "erased",
+      "copied a chart",
+      "decided from the evidence"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "vocab",
+      "word": "concluded"
+    },
+    "id": "g4-vocabulary-0001",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What is the rim of the pot?",
+    "passageTitle": "Museum Label",
+    "passage": "The label explained that the clay pot was made about 800 years ago. A crack ran from the rim to the base. Visitors were asked not to touch the glass case.",
+    "explanation": "Step 1: Find the word \"rim\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: rim means the top edge.",
+    "skill": "L.4.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "the top edge",
+      "the bottom",
+      "the stand",
+      "the ticket"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "vocab",
+      "word": "rim"
+    },
+    "id": "g4-vocabulary-0002",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What is a caption?",
+    "passageTitle": "Team Data",
+    "passage": "The chart showed that Team North scored 18 points in the first half. Team South scored 11 points in that same half. A caption reminded readers to compare the bars, not the colors.",
+    "explanation": "Step 1: Find the word \"caption\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: caption means words that explain a picture or chart.",
+    "skill": "L.4.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "the winning team",
+      "words that explain a picture or chart",
+      "a point",
+      "a uniform"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "vocab",
+      "word": "caption"
+    },
+    "id": "g4-vocabulary-0003",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What does root mean in this word study?",
+    "passageTitle": "Word Study",
+    "passage": "Mateo underlined the root in transportation. He wrote that the root had to do with carrying. His partner checked the meaning in a student dictionary.",
+    "explanation": "Step 1: Find the word \"root\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: root means a word part that carries meaning.",
+    "skill": "L.4.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "a plant only",
+      "a book cover",
+      "a word part that carries meaning",
+      "a period"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "vocab",
+      "word": "root"
+    },
+    "id": "g4-vocabulary-0004",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What is a sample here?",
+    "passageTitle": "Creek Sample",
+    "passage": "The class collected one water sample from the shady bank. The sample was clearer than the sample from the muddy bend. They recorded both results before leaving.",
+    "explanation": "Step 1: Find the word \"sample\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: sample means a small part taken for study.",
+    "skill": "L.4.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "a small part taken for study",
+      "the whole creek",
+      "a boat",
+      "a bridge"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "vocab",
+      "word": "sample"
+    },
+    "id": "g4-vocabulary-0005",
+    "grade": 4,
+    "scored": true
+  }
+]

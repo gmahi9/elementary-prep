@@ -1,0 +1,422 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Nico writes 128. Which digit is in the ones place?",
+    "explanation": "Step 1: In 128, find the ones place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The ones digit is 8.",
+    "skill": "2.NBT.A.1",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 128,
+      "place": "ones"
+    },
+    "choices": [
+      "0",
+      "1",
+      "8",
+      "2"
+    ],
+    "answerIndex": 2,
+    "id": "g2-place-value-0001",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Lila writes 246. Which digit is in the tens place?",
+    "explanation": "Step 1: In 246, find the tens place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The tens digit is 4.",
+    "skill": "2.NBT.A.1",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 246,
+      "place": "tens"
+    },
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "answerIndex": 3,
+    "id": "g2-place-value-0002",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Omar writes 305. Which digit is in the hundreds place?",
+    "explanation": "Step 1: In 305, find the hundreds place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The hundreds digit is 3.",
+    "skill": "2.NBT.A.1",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 305,
+      "place": "hundreds"
+    },
+    "choices": [
+      "3",
+      "0",
+      "1",
+      "2"
+    ],
+    "answerIndex": 0,
+    "id": "g2-place-value-0003",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Hana writes 470. Which digit is in the ones place?",
+    "explanation": "Step 1: In 470, find the ones place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The ones digit is 0.",
+    "skill": "2.NBT.A.1",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 470,
+      "place": "ones"
+    },
+    "choices": [
+      "1",
+      "0",
+      "2",
+      "3"
+    ],
+    "answerIndex": 1,
+    "id": "g2-place-value-0004",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Bea writes 512. Which digit is in the tens place?",
+    "explanation": "Step 1: In 512, find the tens place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The tens digit is 1.",
+    "skill": "2.NBT.A.1",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 512,
+      "place": "tens"
+    },
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answerIndex": 1,
+    "id": "g2-place-value-0005",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Luis writes 639. Which digit is in the hundreds place?",
+    "explanation": "Step 1: In 639, find the hundreds place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The hundreds digit is 6.",
+    "skill": "2.NBT.A.1",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 639,
+      "place": "hundreds"
+    },
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "6"
+    ],
+    "answerIndex": 3,
+    "id": "g2-place-value-0006",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Mina writes 704. Which digit is in the ones place?",
+    "explanation": "Step 1: In 704, find the ones place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The ones digit is 4.",
+    "skill": "2.NBT.A.1",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 704,
+      "place": "ones"
+    },
+    "choices": [
+      "4",
+      "0",
+      "1",
+      "2"
+    ],
+    "answerIndex": 0,
+    "id": "g2-place-value-0007",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Theo writes 851. Which digit is in the tens place?",
+    "explanation": "Step 1: In 851, find the tens place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The tens digit is 5.",
+    "skill": "2.NBT.A.1",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 851,
+      "place": "tens"
+    },
+    "choices": [
+      "0",
+      "5",
+      "1",
+      "2"
+    ],
+    "answerIndex": 1,
+    "id": "g2-place-value-0008",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Asha writes 960. Which digit is in the hundreds place?",
+    "explanation": "Step 1: In 960, find the hundreds place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The hundreds digit is 9.",
+    "skill": "2.NBT.A.1",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 960,
+      "place": "hundreds"
+    },
+    "choices": [
+      "0",
+      "1",
+      "9",
+      "2"
+    ],
+    "answerIndex": 2,
+    "id": "g2-place-value-0009",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Jo writes 287. Which digit is in the ones place?",
+    "explanation": "Step 1: In 287, find the ones place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The ones digit is 7.",
+    "skill": "2.NBT.A.1",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 287,
+      "place": "ones"
+    },
+    "choices": [
+      "0",
+      "7",
+      "1",
+      "2"
+    ],
+    "answerIndex": 1,
+    "id": "g2-place-value-0010",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Ida writes 143. Which digit is in the tens place?",
+    "explanation": "Step 1: In 143, find the tens place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The tens digit is 4.",
+    "skill": "2.NBT.A.1",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 143,
+      "place": "tens"
+    },
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "answerIndex": 3,
+    "id": "g2-place-value-0011",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Rex writes 658. Which digit is in the hundreds place?",
+    "explanation": "Step 1: In 658, find the hundreds place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The hundreds digit is 6.",
+    "skill": "2.NBT.A.1",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 658,
+      "place": "hundreds"
+    },
+    "choices": [
+      "6",
+      "0",
+      "1",
+      "2"
+    ],
+    "answerIndex": 0,
+    "id": "g2-place-value-0012",
+    "grade": 2
+  }
+]

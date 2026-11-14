@@ -1,4 +1,4 @@
-import { emptyProgress, mergeProgress, normalizeProgress } from '../lib/progress';
+import { emptyGradeBook, emptyProgress, mergeGradeBooks, mergeProgress, normalizeGradeBook, normalizeProgress } from '../lib/progress';
 import type { Progress } from '../types';
 import {
   OAUTH_COOKIE,
@@ -254,17 +254,26 @@ async function bodyProgress(request: Request): Promise<unknown> {
   }
 }
 
+function gradeThree(book: { grades: Partial<Record<string, Progress>> } | null): Progress | null {
+  return book?.grades['3'] ?? null;
+}
+
+async function readBook(env: Env, provider: string, userId: string): Promise<{ raw: string | null; book: ReturnType<typeof normalizeGradeBook> }> {
+  const raw = await readProgress(env.DB, provider, userId);
+  if (!raw) return { raw: null, book: emptyGradeBook() };
+  return { raw, book: normalizeGradeBook(JSON.parse(raw)) };
+}
+
 export async function handleProgress(request: Request, env: Env, deps?: Deps): Promise<Response> {
   const now = nowMs(deps);
   const session = await readSession(request, env, now);
   if (!session) return json({ error: 'Sign in required' }, 401);
   if (request.method === 'GET') {
     try {
-      const payload = await readProgress(env.DB, session.provider, session.sub);
-      if (!payload) return json({ hasSaved: false, progress: null });
-      const progress = normalizeProgress(JSON.parse(payload));
-      if (!progress) return json({ error: 'Saved scores could not be read' }, 500);
-      return json({ hasSaved: true, progress });
+      const saved = await readBook(env, session.provider, session.sub);
+      if (!saved.raw) return json({ hasSaved: false, progress: null, grades: {} });
+      if (!saved.book) return json({ error: 'Saved scores could not be read' }, 500);
+      return json({ hasSaved: true, progress: gradeThree(saved.book), grades: saved.book.grades });
     } catch {
       return json({ error: 'Saved scores could not be read' }, 500);
     }
@@ -276,22 +285,34 @@ export async function handleProgress(request: Request, env: Env, deps?: Deps): P
   const body = await bodyProgress(request);
   if (body == null) return json({ error: 'Scores were not valid' }, 400);
   try {
+    const saved = await readBook(env, session.provider, session.sub);
+    if (saved.raw && !saved.book) return json({ error: 'Saved scores could not be read' }, 500);
+    const existing = saved.book || emptyGradeBook();
     if (request.method === 'PUT') {
-      const progress = normalizeProgress(body);
-      if (!progress) return json({ error: 'Scores were not valid' }, 400);
-      await writeProgress(env.DB, session.provider, session.sub, JSON.stringify(progress), now);
-      return json({ ok: true, progress });
+      const incoming = normalizeGradeBook(body);
+      if (!incoming) return json({ error: 'Scores were not valid' }, 400);
+      const record = body as { version?: unknown };
+      const next = record.version === 1
+        ? { version: 2 as const, grades: { ...existing.grades, '3': incoming.grades['3'] || emptyProgress() } }
+        : incoming;
+      await writeProgress(env.DB, session.provider, session.sub, JSON.stringify(next), now);
+      return json({ ok: true, progress: gradeThree(next), grades: next.grades });
     }
-    const record = body as { action?: unknown; local?: unknown };
+    const record = body as { action?: unknown; local?: unknown; book?: unknown };
     if (record.action !== 'merge') return json({ error: 'Scores were not valid' }, 400);
+    if (record.book != null) {
+      const localBook = normalizeGradeBook(record.book);
+      if (!localBook) return json({ error: 'Scores were not valid' }, 400);
+      const merged = mergeGradeBooks(localBook, existing);
+      await writeProgress(env.DB, session.provider, session.sub, JSON.stringify(merged), now);
+      return json({ ok: true, progress: gradeThree(merged), grades: merged.grades });
+    }
     const local = normalizeProgress(record.local);
     if (!local) return json({ error: 'Scores were not valid' }, 400);
-    const existingRaw = await readProgress(env.DB, session.provider, session.sub);
-    const existing = existingRaw ? normalizeProgress(JSON.parse(existingRaw)) : emptyProgress();
-    if (existingRaw && !existing) return json({ error: 'Saved scores could not be read' }, 500);
-    const merged: Progress = mergeProgress(local, existing || emptyProgress());
+    const mergedProgress: Progress = mergeProgress(local, existing.grades['3'] || emptyProgress());
+    const merged = { version: 2 as const, grades: { ...existing.grades, '3': mergedProgress } };
     await writeProgress(env.DB, session.provider, session.sub, JSON.stringify(merged), now);
-    return json({ ok: true, progress: merged });
+    return json({ ok: true, progress: mergedProgress, grades: merged.grades });
   } catch {
     return json({ error: 'Scores could not be saved' }, 500);
   }

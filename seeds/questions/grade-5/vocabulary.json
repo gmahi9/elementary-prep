@@ -1,0 +1,182 @@
+[
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What does volume mean in this report?",
+    "passageTitle": "Lab Report",
+    "passage": "Amina measured a box that was 5 centimeters long, 4 centimeters wide, and 3 centimeters tall. She multiplied the three edge lengths to find the volume. Her report said the box could hold 60 cubic centimeters.",
+    "explanation": "Step 1: Find the word \"volume\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: volume means the space inside a solid.",
+    "skill": "L.5.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "the distance around",
+      "the color",
+      "the space inside a solid",
+      "the weight only"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "vocab",
+      "word": "volume"
+    },
+    "id": "g5-vocabulary-0001",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What does cited mean here?",
+    "passageTitle": "Editorial",
+    "passage": "Luis argued that the town should repair the library roof before buying new benches. He cited a leak over the history section. The final paragraph asked readers to write to the council.",
+    "explanation": "Step 1: Find the word \"cited\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: cited means gave as evidence.",
+    "skill": "L.5.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "hid",
+      "gave as evidence",
+      "painted",
+      "guessed"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "vocab",
+      "word": "cited"
+    },
+    "id": "g5-vocabulary-0002",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What is the origin on this map?",
+    "passageTitle": "Coordinate Clue",
+    "passage": "The map key placed the origin at the old oak. The picnic blanket was 4 units east and 2 units north of the oak. The clue wrote that spot as the ordered pair (4, 2).",
+    "explanation": "Step 1: Find the word \"origin\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: origin means the starting point (0, 0).",
+    "skill": "L.5.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "the highest point",
+      "a picnic food",
+      "a compass only",
+      "the starting point (0, 0)"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "vocab",
+      "word": "origin"
+    },
+    "id": "g5-vocabulary-0003",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What is an audience here?",
+    "passageTitle": "Root Hunt",
+    "passage": "Noor circled the root aud in auditorium. She explained that aud has to do with hearing. Her example sentence described a room where an audience listens.",
+    "explanation": "Step 1: Find the word \"audience\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: audience means people who listen or watch.",
+    "skill": "L.5.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "a building material",
+      "people who listen or watch",
+      "a math rule",
+      "a kind of map"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "vocab",
+      "word": "audience"
+    },
+    "id": "g5-vocabulary-0004",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What is a receipt?",
+    "passageTitle": "Decimal Shop",
+    "passage": "A notebook cost $2.40 and a pencil cost $0.35. Theo paid with three one-dollar bills. The receipt showed a total of $2.75 before any change.",
+    "explanation": "Step 1: Find the word \"receipt\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: receipt means a record of what was paid.",
+    "skill": "L.5.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "a record of what was paid",
+      "a notebook cover",
+      "a pencil case",
+      "a dollar bill"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "vocab",
+      "word": "receipt"
+    },
+    "id": "g5-vocabulary-0005",
+    "grade": 5,
+    "scored": true
+  }
+]
