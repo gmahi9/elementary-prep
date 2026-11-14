@@ -2,7 +2,7 @@
 
 Sunny Steps is a kid-friendly practice app for elementary students. Grade 3 is ready. Kindergarten and grades 1, 2, 4, and 5 are marked coming soon.
 
-It runs in the browser. Guests keep progress on the device. Sign-in is optional and saves scores for the next visit.
+It runs in the browser. Anyone can practice without signing in. Progress is saved only for a signed-in account. Without an account, scores last for the current visit and reset when you leave.
 
 ## Disclaimer
 
@@ -16,8 +16,8 @@ Sunny Steps is unofficial practice. It is not affiliated with, endorsed by, or a
 - Timed or untimed mock tests with an end summary by skill
 - A review queue for missed questions
 - Scoreboard for correct answers, questions answered, streak, and score
-- Badges and per-skill progress. Guests use `localStorage`. A signed-in account stores scores, streaks, badges, and mock-test history
-- Optional sign-in with Google, Microsoft, or GitHub. The first sign-in can combine scores already on the device. Providers without keys stay hidden
+- Badges and per-skill progress. Guests keep scores, streaks, the mistake queue, badges, and mock-test results in memory for the current visit. A signed-in account stores them through `/api/progress`
+- Optional sign-in with Google, Microsoft, or GitHub. Signing in during a visit saves that visit to the account. Providers without keys stay hidden. When none are configured, a note says progress resets when you leave
 - Read-aloud for the question and choices through the Web Speech API
 - Large tap targets, keyboard answers (1–4), and a grown-ups view with a skill mastery chart
 - Download for offline: one HTML file that opens without a network

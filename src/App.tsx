@@ -4,12 +4,10 @@ import { questions } from './data/bank';
 import { downloadOffline } from './lib/offline';
 import {
   clearAccountCache,
-  declineMerge,
   loadProviders,
   loadRemote,
   loadSession,
   logoutRemote,
-  mergeDeclined,
   mergeRemote,
   readAccountCache,
   saveRemote,
@@ -19,19 +17,18 @@ import {
 } from './lib/account';
 import {
   badges as badgeCatalog,
+  clearStoredGuestProgress,
   emptyProgress,
   emptySession,
   hasActivity,
-  loadProgress,
-  loadSession as loadSitting,
   mergeProgress,
   percent,
-  saveProgress,
-  saveSession,
+  recallVisit,
+  writeVisitCarry,
 } from './lib/progress';
 import { grades, sections } from './sections';
 import type { Progress, SectionId, SessionStats } from './types';
-import { AccountBar } from './components/AccountBar';
+import { AccountBar, SavePrompt } from './components/AccountBar';
 import { BadgeView, GrownupView, MockView, PracticeView, ReviewView } from './components/Views';
 import { Counter, Doodles, Flame, SectionIcon, Tap } from './components/visuals';
 
@@ -70,18 +67,20 @@ export function App() {
   const [section, setSection] = useState<SectionId>('cogat');
   const [topic, setTopic] = useState('all');
   const [difficulty, setDifficulty] = useState<number | 'all'>('all');
-  const [progress, setProgressState] = useState<Progress>(() => loadProgress());
-  const [session, setSession] = useState<SessionStats>(() => loadSitting());
+  const [progress, setProgressState] = useState<Progress>(() => recallVisit()?.progress ?? emptyProgress());
+  const [session, setSession] = useState<SessionStats>(() => recallVisit()?.session ?? emptySession());
   const [burst, setBurst] = useState(0);
   const [toast, setToast] = useState('');
   const [tips, setTips] = useState(false);
   const [providers, setProviders] = useState<ProviderId[]>([]);
+  const [providersKnown, setProvidersKnown] = useState(false);
   const [account, setAccount] = useState<Account | null>(null);
-  const [mergeOpen, setMergeOpen] = useState(false);
-  const [pending, setPending] = useState<Progress | null>(null);
   const signedRef = useRef(false);
   const skipSave = useRef(true);
-  const mergeRef = useRef<HTMLButtonElement>(null);
+  const progressRef = useRef(progress);
+  const sessionRef = useRef(session);
+  progressRef.current = progress;
+  sessionRef.current = session;
 
   useEffect(() => {
     const sync = () => {
@@ -104,46 +103,58 @@ export function App() {
   }, []);
 
   useEffect(() => {
+    clearStoredGuestProgress();
     let cancel = false;
     const boot = async () => {
       const listed = await loadProviders();
       if (cancel) return;
       setProviders(listed);
+      setProvidersKnown(true);
       const who = await loadSession();
       if (cancel || !who.signedIn || !who.provider || !who.displayName) return;
+      const signingIn = recallVisit() !== null;
+      const memory = progressRef.current;
       skipSave.current = true;
       signedRef.current = true;
       setAccount({ name: who.displayName, provider: who.provider });
-      const remote = await loadRemote();
-      if (cancel) return;
-      const cache = readAccountCache();
-      const guest = loadProgress();
-      if (!remote) {
-        setToast('Saved scores could not be loaded.');
-        if (cache) {
-          skipSave.current = true;
-          setProgressState(cache);
+      if (signingIn && hasActivity(memory)) {
+        const merged = await mergeRemote(memory);
+        if (cancel) return;
+        if (!merged) {
+          setToast('Scores could not be saved just now.');
+          writeAccountCache(progressRef.current);
+          return;
         }
-        return;
-      }
-      if (remote.hasSaved && remote.progress) {
-        const next = cache ? mergeProgress(cache, remote.progress) : remote.progress;
+        const latest = progressRef.current;
+        const next = latest === memory ? merged : mergeProgress(latest, merged);
         skipSave.current = true;
         setProgressState(next);
         writeAccountCache(next);
-        if (cache && JSON.stringify(next) !== JSON.stringify(remote.progress)) void saveRemote(next);
+        if (next !== merged) void saveRemote(next);
         return;
       }
-      const waiting = cache && hasActivity(cache) ? mergeProgress(guest, cache) : guest;
-      if (!mergeDeclined(who.provider) && hasActivity(waiting)) {
-        setPending(waiting);
-        skipSave.current = true;
-        setProgressState(emptyProgress());
-        setMergeOpen(true);
+      const remote = await loadRemote();
+      if (cancel) return;
+      const cache = signingIn ? null : readAccountCache();
+      const during = progressRef.current;
+      let next = remote?.hasSaved && remote.progress ? remote.progress : null;
+      if (cache && hasActivity(cache)) next = next ? mergeProgress(cache, next) : cache;
+      if (hasActivity(during)) next = next ? mergeProgress(during, next) : during;
+      if (!remote) {
+        setToast('Saved scores could not be loaded.');
+        if (next) {
+          skipSave.current = true;
+          setProgressState(next);
+          writeAccountCache(next);
+        }
         return;
       }
+      if (!next) return;
+      const changed = !remote.progress || JSON.stringify(next) !== JSON.stringify(remote.progress);
       skipSave.current = true;
-      setProgressState(cache && hasActivity(cache) ? cache : emptyProgress());
+      setProgressState(next);
+      writeAccountCache(next);
+      if (changed && hasActivity(next)) void saveRemote(next);
     };
     void boot();
     return () => { cancel = true; };
@@ -164,10 +175,6 @@ export function App() {
     return () => window.clearTimeout(timer);
   }, [account, progress]);
 
-  useEffect(() => {
-    if (mergeOpen) mergeRef.current?.focus();
-  }, [mergeOpen]);
-
   const topics = useMemo(() => {
     const map = new Map<string, string>();
     questions.filter((question) => question.section === section).forEach((question) => map.set(question.topic, question.topicLabel));
@@ -178,7 +185,6 @@ export function App() {
   const updateProgress = (next: Progress, fresh: string[] = []) => {
     setProgressState(next);
     if (signedRef.current) writeAccountCache(next);
-    else saveProgress(next);
     if (fresh.length) {
       const names = fresh.map((id) => badgeCatalog.find((badge) => badge.id === id)?.name || id);
       setToast(`New badge: ${names.join(', ')}`);
@@ -186,67 +192,29 @@ export function App() {
   };
 
   const addSession = (correct: boolean) => {
-    setSession((current) => {
-      const next = { correct: current.correct + (correct ? 1 : 0), answered: current.answered + 1 };
-      saveSession(next);
-      return next;
-    });
+    setSession((current) => ({ correct: current.correct + (correct ? 1 : 0), answered: current.answered + 1 }));
   };
 
   const resetSession = () => {
-    const next = emptySession();
-    setSession(next);
-    saveSession(next);
+    setSession(emptySession());
   };
 
-  const acceptMerge = async () => {
-    if (!pending) return;
-    const merged = await mergeRemote(pending);
-    setMergeOpen(false);
-    if (!merged) {
-      setToast('Scores could not be combined.');
-      return;
-    }
-    skipSave.current = true;
-    setProgressState(merged);
-    writeAccountCache(merged);
-    setToast('Scores from this device are saved to the account.');
-  };
-
-  const decline = () => {
-    if (account) declineMerge(account.provider);
-    setMergeOpen(false);
-    setPending(null);
-  };
-
-  const combine = async () => {
-    const local = loadProgress();
-    if (!hasActivity(local)) {
-      setToast('This device does not have extra scores to combine.');
-      return;
-    }
-    const merged = await mergeRemote(local);
-    if (!merged) {
-      setToast('Scores could not be combined.');
-      return;
-    }
-    skipSave.current = true;
-    setProgressState(merged);
-    writeAccountCache(merged);
-    setToast('Scores from this device are saved to the account.');
+  const signIn = (provider: ProviderId) => {
+    writeVisitCarry(progressRef.current, sessionRef.current);
+    startSignIn(provider);
   };
 
   const logout = async () => {
     await logoutRemote();
-    const restored = mergeProgress(loadProgress(), progress);
-    saveProgress(restored);
     clearAccountCache();
     signedRef.current = false;
     skipSave.current = true;
     setAccount(null);
-    setMergeOpen(false);
-    setProgressState(restored);
   };
+
+  const renderSavePrompt = () => (
+    <SavePrompt signedIn={account !== null} known={providersKnown} providers={providers} onSignIn={signIn} />
+  );
 
   const compact = route === 'practice' || route === 'review' || route === 'test';
   const score = percent(session.correct, session.answered);
@@ -279,7 +247,7 @@ export function App() {
             </nav>
             <div className="cluster">
               <Tap type="button" className="ghost" onClick={() => downloadOffline()}>Offline</Tap>
-              <AccountBar providers={providers} name={account?.name || null} onSignIn={startSignIn} onLogout={() => { void logout(); }} />
+              <AccountBar providers={providers} name={account?.name || null} onSignIn={signIn} onLogout={() => { void logout(); }} />
             </div>
           </div>
           <div className="score-row">
@@ -303,6 +271,7 @@ export function App() {
               <div className="stat"><span>Answered</span><strong><Counter value={session.answered} /></strong></div>
               <div className="stat"><span>Streak</span><strong><Counter value={progress.streak} /><Flame active={progress.streak > 0} /></strong></div>
               <div className="stat"><span>Score</span><strong><Counter value={score} />%</strong></div>
+              {renderSavePrompt()}
             </section>
             <button type="button" className="texty" onClick={resetSession}>Reset</button>
           </div>
@@ -392,7 +361,7 @@ export function App() {
                 />
               )}
               {route === 'test' && (
-                <MockView progress={progress} setProgress={updateProgress} addSession={addSession} burst={() => setBurst((value) => value + 1)} />
+                <MockView progress={progress} setProgress={updateProgress} addSession={addSession} burst={() => setBurst((value) => value + 1)} notice={renderSavePrompt()} />
               )}
               {route === 'review' && (
                 <ReviewView
@@ -410,7 +379,8 @@ export function App() {
                 <GrownupView
                   progress={progress}
                   signedIn={account !== null}
-                  onCombine={account ? () => { void combine(); } : undefined}
+                  canSignIn={providers.length > 0}
+                  providersKnown={providersKnown}
                   onReset={() => {
                     const next = emptyProgress();
                     updateProgress(next);
@@ -422,21 +392,9 @@ export function App() {
           </AnimatePresence>
         </main>
         <footer>
-          <p>Sunny Steps is unofficial practice for Grade 3. It is not affiliated with, endorsed by, or a source of questions from CogAT, the Cognitive Abilities Test, i-Ready, Curriculum Associates, MAP Growth, NWEA, the Torrance Tests of Creative Thinking, or their publishers. Guests keep scores on this device. Signed-in scores are saved to the account.</p>
+          <p>Sunny Steps is unofficial practice for Grade 3. It is not affiliated with, endorsed by, or a source of questions from CogAT, the Cognitive Abilities Test, i-Ready, Curriculum Associates, MAP Growth, NWEA, the Torrance Tests of Creative Thinking, or their publishers. Anyone can practice without signing in. Progress is saved only for a signed-in account. Without an account, scores from this visit reset when you leave.</p>
         </footer>
       </div>
-      {mergeOpen && (
-        <div className="merge">
-          <section role="dialog" aria-modal="true" aria-labelledby="merge-title">
-            <h2 id="merge-title">Save scores from this device?</h2>
-            <p>Your account is new. The scores already on this device can be saved with it.</p>
-            <div className="pager">
-              <button type="button" className="ghost" onClick={decline}>Not now</button>
-              <button type="button" className="primary" ref={mergeRef} onClick={() => { void acceptMerge(); }}>Save them</button>
-            </div>
-          </section>
-        </div>
-      )}
       {toast && (
         <div className="toast" role="status">
           <p>{toast}</p>

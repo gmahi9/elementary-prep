@@ -223,7 +223,7 @@ describe('progress handlers', () => {
     expect(bad.status).toBe(400);
   });
 
-  it('saves valid scores, merges a device copy, and rate limits writes', async () => {
+  it('saves valid scores, merges a visit into the account, and rate limits writes', async () => {
     const db = new MemoryDb();
     const cookie = await signedCookie();
     const local = emptyProgress();

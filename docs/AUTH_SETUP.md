@@ -1,6 +1,6 @@
 # Sign-in setup
 
-Sunny Steps can save scores for a signed-in student. Guests keep using this browser. Sign-in uses OAuth 2.0 authorization code with PKCE. Cloudflare Pages Functions under `/api/auth/*` set an HttpOnly, Secure, SameSite=Lax session cookie signed with `SESSION_SECRET`. Scores are stored in a D1 database bound as `DB`.
+Sunny Steps saves scores for a signed-in student. Anyone can practice without an account. Guest scores, streaks, the mistake queue, badges, and mock-test results stay in memory for that visit. They are not written to localStorage or IndexedDB, and older guest progress keys are cleared when the page loads. Sound, reduced motion, and read-aloud preferences may stay in localStorage. If a guest signs in during a visit, that visit is saved to the account. Sign-in uses OAuth 2.0 authorization code with PKCE. Cloudflare Pages Functions under `/api/auth/*` set an HttpOnly, Secure, SameSite=Lax session cookie signed with `SESSION_SECRET`. Scores are stored in a D1 database bound as `DB`.
 
 The production callbacks are:
 
@@ -117,7 +117,7 @@ The session cookie is `__Host-elementary_session`. It is HttpOnly, Secure, and S
 
 - `/api/auth/<provider>/start` stores a signed state and PKCE verifier in a short-lived cookie, then redirects to the provider.
 - The callback rejects a missing or mismatched state, then exchanges the code with the verifier.
-- `PUT /api/progress` and `POST /api/progress` (`{ "action": "merge", "local": { ... } }`) require the session cookie, a same-origin `Origin`, and the header `X-Elementary-Request: 1`.
+- `PUT /api/progress` saves the signed-in student’s scores. `POST /api/progress` (`{ "action": "merge", "local": { ... } }`) folds the current visit into scores already saved for that account. Both require the session cookie, a same-origin `Origin`, and the header `X-Elementary-Request: 1`.
 - Bodies are size-limited and checked against the score shape. Counts, skill ids, question ids, and mock-test rows outside the allowed ranges are rejected.
 - Auth starts and score writes are rate limited per IP or account for 10 minutes.
 - The content security policy in `public/_headers` keeps scripts, styles, fonts, and connections on this origin. `form-action` is `'self'`.

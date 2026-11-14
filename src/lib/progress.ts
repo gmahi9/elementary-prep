@@ -2,6 +2,19 @@ import type { MockRun, Progress, Question, SessionStats } from '../types';
 
 export const PROGRESS_KEY = 'sunny-steps.v1';
 export const SESSION_KEY = 'sunny-steps.session.v1';
+export const CARRY_KEY = 'sunny-steps.carry.v1';
+export const MERGE_DECLINED_PREFIX = 'sunny-steps.merge-declined.';
+export const PREFERENCE_KEYS = ['sunny-steps.sound', 'sunny-steps.reduced-motion', 'sunny-steps.read-aloud'] as const;
+export const GUEST_DATABASES = ['sunny-steps', 'sunny-steps.v1', 'sunny-steps-progress'];
+
+export const SIGN_IN_SAVE_PROMPT = 'Sign in to save your progress';
+export const PROGRESS_RESETS_NOTE = 'Progress resets when you leave.';
+
+export function progressNotice(signedIn: boolean, providerCount: number): string | null {
+  if (signedIn) return null;
+  if (providerCount > 0) return SIGN_IN_SAVE_PROMPT;
+  return PROGRESS_RESETS_NOTE;
+}
 
 export interface Badge {
   id: string;
@@ -134,44 +147,134 @@ export function saveCreative(state: Progress, id: string, note: string, done: bo
   });
 }
 
-export function loadProgress(): Progress {
+export interface KeyStore {
+  getItem(key: string): string | null;
+  setItem(key: string, value: string): void;
+  removeItem(key: string): void;
+  key(index: number): string | null;
+  readonly length: number;
+}
+
+export interface VisitCarry {
+  progress: Progress;
+  session: SessionStats;
+}
+
+function browserStore(kind: 'localStorage' | 'sessionStorage'): KeyStore | null {
   try {
-    const raw = localStorage.getItem(PROGRESS_KEY);
-    if (!raw) return emptyProgress();
-    return normalizeProgress(JSON.parse(raw)) || emptyProgress();
+    if (typeof globalThis === 'undefined') return null;
+    const store = globalThis[kind];
+    if (!store || typeof store.getItem !== 'function') return null;
+    return store;
   } catch {
-    return emptyProgress();
+    return null;
   }
 }
 
-export function loadSession(): SessionStats {
-  return readStore(SESSION_KEY, emptySession());
+function readSessionStats(value: unknown): SessionStats {
+  if (!value || typeof value !== 'object' || Array.isArray(value)) return emptySession();
+  const raw = value as Record<string, unknown>;
+  const correct = whole(raw.correct, 0, 100000);
+  const answered = whole(raw.answered, 0, 100000);
+  if (correct == null || answered == null || correct > answered) return emptySession();
+  return { correct, answered };
 }
 
-export function saveProgress(state: Progress): void {
-  writeStore(PROGRESS_KEY, state);
+export function clearStoredGuestProgress(target?: {
+  local?: KeyStore | null;
+  session?: KeyStore | null;
+  dropDatabase?: (name: string) => void;
+}): void {
+  const local = target && 'local' in target ? target.local : browserStore('localStorage');
+  const session = target && 'session' in target ? target.session : browserStore('sessionStorage');
+  const preferences = new Set<string>(PREFERENCE_KEYS);
+  if (local) {
+    const drop: string[] = [];
+    for (let index = 0; index < local.length; index += 1) {
+      const key = local.key(index);
+      if (!key || preferences.has(key)) continue;
+      if (key === PROGRESS_KEY || key === SESSION_KEY || key.startsWith(MERGE_DECLINED_PREFIX)) drop.push(key);
+    }
+    for (const key of drop) local.removeItem(key);
+  }
+  if (session) {
+    session.removeItem(PROGRESS_KEY);
+    session.removeItem(SESSION_KEY);
+  }
+  const dropDatabase = target?.dropDatabase;
+  if (dropDatabase) {
+    for (const name of GUEST_DATABASES) {
+      try { dropDatabase(name); } catch { /* ignore a missing store */ }
+    }
+    return;
+  }
+  void dropGuestDatabases();
 }
 
-export function saveSession(state: SessionStats): void {
-  writeStore(SESSION_KEY, state);
-}
-
-function readStore<T extends object>(key: string, fallback: T): T {
+function dropGuestDatabases(): void {
   try {
-    const store = key === SESSION_KEY ? sessionStorage : localStorage;
-    const raw = store.getItem(key);
-    if (!raw) return fallback;
-    const parsed = JSON.parse(raw) as Partial<T>;
-    return { ...fallback, ...parsed };
+    const idb = typeof indexedDB === 'undefined' ? undefined : indexedDB;
+    if (!idb || typeof idb.deleteDatabase !== 'function') return;
+    const names = new Set<string>(GUEST_DATABASES);
+    const listed = typeof idb.databases === 'function' ? idb.databases() : null;
+    const remove = (name: string) => {
+      try { idb.deleteDatabase(name); } catch { /* ignore a missing store */ }
+    };
+    for (const name of names) remove(name);
+    if (!listed || typeof listed.then !== 'function') return;
+    void listed.then((rows) => {
+      for (const row of rows) {
+        if (row.name && row.name.startsWith('sunny-steps') && !names.has(row.name)) remove(row.name);
+      }
+    }).catch(() => undefined);
   } catch {
-    return fallback;
+    /* ignore */
   }
 }
 
-function writeStore(key: string, value: unknown): void {
-  const raw = JSON.stringify(value);
-  if (key === SESSION_KEY) sessionStorage.setItem(key, raw);
-  else localStorage.setItem(key, raw);
+export function writeVisitCarry(progress: Progress, session: SessionStats, store?: KeyStore | null): void {
+  const target = store === undefined ? browserStore('sessionStorage') : store;
+  if (!target) return;
+  try {
+    target.setItem(CARRY_KEY, JSON.stringify({ progress, session }));
+  } catch {
+    /* the visit still lives in memory if the tab cannot store the handoff */
+  }
+}
+
+export function readVisitCarry(store?: KeyStore | null): VisitCarry | null {
+  const target = store === undefined ? browserStore('sessionStorage') : store;
+  if (!target) return null;
+  try {
+    const raw = target.getItem(CARRY_KEY);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw) as { progress?: unknown; session?: unknown };
+    const progress = normalizeProgress(parsed.progress);
+    if (!progress) return null;
+    return { progress, session: readSessionStats(parsed.session) };
+  } catch {
+    return null;
+  }
+}
+
+export function clearVisitCarry(store?: KeyStore | null): void {
+  const target = store === undefined ? browserStore('sessionStorage') : store;
+  if (!target) return;
+  try { target.removeItem(CARRY_KEY); } catch { /* ignore */ }
+}
+
+let recalled: VisitCarry | null | undefined;
+
+export function recallVisit(store?: KeyStore | null): VisitCarry | null {
+  if (recalled === undefined) {
+    recalled = readVisitCarry(store);
+    clearVisitCarry(store);
+  }
+  return recalled;
+}
+
+export function resetVisitRecall(): void {
+  recalled = undefined;
 }
 
 export function percent(correct: number, answered: number): number {

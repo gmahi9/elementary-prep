@@ -10,7 +10,6 @@ export interface SessionInfo {
 }
 
 const cacheKey = 'sunny-steps.account.v1';
-const declinePrefix = 'sunny-steps.merge-declined.';
 
 async function send(path: string, init?: RequestInit): Promise<unknown> {
   try {
@@ -87,12 +86,4 @@ export function writeAccountCache(progress: Progress): void {
 
 export function clearAccountCache(): void {
   sessionStorage.removeItem(cacheKey);
-}
-
-export function mergeDeclined(provider: string): boolean {
-  return localStorage.getItem(declinePrefix + provider) === '1';
-}
-
-export function declineMerge(provider: string): void {
-  localStorage.setItem(declinePrefix + provider, '1');
 }
