@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import type { ProviderId } from '../lib/account';
+import { progressNotice } from '../lib/progress';
 import { Tap } from './visuals';
 
 const labels: Record<ProviderId, string> = {
@@ -65,5 +66,45 @@ export function AccountBar({
         </div>
       )}
     </div>
+  );
+}
+
+export function SavePrompt({
+  signedIn,
+  known,
+  providers,
+  onSignIn,
+}: {
+  signedIn: boolean;
+  known: boolean;
+  providers: ProviderId[];
+  onSignIn: (provider: ProviderId) => void;
+}) {
+  const [open, setOpen] = useState(false);
+  const notice = progressNotice(signedIn, providers.length);
+  if (!known || !notice) return null;
+  if (providers.length === 0) return <p className="save-note">{notice}</p>;
+  if (providers.length === 1) {
+    return (
+      <p className="save-note">
+        <button type="button" className="texty" onClick={() => onSignIn(providers[0])}>{notice}</button>
+      </p>
+    );
+  }
+  return (
+    <p className="save-note">
+      <button type="button" className="texty" aria-expanded={open} onClick={() => setOpen((value) => !value)}>
+        {notice}
+      </button>
+      {open && (
+        <span className="save-choices">
+          {providers.map((provider) => (
+            <button key={provider} type="button" className="texty" onClick={() => onSignIn(provider)}>
+              {labels[provider]}
+            </button>
+          ))}
+        </span>
+      )}
+    </p>
   );
 }

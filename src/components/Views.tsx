@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
 import { motion, useReducedMotion } from 'motion/react';
 import { pickQuestion, questions, questionsIn, sampleQuestions } from '../data/bank';
 import { noteMockFinished, percent, recordAnswer, saveCreative, type Badge } from '../lib/progress';
@@ -133,7 +133,7 @@ export function ReviewView(props: Shared) {
   );
 }
 
-export function MockView({ progress, setProgress, burst, addSession }: Pick<Shared, 'progress' | 'setProgress' | 'burst' | 'addSession'>) {
+export function MockView({ progress, setProgress, burst, addSession, notice }: Pick<Shared, 'progress' | 'setProgress' | 'burst' | 'addSession'> & { notice?: ReactNode }) {
   const [section, setSection] = useState<SectionId | 'mix'>('mix');
   const [length, setLength] = useState(10);
   const [minutes, setMinutes] = useState(8);
@@ -251,6 +251,7 @@ export function MockView({ progress, setProgress, burst, addSession }: Pick<Shar
       <section className="summary">
         <h2 className="display">Test summary</h2>
         <p className="score-hero">{summary.correct} of {summary.total} · {percent(summary.correct, summary.total)}%</p>
+        {notice}
         <table>
           <caption>Results by skill</caption>
           <thead>
@@ -336,12 +337,14 @@ export function BadgeView({ progress, catalog }: { progress: Progress; catalog: 
 export function GrownupView({
   progress,
   signedIn,
-  onCombine,
+  canSignIn,
+  providersKnown,
   onReset,
 }: {
   progress: Progress;
   signedIn: boolean;
-  onCombine?: () => void;
+  canSignIn: boolean;
+  providersKnown: boolean;
   onReset: () => void;
 }) {
   const [confirming, setConfirming] = useState(false);
@@ -364,7 +367,13 @@ export function GrownupView({
     <section className="grownups">
       <div className="page-intro">
         <h2>For grown-ups</h2>
-        <p>{signedIn ? 'Scores are saved to this account.' : 'Scores stay on this device until you sign in.'}</p>
+        <p>
+          {signedIn
+            ? 'Scores are saved to this account.'
+            : providersKnown && canSignIn
+              ? 'Sign in to save your progress. This visit resets when you leave.'
+              : 'Progress resets when you leave.'}
+        </p>
       </div>
       <p>{progress.allCorrect} correct out of {progress.allAnswered} answered. Best streak: {progress.bestStreak}. Mistakes waiting: {progress.mistakes.length}.</p>
       {weak.length > 0 && <p>Skills to practice next: {weak.map(([, skill]) => skill.label).join(', ')}.</p>}
@@ -406,11 +415,8 @@ export function GrownupView({
       )}
       <div className="pager">
         <Tap type="button" className="ghost" onClick={exportProgress}>Download progress</Tap>
-        {signedIn && onCombine && (
-          <Tap type="button" className="ghost" onClick={onCombine}>Combine this device</Tap>
-        )}
         {!confirming ? (
-          <Tap type="button" className="danger" onClick={() => setConfirming(true)}>Reset this device</Tap>
+          <Tap type="button" className="danger" onClick={() => setConfirming(true)}>Reset progress</Tap>
         ) : (
           <Tap type="button" className="danger" onClick={onReset}>Yes, erase progress</Tap>
         )}
