@@ -1,0 +1,1906 @@
+[
+  {
+    "id": "g3-np-226",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Maya thinks of a number. The number times 2 is 4. What is the number?",
+    "choices": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "answerIndex": 1,
+    "explanation": "The puzzle is □ × 2 = 4. 4 ÷ 2 asks how many groups of 2 are in 4. Count by 2: 2, 4. That is 2 groups. The missing number is 2.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "4/2"
+    }
+  },
+  {
+    "id": "g3-np-227",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Jordan thinks of a number. The number times 3 is 6. What is the number?",
+    "choices": [
+      "1",
+      "3",
+      "2",
+      "6"
+    ],
+    "answerIndex": 2,
+    "explanation": "The puzzle is □ × 3 = 6. 6 ÷ 3 asks how many groups of 3 are in 6. Count by 3: 3, 6. That is 2 groups. The missing number is 2.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "6/3"
+    }
+  },
+  {
+    "id": "g3-np-228",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Priya thinks of a number. The number times 4 is 8. What is the number?",
+    "choices": [
+      "2",
+      "8",
+      "3",
+      "4"
+    ],
+    "answerIndex": 0,
+    "explanation": "The puzzle is □ × 4 = 8. 8 ÷ 4 asks how many groups of 4 are in 8. Count by 4: 4, 8. That is 2 groups. The missing number is 2.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "8/4"
+    }
+  },
+  {
+    "id": "g3-np-229",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Luis thinks of a number. The number times 5 is 10. What is the number?",
+    "choices": [
+      "5",
+      "2",
+      "3",
+      "10"
+    ],
+    "answerIndex": 1,
+    "explanation": "The puzzle is □ × 5 = 10. 10 ÷ 5 asks how many groups of 5 are in 10. Count by 5: 5, 10. That is 2 groups. The missing number is 2.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "10/5"
+    }
+  },
+  {
+    "id": "g3-np-230",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Aisha thinks of a number. The number times 6 is 12. What is the number?",
+    "choices": [
+      "12",
+      "2",
+      "6",
+      "3"
+    ],
+    "answerIndex": 1,
+    "explanation": "The puzzle is □ × 6 = 12. 12 ÷ 6 asks how many groups of 6 are in 12. Count by 6: 6, 12. That is 2 groups. The missing number is 2.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "12/6"
+    }
+  },
+  {
+    "id": "g3-np-231",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Noah thinks of a number. The number times 7 is 14. What is the number?",
+    "choices": [
+      "2",
+      "3",
+      "7",
+      "14"
+    ],
+    "answerIndex": 0,
+    "explanation": "The puzzle is □ × 7 = 14. 14 ÷ 7 asks how many groups of 7 are in 14. Count by 7: 7, 14. That is 2 groups. The missing number is 2.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "14/7"
+    }
+  },
+  {
+    "id": "g3-np-232",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Mei thinks of a number. The number times 8 is 16. What is the number?",
+    "choices": [
+      "8",
+      "2",
+      "16",
+      "3"
+    ],
+    "answerIndex": 1,
+    "explanation": "The puzzle is □ × 8 = 16. 16 ÷ 8 asks how many groups of 8 are in 16. Count by 8: 8, 16. That is 2 groups. The missing number is 2.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "16/8"
+    }
+  },
+  {
+    "id": "g3-np-233",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Sam thinks of a number. The number times 9 is 18. What is the number?",
+    "choices": [
+      "9",
+      "18",
+      "3",
+      "2"
+    ],
+    "answerIndex": 3,
+    "explanation": "The puzzle is □ × 9 = 18. 18 ÷ 9 asks how many groups of 9 are in 18. Count by 9: 9, 18. That is 2 groups. The missing number is 2.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "18/9"
+    }
+  },
+  {
+    "id": "g3-np-234",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Elena thinks of a number. The number times 10 is 20. What is the number?",
+    "choices": [
+      "2",
+      "10",
+      "3",
+      "20"
+    ],
+    "answerIndex": 0,
+    "explanation": "The puzzle is □ × 10 = 20. 20 ÷ 10 asks how many groups of 10 are in 20. Count by 10: 10, 20. That is 2 groups. The missing number is 2.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "20/10"
+    }
+  },
+  {
+    "id": "g3-np-235",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Omar thinks of a number. The number times 2 is 6. What is the number?",
+    "choices": [
+      "3",
+      "4",
+      "6",
+      "2"
+    ],
+    "answerIndex": 0,
+    "explanation": "The puzzle is □ × 2 = 6. 6 ÷ 2 asks how many groups of 2 are in 6. Count by 2: 2, 4, 6. That is 3 groups. The missing number is 3.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "6/2"
+    }
+  },
+  {
+    "id": "g3-np-236",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Theo thinks of a number. The number times 3 is 9. What is the number?",
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "9"
+    ],
+    "answerIndex": 0,
+    "explanation": "The puzzle is □ × 3 = 9. 9 ÷ 3 asks how many groups of 3 are in 9. Count by 3: 3, 6, 9. That is 3 groups. The missing number is 3.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "9/3"
+    }
+  },
+  {
+    "id": "g3-np-237",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Hana thinks of a number. The number times 4 is 12. What is the number?",
+    "choices": [
+      "2",
+      "12",
+      "4",
+      "3"
+    ],
+    "answerIndex": 3,
+    "explanation": "The puzzle is □ × 4 = 12. 12 ÷ 4 asks how many groups of 4 are in 12. Count by 4: 4, 8, 12. That is 3 groups. The missing number is 3.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "12/4"
+    }
+  },
+  {
+    "id": "g3-np-238",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Leo thinks of a number. The number times 5 is 15. What is the number?",
+    "choices": [
+      "5",
+      "4",
+      "15",
+      "3"
+    ],
+    "answerIndex": 3,
+    "explanation": "The puzzle is □ × 5 = 15. 15 ÷ 5 asks how many groups of 5 are in 15. Count by 5: 5, 10, 15. That is 3 groups. The missing number is 3.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "15/5"
+    }
+  },
+  {
+    "id": "g3-np-239",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Sofia thinks of a number. The number times 6 is 18. What is the number?",
+    "choices": [
+      "3",
+      "6",
+      "4",
+      "18"
+    ],
+    "answerIndex": 0,
+    "explanation": "The puzzle is □ × 6 = 18. 18 ÷ 6 asks how many groups of 6 are in 18. Count by 6: 6, 12, 18. That is 3 groups. The missing number is 3.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "18/6"
+    }
+  },
+  {
+    "id": "g3-np-240",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Malik thinks of a number. The number times 7 is 21. What is the number?",
+    "choices": [
+      "7",
+      "3",
+      "21",
+      "4"
+    ],
+    "answerIndex": 1,
+    "explanation": "The puzzle is □ × 7 = 21. 21 ÷ 7 asks how many groups of 7 are in 21. Count by 7: 7, 14, 21. That is 3 groups. The missing number is 3.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "21/7"
+    }
+  },
+  {
+    "id": "g3-np-241",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Ruby thinks of a number. The number times 8 is 24. What is the number?",
+    "choices": [
+      "24",
+      "8",
+      "3",
+      "4"
+    ],
+    "answerIndex": 2,
+    "explanation": "The puzzle is □ × 8 = 24. 24 ÷ 8 asks how many groups of 8 are in 24. Count by 8: 8, 16, 24. That is 3 groups. The missing number is 3.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "24/8"
+    }
+  },
+  {
+    "id": "g3-np-242",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Evan thinks of a number. The number times 9 is 27. What is the number?",
+    "choices": [
+      "27",
+      "9",
+      "4",
+      "3"
+    ],
+    "answerIndex": 3,
+    "explanation": "The puzzle is □ × 9 = 27. 27 ÷ 9 asks how many groups of 9 are in 27. Count by 9: 9, 18, 27. That is 3 groups. The missing number is 3.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "27/9"
+    }
+  },
+  {
+    "id": "g3-np-243",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Nina thinks of a number. The number times 10 is 30. What is the number?",
+    "choices": [
+      "10",
+      "3",
+      "30",
+      "4"
+    ],
+    "answerIndex": 1,
+    "explanation": "The puzzle is □ × 10 = 30. 30 ÷ 10 asks how many groups of 10 are in 30. Count by 10: 10, 20, 30. That is 3 groups. The missing number is 3.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "30/10"
+    }
+  },
+  {
+    "id": "g3-np-244",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Caleb thinks of a number. The number times 2 is 8. What is the number?",
+    "choices": [
+      "5",
+      "8",
+      "4",
+      "2"
+    ],
+    "answerIndex": 2,
+    "explanation": "The puzzle is □ × 2 = 8. 8 ÷ 2 asks how many groups of 2 are in 8. Count by 2: 2, 4, 6, 8. That is 4 groups. The missing number is 4.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "8/2"
+    }
+  },
+  {
+    "id": "g3-np-245",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Amira thinks of a number. The number times 3 is 12. What is the number?",
+    "choices": [
+      "4",
+      "3",
+      "12",
+      "5"
+    ],
+    "answerIndex": 0,
+    "explanation": "The puzzle is □ × 3 = 12. 12 ÷ 3 asks how many groups of 3 are in 12. Count by 3: 3, 6, 9, 12. That is 4 groups. The missing number is 4.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "12/3"
+    }
+  },
+  {
+    "id": "g3-np-246",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Jonah thinks of a number. The number times 4 is 16. What is the number?",
+    "choices": [
+      "3",
+      "5",
+      "4",
+      "16"
+    ],
+    "answerIndex": 2,
+    "explanation": "The puzzle is □ × 4 = 16. 16 ÷ 4 asks how many groups of 4 are in 16. Count by 4: 4, 8, 12, 16. That is 4 groups. The missing number is 4.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "16/4"
+    }
+  },
+  {
+    "id": "g3-np-247",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Zoe thinks of a number. The number times 5 is 20. What is the number?",
+    "choices": [
+      "20",
+      "3",
+      "4",
+      "5"
+    ],
+    "answerIndex": 2,
+    "explanation": "The puzzle is □ × 5 = 20. 20 ÷ 5 asks how many groups of 5 are in 20. Count by 5: 5, 10, 15, 20. That is 4 groups. The missing number is 4.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "20/5"
+    }
+  },
+  {
+    "id": "g3-np-248",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Andre thinks of a number. The number times 6 is 24. What is the number?",
+    "choices": [
+      "6",
+      "4",
+      "24",
+      "5"
+    ],
+    "answerIndex": 1,
+    "explanation": "The puzzle is □ × 6 = 24. 24 ÷ 6 asks how many groups of 6 are in 24. Count by 6: 6, 12, 18, 24. That is 4 groups. The missing number is 4.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "24/6"
+    }
+  },
+  {
+    "id": "g3-np-249",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "Lila thinks of a number. The number times 7 is 28. What is the number?",
+    "choices": [
+      "4",
+      "5",
+      "28",
+      "7"
+    ],
+    "answerIndex": 0,
+    "explanation": "The puzzle is □ × 7 = 28. 28 ÷ 7 asks how many groups of 7 are in 28. Count by 7: 7, 14, 21, 28. That is 4 groups. The missing number is 4.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "28/7"
+    }
+  },
+  {
+    "id": "g3-np-250",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 20 + □ = 35",
+    "choices": [
+      "20",
+      "15",
+      "35",
+      "25"
+    ],
+    "answerIndex": 1,
+    "explanation": "The box is the missing part of an addition. 35 - 20 = 15. Subtract 20 from 35, starting at the ones. Ones: 5 - 0 = 5. Tens: 3 - 2 = 1. 20 + 15 = 35, so the difference is 15.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "35-20"
+    }
+  },
+  {
+    "id": "g3-np-251",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 27 + □ = 48",
+    "choices": [
+      "27",
+      "31",
+      "48",
+      "21"
+    ],
+    "answerIndex": 3,
+    "explanation": "The box is the missing part of an addition. 48 - 27 = 21. Subtract 27 from 48, starting at the ones. Ones: 8 - 7 = 1. Tens: 4 - 2 = 2. 27 + 21 = 48, so the difference is 21.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "48-27"
+    }
+  },
+  {
+    "id": "g3-np-252",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 34 + □ = 61",
+    "choices": [
+      "37",
+      "27",
+      "61",
+      "34"
+    ],
+    "answerIndex": 1,
+    "explanation": "The box is the missing part of an addition. 61 - 34 = 27. Subtract 34 from 61, starting at the ones. Ones: borrow so 11 - 4 = 7. Tens: 5 - 3 = 2. 34 + 27 = 61, so the difference is 27.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "61-34"
+    }
+  },
+  {
+    "id": "g3-np-253",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 41 + □ = 74",
+    "choices": [
+      "41",
+      "43",
+      "33",
+      "74"
+    ],
+    "answerIndex": 2,
+    "explanation": "The box is the missing part of an addition. 74 - 41 = 33. Subtract 41 from 74, starting at the ones. Ones: 4 - 1 = 3. Tens: 7 - 4 = 3. 41 + 33 = 74, so the difference is 33.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "74-41"
+    }
+  },
+  {
+    "id": "g3-np-254",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 48 + □ = 87",
+    "choices": [
+      "49",
+      "87",
+      "48",
+      "39"
+    ],
+    "answerIndex": 3,
+    "explanation": "The box is the missing part of an addition. 87 - 48 = 39. Subtract 48 from 87, starting at the ones. Ones: borrow so 17 - 8 = 9. Tens: 7 - 4 = 3. 48 + 39 = 87, so the difference is 39.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "87-48"
+    }
+  },
+  {
+    "id": "g3-np-255",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 55 + □ = 70",
+    "choices": [
+      "55",
+      "70",
+      "15",
+      "25"
+    ],
+    "answerIndex": 2,
+    "explanation": "The box is the missing part of an addition. 70 - 55 = 15. Subtract 55 from 70, starting at the ones. Ones: borrow so 10 - 5 = 5. Tens: 6 - 5 = 1. 55 + 15 = 70, so the difference is 15.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "70-55"
+    }
+  },
+  {
+    "id": "g3-np-256",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 62 + □ = 83",
+    "choices": [
+      "62",
+      "21",
+      "31",
+      "83"
+    ],
+    "answerIndex": 1,
+    "explanation": "The box is the missing part of an addition. 83 - 62 = 21. Subtract 62 from 83, starting at the ones. Ones: 3 - 2 = 1. Tens: 8 - 6 = 2. 62 + 21 = 83, so the difference is 21.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "83-62"
+    }
+  },
+  {
+    "id": "g3-np-257",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 69 + □ = 96",
+    "choices": [
+      "37",
+      "27",
+      "96",
+      "69"
+    ],
+    "answerIndex": 1,
+    "explanation": "The box is the missing part of an addition. 96 - 69 = 27. Subtract 69 from 96, starting at the ones. Ones: borrow so 16 - 9 = 7. Tens: 8 - 6 = 2. 69 + 27 = 96, so the difference is 27.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "96-69"
+    }
+  },
+  {
+    "id": "g3-np-258",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 76 + □ = 109",
+    "choices": [
+      "33",
+      "76",
+      "109",
+      "43"
+    ],
+    "answerIndex": 0,
+    "explanation": "The box is the missing part of an addition. 109 - 76 = 33. Subtract 76 from 109, starting at the ones. Ones: 9 - 6 = 3. Tens: borrow so 10 - 7 = 3. 76 + 33 = 109, so the difference is 33.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "109-76"
+    }
+  },
+  {
+    "id": "g3-np-259",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 83 + □ = 122",
+    "choices": [
+      "49",
+      "83",
+      "122",
+      "39"
+    ],
+    "answerIndex": 3,
+    "explanation": "The box is the missing part of an addition. 122 - 83 = 39. Subtract 83 from 122, starting at the ones. Ones: borrow so 12 - 3 = 9. Tens: borrow so 11 - 8 = 3. 83 + 39 = 122, so the difference is 39.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "122-83"
+    }
+  },
+  {
+    "id": "g3-np-260",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 90 + □ = 105",
+    "choices": [
+      "105",
+      "15",
+      "25",
+      "90"
+    ],
+    "answerIndex": 1,
+    "explanation": "The box is the missing part of an addition. 105 - 90 = 15. Subtract 90 from 105, starting at the ones. Ones: 5 - 0 = 5. Tens: borrow so 10 - 9 = 1. 90 + 15 = 105, so the difference is 15.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "105-90"
+    }
+  },
+  {
+    "id": "g3-np-261",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 97 + □ = 118",
+    "choices": [
+      "97",
+      "31",
+      "118",
+      "21"
+    ],
+    "answerIndex": 3,
+    "explanation": "The box is the missing part of an addition. 118 - 97 = 21. Subtract 97 from 118, starting at the ones. Ones: 8 - 7 = 1. Tens: borrow so 11 - 9 = 2. 97 + 21 = 118, so the difference is 21.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "118-97"
+    }
+  },
+  {
+    "id": "g3-np-262",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 104 + □ = 131",
+    "choices": [
+      "27",
+      "104",
+      "37",
+      "131"
+    ],
+    "answerIndex": 0,
+    "explanation": "The box is the missing part of an addition. 131 - 104 = 27. Subtract 104 from 131, starting at the ones. Ones: borrow so 11 - 4 = 7. Tens: 2 - 0 = 2. Hundreds: 1 - 1 = 0. 104 + 27 = 131, so the difference is 27.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "131-104"
+    }
+  },
+  {
+    "id": "g3-np-263",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 111 + □ = 144",
+    "choices": [
+      "111",
+      "43",
+      "33",
+      "144"
+    ],
+    "answerIndex": 2,
+    "explanation": "The box is the missing part of an addition. 144 - 111 = 33. Subtract 111 from 144, starting at the ones. Ones: 4 - 1 = 3. Tens: 4 - 1 = 3. Hundreds: 1 - 1 = 0. 111 + 33 = 144, so the difference is 33.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "144-111"
+    }
+  },
+  {
+    "id": "g3-np-264",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 118 + □ = 157",
+    "choices": [
+      "118",
+      "49",
+      "39",
+      "157"
+    ],
+    "answerIndex": 2,
+    "explanation": "The box is the missing part of an addition. 157 - 118 = 39. Subtract 118 from 157, starting at the ones. Ones: borrow so 17 - 8 = 9. Tens: 4 - 1 = 3. Hundreds: 1 - 1 = 0. 118 + 39 = 157, so the difference is 39.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "157-118"
+    }
+  },
+  {
+    "id": "g3-np-265",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? 125 + □ = 140",
+    "choices": [
+      "25",
+      "125",
+      "140",
+      "15"
+    ],
+    "answerIndex": 3,
+    "explanation": "The box is the missing part of an addition. 140 - 125 = 15. Subtract 125 from 140, starting at the ones. Ones: borrow so 10 - 5 = 5. Tens: 3 - 2 = 1. Hundreds: 1 - 1 = 0. 125 + 15 = 140, so the difference is 15.",
+    "skill": "3.OA.A.4",
+    "skillLabel": "Find the unknown number",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "140-125"
+    }
+  },
+  {
+    "id": "g3-np-266",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 12 = 28",
+    "choices": [
+      "40",
+      "12",
+      "30",
+      "28"
+    ],
+    "answerIndex": 0,
+    "explanation": "If you subtract 12 and land on 28, add 12 back. Add 28 and 12, starting at the ones. Ones: 8 + 2 = 10. Write 0 and carry 1. Tens: 2 + 1 + 1 carried = 4. The sum is 40.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "28+12"
+    }
+  },
+  {
+    "id": "g3-np-267",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 16 = 33",
+    "choices": [
+      "16",
+      "39",
+      "33",
+      "49"
+    ],
+    "answerIndex": 3,
+    "explanation": "If you subtract 16 and land on 33, add 16 back. Add 33 and 16, starting at the ones. Ones: 3 + 6 = 9. Tens: 3 + 1 = 4. The sum is 49.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "33+16"
+    }
+  },
+  {
+    "id": "g3-np-268",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 20 = 38",
+    "choices": [
+      "58",
+      "38",
+      "48",
+      "20"
+    ],
+    "answerIndex": 0,
+    "explanation": "If you subtract 20 and land on 38, add 20 back. Add 38 and 20, starting at the ones. Ones: 8 + 0 = 8. Tens: 3 + 2 = 5. The sum is 58.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "38+20"
+    }
+  },
+  {
+    "id": "g3-np-269",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 24 = 43",
+    "choices": [
+      "43",
+      "24",
+      "67",
+      "57"
+    ],
+    "answerIndex": 2,
+    "explanation": "If you subtract 24 and land on 43, add 24 back. Add 43 and 24, starting at the ones. Ones: 3 + 4 = 7. Tens: 4 + 2 = 6. The sum is 67.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "43+24"
+    }
+  },
+  {
+    "id": "g3-np-270",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 28 = 48",
+    "choices": [
+      "48",
+      "66",
+      "76",
+      "28"
+    ],
+    "answerIndex": 2,
+    "explanation": "If you subtract 28 and land on 48, add 28 back. Add 48 and 28, starting at the ones. Ones: 8 + 8 = 16. Write 6 and carry 1. Tens: 4 + 2 + 1 carried = 7. The sum is 76.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "48+28"
+    }
+  },
+  {
+    "id": "g3-np-271",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 32 = 53",
+    "choices": [
+      "85",
+      "75",
+      "32",
+      "53"
+    ],
+    "answerIndex": 0,
+    "explanation": "If you subtract 32 and land on 53, add 32 back. Add 53 and 32, starting at the ones. Ones: 3 + 2 = 5. Tens: 5 + 3 = 8. The sum is 85.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "53+32"
+    }
+  },
+  {
+    "id": "g3-np-272",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 12 = 82",
+    "choices": [
+      "12",
+      "84",
+      "82",
+      "94"
+    ],
+    "answerIndex": 3,
+    "explanation": "If you subtract 12 and land on 82, add 12 back. Add 82 and 12, starting at the ones. Ones: 2 + 2 = 4. Tens: 8 + 1 = 9. The sum is 94.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "82+12"
+    }
+  },
+  {
+    "id": "g3-np-273",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 16 = 87",
+    "choices": [
+      "87",
+      "16",
+      "103",
+      "93"
+    ],
+    "answerIndex": 2,
+    "explanation": "If you subtract 16 and land on 87, add 16 back. Add 87 and 16, starting at the ones. Ones: 7 + 6 = 13. Write 3 and carry 1. Tens: 8 + 1 + 1 carried = 10. Write 0 and carry 1. The leftover carry is 1 in the next place. The sum is 103.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "87+16"
+    }
+  },
+  {
+    "id": "g3-np-274",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 20 = 92",
+    "choices": [
+      "102",
+      "112",
+      "92",
+      "20"
+    ],
+    "answerIndex": 1,
+    "explanation": "If you subtract 20 and land on 92, add 20 back. Add 92 and 20, starting at the ones. Ones: 2 + 0 = 2. Tens: 9 + 2 = 11. Write 1 and carry 1. The leftover carry is 1 in the next place. The sum is 112.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "92+20"
+    }
+  },
+  {
+    "id": "g3-np-275",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 24 = 97",
+    "choices": [
+      "24",
+      "121",
+      "111",
+      "97"
+    ],
+    "answerIndex": 1,
+    "explanation": "If you subtract 24 and land on 97, add 24 back. Add 97 and 24, starting at the ones. Ones: 7 + 4 = 11. Write 1 and carry 1. Tens: 9 + 2 + 1 carried = 12. Write 2 and carry 1. The leftover carry is 1 in the next place. The sum is 121.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "97+24"
+    }
+  },
+  {
+    "id": "g3-np-276",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 28 = 102",
+    "choices": [
+      "130",
+      "102",
+      "28",
+      "120"
+    ],
+    "answerIndex": 0,
+    "explanation": "If you subtract 28 and land on 102, add 28 back. Add 102 and 28, starting at the ones. Ones: 2 + 8 = 10. Write 0 and carry 1. Tens: 0 + 2 + 1 carried = 3. Hundreds: 1 + 0 = 1. The sum is 130.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "102+28"
+    }
+  },
+  {
+    "id": "g3-np-277",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 32 = 107",
+    "choices": [
+      "107",
+      "139",
+      "129",
+      "32"
+    ],
+    "answerIndex": 1,
+    "explanation": "If you subtract 32 and land on 107, add 32 back. Add 107 and 32, starting at the ones. Ones: 7 + 2 = 9. Tens: 0 + 3 = 3. Hundreds: 1 + 0 = 1. The sum is 139.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "107+32"
+    }
+  },
+  {
+    "id": "g3-np-278",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 12 = 136",
+    "choices": [
+      "136",
+      "148",
+      "138",
+      "12"
+    ],
+    "answerIndex": 1,
+    "explanation": "If you subtract 12 and land on 136, add 12 back. Add 136 and 12, starting at the ones. Ones: 6 + 2 = 8. Tens: 3 + 1 = 4. Hundreds: 1 + 0 = 1. The sum is 148.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "136+12"
+    }
+  },
+  {
+    "id": "g3-np-279",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 16 = 141",
+    "choices": [
+      "16",
+      "157",
+      "141",
+      "147"
+    ],
+    "answerIndex": 1,
+    "explanation": "If you subtract 16 and land on 141, add 16 back. Add 141 and 16, starting at the ones. Ones: 1 + 6 = 7. Tens: 4 + 1 = 5. Hundreds: 1 + 0 = 1. The sum is 157.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "141+16"
+    }
+  },
+  {
+    "id": "g3-np-280",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 20 = 146",
+    "choices": [
+      "20",
+      "156",
+      "146",
+      "166"
+    ],
+    "answerIndex": 3,
+    "explanation": "If you subtract 20 and land on 146, add 20 back. Add 146 and 20, starting at the ones. Ones: 6 + 0 = 6. Tens: 4 + 2 = 6. Hundreds: 1 + 0 = 1. The sum is 166.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "146+20"
+    }
+  },
+  {
+    "id": "g3-np-281",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "number-puzzles",
+    "topicLabel": "Number puzzles",
+    "prompt": "What number makes this true? □ - 24 = 151",
+    "choices": [
+      "151",
+      "24",
+      "175",
+      "165"
+    ],
+    "answerIndex": 2,
+    "explanation": "If you subtract 24 and land on 151, add 24 back. Add 151 and 24, starting at the ones. Ones: 1 + 4 = 5. Tens: 5 + 2 = 7. Hundreds: 1 + 0 = 1. The sum is 175.",
+    "skill": "3.OA.D.8",
+    "skillLabel": "Two-step word problems",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expr",
+      "expr": "151+24"
+    }
+  }
+]

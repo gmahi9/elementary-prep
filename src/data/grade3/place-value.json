@@ -1,0 +1,2822 @@
+[
+  {
+    "id": "g3-pv-388",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the ones digit in 137?",
+    "choices": [
+      "1",
+      "3",
+      "7",
+      "0"
+    ],
+    "answerIndex": 2,
+    "explanation": "137 breaks apart as 100 + 30 + 7. The ones digit is 7.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 137,
+      "place": "ones"
+    }
+  },
+  {
+    "id": "g3-pv-389",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the tens digit in 154?",
+    "choices": [
+      "4",
+      "0",
+      "1",
+      "5"
+    ],
+    "answerIndex": 3,
+    "explanation": "154 breaks apart as 100 + 50 + 4. The tens digit is 5.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 154,
+      "place": "tens"
+    }
+  },
+  {
+    "id": "g3-pv-390",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the hundreds digit in 239?",
+    "choices": [
+      "3",
+      "9",
+      "0",
+      "2"
+    ],
+    "answerIndex": 3,
+    "explanation": "239 breaks apart as 200 + 30 + 9. The hundreds digit is 2.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 239,
+      "place": "hundreds"
+    }
+  },
+  {
+    "id": "g3-pv-391",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the ones digit in 256?",
+    "choices": [
+      "6",
+      "5",
+      "0",
+      "2"
+    ],
+    "answerIndex": 0,
+    "explanation": "256 breaks apart as 200 + 50 + 6. The ones digit is 6.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 256,
+      "place": "ones"
+    }
+  },
+  {
+    "id": "g3-pv-392",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the tens digit in 273?",
+    "choices": [
+      "3",
+      "2",
+      "7",
+      "0"
+    ],
+    "answerIndex": 2,
+    "explanation": "273 breaks apart as 200 + 70 + 3. The tens digit is 7.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 273,
+      "place": "tens"
+    }
+  },
+  {
+    "id": "g3-pv-393",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the hundreds digit in 324?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "0"
+    ],
+    "answerIndex": 1,
+    "explanation": "324 breaks apart as 300 + 20 + 4. The hundreds digit is 3.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 324,
+      "place": "hundreds"
+    }
+  },
+  {
+    "id": "g3-pv-394",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the ones digit in 341?",
+    "choices": [
+      "4",
+      "0",
+      "1",
+      "3"
+    ],
+    "answerIndex": 2,
+    "explanation": "341 breaks apart as 300 + 40 + 1. The ones digit is 1.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 341,
+      "place": "ones"
+    }
+  },
+  {
+    "id": "g3-pv-395",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the tens digit in 358?",
+    "choices": [
+      "0",
+      "5",
+      "3",
+      "8"
+    ],
+    "answerIndex": 1,
+    "explanation": "358 breaks apart as 300 + 50 + 8. The tens digit is 5.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 358,
+      "place": "tens"
+    }
+  },
+  {
+    "id": "g3-pv-396",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the hundreds digit in 375?",
+    "choices": [
+      "0",
+      "5",
+      "7",
+      "3"
+    ],
+    "answerIndex": 3,
+    "explanation": "375 breaks apart as 300 + 70 + 5. The hundreds digit is 3.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 375,
+      "place": "hundreds"
+    }
+  },
+  {
+    "id": "g3-pv-397",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the ones digit in 392?",
+    "choices": [
+      "2",
+      "9",
+      "0",
+      "3"
+    ],
+    "answerIndex": 0,
+    "explanation": "392 breaks apart as 300 + 90 + 2. The ones digit is 2.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 392,
+      "place": "ones"
+    }
+  },
+  {
+    "id": "g3-pv-398",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the tens digit in 426?",
+    "choices": [
+      "6",
+      "2",
+      "0",
+      "4"
+    ],
+    "answerIndex": 1,
+    "explanation": "426 breaks apart as 400 + 20 + 6. The tens digit is 2.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 426,
+      "place": "tens"
+    }
+  },
+  {
+    "id": "g3-pv-399",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the hundreds digit in 528?",
+    "choices": [
+      "2",
+      "5",
+      "0",
+      "8"
+    ],
+    "answerIndex": 1,
+    "explanation": "528 breaks apart as 500 + 20 + 8. The hundreds digit is 5.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 528,
+      "place": "hundreds"
+    }
+  },
+  {
+    "id": "g3-pv-400",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the ones digit in 562?",
+    "choices": [
+      "6",
+      "5",
+      "2",
+      "0"
+    ],
+    "answerIndex": 2,
+    "explanation": "562 breaks apart as 500 + 60 + 2. The ones digit is 2.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 562,
+      "place": "ones"
+    }
+  },
+  {
+    "id": "g3-pv-401",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the tens digit in 579?",
+    "choices": [
+      "9",
+      "7",
+      "5",
+      "0"
+    ],
+    "answerIndex": 1,
+    "explanation": "579 breaks apart as 500 + 70 + 9. The tens digit is 7.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 579,
+      "place": "tens"
+    }
+  },
+  {
+    "id": "g3-pv-402",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the hundreds digit in 596?",
+    "choices": [
+      "5",
+      "0",
+      "6",
+      "9"
+    ],
+    "answerIndex": 0,
+    "explanation": "596 breaks apart as 500 + 90 + 6. The hundreds digit is 5.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 596,
+      "place": "hundreds"
+    }
+  },
+  {
+    "id": "g3-pv-403",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the ones digit in 613?",
+    "choices": [
+      "0",
+      "6",
+      "3",
+      "1"
+    ],
+    "answerIndex": 2,
+    "explanation": "613 breaks apart as 600 + 10 + 3. The ones digit is 3.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 613,
+      "place": "ones"
+    }
+  },
+  {
+    "id": "g3-pv-404",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the tens digit in 647?",
+    "choices": [
+      "4",
+      "7",
+      "6",
+      "0"
+    ],
+    "answerIndex": 0,
+    "explanation": "647 breaks apart as 600 + 40 + 7. The tens digit is 4.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 647,
+      "place": "tens"
+    }
+  },
+  {
+    "id": "g3-pv-405",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the hundreds digit in 681?",
+    "choices": [
+      "8",
+      "1",
+      "6",
+      "0"
+    ],
+    "answerIndex": 2,
+    "explanation": "681 breaks apart as 600 + 80 + 1. The hundreds digit is 6.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 681,
+      "place": "hundreds"
+    }
+  },
+  {
+    "id": "g3-pv-406",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the ones digit in 698?",
+    "choices": [
+      "6",
+      "9",
+      "8",
+      "0"
+    ],
+    "answerIndex": 2,
+    "explanation": "698 breaks apart as 600 + 90 + 8. The ones digit is 8.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 698,
+      "place": "ones"
+    }
+  },
+  {
+    "id": "g3-pv-407",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the tens digit in 715?",
+    "choices": [
+      "0",
+      "7",
+      "5",
+      "1"
+    ],
+    "answerIndex": 3,
+    "explanation": "715 breaks apart as 700 + 10 + 5. The tens digit is 1.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 715,
+      "place": "tens"
+    }
+  },
+  {
+    "id": "g3-pv-408",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the hundreds digit in 732?",
+    "choices": [
+      "3",
+      "7",
+      "0",
+      "2"
+    ],
+    "answerIndex": 1,
+    "explanation": "732 breaks apart as 700 + 30 + 2. The hundreds digit is 7.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 732,
+      "place": "hundreds"
+    }
+  },
+  {
+    "id": "g3-pv-409",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the ones digit in 749?",
+    "choices": [
+      "0",
+      "9",
+      "7",
+      "4"
+    ],
+    "answerIndex": 1,
+    "explanation": "749 breaks apart as 700 + 40 + 9. The ones digit is 9.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 749,
+      "place": "ones"
+    }
+  },
+  {
+    "id": "g3-pv-410",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the tens digit in 783?",
+    "choices": [
+      "0",
+      "7",
+      "3",
+      "8"
+    ],
+    "answerIndex": 3,
+    "explanation": "783 breaks apart as 700 + 80 + 3. The tens digit is 8.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 783,
+      "place": "tens"
+    }
+  },
+  {
+    "id": "g3-pv-411",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "What is the hundreds digit in 817?",
+    "choices": [
+      "7",
+      "0",
+      "1",
+      "8"
+    ],
+    "answerIndex": 3,
+    "explanation": "817 breaks apart as 800 + 10 + 7. The hundreds digit is 8.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-digit",
+      "number": 817,
+      "place": "hundreds"
+    }
+  },
+  {
+    "id": "g3-pv-412",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "In 137, what is the value of the tens digit?",
+    "choices": [
+      "300",
+      "3",
+      "30",
+      "137"
+    ],
+    "answerIndex": 2,
+    "explanation": "The tens digit in 137 is 3. A digit in the tens place is worth 10 times itself, so the value is 30.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-value",
+      "number": 137,
+      "place": "tens"
+    }
+  },
+  {
+    "id": "g3-pv-413",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "In 154, what is the value of the hundreds digit?",
+    "choices": [
+      "100",
+      "1000",
+      "154",
+      "1"
+    ],
+    "answerIndex": 0,
+    "explanation": "The hundreds digit in 154 is 1. A digit in the hundreds place is worth 100 times itself, so the value is 100.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-value",
+      "number": 154,
+      "place": "hundreds"
+    }
+  },
+  {
+    "id": "g3-pv-414",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "In 239, what is the value of the tens digit?",
+    "choices": [
+      "300",
+      "30",
+      "239",
+      "3"
+    ],
+    "answerIndex": 1,
+    "explanation": "The tens digit in 239 is 3. A digit in the tens place is worth 10 times itself, so the value is 30.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-value",
+      "number": 239,
+      "place": "tens"
+    }
+  },
+  {
+    "id": "g3-pv-415",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "In 256, what is the value of the hundreds digit?",
+    "choices": [
+      "2",
+      "256",
+      "2000",
+      "200"
+    ],
+    "answerIndex": 3,
+    "explanation": "The hundreds digit in 256 is 2. A digit in the hundreds place is worth 100 times itself, so the value is 200.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-value",
+      "number": 256,
+      "place": "hundreds"
+    }
+  },
+  {
+    "id": "g3-pv-416",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "In 273, what is the value of the tens digit?",
+    "choices": [
+      "700",
+      "70",
+      "273",
+      "7"
+    ],
+    "answerIndex": 1,
+    "explanation": "The tens digit in 273 is 7. A digit in the tens place is worth 10 times itself, so the value is 70.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-value",
+      "number": 273,
+      "place": "tens"
+    }
+  },
+  {
+    "id": "g3-pv-417",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "In 324, what is the value of the hundreds digit?",
+    "choices": [
+      "3",
+      "324",
+      "3000",
+      "300"
+    ],
+    "answerIndex": 3,
+    "explanation": "The hundreds digit in 324 is 3. A digit in the hundreds place is worth 100 times itself, so the value is 300.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-value",
+      "number": 324,
+      "place": "hundreds"
+    }
+  },
+  {
+    "id": "g3-pv-418",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "In 341, what is the value of the tens digit?",
+    "choices": [
+      "341",
+      "4",
+      "400",
+      "40"
+    ],
+    "answerIndex": 3,
+    "explanation": "The tens digit in 341 is 4. A digit in the tens place is worth 10 times itself, so the value is 40.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-value",
+      "number": 341,
+      "place": "tens"
+    }
+  },
+  {
+    "id": "g3-pv-419",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "In 358, what is the value of the hundreds digit?",
+    "choices": [
+      "358",
+      "3000",
+      "3",
+      "300"
+    ],
+    "answerIndex": 3,
+    "explanation": "The hundreds digit in 358 is 3. A digit in the hundreds place is worth 100 times itself, so the value is 300.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-value",
+      "number": 358,
+      "place": "hundreds"
+    }
+  },
+  {
+    "id": "g3-pv-420",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "In 375, what is the value of the tens digit?",
+    "choices": [
+      "70",
+      "700",
+      "375",
+      "7"
+    ],
+    "answerIndex": 0,
+    "explanation": "The tens digit in 375 is 7. A digit in the tens place is worth 10 times itself, so the value is 70.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-value",
+      "number": 375,
+      "place": "tens"
+    }
+  },
+  {
+    "id": "g3-pv-421",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "In 392, what is the value of the hundreds digit?",
+    "choices": [
+      "300",
+      "3",
+      "392",
+      "3000"
+    ],
+    "answerIndex": 0,
+    "explanation": "The hundreds digit in 392 is 3. A digit in the hundreds place is worth 100 times itself, so the value is 300.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-value",
+      "number": 392,
+      "place": "hundreds"
+    }
+  },
+  {
+    "id": "g3-pv-422",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "In 426, what is the value of the tens digit?",
+    "choices": [
+      "200",
+      "2",
+      "426",
+      "20"
+    ],
+    "answerIndex": 3,
+    "explanation": "The tens digit in 426 is 2. A digit in the tens place is worth 10 times itself, so the value is 20.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-value",
+      "number": 426,
+      "place": "tens"
+    }
+  },
+  {
+    "id": "g3-pv-423",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "In 528, what is the value of the hundreds digit?",
+    "choices": [
+      "5000",
+      "5",
+      "500",
+      "528"
+    ],
+    "answerIndex": 2,
+    "explanation": "The hundreds digit in 528 is 5. A digit in the hundreds place is worth 100 times itself, so the value is 500.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "place-value",
+      "number": 528,
+      "place": "hundreds"
+    }
+  },
+  {
+    "id": "g3-pv-424",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which expression is 137 in expanded form?",
+    "choices": [
+      "100 + 30 + 7",
+      "100 + 7",
+      "200 + 30 + 7",
+      "30 + 7"
+    ],
+    "answerIndex": 0,
+    "explanation": "137 has 1 hundreds, 3 tens, and 7 ones. Expanded form writes those values with plus signs: 100 + 30 + 7.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expanded",
+      "number": 137
+    }
+  },
+  {
+    "id": "g3-pv-425",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which expression is 154 in expanded form?",
+    "choices": [
+      "100 + 50 + 4",
+      "200 + 50 + 4",
+      "100 + 4",
+      "50 + 4"
+    ],
+    "answerIndex": 0,
+    "explanation": "154 has 1 hundreds, 5 tens, and 4 ones. Expanded form writes those values with plus signs: 100 + 50 + 4.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expanded",
+      "number": 154
+    }
+  },
+  {
+    "id": "g3-pv-426",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which expression is 239 in expanded form?",
+    "choices": [
+      "200 + 9",
+      "200 + 30 + 9",
+      "300 + 30 + 9",
+      "30 + 9"
+    ],
+    "answerIndex": 1,
+    "explanation": "239 has 2 hundreds, 3 tens, and 9 ones. Expanded form writes those values with plus signs: 200 + 30 + 9.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expanded",
+      "number": 239
+    }
+  },
+  {
+    "id": "g3-pv-427",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which expression is 256 in expanded form?",
+    "choices": [
+      "200 + 6",
+      "300 + 50 + 6",
+      "50 + 6",
+      "200 + 50 + 6"
+    ],
+    "answerIndex": 3,
+    "explanation": "256 has 2 hundreds, 5 tens, and 6 ones. Expanded form writes those values with plus signs: 200 + 50 + 6.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expanded",
+      "number": 256
+    }
+  },
+  {
+    "id": "g3-pv-428",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which expression is 273 in expanded form?",
+    "choices": [
+      "200 + 70 + 3",
+      "300 + 70 + 3",
+      "200 + 3",
+      "70 + 3"
+    ],
+    "answerIndex": 0,
+    "explanation": "273 has 2 hundreds, 7 tens, and 3 ones. Expanded form writes those values with plus signs: 200 + 70 + 3.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expanded",
+      "number": 273
+    }
+  },
+  {
+    "id": "g3-pv-429",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which expression is 324 in expanded form?",
+    "choices": [
+      "300 + 20 + 4",
+      "300 + 4",
+      "400 + 20 + 4",
+      "20 + 4"
+    ],
+    "answerIndex": 0,
+    "explanation": "324 has 3 hundreds, 2 tens, and 4 ones. Expanded form writes those values with plus signs: 300 + 20 + 4.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expanded",
+      "number": 324
+    }
+  },
+  {
+    "id": "g3-pv-430",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which expression is 341 in expanded form?",
+    "choices": [
+      "40 + 1",
+      "300 + 1",
+      "400 + 40 + 1",
+      "300 + 40 + 1"
+    ],
+    "answerIndex": 3,
+    "explanation": "341 has 3 hundreds, 4 tens, and 1 ones. Expanded form writes those values with plus signs: 300 + 40 + 1.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expanded",
+      "number": 341
+    }
+  },
+  {
+    "id": "g3-pv-431",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which expression is 358 in expanded form?",
+    "choices": [
+      "400 + 50 + 8",
+      "300 + 50 + 8",
+      "50 + 8",
+      "300 + 8"
+    ],
+    "answerIndex": 1,
+    "explanation": "358 has 3 hundreds, 5 tens, and 8 ones. Expanded form writes those values with plus signs: 300 + 50 + 8.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expanded",
+      "number": 358
+    }
+  },
+  {
+    "id": "g3-pv-432",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which expression is 375 in expanded form?",
+    "choices": [
+      "70 + 5",
+      "300 + 5",
+      "400 + 70 + 5",
+      "300 + 70 + 5"
+    ],
+    "answerIndex": 3,
+    "explanation": "375 has 3 hundreds, 7 tens, and 5 ones. Expanded form writes those values with plus signs: 300 + 70 + 5.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expanded",
+      "number": 375
+    }
+  },
+  {
+    "id": "g3-pv-433",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which expression is 392 in expanded form?",
+    "choices": [
+      "300 + 2",
+      "90 + 2",
+      "300 + 90 + 2",
+      "400 + 90 + 2"
+    ],
+    "answerIndex": 2,
+    "explanation": "392 has 3 hundreds, 9 tens, and 2 ones. Expanded form writes those values with plus signs: 300 + 90 + 2.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expanded",
+      "number": 392
+    }
+  },
+  {
+    "id": "g3-pv-434",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which expression is 426 in expanded form?",
+    "choices": [
+      "400 + 20 + 6",
+      "500 + 20 + 6",
+      "400 + 6",
+      "20 + 6"
+    ],
+    "answerIndex": 0,
+    "explanation": "426 has 4 hundreds, 2 tens, and 6 ones. Expanded form writes those values with plus signs: 400 + 20 + 6.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expanded",
+      "number": 426
+    }
+  },
+  {
+    "id": "g3-pv-435",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which expression is 528 in expanded form?",
+    "choices": [
+      "20 + 8",
+      "600 + 20 + 8",
+      "500 + 20 + 8",
+      "500 + 8"
+    ],
+    "answerIndex": 2,
+    "explanation": "528 has 5 hundreds, 2 tens, and 8 ones. Expanded form writes those values with plus signs: 500 + 20 + 8.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "expanded",
+      "number": 528
+    }
+  },
+  {
+    "id": "g3-pv-436",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 124 to the nearest 10.",
+    "choices": [
+      "120",
+      "130",
+      "124",
+      "110"
+    ],
+    "answerIndex": 0,
+    "explanation": "To round 124 to the nearest 10, compare it with 120 and 130. 124 is closer to 120 than to 130. 124 rounds to 120.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 124,
+      "nearest": 10
+    }
+  },
+  {
+    "id": "g3-pv-437",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 135 to the nearest 100.",
+    "choices": [
+      "200",
+      "100",
+      "0",
+      "135"
+    ],
+    "answerIndex": 1,
+    "explanation": "To round 135 to the nearest 100, compare it with 100 and 200. 135 is closer to 100 than to 200. 135 rounds to 100.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 135,
+      "nearest": 100
+    }
+  },
+  {
+    "id": "g3-pv-438",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 148 to the nearest 10.",
+    "choices": [
+      "140",
+      "148",
+      "150",
+      "160"
+    ],
+    "answerIndex": 2,
+    "explanation": "To round 148 to the nearest 10, compare it with 140 and 150. 148 is closer to 150 than to 140. 148 rounds to 150.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 148,
+      "nearest": 10
+    }
+  },
+  {
+    "id": "g3-pv-439",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 152 to the nearest 100.",
+    "choices": [
+      "152",
+      "100",
+      "300",
+      "200"
+    ],
+    "answerIndex": 3,
+    "explanation": "To round 152 to the nearest 100, compare it with 100 and 200. 152 is closer to 200 than to 100. 152 rounds to 200.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 152,
+      "nearest": 100
+    }
+  },
+  {
+    "id": "g3-pv-440",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 167 to the nearest 10.",
+    "choices": [
+      "167",
+      "160",
+      "180",
+      "170"
+    ],
+    "answerIndex": 3,
+    "explanation": "To round 167 to the nearest 10, compare it with 160 and 170. 167 is closer to 170 than to 160. 167 rounds to 170.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 167,
+      "nearest": 10
+    }
+  },
+  {
+    "id": "g3-pv-441",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 175 to the nearest 100.",
+    "choices": [
+      "175",
+      "200",
+      "300",
+      "100"
+    ],
+    "answerIndex": 1,
+    "explanation": "To round 175 to the nearest 100, compare it with 100 and 200. 175 is closer to 200 than to 100. 175 rounds to 200.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 175,
+      "nearest": 100
+    }
+  },
+  {
+    "id": "g3-pv-442",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 186 to the nearest 10.",
+    "choices": [
+      "200",
+      "186",
+      "190",
+      "180"
+    ],
+    "answerIndex": 2,
+    "explanation": "To round 186 to the nearest 10, compare it with 180 and 190. 186 is closer to 190 than to 180. 186 rounds to 190.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 186,
+      "nearest": 10
+    }
+  },
+  {
+    "id": "g3-pv-443",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 203 to the nearest 100.",
+    "choices": [
+      "100",
+      "300",
+      "200",
+      "203"
+    ],
+    "answerIndex": 2,
+    "explanation": "To round 203 to the nearest 100, compare it with 200 and 300. 203 is closer to 200 than to 300. 203 rounds to 200.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 203,
+      "nearest": 100
+    }
+  },
+  {
+    "id": "g3-pv-444",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 248 to the nearest 10.",
+    "choices": [
+      "250",
+      "260",
+      "248",
+      "240"
+    ],
+    "answerIndex": 0,
+    "explanation": "To round 248 to the nearest 10, compare it with 240 and 250. 248 is closer to 250 than to 240. 248 rounds to 250.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 248,
+      "nearest": 10
+    }
+  },
+  {
+    "id": "g3-pv-445",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 255 to the nearest 100.",
+    "choices": [
+      "400",
+      "255",
+      "300",
+      "200"
+    ],
+    "answerIndex": 2,
+    "explanation": "To round 255 to the nearest 100, compare it with 200 and 300. 255 is closer to 300 than to 200. 255 rounds to 300.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 255,
+      "nearest": 100
+    }
+  },
+  {
+    "id": "g3-pv-446",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 261 to the nearest 10.",
+    "choices": [
+      "261",
+      "250",
+      "260",
+      "270"
+    ],
+    "answerIndex": 2,
+    "explanation": "To round 261 to the nearest 10, compare it with 260 and 270. 261 is closer to 260 than to 270. 261 rounds to 260.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 261,
+      "nearest": 10
+    }
+  },
+  {
+    "id": "g3-pv-447",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 274 to the nearest 100.",
+    "choices": [
+      "274",
+      "400",
+      "200",
+      "300"
+    ],
+    "answerIndex": 3,
+    "explanation": "To round 274 to the nearest 100, compare it with 200 and 300. 274 is closer to 300 than to 200. 274 rounds to 300.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 274,
+      "nearest": 100
+    }
+  },
+  {
+    "id": "g3-pv-448",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 309 to the nearest 10.",
+    "choices": [
+      "310",
+      "320",
+      "300",
+      "309"
+    ],
+    "answerIndex": 0,
+    "explanation": "To round 309 to the nearest 10, compare it with 300 and 310. 309 is closer to 310 than to 300. 309 rounds to 310.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 309,
+      "nearest": 10
+    }
+  },
+  {
+    "id": "g3-pv-449",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 345 to the nearest 100.",
+    "choices": [
+      "200",
+      "300",
+      "400",
+      "345"
+    ],
+    "answerIndex": 1,
+    "explanation": "To round 345 to the nearest 100, compare it with 300 and 400. 345 is closer to 300 than to 400. 345 rounds to 300.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 345,
+      "nearest": 100
+    }
+  },
+  {
+    "id": "g3-pv-450",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 350 to the nearest 10.",
+    "choices": [
+      "351",
+      "340",
+      "360",
+      "350"
+    ],
+    "answerIndex": 3,
+    "explanation": "350 is already a multiple of 10, so it rounds to 350.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 350,
+      "nearest": 10
+    }
+  },
+  {
+    "id": "g3-pv-451",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 367 to the nearest 100.",
+    "choices": [
+      "367",
+      "400",
+      "300",
+      "500"
+    ],
+    "answerIndex": 1,
+    "explanation": "To round 367 to the nearest 100, compare it with 300 and 400. 367 is closer to 400 than to 300. 367 rounds to 400.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 367,
+      "nearest": 100
+    }
+  },
+  {
+    "id": "g3-pv-452",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 412 to the nearest 10.",
+    "choices": [
+      "412",
+      "400",
+      "420",
+      "410"
+    ],
+    "answerIndex": 3,
+    "explanation": "To round 412 to the nearest 10, compare it with 410 and 420. 412 is closer to 410 than to 420. 412 rounds to 410.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 412,
+      "nearest": 10
+    }
+  },
+  {
+    "id": "g3-pv-453",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 449 to the nearest 100.",
+    "choices": [
+      "500",
+      "400",
+      "449",
+      "300"
+    ],
+    "answerIndex": 1,
+    "explanation": "To round 449 to the nearest 100, compare it with 400 and 500. 449 is closer to 400 than to 500. 449 rounds to 400.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 449,
+      "nearest": 100
+    }
+  },
+  {
+    "id": "g3-pv-454",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 455 to the nearest 10.",
+    "choices": [
+      "455",
+      "450",
+      "460",
+      "470"
+    ],
+    "answerIndex": 2,
+    "explanation": "To round 455 to the nearest 10, compare it with 450 and 460. 455 is exactly halfway between 450 and 460, and halfway rounds up. 455 rounds to 460.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 455,
+      "nearest": 10
+    }
+  },
+  {
+    "id": "g3-pv-455",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 480 to the nearest 100.",
+    "choices": [
+      "480",
+      "500",
+      "600",
+      "400"
+    ],
+    "answerIndex": 1,
+    "explanation": "To round 480 to the nearest 100, compare it with 400 and 500. 480 is closer to 500 than to 400. 480 rounds to 500.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 480,
+      "nearest": 100
+    }
+  },
+  {
+    "id": "g3-pv-456",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 506 to the nearest 10.",
+    "choices": [
+      "500",
+      "520",
+      "506",
+      "510"
+    ],
+    "answerIndex": 3,
+    "explanation": "To round 506 to the nearest 10, compare it with 500 and 510. 506 is closer to 510 than to 500. 506 rounds to 510.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 506,
+      "nearest": 10
+    }
+  },
+  {
+    "id": "g3-pv-457",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 555 to the nearest 100.",
+    "choices": [
+      "700",
+      "600",
+      "555",
+      "500"
+    ],
+    "answerIndex": 1,
+    "explanation": "To round 555 to the nearest 100, compare it with 500 and 600. 555 is closer to 600 than to 500. 555 rounds to 600.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 555,
+      "nearest": 100
+    }
+  },
+  {
+    "id": "g3-pv-458",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 562 to the nearest 10.",
+    "choices": [
+      "570",
+      "550",
+      "562",
+      "560"
+    ],
+    "answerIndex": 3,
+    "explanation": "To round 562 to the nearest 10, compare it with 560 and 570. 562 is closer to 560 than to 570. 562 rounds to 560.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 562,
+      "nearest": 10
+    }
+  },
+  {
+    "id": "g3-pv-459",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Round 590 to the nearest 100.",
+    "choices": [
+      "600",
+      "700",
+      "590",
+      "500"
+    ],
+    "answerIndex": 0,
+    "explanation": "To round 590 to the nearest 100, compare it with 500 and 600. 590 is closer to 600 than to 500. 590 rounds to 600.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "round",
+      "number": 590,
+      "nearest": 100
+    }
+  },
+  {
+    "id": "g3-pv-460",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which number is the greatest: 248, 284, 428, 244?",
+    "choices": [
+      "284",
+      "428",
+      "248",
+      "244"
+    ],
+    "answerIndex": 1,
+    "explanation": "Compare hundreds first, then tens, then ones. The greatest number in this list is 428.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "max",
+      "values": [
+        248,
+        284,
+        428,
+        244
+      ]
+    }
+  },
+  {
+    "id": "g3-pv-461",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which number is the greatest: 305, 350, 309, 390?",
+    "choices": [
+      "390",
+      "309",
+      "305",
+      "350"
+    ],
+    "answerIndex": 0,
+    "explanation": "Compare hundreds first, then tens, then ones. The greatest number in this list is 390.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "max",
+      "values": [
+        305,
+        350,
+        309,
+        390
+      ]
+    }
+  },
+  {
+    "id": "g3-pv-462",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which number is the greatest: 617, 671, 716, 167?",
+    "choices": [
+      "167",
+      "716",
+      "671",
+      "617"
+    ],
+    "answerIndex": 1,
+    "explanation": "Compare hundreds first, then tens, then ones. The greatest number in this list is 716.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "max",
+      "values": [
+        617,
+        671,
+        716,
+        167
+      ]
+    }
+  },
+  {
+    "id": "g3-pv-463",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which number is the greatest: 804, 840, 480, 408?",
+    "choices": [
+      "408",
+      "840",
+      "804",
+      "480"
+    ],
+    "answerIndex": 1,
+    "explanation": "Compare hundreds first, then tens, then ones. The greatest number in this list is 840.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "max",
+      "values": [
+        804,
+        840,
+        480,
+        408
+      ]
+    }
+  },
+  {
+    "id": "g3-pv-464",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which number is the greatest: 129, 192, 219, 291?",
+    "choices": [
+      "129",
+      "291",
+      "219",
+      "192"
+    ],
+    "answerIndex": 1,
+    "explanation": "Compare hundreds first, then tens, then ones. The greatest number in this list is 291.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "max",
+      "values": [
+        129,
+        192,
+        219,
+        291
+      ]
+    }
+  },
+  {
+    "id": "g3-pv-465",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which number is the greatest: 560, 506, 650, 605?",
+    "choices": [
+      "650",
+      "560",
+      "506",
+      "605"
+    ],
+    "answerIndex": 0,
+    "explanation": "Compare hundreds first, then tens, then ones. The greatest number in this list is 650.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "max",
+      "values": [
+        560,
+        506,
+        650,
+        605
+      ]
+    }
+  },
+  {
+    "id": "g3-pv-466",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which number is the greatest: 733, 737, 773, 377?",
+    "choices": [
+      "737",
+      "377",
+      "773",
+      "733"
+    ],
+    "answerIndex": 2,
+    "explanation": "Compare hundreds first, then tens, then ones. The greatest number in this list is 773.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "max",
+      "values": [
+        733,
+        737,
+        773,
+        377
+      ]
+    }
+  },
+  {
+    "id": "g3-pv-467",
+    "grade": 3,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Which number is the greatest: 941, 914, 491, 419?",
+    "choices": [
+      "941",
+      "914",
+      "419",
+      "491"
+    ],
+    "answerIndex": 0,
+    "explanation": "Compare hundreds first, then tens, then ones. The greatest number in this list is 941.",
+    "skill": "3.NBT.A.1",
+    "skillLabel": "Place value and rounding",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "max",
+      "values": [
+        941,
+        914,
+        491,
+        419
+      ]
+    }
+  }
+]

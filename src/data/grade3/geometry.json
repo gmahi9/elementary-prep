@@ -1,0 +1,1009 @@
+[
+  {
+    "id": "g3-gm-887",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "How many sides does a triangle have?",
+    "figure": {
+      "kind": "shape",
+      "shape": "triangle",
+      "alt": "A drawing of a triangle."
+    },
+    "choices": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answerIndex": 3,
+    "explanation": "Count the straight sides of a triangle. There are 3.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sides",
+      "shape": "triangle"
+    }
+  },
+  {
+    "id": "g3-gm-888",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "How many sides does a quadrilateral have?",
+    "figure": {
+      "kind": "shape",
+      "shape": "quadrilateral",
+      "alt": "A drawing of a quadrilateral."
+    },
+    "choices": [
+      "5",
+      "6",
+      "4",
+      "3"
+    ],
+    "answerIndex": 2,
+    "explanation": "Count the straight sides of a quadrilateral. There are 4.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sides",
+      "shape": "quadrilateral"
+    }
+  },
+  {
+    "id": "g3-gm-889",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "How many sides does a pentagon have?",
+    "figure": {
+      "kind": "shape",
+      "shape": "pentagon",
+      "alt": "A drawing of a pentagon."
+    },
+    "choices": [
+      "5",
+      "7",
+      "6",
+      "4"
+    ],
+    "answerIndex": 0,
+    "explanation": "Count the straight sides of a pentagon. There are 5.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sides",
+      "shape": "pentagon"
+    }
+  },
+  {
+    "id": "g3-gm-890",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "How many sides does a hexagon have?",
+    "figure": {
+      "kind": "shape",
+      "shape": "hexagon",
+      "alt": "A drawing of a hexagon."
+    },
+    "choices": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "answerIndex": 3,
+    "explanation": "Count the straight sides of a hexagon. There are 6.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sides",
+      "shape": "hexagon"
+    }
+  },
+  {
+    "id": "g3-gm-891",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "How many sides does a octagon have?",
+    "figure": {
+      "kind": "shape",
+      "shape": "octagon",
+      "alt": "A drawing of a octagon."
+    },
+    "choices": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "answerIndex": 1,
+    "explanation": "Count the straight sides of a octagon. There are 8.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sides",
+      "shape": "octagon"
+    }
+  },
+  {
+    "id": "g3-gm-892",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "How many sides does a square have?",
+    "figure": {
+      "kind": "shape",
+      "shape": "square",
+      "alt": "A drawing of a square."
+    },
+    "choices": [
+      "5",
+      "6",
+      "3",
+      "4"
+    ],
+    "answerIndex": 3,
+    "explanation": "Count the straight sides of a square. There are 4.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sides",
+      "shape": "square"
+    }
+  },
+  {
+    "id": "g3-gm-893",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "How many sides does a rectangle have?",
+    "figure": {
+      "kind": "shape",
+      "shape": "rectangle",
+      "alt": "A drawing of a rectangle."
+    },
+    "choices": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "answerIndex": 3,
+    "explanation": "Count the straight sides of a rectangle. There are 4.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sides",
+      "shape": "rectangle"
+    }
+  },
+  {
+    "id": "g3-gm-894",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "How many sides does a rhombus have?",
+    "figure": {
+      "kind": "shape",
+      "shape": "rhombus",
+      "alt": "A drawing of a rhombus."
+    },
+    "choices": [
+      "6",
+      "4",
+      "5",
+      "3"
+    ],
+    "answerIndex": 1,
+    "explanation": "Count the straight sides of a rhombus. There are 4.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sides",
+      "shape": "rhombus"
+    }
+  },
+  {
+    "id": "g3-gm-895",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "How many sides does a trapezoid have?",
+    "figure": {
+      "kind": "shape",
+      "shape": "trapezoid",
+      "alt": "A drawing of a trapezoid."
+    },
+    "choices": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "answerIndex": 3,
+    "explanation": "Count the straight sides of a trapezoid. There are 4.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sides",
+      "shape": "trapezoid"
+    }
+  },
+  {
+    "id": "g3-gm-896",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "Which shape has four equal sides and four right angles?",
+    "choices": [
+      "pentagon",
+      "square",
+      "trapezoid",
+      "circle"
+    ],
+    "answerIndex": 1,
+    "explanation": "Match the description to the shape name. The shape has four equal sides and four right angles? The name is square.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "shape-name",
+      "key": "four-equal-sides-and-four-right-angles"
+    }
+  },
+  {
+    "id": "g3-gm-897",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "A quadrilateral has four right angles. Its opposite sides are equal, and not all four sides have to be the same length. Which shape is it?",
+    "choices": [
+      "triangle",
+      "pentagon",
+      "circle",
+      "rectangle"
+    ],
+    "answerIndex": 3,
+    "explanation": "Match the description to the shape name. A quadrilateral has four right angles. Its opposite sides are equal, and not all four sides have to be the same length. The shape is it? The name is rectangle.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "shape-name",
+      "key": "four-right-angles-and-opposite-sides-equal"
+    }
+  },
+  {
+    "id": "g3-gm-898",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "Which shape has four equal sides, even when it does not have right angles?",
+    "choices": [
+      "hexagon",
+      "rhombus",
+      "circle",
+      "pentagon"
+    ],
+    "answerIndex": 1,
+    "explanation": "Match the description to the shape name. The shape has four equal sides, even when it does not have right angles? The name is rhombus.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "shape-name",
+      "key": "four-equal-sides"
+    }
+  },
+  {
+    "id": "g3-gm-899",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "Which shape has exactly three sides?",
+    "choices": [
+      "circle",
+      "hexagon",
+      "pentagon",
+      "triangle"
+    ],
+    "answerIndex": 3,
+    "explanation": "Match the description to the shape name. The shape has exactly three sides? The name is triangle.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "shape-name",
+      "key": "three-sides"
+    }
+  },
+  {
+    "id": "g3-gm-900",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "Which shape has exactly five sides?",
+    "choices": [
+      "triangle",
+      "pentagon",
+      "hexagon",
+      "circle"
+    ],
+    "answerIndex": 1,
+    "explanation": "Match the description to the shape name. The shape has exactly five sides? The name is pentagon.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "shape-name",
+      "key": "five-sides"
+    }
+  },
+  {
+    "id": "g3-gm-901",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "Which shape has exactly six sides?",
+    "choices": [
+      "triangle",
+      "hexagon",
+      "circle",
+      "pentagon"
+    ],
+    "answerIndex": 1,
+    "explanation": "Match the description to the shape name. The shape has exactly six sides? The name is hexagon.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "shape-name",
+      "key": "six-sides"
+    }
+  },
+  {
+    "id": "g3-gm-902",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "Which shape has exactly eight sides?",
+    "choices": [
+      "octagon",
+      "hexagon",
+      "triangle",
+      "pentagon"
+    ],
+    "answerIndex": 0,
+    "explanation": "Match the description to the shape name. The shape has exactly eight sides? The name is octagon.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "shape-name",
+      "key": "eight-sides"
+    }
+  },
+  {
+    "id": "g3-gm-903",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "Which shape has no straight sides?",
+    "choices": [
+      "hexagon",
+      "rectangle",
+      "triangle",
+      "circle"
+    ],
+    "answerIndex": 3,
+    "explanation": "Match the description to the shape name. The shape has no straight sides? The name is circle.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "shape-name",
+      "key": "no-straight-sides"
+    }
+  },
+  {
+    "id": "g3-gm-904",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "Which shape has exactly one pair of parallel sides?",
+    "choices": [
+      "hexagon",
+      "circle",
+      "trapezoid",
+      "triangle"
+    ],
+    "answerIndex": 2,
+    "explanation": "Match the description to the shape name. The shape has exactly one pair of parallel sides? The name is trapezoid.",
+    "skill": "3.G.A.1",
+    "skillLabel": "Shapes and their attributes",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "shape-name",
+      "key": "exactly-one-pair-of-parallel-sides"
+    }
+  },
+  {
+    "id": "g3-gm-905",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "A shape is partitioned into 2 equal parts, and 1 part is shaded. What fraction of the shape is shaded?",
+    "choices": [
+      "1/2",
+      "2/2",
+      "2/1",
+      "1/3"
+    ],
+    "answerIndex": 0,
+    "explanation": "Equal parts tell the denominator, 2. Shaded parts tell the numerator, 1. The fraction is 1/2.",
+    "skill": "3.G.A.2",
+    "skillLabel": "Partition shapes into equal parts",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Fractions",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-fractions"
+      },
+      {
+        "label": "Common Core 3.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fraction",
+      "num": 1,
+      "den": 2
+    }
+  },
+  {
+    "id": "g3-gm-906",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "A shape is partitioned into 3 equal parts, and 1 part is shaded. What fraction of the shape is shaded?",
+    "choices": [
+      "2/3",
+      "1/4",
+      "1/3",
+      "3/1"
+    ],
+    "answerIndex": 2,
+    "explanation": "Equal parts tell the denominator, 3. Shaded parts tell the numerator, 1. The fraction is 1/3.",
+    "skill": "3.G.A.2",
+    "skillLabel": "Partition shapes into equal parts",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Fractions",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-fractions"
+      },
+      {
+        "label": "Common Core 3.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fraction",
+      "num": 1,
+      "den": 3
+    }
+  },
+  {
+    "id": "g3-gm-907",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "A shape is partitioned into 4 equal parts, and 1 part is shaded. What fraction of the shape is shaded?",
+    "choices": [
+      "1/4",
+      "1/5",
+      "2/4",
+      "4/1"
+    ],
+    "answerIndex": 0,
+    "explanation": "Equal parts tell the denominator, 4. Shaded parts tell the numerator, 1. The fraction is 1/4.",
+    "skill": "3.G.A.2",
+    "skillLabel": "Partition shapes into equal parts",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Fractions",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-fractions"
+      },
+      {
+        "label": "Common Core 3.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fraction",
+      "num": 1,
+      "den": 4
+    }
+  },
+  {
+    "id": "g3-gm-908",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "A shape is partitioned into 4 equal parts, and 3 parts are shaded. What fraction of the shape is shaded?",
+    "choices": [
+      "2/4",
+      "4/3",
+      "3/5",
+      "3/4"
+    ],
+    "answerIndex": 3,
+    "explanation": "Equal parts tell the denominator, 4. Shaded parts tell the numerator, 3. The fraction is 3/4.",
+    "skill": "3.G.A.2",
+    "skillLabel": "Partition shapes into equal parts",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Fractions",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-fractions"
+      },
+      {
+        "label": "Common Core 3.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fraction",
+      "num": 3,
+      "den": 4
+    }
+  },
+  {
+    "id": "g3-gm-909",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "A shape is partitioned into 6 equal parts, and 1 part is shaded. What fraction of the shape is shaded?",
+    "choices": [
+      "2/6",
+      "1/6",
+      "1/7",
+      "6/1"
+    ],
+    "answerIndex": 1,
+    "explanation": "Equal parts tell the denominator, 6. Shaded parts tell the numerator, 1. The fraction is 1/6.",
+    "skill": "3.G.A.2",
+    "skillLabel": "Partition shapes into equal parts",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Fractions",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-fractions"
+      },
+      {
+        "label": "Common Core 3.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fraction",
+      "num": 1,
+      "den": 6
+    }
+  },
+  {
+    "id": "g3-gm-910",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "A shape is partitioned into 6 equal parts, and 5 parts are shaded. What fraction of the shape is shaded?",
+    "choices": [
+      "5/6",
+      "4/6",
+      "5/7",
+      "6/5"
+    ],
+    "answerIndex": 0,
+    "explanation": "Equal parts tell the denominator, 6. Shaded parts tell the numerator, 5. The fraction is 5/6.",
+    "skill": "3.G.A.2",
+    "skillLabel": "Partition shapes into equal parts",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Fractions",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-fractions"
+      },
+      {
+        "label": "Common Core 3.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fraction",
+      "num": 5,
+      "den": 6
+    }
+  },
+  {
+    "id": "g3-gm-911",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "A shape is partitioned into 8 equal parts, and 1 part is shaded. What fraction of the shape is shaded?",
+    "choices": [
+      "2/8",
+      "8/1",
+      "1/8",
+      "1/9"
+    ],
+    "answerIndex": 2,
+    "explanation": "Equal parts tell the denominator, 8. Shaded parts tell the numerator, 1. The fraction is 1/8.",
+    "skill": "3.G.A.2",
+    "skillLabel": "Partition shapes into equal parts",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Fractions",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-fractions"
+      },
+      {
+        "label": "Common Core 3.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fraction",
+      "num": 1,
+      "den": 8
+    }
+  },
+  {
+    "id": "g3-gm-912",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "A shape is partitioned into 8 equal parts, and 3 parts are shaded. What fraction of the shape is shaded?",
+    "choices": [
+      "3/8",
+      "8/3",
+      "2/8",
+      "3/9"
+    ],
+    "answerIndex": 0,
+    "explanation": "Equal parts tell the denominator, 8. Shaded parts tell the numerator, 3. The fraction is 3/8.",
+    "skill": "3.G.A.2",
+    "skillLabel": "Partition shapes into equal parts",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Fractions",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-fractions"
+      },
+      {
+        "label": "Common Core 3.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fraction",
+      "num": 3,
+      "den": 8
+    }
+  },
+  {
+    "id": "g3-gm-913",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "A shape is partitioned into 8 equal parts, and 5 parts are shaded. What fraction of the shape is shaded?",
+    "choices": [
+      "5/8",
+      "8/5",
+      "4/8",
+      "5/9"
+    ],
+    "answerIndex": 0,
+    "explanation": "Equal parts tell the denominator, 8. Shaded parts tell the numerator, 5. The fraction is 5/8.",
+    "skill": "3.G.A.2",
+    "skillLabel": "Partition shapes into equal parts",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Fractions",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-fractions"
+      },
+      {
+        "label": "Common Core 3.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fraction",
+      "num": 5,
+      "den": 8
+    }
+  },
+  {
+    "id": "g3-gm-914",
+    "grade": 3,
+    "section": "iready",
+    "topic": "geometry",
+    "topicLabel": "Geometry",
+    "prompt": "A shape is partitioned into 3 equal parts, and 2 parts are shaded. What fraction of the shape is shaded?",
+    "choices": [
+      "1/3",
+      "2/4",
+      "3/2",
+      "2/3"
+    ],
+    "answerIndex": 3,
+    "explanation": "Equal parts tell the denominator, 3. Shaded parts tell the numerator, 2. The fraction is 2/3.",
+    "skill": "3.G.A.2",
+    "skillLabel": "Partition shapes into equal parts",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Fractions",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-fractions"
+      },
+      {
+        "label": "Common Core 3.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "fraction",
+      "num": 2,
+      "den": 3
+    }
+  }
+]

@@ -1,0 +1,932 @@
+[
+  {
+    "id": "g3-cr-1163",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "List many unusual uses for a paper clip. Then pick one idea and add details about who would use it and how. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1164",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "How could you change a backpack so it helps on a rainy walk to school? Give several different ideas. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1165",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Suppose clouds were solid enough to sit on. What could people do that they cannot do now? This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1166",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Look at a pencil. Ask as many different questions as you can about it. Try not to repeat the same kind of question. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1167",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "A circle, two dots, and one line are on your page. What could the picture become? List many ideas, then finish one with extra details. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1168",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Improve a lunch tray so it is easier for a third grader to carry. Think of changes to shape, material, and parts. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1169",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "What are many things a brick could be besides part of a wall? Sort your ideas into different kinds. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1170",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Suppose shoes could talk at the end of the day. What might different shoes say, and what problem could their words solve? This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1171",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Invent a new playground feature that uses only things already on a playground. Describe how children would use it. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1172",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "A cardboard box arrives with no label. What could be inside? Give many ideas, including some that are surprising but still possible. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1173",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "How would you redesign a clock so a younger child could learn to read it? Offer more than one design. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1174",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Suppose rain fell in colors. How might a town use that change? Think about art, safety, and science. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1175",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "List questions you could ask a bridge if it could answer. Then choose one question and imagine the answer with details. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1176",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Improve a bicycle helmet so it is more comfortable and still safe. Give several kinds of changes. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1177",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "What could a forgotten sock become? Push past the first ordinary idea and add a detailed plan for one use. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1178",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Suppose animals left advice instead of footprints. What advice might a squirrel, a crow, and a fish leave, and why? This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1179",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Design a class job that does not exist yet but would help your room. Explain the tools and the steps. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1180",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "A map shows only smells, not streets. What places could you find, and how would you draw the smells? This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1181",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "How many ways could you measure the length of the classroom if you had no ruler? Name the methods and one detail for each. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1182",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Improve a storybook so a reader who is learning English gets more help from the pages. Give different kinds of help. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1183",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Suppose gravity took a short nap every day at noon. What would people need to plan for? List many effects. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1184",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "A triangle, a square, and a circle want a clubhouse. What could they build together, and what job would each shape have? This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1185",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Ask as many questions as you can about a closed door at the end of a hallway. Mix curious, careful, and funny questions. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1186",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Turn a grocery bag into something useful for a picnic. Give several inventions and decorate one of them with details. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1187",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "What might a traffic light wish people understood? Write its message, then invent a new signal that could help. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1188",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Suppose homework could be done by building, moving, or singing, not only by writing. Describe activities for a math idea. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1189",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Improve the way a library returns books so the job is faster and kinder to the books. Offer more than one plan. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1190",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "A puddle is a window to somewhere else for five minutes. Where does it go, and what do you bring back? This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1191",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "List unusual uses for a wooden spoon. Include uses at school, at home, and in a made-up place. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  },
+  {
+    "id": "g3-cr-1192",
+    "grade": 3,
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Design a badge that celebrates a kind choice, not a score. What would someone do to earn it, and what would it look like? This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Fluency means many ideas. Flexibility means different kinds of ideas. Originality means a surprising idea. Elaboration means details. Use the checklist to notice your own thinking.",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ]
+  }
+]

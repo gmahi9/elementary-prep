@@ -1,0 +1,818 @@
+[
+  {
+    "id": "g3-mn-827",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Maya has 3 quarters, 2 dimes, 1 nickel, 4 pennies. How much money is that?",
+    "choices": [
+      "$0.94",
+      "$1.04",
+      "$1.29",
+      "$1.14"
+    ],
+    "answerIndex": 1,
+    "explanation": "A quarter is 25 cents, a dime is 10, a nickel is 5, and a penny is 1. 3 × 25 = 75. 2 × 10 = 20. 1 × 5 = 5. 4 pennies make 4. The total is 104 cents, or $1.04.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "25*3+10*2+5*1+4"
+    }
+  },
+  {
+    "id": "g3-mn-828",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Jordan has 2 quarters, 3 dimes, 2 nickels. How much money is that?",
+    "choices": [
+      "$0.80",
+      "$1.00",
+      "$1.15",
+      "$0.90"
+    ],
+    "answerIndex": 3,
+    "explanation": "A quarter is 25 cents, a dime is 10, a nickel is 5, and a penny is 1. 2 × 25 = 50. 3 × 10 = 30. 2 × 5 = 10. The total is 90 cents, or $0.90.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "25*2+10*3+5*2"
+    }
+  },
+  {
+    "id": "g3-mn-829",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Priya has 1 quarter, 4 dimes, 1 nickel, 3 pennies. How much money is that?",
+    "choices": [
+      "$0.83",
+      "$0.98",
+      "$0.73",
+      "$0.63"
+    ],
+    "answerIndex": 2,
+    "explanation": "A quarter is 25 cents, a dime is 10, a nickel is 5, and a penny is 1. 1 × 25 = 25. 4 × 10 = 40. 1 × 5 = 5. 3 pennies make 3. The total is 73 cents, or $0.73.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "25*1+10*4+5*1+3"
+    }
+  },
+  {
+    "id": "g3-mn-830",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Luis has 4 quarters, 1 dime, 2 pennies. How much money is that?",
+    "choices": [
+      "$1.12",
+      "$1.02",
+      "$1.37",
+      "$1.22"
+    ],
+    "answerIndex": 0,
+    "explanation": "A quarter is 25 cents, a dime is 10, a nickel is 5, and a penny is 1. 4 × 25 = 100. 1 × 10 = 10. 2 pennies make 2. The total is 112 cents, or $1.12.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "25*4+10*1+2"
+    }
+  },
+  {
+    "id": "g3-mn-831",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Aisha has 2 quarters, 3 nickels, 5 pennies. How much money is that?",
+    "choices": [
+      "$0.95",
+      "$0.70",
+      "$0.60",
+      "$0.80"
+    ],
+    "answerIndex": 1,
+    "explanation": "A quarter is 25 cents, a dime is 10, a nickel is 5, and a penny is 1. 2 × 25 = 50. 3 × 5 = 15. 5 pennies make 5. The total is 70 cents, or $0.70.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "25*2+5*3+5"
+    }
+  },
+  {
+    "id": "g3-mn-832",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Noah has 1 quarter, 2 dimes, 4 nickels, 1 penny. How much money is that?",
+    "choices": [
+      "$0.91",
+      "$0.76",
+      "$0.56",
+      "$0.66"
+    ],
+    "answerIndex": 3,
+    "explanation": "A quarter is 25 cents, a dime is 10, a nickel is 5, and a penny is 1. 1 × 25 = 25. 2 × 10 = 20. 4 × 5 = 20. 1 pennies make 1. The total is 66 cents, or $0.66.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "25*1+10*2+5*4+1"
+    }
+  },
+  {
+    "id": "g3-mn-833",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Mei has 5 dimes, 1 nickel. How much money is that?",
+    "choices": [
+      "$0.65",
+      "$0.45",
+      "$0.55",
+      "$0.80"
+    ],
+    "answerIndex": 2,
+    "explanation": "A quarter is 25 cents, a dime is 10, a nickel is 5, and a penny is 1. 5 × 10 = 50. 1 × 5 = 5. The total is 55 cents, or $0.55.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "10*5+5*1"
+    }
+  },
+  {
+    "id": "g3-mn-834",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Sam has 3 quarters, 1 dime, 2 nickels, 4 pennies. How much money is that?",
+    "choices": [
+      "$0.99",
+      "$1.09",
+      "$1.24",
+      "$0.89"
+    ],
+    "answerIndex": 0,
+    "explanation": "A quarter is 25 cents, a dime is 10, a nickel is 5, and a penny is 1. 3 × 25 = 75. 1 × 10 = 10. 2 × 5 = 10. 4 pennies make 4. The total is 99 cents, or $0.99.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "25*3+10*1+5*2+4"
+    }
+  },
+  {
+    "id": "g3-mn-835",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Elena has 2 quarters, 2 dimes, 2 nickels, 2 pennies. How much money is that?",
+    "choices": [
+      "$0.92",
+      "$0.82",
+      "$1.07",
+      "$0.72"
+    ],
+    "answerIndex": 1,
+    "explanation": "A quarter is 25 cents, a dime is 10, a nickel is 5, and a penny is 1. 2 × 25 = 50. 2 × 10 = 20. 2 × 5 = 10. 2 pennies make 2. The total is 82 cents, or $0.82.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "25*2+10*2+5*2+2"
+    }
+  },
+  {
+    "id": "g3-mn-836",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Omar has 4 quarters, 2 nickels, 5 pennies. How much money is that?",
+    "choices": [
+      "$1.15",
+      "$1.40",
+      "$1.25",
+      "$1.05"
+    ],
+    "answerIndex": 0,
+    "explanation": "A quarter is 25 cents, a dime is 10, a nickel is 5, and a penny is 1. 4 × 25 = 100. 2 × 5 = 10. 5 pennies make 5. The total is 115 cents, or $1.15.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "25*4+5*2+5"
+    }
+  },
+  {
+    "id": "g3-mn-837",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Theo has 1 quarter, 1 dime, 1 nickel, 10 pennies. How much money is that?",
+    "choices": [
+      "$0.40",
+      "$0.60",
+      "$0.75",
+      "$0.50"
+    ],
+    "answerIndex": 3,
+    "explanation": "A quarter is 25 cents, a dime is 10, a nickel is 5, and a penny is 1. 1 × 25 = 25. 1 × 10 = 10. 1 × 5 = 5. 10 pennies make 10. The total is 50 cents, or $0.50.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "25*1+10*1+5*1+10"
+    }
+  },
+  {
+    "id": "g3-mn-838",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Hana has 3 dimes, 4 nickels, 4 pennies. How much money is that?",
+    "choices": [
+      "$0.64",
+      "$0.54",
+      "$0.79",
+      "$0.44"
+    ],
+    "answerIndex": 1,
+    "explanation": "A quarter is 25 cents, a dime is 10, a nickel is 5, and a penny is 1. 3 × 10 = 30. 4 × 5 = 20. 4 pennies make 4. The total is 54 cents, or $0.54.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "10*3+5*4+4"
+    }
+  },
+  {
+    "id": "g3-mn-839",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Jordan buys a eraser for $0.35 and pays with $1.00. How much change should Jordan get?",
+    "choices": [
+      "$0.75",
+      "$0.65",
+      "$0.55",
+      "$0.90"
+    ],
+    "answerIndex": 1,
+    "explanation": "One dollar is 100 cents. Subtract the price: 100 - 35 = 65. The change is $0.65.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "100-35"
+    }
+  },
+  {
+    "id": "g3-mn-840",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Priya buys a pencil pack for $0.42 and pays with $1.00. How much change should Priya get?",
+    "choices": [
+      "$0.48",
+      "$0.83",
+      "$0.58",
+      "$0.68"
+    ],
+    "answerIndex": 2,
+    "explanation": "One dollar is 100 cents. Subtract the price: 100 - 42 = 58. The change is $0.58.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "100-42"
+    }
+  },
+  {
+    "id": "g3-mn-841",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Luis buys a bookmark for $0.58 and pays with $1.00. How much change should Luis get?",
+    "choices": [
+      "$0.42",
+      "$0.67",
+      "$0.52",
+      "$0.32"
+    ],
+    "answerIndex": 0,
+    "explanation": "One dollar is 100 cents. Subtract the price: 100 - 58 = 42. The change is $0.42.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "100-58"
+    }
+  },
+  {
+    "id": "g3-mn-842",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Aisha buys a sticker sheet for $0.65 and pays with $1.00. How much change should Aisha get?",
+    "choices": [
+      "$0.25",
+      "$0.60",
+      "$0.45",
+      "$0.35"
+    ],
+    "answerIndex": 3,
+    "explanation": "One dollar is 100 cents. Subtract the price: 100 - 65 = 35. The change is $0.35.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "100-65"
+    }
+  },
+  {
+    "id": "g3-mn-843",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Noah buys a apple for $0.73 and pays with $1.00. How much change should Noah get?",
+    "choices": [
+      "$0.52",
+      "$0.37",
+      "$0.27",
+      "$0.17"
+    ],
+    "answerIndex": 2,
+    "explanation": "One dollar is 100 cents. Subtract the price: 100 - 73 = 27. The change is $0.27.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "100-73"
+    }
+  },
+  {
+    "id": "g3-mn-844",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Mei buys a juice for $0.80 and pays with $1.00. How much change should Mei get?",
+    "choices": [
+      "$0.10",
+      "$0.45",
+      "$0.30",
+      "$0.20"
+    ],
+    "answerIndex": 3,
+    "explanation": "One dollar is 100 cents. Subtract the price: 100 - 80 = 20. The change is $0.20.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "100-80"
+    }
+  },
+  {
+    "id": "g3-mn-845",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Sam buys a card for $0.25 and pays with $1.00. How much change should Sam get?",
+    "choices": [
+      "$0.75",
+      "$0.85",
+      "$1.00",
+      "$0.65"
+    ],
+    "answerIndex": 0,
+    "explanation": "One dollar is 100 cents. Subtract the price: 100 - 25 = 75. The change is $0.75.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "100-25"
+    }
+  },
+  {
+    "id": "g3-mn-846",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Elena buys a seed packet for $0.49 and pays with $1.00. How much change should Elena get?",
+    "choices": [
+      "$0.51",
+      "$0.41",
+      "$0.61",
+      "$0.76"
+    ],
+    "answerIndex": 0,
+    "explanation": "One dollar is 100 cents. Subtract the price: 100 - 49 = 51. The change is $0.51.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "100-49"
+    }
+  },
+  {
+    "id": "g3-mn-847",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Omar buys a ruler for $0.15 and pays with $1.00. How much change should Omar get?",
+    "choices": [
+      "$0.95",
+      "$0.75",
+      "$1.10",
+      "$0.85"
+    ],
+    "answerIndex": 3,
+    "explanation": "One dollar is 100 cents. Subtract the price: 100 - 15 = 85. The change is $0.85.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "100-15"
+    }
+  },
+  {
+    "id": "g3-mn-848",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Theo buys a notepad for $0.90 and pays with $1.00. How much change should Theo get?",
+    "choices": [
+      "$0.20",
+      "$0.10",
+      "$0.00",
+      "$0.35"
+    ],
+    "answerIndex": 1,
+    "explanation": "One dollar is 100 cents. Subtract the price: 100 - 90 = 10. The change is $0.10.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "100-90"
+    }
+  },
+  {
+    "id": "g3-mn-849",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Hana buys a glue stick for $0.64 and pays with $1.00. How much change should Hana get?",
+    "choices": [
+      "$0.46",
+      "$0.26",
+      "$0.61",
+      "$0.36"
+    ],
+    "answerIndex": 3,
+    "explanation": "One dollar is 100 cents. Subtract the price: 100 - 64 = 36. The change is $0.36.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "100-64"
+    }
+  },
+  {
+    "id": "g3-mn-850",
+    "grade": 3,
+    "section": "iready",
+    "topic": "money",
+    "topicLabel": "Money",
+    "prompt": "Leo buys a snack for $0.37 and pays with $1.00. How much change should Leo get?",
+    "choices": [
+      "$0.63",
+      "$0.73",
+      "$0.53",
+      "$0.88"
+    ],
+    "answerIndex": 0,
+    "explanation": "One dollar is 100 cents. Subtract the price: 100 - 37 = 63. The change is $0.63.",
+    "skill": "2.MD.C.8",
+    "skillLabel": "Money",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "money",
+      "expr": "100-37"
+    }
+  }
+]

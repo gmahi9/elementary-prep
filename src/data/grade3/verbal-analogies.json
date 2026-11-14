@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "g3-va-001",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Puppy is to dog as kitten is to ____.",
+    "choices": [
+      "puppy",
+      "bone",
+      "cat",
+      "bark"
+    ],
+    "answerIndex": 2,
+    "explanation": "A puppy is a young dog. In the same way, a kitten is a young cat.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-002",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Finger is to hand as toe is to ____.",
+    "choices": [
+      "foot",
+      "arm",
+      "glove",
+      "shoe"
+    ],
+    "answerIndex": 0,
+    "explanation": "A finger is part of a hand. A toe is part of a foot.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-003",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Bird is to nest as bee is to ____.",
+    "choices": [
+      "honey",
+      "flower",
+      "wing",
+      "hive"
+    ],
+    "answerIndex": 3,
+    "explanation": "A bird lives in a nest. A bee lives in a hive.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-004",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Glove is to hand as sock is to ____.",
+    "choices": [
+      "hat",
+      "shoe",
+      "foot",
+      "arm"
+    ],
+    "answerIndex": 2,
+    "explanation": "A glove is worn on a hand. A sock is worn on a foot.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-005",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Pencil is to write as crayon is to ____.",
+    "choices": [
+      "paper",
+      "erase",
+      "draw",
+      "color"
+    ],
+    "answerIndex": 2,
+    "explanation": "You use a pencil to write. You use a crayon to draw.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-006",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Eye is to see as ear is to ____.",
+    "choices": [
+      "sound",
+      "nose",
+      "hear",
+      "hat"
+    ],
+    "answerIndex": 2,
+    "explanation": "An eye is used to see. An ear is used to hear.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-007",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Shoe is to foot as hat is to ____.",
+    "choices": [
+      "hair",
+      "hand",
+      "coat",
+      "head"
+    ],
+    "answerIndex": 3,
+    "explanation": "A shoe goes on a foot. A hat goes on a head.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-008",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Teacher is to school as doctor is to ____.",
+    "choices": [
+      "hospital",
+      "patient",
+      "recess",
+      "book"
+    ],
+    "answerIndex": 0,
+    "explanation": "A teacher works at a school. A doctor works at a hospital.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-009",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Fish is to water as bird is to ____.",
+    "choices": [
+      "worm",
+      "nest",
+      "fin",
+      "sky"
+    ],
+    "answerIndex": 3,
+    "explanation": "A fish moves through water. A bird moves through the sky.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-010",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Up is to down as in is to ____.",
+    "choices": [
+      "out",
+      "inside",
+      "high",
+      "over"
+    ],
+    "answerIndex": 0,
+    "explanation": "Up and down are opposites. In and out are opposites.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-011",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Happy is to sad as tall is to ____.",
+    "choices": [
+      "big",
+      "smile",
+      "high",
+      "short"
+    ],
+    "answerIndex": 3,
+    "explanation": "Happy and sad are opposites. Tall and short are opposites.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-012",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Book is to read as song is to ____.",
+    "choices": [
+      "page",
+      "sing",
+      "radio",
+      "drum"
+    ],
+    "answerIndex": 1,
+    "explanation": "You read a book. You sing a song. The best choice is \"sing.\"",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-013",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Painter is to brush as writer is to ____.",
+    "choices": [
+      "canvas",
+      "pen",
+      "story",
+      "paint"
+    ],
+    "answerIndex": 1,
+    "explanation": "A painter’s tool is a brush. A writer’s tool is a pen.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-014",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Page is to book as slice is to ____.",
+    "choices": [
+      "plate",
+      "crumb",
+      "butter",
+      "bread"
+    ],
+    "answerIndex": 3,
+    "explanation": "A page is a piece of a book. A slice is a piece of bread.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-015",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Bark is to dog as meow is to ____.",
+    "choices": [
+      "puppy",
+      "tree",
+      "bone",
+      "cat"
+    ],
+    "answerIndex": 3,
+    "explanation": "A dog’s sound is a bark. A cat’s sound is a meow.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-016",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Pilot is to airplane as captain is to ____.",
+    "choices": [
+      "ship",
+      "uniform",
+      "ocean",
+      "sailor"
+    ],
+    "answerIndex": 0,
+    "explanation": "A pilot guides an airplane. A captain guides a ship.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-017",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Scissors are to cut as a needle is to ____.",
+    "choices": [
+      "thread",
+      "sharp",
+      "sew",
+      "cloth"
+    ],
+    "answerIndex": 2,
+    "explanation": "Scissors are used to cut. A needle is used to sew.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-018",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Moon is to night as sun is to ____.",
+    "choices": [
+      "sky",
+      "star",
+      "hot",
+      "day"
+    ],
+    "answerIndex": 3,
+    "explanation": "The moon belongs with night. The sun belongs with day.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-019",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Scale is to weight as ruler is to ____.",
+    "choices": [
+      "inch",
+      "pencil",
+      "length",
+      "heavy"
+    ],
+    "answerIndex": 2,
+    "explanation": "A scale measures weight. A ruler measures length.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-020",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Thermometer is to temperature as clock is to ____.",
+    "choices": [
+      "hour",
+      "hot",
+      "alarm",
+      "time"
+    ],
+    "answerIndex": 3,
+    "explanation": "A thermometer measures temperature. A clock measures time.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-021",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Author is to book as poet is to ____.",
+    "choices": [
+      "library",
+      "poem",
+      "page",
+      "rhyme"
+    ],
+    "answerIndex": 1,
+    "explanation": "An author writes a book. A poet writes a poem.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-022",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Petal is to flower as feather is to ____.",
+    "choices": [
+      "fly",
+      "wing",
+      "nest",
+      "bird"
+    ],
+    "answerIndex": 3,
+    "explanation": "A petal is part of a flower. A feather is part of a bird.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-023",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Sugar is to sweet as lemon is to ____.",
+    "choices": [
+      "sour",
+      "juice",
+      "fruit",
+      "yellow"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sugar tastes sweet. A lemon tastes sour.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-024",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Ice is to cold as fire is to ____.",
+    "choices": [
+      "red",
+      "hot",
+      "smoke",
+      "wood"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ice feels cold. Fire feels hot. The best choice is \"hot.\"",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-025",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Laugh is to happy as cry is to ____.",
+    "choices": [
+      "tear",
+      "sad",
+      "smile",
+      "loud"
+    ],
+    "answerIndex": 1,
+    "explanation": "People laugh when they feel happy. People cry when they feel sad.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-026",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Plus is to add as minus is to ____.",
+    "choices": [
+      "equal",
+      "total",
+      "sign",
+      "subtract"
+    ],
+    "answerIndex": 3,
+    "explanation": "A plus sign tells you to add. A minus sign tells you to subtract.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-027",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Rectangle is to four as triangle is to ____.",
+    "choices": [
+      "side",
+      "corner",
+      "square",
+      "three"
+    ],
+    "answerIndex": 3,
+    "explanation": "A rectangle has four sides. A triangle has three sides.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-028",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Breakfast is to morning as dinner is to ____.",
+    "choices": [
+      "evening",
+      "food",
+      "spoon",
+      "lunch"
+    ],
+    "answerIndex": 0,
+    "explanation": "Breakfast is a meal in the morning. Dinner is a meal in the evening.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-029",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Library is to books as museum is to ____.",
+    "choices": [
+      "quiet",
+      "shelf",
+      "ticket",
+      "art"
+    ],
+    "answerIndex": 3,
+    "explanation": "A library is a place for books. A museum is a place for art and objects.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-030",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Oar is to boat as pedal is to ____.",
+    "choices": [
+      "helmet",
+      "road",
+      "wheel",
+      "bicycle"
+    ],
+    "answerIndex": 3,
+    "explanation": "An oar moves a boat. A pedal moves a bicycle.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-031",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Whisper is to shout as tiptoe is to ____.",
+    "choices": [
+      "shoe",
+      "walk",
+      "quiet",
+      "stomp"
+    ],
+    "answerIndex": 3,
+    "explanation": "A whisper is a quiet sound and a shout is loud. Tiptoe is a quiet step and a stomp is loud.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-032",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Full is to empty as open is to ____.",
+    "choices": [
+      "ajar",
+      "wide",
+      "closed",
+      "door"
+    ],
+    "answerIndex": 2,
+    "explanation": "Full and empty are opposites. Open and closed are opposites.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-033",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Chapter is to book as act is to ____.",
+    "choices": [
+      "scene",
+      "play",
+      "actor",
+      "stage"
+    ],
+    "answerIndex": 1,
+    "explanation": "A chapter is a part of a book. An act is a part of a play.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-034",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Nose is to smell as tongue is to ____.",
+    "choices": [
+      "taste",
+      "mouth",
+      "talk",
+      "sweet"
+    ],
+    "answerIndex": 0,
+    "explanation": "A nose is used to smell. A tongue is used to taste.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-035",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Knee is to leg as elbow is to ____.",
+    "choices": [
+      "hand",
+      "foot",
+      "arm",
+      "bend"
+    ],
+    "answerIndex": 2,
+    "explanation": "A knee bends in the middle of a leg. An elbow bends in the middle of an arm.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-036",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Hammer is to nail as screwdriver is to ____.",
+    "choices": [
+      "screw",
+      "wood",
+      "hit",
+      "tool"
+    ],
+    "answerIndex": 0,
+    "explanation": "A hammer is the tool for a nail. A screwdriver is the tool for a screw.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-037",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Cow is to calf as horse is to ____.",
+    "choices": [
+      "barn",
+      "ride",
+      "foal",
+      "pony"
+    ],
+    "answerIndex": 2,
+    "explanation": "A baby cow is a calf. A baby horse is a foal.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-038",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "North is to south as east is to ____.",
+    "choices": [
+      "west",
+      "up",
+      "left",
+      "map"
+    ],
+    "answerIndex": 0,
+    "explanation": "North and south are opposite directions. East and west are opposite directions.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-039",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Add is to sum as subtract is to ____.",
+    "choices": [
+      "difference",
+      "total",
+      "left",
+      "minus"
+    ],
+    "answerIndex": 0,
+    "explanation": "The answer to an addition problem is a sum. The answer to a subtraction problem is a difference.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-040",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Multiply is to product as divide is to ____.",
+    "choices": [
+      "half",
+      "share",
+      "factor",
+      "quotient"
+    ],
+    "answerIndex": 3,
+    "explanation": "The answer when you multiply is a product. The answer when you divide is a quotient.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-041",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Cub is to bear as calf is to ____.",
+    "choices": [
+      "cow",
+      "baby",
+      "milk",
+      "farm"
+    ],
+    "answerIndex": 0,
+    "explanation": "A cub is a young bear. A calf is a young cow.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-042",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Rain is to umbrella as cold is to ____.",
+    "choices": [
+      "snow",
+      "coat",
+      "ice",
+      "weather"
+    ],
+    "answerIndex": 1,
+    "explanation": "An umbrella helps in the rain. A coat helps in the cold.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-043",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Hungry is to eat as thirsty is to ____.",
+    "choices": [
+      "full",
+      "water",
+      "cup",
+      "drink"
+    ],
+    "answerIndex": 3,
+    "explanation": "When you are hungry, you eat. When you are thirsty, you drink.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-044",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Begin is to start as end is to ____.",
+    "choices": [
+      "stopwatch",
+      "last",
+      "middle",
+      "finish"
+    ],
+    "answerIndex": 3,
+    "explanation": "Begin and start mean the same idea. End and finish mean the same idea.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-045",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Seed is to plant as egg is to ____.",
+    "choices": [
+      "bird",
+      "shell",
+      "breakfast",
+      "nest"
+    ],
+    "answerIndex": 0,
+    "explanation": "A seed can grow into a plant. An egg can hatch into a bird.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-046",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Flock is to birds as school is to ____.",
+    "choices": [
+      "teacher",
+      "fish",
+      "swim",
+      "ocean"
+    ],
+    "answerIndex": 1,
+    "explanation": "A group of birds is a flock. A group of fish is a school.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-047",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Oven is to bake as freezer is to ____.",
+    "choices": [
+      "ice",
+      "cold",
+      "freeze",
+      "kitchen"
+    ],
+    "answerIndex": 2,
+    "explanation": "An oven is used to bake. A freezer is used to freeze.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-048",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Key is to lock as password is to ____.",
+    "choices": [
+      "door",
+      "secret",
+      "account",
+      "keyboard"
+    ],
+    "answerIndex": 2,
+    "explanation": "A key opens a lock. A password opens an account.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-049",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Minute is to hour as day is to ____.",
+    "choices": [
+      "month",
+      "clock",
+      "week",
+      "sun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Minutes make up an hour. Days make up a week. Seven days is the matching larger unit used here.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-050",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Wool is to sheep as milk is to ____.",
+    "choices": [
+      "cheese",
+      "farm",
+      "cow",
+      "white"
+    ],
+    "answerIndex": 2,
+    "explanation": "Wool comes from a sheep. Milk, in this pair, comes from a cow.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-051",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Map is to place as calendar is to ____.",
+    "choices": [
+      "year",
+      "date",
+      "paper",
+      "month"
+    ],
+    "answerIndex": 1,
+    "explanation": "A map helps you find a place. A calendar helps you find a date.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-052",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Student is to learn as teacher is to ____.",
+    "choices": [
+      "book",
+      "school",
+      "teach",
+      "desk"
+    ],
+    "answerIndex": 2,
+    "explanation": "A student learns. A teacher teaches. The best choice is \"teach.\"",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-053",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Leaf is to tree as petal is to ____.",
+    "choices": [
+      "stem",
+      "bee",
+      "flower",
+      "garden"
+    ],
+    "answerIndex": 2,
+    "explanation": "A leaf is part of a tree. A petal is part of a flower.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-054",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Quiet is to loud as slow is to ____.",
+    "choices": [
+      "walk",
+      "fast",
+      "late",
+      "soft"
+    ],
+    "answerIndex": 1,
+    "explanation": "Quiet and loud are opposites. Slow and fast are opposites.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-055",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Pitcher is to juice as vase is to ____.",
+    "choices": [
+      "glass",
+      "flowers",
+      "table",
+      "water"
+    ],
+    "answerIndex": 1,
+    "explanation": "A pitcher holds juice. A vase holds flowers.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-056",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Sheep is to lamb as goat is to ____.",
+    "choices": [
+      "kid",
+      "baby",
+      "farm",
+      "horn"
+    ],
+    "answerIndex": 0,
+    "explanation": "A young sheep is a lamb. A young goat is a kid.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-057",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Brother is to sister as uncle is to ____.",
+    "choices": [
+      "cousin",
+      "family",
+      "parent",
+      "aunt"
+    ],
+    "answerIndex": 3,
+    "explanation": "Brother and sister are a matching pair. Uncle and aunt are a matching pair.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-058",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Wheel is to car as wing is to ____.",
+    "choices": [
+      "airplane",
+      "bird",
+      "fly",
+      "feather"
+    ],
+    "answerIndex": 0,
+    "explanation": "A wheel helps a car move. A wing helps an airplane move. Bird is related, but the first pair is a vehicle and its part.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-059",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Den is to fox as hive is to ____.",
+    "choices": [
+      "honey",
+      "bear",
+      "bee",
+      "nest"
+    ],
+    "answerIndex": 2,
+    "explanation": "A fox lives in a den. A bee lives in a hive.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  },
+  {
+    "id": "g3-va-060",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Inch is to foot as centimeter is to ____.",
+    "choices": [
+      "length",
+      "ruler",
+      "short",
+      "meter"
+    ],
+    "answerIndex": 3,
+    "explanation": "An inch is a smaller length unit than a foot. A centimeter is a smaller length unit than a meter.",
+    "skill": "L.3.5",
+    "skillLabel": "Word relationships",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "authored"
+    }
+  }
+]

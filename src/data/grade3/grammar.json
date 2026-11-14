@@ -1,0 +1,4870 @@
+[
+  {
+    "id": "g3-gr-1023",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"go\"?",
+    "choices": [
+      "going",
+      "went",
+      "goed",
+      "go"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"go\" does not become past tense by only adding -ed. The past tense is \"went.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "go"
+    }
+  },
+  {
+    "id": "g3-gr-1024",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"see\"?",
+    "choices": [
+      "see",
+      "seeed",
+      "seeing",
+      "saw"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"see\" does not become past tense by only adding -ed. The past tense is \"saw.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "see"
+    }
+  },
+  {
+    "id": "g3-gr-1025",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"eat\"?",
+    "choices": [
+      "ate",
+      "eating",
+      "eat",
+      "eated"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"eat\" does not become past tense by only adding -ed. The past tense is \"ate.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "eat"
+    }
+  },
+  {
+    "id": "g3-gr-1026",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"run\"?",
+    "choices": [
+      "run",
+      "runed",
+      "runing",
+      "ran"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"run\" does not become past tense by only adding -ed. The past tense is \"ran.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "run"
+    }
+  },
+  {
+    "id": "g3-gr-1027",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"come\"?",
+    "choices": [
+      "comeed",
+      "came",
+      "comeing",
+      "come"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"come\" does not become past tense by only adding -ed. The past tense is \"came.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "come"
+    }
+  },
+  {
+    "id": "g3-gr-1028",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"give\"?",
+    "choices": [
+      "giveing",
+      "gave",
+      "giveed",
+      "give"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"give\" does not become past tense by only adding -ed. The past tense is \"gave.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "give"
+    }
+  },
+  {
+    "id": "g3-gr-1029",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"take\"?",
+    "choices": [
+      "take",
+      "took",
+      "takeed",
+      "takeing"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"take\" does not become past tense by only adding -ed. The past tense is \"took.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "take"
+    }
+  },
+  {
+    "id": "g3-gr-1030",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"sing\"?",
+    "choices": [
+      "singed",
+      "sing",
+      "sang",
+      "singing"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"sing\" does not become past tense by only adding -ed. The past tense is \"sang.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "sing"
+    }
+  },
+  {
+    "id": "g3-gr-1031",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"sit\"?",
+    "choices": [
+      "sit",
+      "siting",
+      "sited",
+      "sat"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"sit\" does not become past tense by only adding -ed. The past tense is \"sat.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "sit"
+    }
+  },
+  {
+    "id": "g3-gr-1032",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"write\"?",
+    "choices": [
+      "writeed",
+      "wrote",
+      "writeing",
+      "write"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"write\" does not become past tense by only adding -ed. The past tense is \"wrote.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "write"
+    }
+  },
+  {
+    "id": "g3-gr-1033",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"ride\"?",
+    "choices": [
+      "rode",
+      "rideed",
+      "ride",
+      "rideing"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"ride\" does not become past tense by only adding -ed. The past tense is \"rode.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "ride"
+    }
+  },
+  {
+    "id": "g3-gr-1034",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"fly\"?",
+    "choices": [
+      "flew",
+      "flyed",
+      "flying",
+      "fly"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"fly\" does not become past tense by only adding -ed. The past tense is \"flew.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "fly"
+    }
+  },
+  {
+    "id": "g3-gr-1035",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"grow\"?",
+    "choices": [
+      "growed",
+      "grew",
+      "grow",
+      "growing"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"grow\" does not become past tense by only adding -ed. The past tense is \"grew.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "grow"
+    }
+  },
+  {
+    "id": "g3-gr-1036",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"know\"?",
+    "choices": [
+      "knew",
+      "knowed",
+      "knowing",
+      "know"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"know\" does not become past tense by only adding -ed. The past tense is \"knew.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "know"
+    }
+  },
+  {
+    "id": "g3-gr-1037",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"draw\"?",
+    "choices": [
+      "draw",
+      "drawed",
+      "drawing",
+      "drew"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"draw\" does not become past tense by only adding -ed. The past tense is \"drew.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "draw"
+    }
+  },
+  {
+    "id": "g3-gr-1038",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"drink\"?",
+    "choices": [
+      "drinking",
+      "drink",
+      "drinked",
+      "drank"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"drink\" does not become past tense by only adding -ed. The past tense is \"drank.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "drink"
+    }
+  },
+  {
+    "id": "g3-gr-1039",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"swim\"?",
+    "choices": [
+      "swiming",
+      "swimed",
+      "swam",
+      "swim"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"swim\" does not become past tense by only adding -ed. The past tense is \"swam.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "swim"
+    }
+  },
+  {
+    "id": "g3-gr-1040",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"throw\"?",
+    "choices": [
+      "threw",
+      "throwed",
+      "throwing",
+      "throw"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"throw\" does not become past tense by only adding -ed. The past tense is \"threw.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "throw"
+    }
+  },
+  {
+    "id": "g3-gr-1041",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"catch\"?",
+    "choices": [
+      "catching",
+      "catch",
+      "catched",
+      "caught"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"catch\" does not become past tense by only adding -ed. The past tense is \"caught.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "catch"
+    }
+  },
+  {
+    "id": "g3-gr-1042",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"teach\"?",
+    "choices": [
+      "taught",
+      "teach",
+      "teached",
+      "teaching"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"teach\" does not become past tense by only adding -ed. The past tense is \"taught.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "teach"
+    }
+  },
+  {
+    "id": "g3-gr-1043",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"think\"?",
+    "choices": [
+      "thinked",
+      "think",
+      "thought",
+      "thinking"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"think\" does not become past tense by only adding -ed. The past tense is \"thought.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "think"
+    }
+  },
+  {
+    "id": "g3-gr-1044",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"bring\"?",
+    "choices": [
+      "brought",
+      "bringed",
+      "bring",
+      "bringing"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"bring\" does not become past tense by only adding -ed. The past tense is \"brought.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "bring"
+    }
+  },
+  {
+    "id": "g3-gr-1045",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"buy\"?",
+    "choices": [
+      "buy",
+      "buyed",
+      "bought",
+      "buying"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"buy\" does not become past tense by only adding -ed. The past tense is \"bought.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "buy"
+    }
+  },
+  {
+    "id": "g3-gr-1046",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"find\"?",
+    "choices": [
+      "found",
+      "find",
+      "finded",
+      "finding"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"find\" does not become past tense by only adding -ed. The past tense is \"found.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "find"
+    }
+  },
+  {
+    "id": "g3-gr-1047",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"make\"?",
+    "choices": [
+      "makeed",
+      "make",
+      "makeing",
+      "made"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"make\" does not become past tense by only adding -ed. The past tense is \"made.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "make"
+    }
+  },
+  {
+    "id": "g3-gr-1048",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"say\"?",
+    "choices": [
+      "saying",
+      "sayed",
+      "said",
+      "say"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"say\" does not become past tense by only adding -ed. The past tense is \"said.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "say"
+    }
+  },
+  {
+    "id": "g3-gr-1049",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"tell\"?",
+    "choices": [
+      "telling",
+      "told",
+      "telled",
+      "tell"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"tell\" does not become past tense by only adding -ed. The past tense is \"told.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "tell"
+    }
+  },
+  {
+    "id": "g3-gr-1050",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"feel\"?",
+    "choices": [
+      "felt",
+      "feel",
+      "feeling",
+      "feeled"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"feel\" does not become past tense by only adding -ed. The past tense is \"felt.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "feel"
+    }
+  },
+  {
+    "id": "g3-gr-1051",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"sleep\"?",
+    "choices": [
+      "slept",
+      "sleep",
+      "sleeping",
+      "sleeped"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"sleep\" does not become past tense by only adding -ed. The past tense is \"slept.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "sleep"
+    }
+  },
+  {
+    "id": "g3-gr-1052",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"keep\"?",
+    "choices": [
+      "keeping",
+      "keeped",
+      "kept",
+      "keep"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"keep\" does not become past tense by only adding -ed. The past tense is \"kept.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "keep"
+    }
+  },
+  {
+    "id": "g3-gr-1053",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"leave\"?",
+    "choices": [
+      "leaveing",
+      "left",
+      "leaveed",
+      "leave"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"leave\" does not become past tense by only adding -ed. The past tense is \"left.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "leave"
+    }
+  },
+  {
+    "id": "g3-gr-1054",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"meet\"?",
+    "choices": [
+      "meeted",
+      "meet",
+      "meeting",
+      "met"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"meet\" does not become past tense by only adding -ed. The past tense is \"met.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "meet"
+    }
+  },
+  {
+    "id": "g3-gr-1055",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"hold\"?",
+    "choices": [
+      "hold",
+      "holded",
+      "holding",
+      "held"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"hold\" does not become past tense by only adding -ed. The past tense is \"held.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "hold"
+    }
+  },
+  {
+    "id": "g3-gr-1056",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"hear\"?",
+    "choices": [
+      "hear",
+      "hearing",
+      "heard",
+      "heared"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"hear\" does not become past tense by only adding -ed. The past tense is \"heard.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "hear"
+    }
+  },
+  {
+    "id": "g3-gr-1057",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"stand\"?",
+    "choices": [
+      "stand",
+      "stood",
+      "standed",
+      "standing"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"stand\" does not become past tense by only adding -ed. The past tense is \"stood.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "stand"
+    }
+  },
+  {
+    "id": "g3-gr-1058",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"speak\"?",
+    "choices": [
+      "speaked",
+      "speak",
+      "speaking",
+      "spoke"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"speak\" does not become past tense by only adding -ed. The past tense is \"spoke.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "speak"
+    }
+  },
+  {
+    "id": "g3-gr-1059",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"break\"?",
+    "choices": [
+      "breaked",
+      "broke",
+      "breaking",
+      "break"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"break\" does not become past tense by only adding -ed. The past tense is \"broke.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "break"
+    }
+  },
+  {
+    "id": "g3-gr-1060",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"choose\"?",
+    "choices": [
+      "chose",
+      "choose",
+      "chooseed",
+      "chooseing"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"choose\" does not become past tense by only adding -ed. The past tense is \"chose.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "choose"
+    }
+  },
+  {
+    "id": "g3-gr-1061",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"wear\"?",
+    "choices": [
+      "wore",
+      "wearing",
+      "wear",
+      "weared"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"wear\" does not become past tense by only adding -ed. The past tense is \"wore.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "wear"
+    }
+  },
+  {
+    "id": "g3-gr-1062",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"begin\"?",
+    "choices": [
+      "begined",
+      "began",
+      "begining",
+      "begin"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"begin\" does not become past tense by only adding -ed. The past tense is \"began.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "begin"
+    }
+  },
+  {
+    "id": "g3-gr-1063",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"is\"?",
+    "choices": [
+      "is",
+      "ised",
+      "ising",
+      "was"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"is\" does not become past tense by only adding -ed. The past tense is \"was.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "is"
+    }
+  },
+  {
+    "id": "g3-gr-1064",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"are\"?",
+    "choices": [
+      "were",
+      "areing",
+      "are",
+      "areed"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"are\" does not become past tense by only adding -ed. The past tense is \"were.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "are"
+    }
+  },
+  {
+    "id": "g3-gr-1065",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"do\"?",
+    "choices": [
+      "do",
+      "doing",
+      "did",
+      "doed"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"do\" does not become past tense by only adding -ed. The past tense is \"did.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "do"
+    }
+  },
+  {
+    "id": "g3-gr-1066",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word is the past tense of \"have\"?",
+    "choices": [
+      "haveed",
+      "had",
+      "have",
+      "haveing"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"have\" does not become past tense by only adding -ed. The past tense is \"had.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "past",
+      "verb": "have"
+    }
+  },
+  {
+    "id": "g3-gr-1067",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one cat?",
+    "choices": [
+      "cats",
+      "catses",
+      "cat",
+      "cat's"
+    ],
+    "answerIndex": 0,
+    "explanation": "For cat, add s to mean more than one: cats.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "cat"
+    }
+  },
+  {
+    "id": "g3-gr-1068",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one dog?",
+    "choices": [
+      "dog",
+      "dogs",
+      "dogses",
+      "dog's"
+    ],
+    "answerIndex": 1,
+    "explanation": "For dog, add s to mean more than one: dogs.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "dog"
+    }
+  },
+  {
+    "id": "g3-gr-1069",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one book?",
+    "choices": [
+      "book",
+      "bookses",
+      "books",
+      "book's"
+    ],
+    "answerIndex": 2,
+    "explanation": "For book, add s to mean more than one: books.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "book"
+    }
+  },
+  {
+    "id": "g3-gr-1070",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one bus?",
+    "choices": [
+      "buses",
+      "bus",
+      "bus's",
+      "buss"
+    ],
+    "answerIndex": 0,
+    "explanation": "bus ends with a sound that needs es: buses.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "bus"
+    }
+  },
+  {
+    "id": "g3-gr-1071",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one box?",
+    "choices": [
+      "box",
+      "boxs",
+      "box's",
+      "boxes"
+    ],
+    "answerIndex": 3,
+    "explanation": "box ends with a sound that needs es: boxes.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "box"
+    }
+  },
+  {
+    "id": "g3-gr-1072",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one wish?",
+    "choices": [
+      "wishes",
+      "wish's",
+      "wish",
+      "wishs"
+    ],
+    "answerIndex": 0,
+    "explanation": "wish ends with a sound that needs es: wishes.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "wish"
+    }
+  },
+  {
+    "id": "g3-gr-1073",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one dish?",
+    "choices": [
+      "dishes",
+      "dish's",
+      "dish",
+      "dishs"
+    ],
+    "answerIndex": 0,
+    "explanation": "dish ends with a sound that needs es: dishes.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "dish"
+    }
+  },
+  {
+    "id": "g3-gr-1074",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one baby?",
+    "choices": [
+      "babys",
+      "baby",
+      "babies",
+      "baby's"
+    ],
+    "answerIndex": 2,
+    "explanation": "baby ends in y after a consonant. Change y to i and add es: babies.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "baby"
+    }
+  },
+  {
+    "id": "g3-gr-1075",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one city?",
+    "choices": [
+      "citys",
+      "cities",
+      "city's",
+      "city"
+    ],
+    "answerIndex": 1,
+    "explanation": "city ends in y after a consonant. Change y to i and add es: cities.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "city"
+    }
+  },
+  {
+    "id": "g3-gr-1076",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one story?",
+    "choices": [
+      "storys",
+      "story",
+      "stories",
+      "story's"
+    ],
+    "answerIndex": 2,
+    "explanation": "story ends in y after a consonant. Change y to i and add es: stories.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "story"
+    }
+  },
+  {
+    "id": "g3-gr-1077",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one puppy?",
+    "choices": [
+      "puppies",
+      "puppy",
+      "puppy's",
+      "puppys"
+    ],
+    "answerIndex": 0,
+    "explanation": "puppy ends in y after a consonant. Change y to i and add es: puppies.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "puppy"
+    }
+  },
+  {
+    "id": "g3-gr-1078",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one berry?",
+    "choices": [
+      "berry's",
+      "berrys",
+      "berry",
+      "berries"
+    ],
+    "answerIndex": 3,
+    "explanation": "berry ends in y after a consonant. Change y to i and add es: berries.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "berry"
+    }
+  },
+  {
+    "id": "g3-gr-1079",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one leaf?",
+    "choices": [
+      "leaf's",
+      "leaf",
+      "leafs",
+      "leaves"
+    ],
+    "answerIndex": 3,
+    "explanation": "leaf changes its f or fe ending to ves: leaves.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "leaf"
+    }
+  },
+  {
+    "id": "g3-gr-1080",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one knife?",
+    "choices": [
+      "knifes",
+      "knife's",
+      "knives",
+      "knife"
+    ],
+    "answerIndex": 2,
+    "explanation": "knife changes its f or fe ending to ves: knives.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "knife"
+    }
+  },
+  {
+    "id": "g3-gr-1081",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one wolf?",
+    "choices": [
+      "wolfs",
+      "wolf's",
+      "wolves",
+      "wolf"
+    ],
+    "answerIndex": 2,
+    "explanation": "wolf changes its f or fe ending to ves: wolves.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "wolf"
+    }
+  },
+  {
+    "id": "g3-gr-1082",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one child?",
+    "choices": [
+      "child",
+      "child's",
+      "childs",
+      "children"
+    ],
+    "answerIndex": 3,
+    "explanation": "child has a special plural: children. The best choice is \"children.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "child"
+    }
+  },
+  {
+    "id": "g3-gr-1083",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one mouse?",
+    "choices": [
+      "mouses",
+      "mice",
+      "mouse",
+      "mouse's"
+    ],
+    "answerIndex": 1,
+    "explanation": "mouse has a special plural: mice. The best choice is \"mice.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "mouse"
+    }
+  },
+  {
+    "id": "g3-gr-1084",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one foot?",
+    "choices": [
+      "foots",
+      "foot's",
+      "feet",
+      "foot"
+    ],
+    "answerIndex": 2,
+    "explanation": "foot has a special plural: feet. The best choice is \"feet.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "foot"
+    }
+  },
+  {
+    "id": "g3-gr-1085",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one tooth?",
+    "choices": [
+      "tooths",
+      "teeth",
+      "tooth's",
+      "tooth"
+    ],
+    "answerIndex": 1,
+    "explanation": "tooth has a special plural: teeth. The best choice is \"teeth.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "tooth"
+    }
+  },
+  {
+    "id": "g3-gr-1086",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one man?",
+    "choices": [
+      "man's",
+      "men",
+      "mans",
+      "man"
+    ],
+    "answerIndex": 1,
+    "explanation": "man has a special plural: men. The best choice is \"men.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "man"
+    }
+  },
+  {
+    "id": "g3-gr-1087",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one woman?",
+    "choices": [
+      "women",
+      "womans",
+      "woman",
+      "woman's"
+    ],
+    "answerIndex": 0,
+    "explanation": "woman has a special plural: women. The best choice is \"women.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "woman"
+    }
+  },
+  {
+    "id": "g3-gr-1088",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one goose?",
+    "choices": [
+      "goose's",
+      "geese",
+      "gooses",
+      "goose"
+    ],
+    "answerIndex": 1,
+    "explanation": "goose has a special plural: geese. The best choice is \"geese.\"",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "goose"
+    }
+  },
+  {
+    "id": "g3-gr-1089",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one hero?",
+    "choices": [
+      "hero",
+      "heroes",
+      "heros",
+      "hero's"
+    ],
+    "answerIndex": 1,
+    "explanation": "hero ends in o, and this word adds es: heroes.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "hero"
+    }
+  },
+  {
+    "id": "g3-gr-1090",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one tomato?",
+    "choices": [
+      "tomatos",
+      "tomatoes",
+      "tomato's",
+      "tomato"
+    ],
+    "answerIndex": 1,
+    "explanation": "tomato ends in o, and this word adds es: tomatoes.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "tomato"
+    }
+  },
+  {
+    "id": "g3-gr-1091",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one potato?",
+    "choices": [
+      "potatos",
+      "potatoes",
+      "potato's",
+      "potato"
+    ],
+    "answerIndex": 1,
+    "explanation": "potato ends in o, and this word adds es: potatoes.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "potato"
+    }
+  },
+  {
+    "id": "g3-gr-1092",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one class?",
+    "choices": [
+      "class's",
+      "classs",
+      "classes",
+      "class"
+    ],
+    "answerIndex": 2,
+    "explanation": "class ends with a sound that needs es: classes.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "class"
+    }
+  },
+  {
+    "id": "g3-gr-1093",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one bench?",
+    "choices": [
+      "bench",
+      "benches",
+      "bench's",
+      "benchs"
+    ],
+    "answerIndex": 1,
+    "explanation": "bench ends with a sound that needs es: benches.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "bench"
+    }
+  },
+  {
+    "id": "g3-gr-1094",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which word means more than one fox?",
+    "choices": [
+      "foxs",
+      "foxes",
+      "fox",
+      "fox's"
+    ],
+    "answerIndex": 1,
+    "explanation": "fox ends with a sound that needs es: foxes.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "plural",
+      "word": "fox"
+    }
+  },
+  {
+    "id": "g3-gr-1095",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Maya needs the article that matches the beginning sound of \"apple.\" Which word is it?",
+    "choices": [
+      "a",
+      "and",
+      "an",
+      "of"
+    ],
+    "answerIndex": 2,
+    "explanation": "apple starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "apple"
+    }
+  },
+  {
+    "id": "g3-gr-1096",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Jordan needs the article that matches the beginning sound of \"egg.\" Which word is it?",
+    "choices": [
+      "an",
+      "a",
+      "of",
+      "and"
+    ],
+    "answerIndex": 0,
+    "explanation": "egg starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "egg"
+    }
+  },
+  {
+    "id": "g3-gr-1097",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Priya needs the article that matches the beginning sound of \"igloo.\" Which word is it?",
+    "choices": [
+      "an",
+      "of",
+      "and",
+      "a"
+    ],
+    "answerIndex": 0,
+    "explanation": "igloo starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "igloo"
+    }
+  },
+  {
+    "id": "g3-gr-1098",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Luis needs the article that matches the beginning sound of \"orange.\" Which word is it?",
+    "choices": [
+      "an",
+      "of",
+      "a",
+      "and"
+    ],
+    "answerIndex": 0,
+    "explanation": "orange starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "orange"
+    }
+  },
+  {
+    "id": "g3-gr-1099",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Aisha needs the article that matches the beginning sound of \"umbrella.\" Which word is it?",
+    "choices": [
+      "of",
+      "an",
+      "a",
+      "and"
+    ],
+    "answerIndex": 1,
+    "explanation": "umbrella starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "umbrella"
+    }
+  },
+  {
+    "id": "g3-gr-1100",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Noah needs the article that matches the beginning sound of \"hour.\" Which word is it?",
+    "choices": [
+      "of",
+      "and",
+      "an",
+      "a"
+    ],
+    "answerIndex": 2,
+    "explanation": "hour starts with a silent h, so the first sound is a vowel sound. Use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "hour"
+    }
+  },
+  {
+    "id": "g3-gr-1101",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Mei needs the article that matches the beginning sound of \"honest.\" Which word is it?",
+    "choices": [
+      "an",
+      "of",
+      "and",
+      "a"
+    ],
+    "answerIndex": 0,
+    "explanation": "honest starts with a silent h, so the first sound is a vowel sound. Use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "honest"
+    }
+  },
+  {
+    "id": "g3-gr-1102",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Sam needs the article that matches the beginning sound of \"elephant.\" Which word is it?",
+    "choices": [
+      "of",
+      "and",
+      "an",
+      "a"
+    ],
+    "answerIndex": 2,
+    "explanation": "elephant starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "elephant"
+    }
+  },
+  {
+    "id": "g3-gr-1103",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Elena needs the article that matches the beginning sound of \"island.\" Which word is it?",
+    "choices": [
+      "a",
+      "of",
+      "an",
+      "and"
+    ],
+    "answerIndex": 2,
+    "explanation": "island starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "island"
+    }
+  },
+  {
+    "id": "g3-gr-1104",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Omar needs the article that matches the beginning sound of \"owl.\" Which word is it?",
+    "choices": [
+      "a",
+      "and",
+      "an",
+      "of"
+    ],
+    "answerIndex": 2,
+    "explanation": "owl starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "owl"
+    }
+  },
+  {
+    "id": "g3-gr-1105",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Theo needs the article that matches the beginning sound of \"idea.\" Which word is it?",
+    "choices": [
+      "of",
+      "and",
+      "a",
+      "an"
+    ],
+    "answerIndex": 3,
+    "explanation": "idea starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "idea"
+    }
+  },
+  {
+    "id": "g3-gr-1106",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Hana needs the article that matches the beginning sound of \"apron.\" Which word is it?",
+    "choices": [
+      "of",
+      "an",
+      "and",
+      "a"
+    ],
+    "answerIndex": 1,
+    "explanation": "apron starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "apron"
+    }
+  },
+  {
+    "id": "g3-gr-1107",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Leo needs the article that matches the beginning sound of \"ant.\" Which word is it?",
+    "choices": [
+      "an",
+      "a",
+      "of",
+      "and"
+    ],
+    "answerIndex": 0,
+    "explanation": "ant starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "ant"
+    }
+  },
+  {
+    "id": "g3-gr-1108",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Sofia needs the article that matches the beginning sound of \"engine.\" Which word is it?",
+    "choices": [
+      "and",
+      "an",
+      "of",
+      "a"
+    ],
+    "answerIndex": 1,
+    "explanation": "engine starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "engine"
+    }
+  },
+  {
+    "id": "g3-gr-1109",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Malik needs the article that matches the beginning sound of \"eraser.\" Which word is it?",
+    "choices": [
+      "an",
+      "a",
+      "of",
+      "and"
+    ],
+    "answerIndex": 0,
+    "explanation": "eraser starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "eraser"
+    }
+  },
+  {
+    "id": "g3-gr-1110",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Ruby needs the article that matches the beginning sound of \"insect.\" Which word is it?",
+    "choices": [
+      "an",
+      "of",
+      "and",
+      "a"
+    ],
+    "answerIndex": 0,
+    "explanation": "insect starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "insect"
+    }
+  },
+  {
+    "id": "g3-gr-1111",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Evan needs the article that matches the beginning sound of \"octopus.\" Which word is it?",
+    "choices": [
+      "an",
+      "and",
+      "a",
+      "of"
+    ],
+    "answerIndex": 0,
+    "explanation": "octopus starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "octopus"
+    }
+  },
+  {
+    "id": "g3-gr-1112",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Nina needs the article that matches the beginning sound of \"uncle.\" Which word is it?",
+    "choices": [
+      "a",
+      "an",
+      "and",
+      "of"
+    ],
+    "answerIndex": 1,
+    "explanation": "uncle starts with a vowel sound, so use an. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "uncle"
+    }
+  },
+  {
+    "id": "g3-gr-1113",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Caleb needs the article that matches the beginning sound of \"book.\" Which word is it?",
+    "choices": [
+      "a",
+      "and",
+      "an",
+      "of"
+    ],
+    "answerIndex": 0,
+    "explanation": "book starts with a consonant sound, so use a. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "book"
+    }
+  },
+  {
+    "id": "g3-gr-1114",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Amira needs the article that matches the beginning sound of \"dog.\" Which word is it?",
+    "choices": [
+      "of",
+      "a",
+      "an",
+      "and"
+    ],
+    "answerIndex": 1,
+    "explanation": "dog starts with a consonant sound, so use a. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "dog"
+    }
+  },
+  {
+    "id": "g3-gr-1115",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Jonah needs the article that matches the beginning sound of \"kite.\" Which word is it?",
+    "choices": [
+      "an",
+      "and",
+      "a",
+      "of"
+    ],
+    "answerIndex": 2,
+    "explanation": "kite starts with a consonant sound, so use a. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "kite"
+    }
+  },
+  {
+    "id": "g3-gr-1116",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Zoe needs the article that matches the beginning sound of \"pencil.\" Which word is it?",
+    "choices": [
+      "an",
+      "and",
+      "of",
+      "a"
+    ],
+    "answerIndex": 3,
+    "explanation": "pencil starts with a consonant sound, so use a. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "pencil"
+    }
+  },
+  {
+    "id": "g3-gr-1117",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Andre needs the article that matches the beginning sound of \"nest.\" Which word is it?",
+    "choices": [
+      "of",
+      "and",
+      "a",
+      "an"
+    ],
+    "answerIndex": 2,
+    "explanation": "nest starts with a consonant sound, so use a. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "nest"
+    }
+  },
+  {
+    "id": "g3-gr-1118",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Lila needs the article that matches the beginning sound of \"map.\" Which word is it?",
+    "choices": [
+      "an",
+      "a",
+      "and",
+      "of"
+    ],
+    "answerIndex": 1,
+    "explanation": "map starts with a consonant sound, so use a. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "map"
+    }
+  },
+  {
+    "id": "g3-gr-1119",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Kai needs the article that matches the beginning sound of \"ruler.\" Which word is it?",
+    "choices": [
+      "of",
+      "a",
+      "and",
+      "an"
+    ],
+    "answerIndex": 1,
+    "explanation": "ruler starts with a consonant sound, so use a. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "ruler"
+    }
+  },
+  {
+    "id": "g3-gr-1120",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Noor needs the article that matches the beginning sound of \"clock.\" Which word is it?",
+    "choices": [
+      "and",
+      "an",
+      "of",
+      "a"
+    ],
+    "answerIndex": 3,
+    "explanation": "clock starts with a consonant sound, so use a. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "clock"
+    }
+  },
+  {
+    "id": "g3-gr-1121",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Miles needs the article that matches the beginning sound of \"jar.\" Which word is it?",
+    "choices": [
+      "a",
+      "an",
+      "and",
+      "of"
+    ],
+    "answerIndex": 0,
+    "explanation": "jar starts with a consonant sound, so use a. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "jar"
+    }
+  },
+  {
+    "id": "g3-gr-1122",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Tara needs the article that matches the beginning sound of \"seed.\" Which word is it?",
+    "choices": [
+      "of",
+      "and",
+      "a",
+      "an"
+    ],
+    "answerIndex": 2,
+    "explanation": "seed starts with a consonant sound, so use a. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "seed"
+    }
+  },
+  {
+    "id": "g3-gr-1123",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Hugo needs the article that matches the beginning sound of \"boot.\" Which word is it?",
+    "choices": [
+      "an",
+      "of",
+      "a",
+      "and"
+    ],
+    "answerIndex": 2,
+    "explanation": "boot starts with a consonant sound, so use a. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "boot"
+    }
+  },
+  {
+    "id": "g3-gr-1124",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Imani needs the article that matches the beginning sound of \"wagon.\" Which word is it?",
+    "choices": [
+      "an",
+      "of",
+      "a",
+      "and"
+    ],
+    "answerIndex": 2,
+    "explanation": "wagon starts with a consonant sound, so use a. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "wagon"
+    }
+  },
+  {
+    "id": "g3-gr-1125",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Felix needs the article that matches the beginning sound of \"house.\" Which word is it?",
+    "choices": [
+      "a",
+      "an",
+      "and",
+      "of"
+    ],
+    "answerIndex": 0,
+    "explanation": "house starts with a consonant sound, so use a. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "house"
+    }
+  },
+  {
+    "id": "g3-gr-1126",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Rosa needs the article that matches the beginning sound of \"tiger.\" Which word is it?",
+    "choices": [
+      "an",
+      "of",
+      "and",
+      "a"
+    ],
+    "answerIndex": 3,
+    "explanation": "tiger starts with a consonant sound, so use a. \"And\" and \"of\" are not the article that matches this sound.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "article",
+      "word": "tiger"
+    }
+  },
+  {
+    "id": "g3-gr-1127",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Choose the form of \"bark\" that agrees with the subject: The dogs ____ at the fence.",
+    "choices": [
+      "barks",
+      "barked",
+      "bark",
+      "barking"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"dogs\" is plural, so do not add s to the verb. Use bark.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sv",
+      "plural": true,
+      "verb": "bark"
+    }
+  },
+  {
+    "id": "g3-gr-1128",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Choose the form of \"jump\" that agrees with the subject: The bird ____ on the stage.",
+    "choices": [
+      "jumping",
+      "jump",
+      "jumped",
+      "jumps"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"bird\" is one, so add s to the verb. Use jumps.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sv",
+      "plural": false,
+      "verb": "jump"
+    }
+  },
+  {
+    "id": "g3-gr-1129",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Choose the form of \"play\" that agrees with the subject: The children ____ after lunch.",
+    "choices": [
+      "play",
+      "plays",
+      "playing",
+      "played"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"children\" is plural, so do not add s to the verb. Use play.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sv",
+      "plural": true,
+      "verb": "play"
+    }
+  },
+  {
+    "id": "g3-gr-1130",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Choose the form of \"sing\" that agrees with the subject: The player ____ by the pond.",
+    "choices": [
+      "singing",
+      "singed",
+      "sing",
+      "sings"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"player\" is one, so add s to the verb. Use sings.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sv",
+      "plural": false,
+      "verb": "sing"
+    }
+  },
+  {
+    "id": "g3-gr-1131",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Choose the form of \"walk\" that agrees with the subject: The rabbits ____ in the gym.",
+    "choices": [
+      "walks",
+      "walking",
+      "walk",
+      "walked"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"rabbits\" is plural, so do not add s to the verb. Use walk.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sv",
+      "plural": true,
+      "verb": "walk"
+    }
+  },
+  {
+    "id": "g3-gr-1132",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Choose the form of \"paint\" that agrees with the subject: The friend ____ near the door.",
+    "choices": [
+      "painting",
+      "paint",
+      "painted",
+      "paints"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"friend\" is one, so add s to the verb. Use paints.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sv",
+      "plural": false,
+      "verb": "paint"
+    }
+  },
+  {
+    "id": "g3-gr-1133",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Choose the form of \"climb\" that agrees with the subject: The dogs ____ at the fence.",
+    "choices": [
+      "climb",
+      "climbed",
+      "climbs",
+      "climbing"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"dogs\" is plural, so do not add s to the verb. Use climb.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sv",
+      "plural": true,
+      "verb": "climb"
+    }
+  },
+  {
+    "id": "g3-gr-1134",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Choose the form of \"laugh\" that agrees with the subject: The bird ____ on the stage.",
+    "choices": [
+      "laughs",
+      "laugh",
+      "laughing",
+      "laughed"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"bird\" is one, so add s to the verb. Use laughs.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sv",
+      "plural": false,
+      "verb": "laugh"
+    }
+  },
+  {
+    "id": "g3-gr-1135",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Choose the form of \"draw\" that agrees with the subject: The children ____ after lunch.",
+    "choices": [
+      "draw",
+      "drawing",
+      "drawed",
+      "draws"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"children\" is plural, so do not add s to the verb. Use draw.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sv",
+      "plural": true,
+      "verb": "draw"
+    }
+  },
+  {
+    "id": "g3-gr-1136",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Choose the form of \"count\" that agrees with the subject: The player ____ by the pond.",
+    "choices": [
+      "counting",
+      "counts",
+      "count",
+      "counted"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"player\" is one, so add s to the verb. Use counts.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sv",
+      "plural": false,
+      "verb": "count"
+    }
+  },
+  {
+    "id": "g3-gr-1137",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Choose the form of \"help\" that agrees with the subject: The rabbits ____ in the gym.",
+    "choices": [
+      "helped",
+      "help",
+      "helps",
+      "helping"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"rabbits\" is plural, so do not add s to the verb. Use help.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sv",
+      "plural": true,
+      "verb": "help"
+    }
+  },
+  {
+    "id": "g3-gr-1138",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Choose the form of \"look\" that agrees with the subject: The friend ____ near the door.",
+    "choices": [
+      "looks",
+      "looked",
+      "look",
+      "looking"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"friend\" is one, so add s to the verb. Use looks.",
+    "skill": "L.3.1",
+    "skillLabel": "Grammar",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "sv",
+      "plural": false,
+      "verb": "look"
+    }
+  },
+  {
+    "id": "g3-gr-1139",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which sentence uses commas correctly for this list: apples, cups, napkins?",
+    "choices": [
+      "We packed apples cups napkins.",
+      "We packed apples cups and napkins.",
+      "We packed apples, cups, and napkins.",
+      "We packed apples, cups napkins."
+    ],
+    "answerIndex": 2,
+    "explanation": "Put a comma after each item in a list of three, including before and. We packed apples, cups, and napkins.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series-comma",
+      "items": [
+        "apples",
+        "cups",
+        "napkins"
+      ],
+      "prefix": "We packed ",
+      "suffix": "."
+    }
+  },
+  {
+    "id": "g3-gr-1140",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which sentence uses commas correctly for this list: pencils, erasers, clips?",
+    "choices": [
+      "The box held pencils, erasers, and clips.",
+      "The box held pencils erasers and clips.",
+      "The box held pencils, erasers clips.",
+      "The box held pencils erasers clips."
+    ],
+    "answerIndex": 0,
+    "explanation": "Put a comma after each item in a list of three, including before and. The box held pencils, erasers, and clips.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series-comma",
+      "items": [
+        "pencils",
+        "erasers",
+        "clips"
+      ],
+      "prefix": "The box held ",
+      "suffix": "."
+    }
+  },
+  {
+    "id": "g3-gr-1141",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which sentence uses commas correctly for this list: red, blue, gold?",
+    "choices": [
+      "They listed red, blue, and gold.",
+      "They listed red, blue gold.",
+      "They listed red blue gold.",
+      "They listed red blue and gold."
+    ],
+    "answerIndex": 0,
+    "explanation": "Put a comma after each item in a list of three, including before and. They listed red, blue, and gold.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series-comma",
+      "items": [
+        "red",
+        "blue",
+        "gold"
+      ],
+      "prefix": "They listed ",
+      "suffix": "."
+    }
+  },
+  {
+    "id": "g3-gr-1142",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which sentence uses commas correctly for this list: boots, hats, gloves?",
+    "choices": [
+      "The sign named boots, hats, and gloves.",
+      "The sign named boots hats and gloves.",
+      "The sign named boots hats gloves.",
+      "The sign named boots, hats gloves."
+    ],
+    "answerIndex": 0,
+    "explanation": "Put a comma after each item in a list of three, including before and. The sign named boots, hats, and gloves.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series-comma",
+      "items": [
+        "boots",
+        "hats",
+        "gloves"
+      ],
+      "prefix": "The sign named ",
+      "suffix": "."
+    }
+  },
+  {
+    "id": "g3-gr-1143",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which sentence uses commas correctly for this list: bread, jam, pears?",
+    "choices": [
+      "We packed bread, jam pears.",
+      "We packed bread jam and pears.",
+      "We packed bread, jam, and pears.",
+      "We packed bread jam pears."
+    ],
+    "answerIndex": 2,
+    "explanation": "Put a comma after each item in a list of three, including before and. We packed bread, jam, and pears.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series-comma",
+      "items": [
+        "bread",
+        "jam",
+        "pears"
+      ],
+      "prefix": "We packed ",
+      "suffix": "."
+    }
+  },
+  {
+    "id": "g3-gr-1144",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which sentence uses commas correctly for this list: maps, ropes, bottles?",
+    "choices": [
+      "The box held maps, ropes bottles.",
+      "The box held maps, ropes, and bottles.",
+      "The box held maps ropes and bottles.",
+      "The box held maps ropes bottles."
+    ],
+    "answerIndex": 1,
+    "explanation": "Put a comma after each item in a list of three, including before and. The box held maps, ropes, and bottles.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series-comma",
+      "items": [
+        "maps",
+        "ropes",
+        "bottles"
+      ],
+      "prefix": "The box held ",
+      "suffix": "."
+    }
+  },
+  {
+    "id": "g3-gr-1145",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which sentence uses commas correctly for this list: drums, flutes, bells?",
+    "choices": [
+      "They listed drums, flutes bells.",
+      "They listed drums, flutes, and bells.",
+      "They listed drums flutes and bells.",
+      "They listed drums flutes bells."
+    ],
+    "answerIndex": 1,
+    "explanation": "Put a comma after each item in a list of three, including before and. They listed drums, flutes, and bells.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series-comma",
+      "items": [
+        "drums",
+        "flutes",
+        "bells"
+      ],
+      "prefix": "They listed ",
+      "suffix": "."
+    }
+  },
+  {
+    "id": "g3-gr-1146",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which sentence uses commas correctly for this list: seals, otters, crabs?",
+    "choices": [
+      "The sign named seals otters crabs.",
+      "The sign named seals, otters crabs.",
+      "The sign named seals otters and crabs.",
+      "The sign named seals, otters, and crabs."
+    ],
+    "answerIndex": 3,
+    "explanation": "Put a comma after each item in a list of three, including before and. The sign named seals, otters, and crabs.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series-comma",
+      "items": [
+        "seals",
+        "otters",
+        "crabs"
+      ],
+      "prefix": "The sign named ",
+      "suffix": "."
+    }
+  },
+  {
+    "id": "g3-gr-1147",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which sentence uses commas correctly for this list: roses, tulips, ferns?",
+    "choices": [
+      "We packed roses, tulips ferns.",
+      "We packed roses tulips and ferns.",
+      "We packed roses, tulips, and ferns.",
+      "We packed roses tulips ferns."
+    ],
+    "answerIndex": 2,
+    "explanation": "Put a comma after each item in a list of three, including before and. We packed roses, tulips, and ferns.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series-comma",
+      "items": [
+        "roses",
+        "tulips",
+        "ferns"
+      ],
+      "prefix": "We packed ",
+      "suffix": "."
+    }
+  },
+  {
+    "id": "g3-gr-1148",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which sentence uses commas correctly for this list: chalk, paper, tape?",
+    "choices": [
+      "The box held chalk, paper tape.",
+      "The box held chalk paper and tape.",
+      "The box held chalk paper tape.",
+      "The box held chalk, paper, and tape."
+    ],
+    "answerIndex": 3,
+    "explanation": "Put a comma after each item in a list of three, including before and. The box held chalk, paper, and tape.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series-comma",
+      "items": [
+        "chalk",
+        "paper",
+        "tape"
+      ],
+      "prefix": "The box held ",
+      "suffix": "."
+    }
+  },
+  {
+    "id": "g3-gr-1149",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which sentence uses commas correctly for this list: soups, rolls, grapes?",
+    "choices": [
+      "They listed soups, rolls grapes.",
+      "They listed soups rolls and grapes.",
+      "They listed soups rolls grapes.",
+      "They listed soups, rolls, and grapes."
+    ],
+    "answerIndex": 3,
+    "explanation": "Put a comma after each item in a list of three, including before and. They listed soups, rolls, and grapes.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series-comma",
+      "items": [
+        "soups",
+        "rolls",
+        "grapes"
+      ],
+      "prefix": "They listed ",
+      "suffix": "."
+    }
+  },
+  {
+    "id": "g3-gr-1150",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which sentence uses commas correctly for this list: kites, balls, rackets?",
+    "choices": [
+      "The sign named kites balls and rackets.",
+      "The sign named kites balls rackets.",
+      "The sign named kites, balls rackets.",
+      "The sign named kites, balls, and rackets."
+    ],
+    "answerIndex": 3,
+    "explanation": "Put a comma after each item in a list of three, including before and. The sign named kites, balls, and rackets.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "series-comma",
+      "items": [
+        "kites",
+        "balls",
+        "rackets"
+      ],
+      "prefix": "The sign named ",
+      "suffix": "."
+    }
+  },
+  {
+    "id": "g3-gr-1151",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which choice writes the date of the spring concert correctly?",
+    "choices": [
+      "March, 3 2024",
+      "March 3, 2024",
+      "March 3 2024",
+      "3, March 2024"
+    ],
+    "answerIndex": 1,
+    "explanation": "Capitalize the month, write the day next, then a comma, then the year. March 3, 2024 is written that way.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "date",
+      "month": "March",
+      "day": 3,
+      "year": 2024
+    }
+  },
+  {
+    "id": "g3-gr-1152",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which choice writes the date of the science fair correctly?",
+    "choices": [
+      "12, April 2025",
+      "April 12 2025",
+      "April, 12 2025",
+      "April 12, 2025"
+    ],
+    "answerIndex": 3,
+    "explanation": "Capitalize the month, write the day next, then a comma, then the year. April 12, 2025 is written that way.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "date",
+      "month": "April",
+      "day": 12,
+      "year": 2025
+    }
+  },
+  {
+    "id": "g3-gr-1153",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which choice writes the date of the family picnic correctly?",
+    "choices": [
+      "May, 8 2026",
+      "May 8 2026",
+      "May 8, 2026",
+      "8, May 2026"
+    ],
+    "answerIndex": 2,
+    "explanation": "Capitalize the month, write the day next, then a comma, then the year. May 8, 2026 is written that way.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "date",
+      "month": "May",
+      "day": 8,
+      "year": 2026
+    }
+  },
+  {
+    "id": "g3-gr-1154",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which choice writes the date of the library visit correctly?",
+    "choices": [
+      "June 21 2024",
+      "June, 21 2024",
+      "21, June 2024",
+      "June 21, 2024"
+    ],
+    "answerIndex": 3,
+    "explanation": "Capitalize the month, write the day next, then a comma, then the year. June 21, 2024 is written that way.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "date",
+      "month": "June",
+      "day": 21,
+      "year": 2024
+    }
+  },
+  {
+    "id": "g3-gr-1155",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which choice writes the date of the neighborhood parade correctly?",
+    "choices": [
+      "July 4, 2026",
+      "July 4 2026",
+      "4, July 2026",
+      "July, 4 2026"
+    ],
+    "answerIndex": 0,
+    "explanation": "Capitalize the month, write the day next, then a comma, then the year. July 4, 2026 is written that way.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "date",
+      "month": "July",
+      "day": 4,
+      "year": 2026
+    }
+  },
+  {
+    "id": "g3-gr-1156",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which choice writes the date of the first soccer game correctly?",
+    "choices": [
+      "August, 19 2025",
+      "August 19 2025",
+      "19, August 2025",
+      "August 19, 2025"
+    ],
+    "answerIndex": 3,
+    "explanation": "Capitalize the month, write the day next, then a comma, then the year. August 19, 2025 is written that way.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "date",
+      "month": "August",
+      "day": 19,
+      "year": 2025
+    }
+  },
+  {
+    "id": "g3-gr-1157",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which choice writes the date of the open house correctly?",
+    "choices": [
+      "2, September 2024",
+      "September 2, 2024",
+      "September, 2 2024",
+      "September 2 2024"
+    ],
+    "answerIndex": 1,
+    "explanation": "Capitalize the month, write the day next, then a comma, then the year. September 2, 2024 is written that way.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "date",
+      "month": "September",
+      "day": 2,
+      "year": 2024
+    }
+  },
+  {
+    "id": "g3-gr-1158",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which choice writes the date of the story night correctly?",
+    "choices": [
+      "October 31, 2025",
+      "31, October 2025",
+      "October 31 2025",
+      "October, 31 2025"
+    ],
+    "answerIndex": 0,
+    "explanation": "Capitalize the month, write the day next, then a comma, then the year. October 31, 2025 is written that way.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "date",
+      "month": "October",
+      "day": 31,
+      "year": 2025
+    }
+  },
+  {
+    "id": "g3-gr-1159",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which choice writes the date of the veterans assembly correctly?",
+    "choices": [
+      "November, 11 2026",
+      "November 11, 2026",
+      "11, November 2026",
+      "November 11 2026"
+    ],
+    "answerIndex": 1,
+    "explanation": "Capitalize the month, write the day next, then a comma, then the year. November 11, 2026 is written that way.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "date",
+      "month": "November",
+      "day": 11,
+      "year": 2026
+    }
+  },
+  {
+    "id": "g3-gr-1160",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which choice writes the date of the winter concert correctly?",
+    "choices": [
+      "December 9, 2024",
+      "December, 9 2024",
+      "December 9 2024",
+      "9, December 2024"
+    ],
+    "answerIndex": 0,
+    "explanation": "Capitalize the month, write the day next, then a comma, then the year. December 9, 2024 is written that way.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "date",
+      "month": "December",
+      "day": 9,
+      "year": 2024
+    }
+  },
+  {
+    "id": "g3-gr-1161",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which choice writes the date of the spelling bee correctly?",
+    "choices": [
+      "15, January 2026",
+      "January 15, 2026",
+      "January 15 2026",
+      "January, 15 2026"
+    ],
+    "answerIndex": 1,
+    "explanation": "Capitalize the month, write the day next, then a comma, then the year. January 15, 2026 is written that way.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "date",
+      "month": "January",
+      "day": 15,
+      "year": 2026
+    }
+  },
+  {
+    "id": "g3-gr-1162",
+    "grade": 3,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar and language",
+    "prompt": "Which choice writes the date of the bake sale correctly?",
+    "choices": [
+      "6, February 2025",
+      "February 6, 2025",
+      "February 6 2025",
+      "February, 6 2025"
+    ],
+    "answerIndex": 1,
+    "explanation": "Capitalize the month, write the day next, then a comma, then the year. February 6, 2025 is written that way.",
+    "skill": "L.3.2",
+    "skillLabel": "Capitalization and punctuation",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "date",
+      "month": "February",
+      "day": 6,
+      "year": 2025
+    }
+  }
+]

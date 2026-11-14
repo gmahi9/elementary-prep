@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "g3-fc-376",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "These figures follow a rule: 1 small blue circle; 1 medium red circle; 1 large gold circle. Which other figure follows the same rule?",
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "circle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "size": "small",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "circle",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "size": "medium",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "circle",
+          "colorName": "gold",
+          "color": "#c98404",
+          "size": "large",
+          "count": 1,
+          "rotation": 0
+        }
+      ],
+      "alt": "Three figures that follow one rule: 1 small blue circle; 1 medium red circle; 1 large gold circle."
+    },
+    "choices": [
+      "1 large red diamond",
+      "1 medium green square",
+      "1 large green circle",
+      "1 small blue triangle"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "diamond",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "square",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "size": "medium",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "circle",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "triangle",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "size": "small",
+        "count": 1,
+        "rotation": 0
+      }
+    ],
+    "answerIndex": 2,
+    "explanation": "Every figure is a circle. Color and size change, so the rule is the shape. The figure that belongs is 1 large green circle.",
+    "skill": "G3.REASON.CLASSIFY",
+    "skillLabel": "Figure classification",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "classify",
+      "property": "shape",
+      "value": "circle"
+    }
+  },
+  {
+    "id": "g3-fc-377",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "These figures follow a rule: 1 small red square; 1 medium gold square; 1 large green square. Which other figure follows the same rule?",
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "square",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "size": "small",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "square",
+          "colorName": "gold",
+          "color": "#c98404",
+          "size": "medium",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "square",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "size": "large",
+          "count": 1,
+          "rotation": 0
+        }
+      ],
+      "alt": "Three figures that follow one rule: 1 small red square; 1 medium gold square; 1 large green square."
+    },
+    "choices": [
+      "1 large purple square",
+      "1 large gold star",
+      "1 small red diamond",
+      "1 medium purple triangle"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "square",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "star",
+        "colorName": "gold",
+        "color": "#c98404",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "diamond",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "size": "small",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "triangle",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "size": "medium",
+        "count": 1,
+        "rotation": 0
+      }
+    ],
+    "answerIndex": 0,
+    "explanation": "Every figure is a square. Color and size change, so the rule is the shape. The figure that belongs is 1 large purple square.",
+    "skill": "G3.REASON.CLASSIFY",
+    "skillLabel": "Figure classification",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "classify",
+      "property": "shape",
+      "value": "square"
+    }
+  },
+  {
+    "id": "g3-fc-378",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "These figures follow a rule: 1 small gold triangle; 1 medium green triangle; 1 large purple triangle. Which other figure follows the same rule?",
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "triangle",
+          "colorName": "gold",
+          "color": "#c98404",
+          "size": "small",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "triangle",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "size": "medium",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "triangle",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "size": "large",
+          "count": 1,
+          "rotation": 0
+        }
+      ],
+      "alt": "Three figures that follow one rule: 1 small gold triangle; 1 medium green triangle; 1 large purple triangle."
+    },
+    "choices": [
+      "1 small gold star",
+      "1 large green hexagon",
+      "1 large orange triangle",
+      "1 medium orange diamond"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "star",
+        "colorName": "gold",
+        "color": "#c98404",
+        "size": "small",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "hex",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "triangle",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "diamond",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "size": "medium",
+        "count": 1,
+        "rotation": 0
+      }
+    ],
+    "answerIndex": 2,
+    "explanation": "Every figure is a triangle. Color and size change, so the rule is the shape. The figure that belongs is 1 large orange triangle.",
+    "skill": "G3.REASON.CLASSIFY",
+    "skillLabel": "Figure classification",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "classify",
+      "property": "shape",
+      "value": "triangle"
+    }
+  },
+  {
+    "id": "g3-fc-379",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "These figures follow a rule: 1 small green diamond; 1 medium purple diamond; 1 large orange diamond. Which other figure follows the same rule?",
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "diamond",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "size": "small",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "diamond",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "size": "medium",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "diamond",
+          "colorName": "orange",
+          "color": "#ef7b2d",
+          "size": "large",
+          "count": 1,
+          "rotation": 0
+        }
+      ],
+      "alt": "Three figures that follow one rule: 1 small green diamond; 1 medium purple diamond; 1 large orange diamond."
+    },
+    "choices": [
+      "1 small green hexagon",
+      "1 large blue diamond",
+      "1 medium blue star",
+      "1 large purple circle"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "hex",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "size": "small",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "diamond",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "star",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "size": "medium",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "circle",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "Every figure is a diamond. Color and size change, so the rule is the shape. The figure that belongs is 1 large blue diamond.",
+    "skill": "G3.REASON.CLASSIFY",
+    "skillLabel": "Figure classification",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "classify",
+      "property": "shape",
+      "value": "diamond"
+    }
+  },
+  {
+    "id": "g3-fc-380",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "These figures follow a rule: 1 small purple star; 1 medium orange star; 1 large blue star. Which other figure follows the same rule?",
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "star",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "size": "small",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "star",
+          "colorName": "orange",
+          "color": "#ef7b2d",
+          "size": "medium",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "star",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "size": "large",
+          "count": 1,
+          "rotation": 0
+        }
+      ],
+      "alt": "Three figures that follow one rule: 1 small purple star; 1 medium orange star; 1 large blue star."
+    },
+    "choices": [
+      "1 medium red hexagon",
+      "1 large red star",
+      "1 small purple circle",
+      "1 large orange square"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "hex",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "size": "medium",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "star",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "circle",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "size": "small",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "square",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "Every figure is a star. Color and size change, so the rule is the shape. The figure that belongs is 1 large red star.",
+    "skill": "G3.REASON.CLASSIFY",
+    "skillLabel": "Figure classification",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "classify",
+      "property": "shape",
+      "value": "star"
+    }
+  },
+  {
+    "id": "g3-fc-381",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "These figures follow a rule: 1 small orange hexagon; 1 medium blue hexagon; 1 large red hexagon. Which other figure follows the same rule?",
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "hex",
+          "colorName": "orange",
+          "color": "#ef7b2d",
+          "size": "small",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "hex",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "size": "medium",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "hex",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "size": "large",
+          "count": 1,
+          "rotation": 0
+        }
+      ],
+      "alt": "Three figures that follow one rule: 1 small orange hexagon; 1 medium blue hexagon; 1 large red hexagon."
+    },
+    "choices": [
+      "1 large gold hexagon",
+      "1 small orange square",
+      "1 large blue triangle",
+      "1 medium gold circle"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "hex",
+        "colorName": "gold",
+        "color": "#c98404",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "square",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "size": "small",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "triangle",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "circle",
+        "colorName": "gold",
+        "color": "#c98404",
+        "size": "medium",
+        "count": 1,
+        "rotation": 0
+      }
+    ],
+    "answerIndex": 0,
+    "explanation": "Every figure is a hex. Color and size change, so the rule is the shape. The figure that belongs is 1 large gold hexagon.",
+    "skill": "G3.REASON.CLASSIFY",
+    "skillLabel": "Figure classification",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "classify",
+      "property": "shape",
+      "value": "hex"
+    }
+  },
+  {
+    "id": "g3-fc-382",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "These figures follow a rule: 1 small blue circle; 1 medium blue square; 1 large blue triangle. Which other figure follows the same rule?",
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "circle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "size": "small",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "square",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "size": "medium",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "triangle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "size": "large",
+          "count": 1,
+          "rotation": 0
+        }
+      ],
+      "alt": "Three figures that follow one rule: 1 small blue circle; 1 medium blue square; 1 large blue triangle."
+    },
+    "choices": [
+      "1 small gold star",
+      "1 large blue diamond",
+      "1 medium green circle",
+      "1 large red diamond"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "star",
+        "colorName": "gold",
+        "color": "#c98404",
+        "size": "small",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "diamond",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "circle",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "size": "medium",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "diamond",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "Every figure is blue. The shape and size change, so the rule is the color. The figure that belongs is 1 large blue diamond.",
+    "skill": "G3.REASON.CLASSIFY",
+    "skillLabel": "Figure classification",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "classify",
+      "property": "colorName",
+      "value": "blue"
+    }
+  },
+  {
+    "id": "g3-fc-383",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "These figures follow a rule: 1 small red square; 1 medium red triangle; 1 large red diamond. Which other figure follows the same rule?",
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "square",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "size": "small",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "triangle",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "size": "medium",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "diamond",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "size": "large",
+          "count": 1,
+          "rotation": 0
+        }
+      ],
+      "alt": "Three figures that follow one rule: 1 small red square; 1 medium red triangle; 1 large red diamond."
+    },
+    "choices": [
+      "1 medium purple square",
+      "1 large red star",
+      "1 small green hexagon",
+      "1 large gold star"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "square",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "size": "medium",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "star",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "hex",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "size": "small",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "star",
+        "colorName": "gold",
+        "color": "#c98404",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "Every figure is red. The shape and size change, so the rule is the color. The figure that belongs is 1 large red star.",
+    "skill": "G3.REASON.CLASSIFY",
+    "skillLabel": "Figure classification",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "classify",
+      "property": "colorName",
+      "value": "red"
+    }
+  },
+  {
+    "id": "g3-fc-384",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "These figures follow a rule: 1 small gold triangle; 1 medium gold diamond; 1 large gold star. Which other figure follows the same rule?",
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "triangle",
+          "colorName": "gold",
+          "color": "#c98404",
+          "size": "small",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "diamond",
+          "colorName": "gold",
+          "color": "#c98404",
+          "size": "medium",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "star",
+          "colorName": "gold",
+          "color": "#c98404",
+          "size": "large",
+          "count": 1,
+          "rotation": 0
+        }
+      ],
+      "alt": "Three figures that follow one rule: 1 small gold triangle; 1 medium gold diamond; 1 large gold star."
+    },
+    "choices": [
+      "1 large green hexagon",
+      "1 medium orange triangle",
+      "1 small purple circle",
+      "1 large gold hexagon"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "hex",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "triangle",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "size": "medium",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "circle",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "size": "small",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "hex",
+        "colorName": "gold",
+        "color": "#c98404",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      }
+    ],
+    "answerIndex": 3,
+    "explanation": "Every figure is gold. The shape and size change, so the rule is the color. The figure that belongs is 1 large gold hexagon.",
+    "skill": "G3.REASON.CLASSIFY",
+    "skillLabel": "Figure classification",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "classify",
+      "property": "colorName",
+      "value": "gold"
+    }
+  },
+  {
+    "id": "g3-fc-385",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "These figures follow a rule: 1 small green diamond; 1 medium green star; 1 large green hexagon. Which other figure follows the same rule?",
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "diamond",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "size": "small",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "star",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "size": "medium",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "hex",
+          "colorName": "green",
+          "color": "#1f9d57",
+          "size": "large",
+          "count": 1,
+          "rotation": 0
+        }
+      ],
+      "alt": "Three figures that follow one rule: 1 small green diamond; 1 medium green star; 1 large green hexagon."
+    },
+    "choices": [
+      "1 small orange square",
+      "1 large purple circle",
+      "1 medium blue diamond",
+      "1 large green circle"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "square",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "size": "small",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "circle",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "diamond",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "size": "medium",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "circle",
+        "colorName": "green",
+        "color": "#1f9d57",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      }
+    ],
+    "answerIndex": 3,
+    "explanation": "Every figure is green. The shape and size change, so the rule is the color. The figure that belongs is 1 large green circle.",
+    "skill": "G3.REASON.CLASSIFY",
+    "skillLabel": "Figure classification",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "classify",
+      "property": "colorName",
+      "value": "green"
+    }
+  },
+  {
+    "id": "g3-fc-386",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "These figures follow a rule: 1 small purple star; 1 medium purple hexagon; 1 large purple circle. Which other figure follows the same rule?",
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "star",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "size": "small",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "hex",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "size": "medium",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "circle",
+          "colorName": "purple",
+          "color": "#7a45d6",
+          "size": "large",
+          "count": 1,
+          "rotation": 0
+        }
+      ],
+      "alt": "Three figures that follow one rule: 1 small purple star; 1 medium purple hexagon; 1 large purple circle."
+    },
+    "choices": [
+      "1 medium red star",
+      "1 large orange square",
+      "1 large purple square",
+      "1 small blue triangle"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "star",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "size": "medium",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "square",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "square",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "triangle",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "size": "small",
+        "count": 1,
+        "rotation": 0
+      }
+    ],
+    "answerIndex": 2,
+    "explanation": "Every figure is purple. The shape and size change, so the rule is the color. The figure that belongs is 1 large purple square.",
+    "skill": "G3.REASON.CLASSIFY",
+    "skillLabel": "Figure classification",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "classify",
+      "property": "colorName",
+      "value": "purple"
+    }
+  },
+  {
+    "id": "g3-fc-387",
+    "grade": 3,
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "These figures follow a rule: 1 small orange hexagon; 1 medium orange circle; 1 large orange square. Which other figure follows the same rule?",
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "hex",
+          "colorName": "orange",
+          "color": "#ef7b2d",
+          "size": "small",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "circle",
+          "colorName": "orange",
+          "color": "#ef7b2d",
+          "size": "medium",
+          "count": 1,
+          "rotation": 0
+        },
+        {
+          "shape": "square",
+          "colorName": "orange",
+          "color": "#ef7b2d",
+          "size": "large",
+          "count": 1,
+          "rotation": 0
+        }
+      ],
+      "alt": "Three figures that follow one rule: 1 small orange hexagon; 1 medium orange circle; 1 large orange square."
+    },
+    "choices": [
+      "1 small red diamond",
+      "1 large orange triangle",
+      "1 medium gold hexagon",
+      "1 large blue triangle"
+    ],
+    "choiceFigures": [
+      {
+        "shape": "diamond",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "size": "small",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "triangle",
+        "colorName": "orange",
+        "color": "#ef7b2d",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "hex",
+        "colorName": "gold",
+        "color": "#c98404",
+        "size": "medium",
+        "count": 1,
+        "rotation": 0
+      },
+      {
+        "shape": "triangle",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "size": "large",
+        "count": 1,
+        "rotation": 0
+      }
+    ],
+    "answerIndex": 1,
+    "explanation": "Every figure is orange. The shape and size change, so the rule is the color. The figure that belongs is 1 large orange triangle.",
+    "skill": "G3.REASON.CLASSIFY",
+    "skillLabel": "Figure classification",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ],
+    "scored": true,
+    "verify": {
+      "kind": "classify",
+      "property": "colorName",
+      "value": "orange"
+    }
+  }
+]

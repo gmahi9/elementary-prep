@@ -1,0 +1,444 @@
+{
+  "3.NBT.A.1": {
+    "label": "Place value and rounding",
+    "links": [
+      {
+        "label": "Khan Academy: Place value and rounding",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-place-value-and-rounding"
+      },
+      {
+        "label": "Common Core 3.NBT.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/1/"
+      }
+    ]
+  },
+  "3.NBT.A.2": {
+    "label": "Add and subtract within 1,000",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 1,000",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-adding-and-subtracting-within-1000"
+      },
+      {
+        "label": "Common Core 3.NBT.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NBT/A/2/"
+      }
+    ]
+  },
+  "3.OA.A.1": {
+    "label": "Multiplication as equal groups",
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/1/"
+      }
+    ]
+  },
+  "3.OA.A.2": {
+    "label": "Division as equal groups",
+    "links": [
+      {
+        "label": "Khan Academy: Intro to division",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-division"
+      },
+      {
+        "label": "Common Core 3.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/2/"
+      }
+    ]
+  },
+  "3.OA.A.3": {
+    "label": "Multiplication and division word problems",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication and division",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/3rd-basic-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/3/"
+      }
+    ]
+  },
+  "3.OA.A.4": {
+    "label": "Find the unknown number",
+    "links": [
+      {
+        "label": "Khan Academy: Intro to multiplication",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.A.4",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/A/4/"
+      }
+    ]
+  },
+  "3.OA.C.7": {
+    "label": "Multiplication and division facts",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication facts",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/3rd-basic-multiplication"
+      },
+      {
+        "label": "Common Core 3.OA.C.7",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/C/7/"
+      }
+    ]
+  },
+  "3.OA.D.8": {
+    "label": "Two-step word problems",
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/8/"
+      }
+    ]
+  },
+  "3.OA.D.9": {
+    "label": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ]
+  },
+  "3.NF.A.1": {
+    "label": "Fractions as parts of a whole",
+    "links": [
+      {
+        "label": "Khan Academy: Fractions intro",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-fractions/imp-fractions-intro"
+      },
+      {
+        "label": "Common Core 3.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NF/A/1/"
+      }
+    ]
+  },
+  "3.NF.A.2": {
+    "label": "Fractions on a number line",
+    "links": [
+      {
+        "label": "Math is Fun: Fractions on a number line",
+        "href": "https://www.mathsisfun.com/numbers/fraction-number-line.html"
+      },
+      {
+        "label": "Common Core 3.NF.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NF/A/2/"
+      }
+    ]
+  },
+  "3.NF.A.3": {
+    "label": "Equivalent and comparing fractions",
+    "links": [
+      {
+        "label": "Khan Academy: Equivalent fractions",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/equivalent-fractions-and-comparing-fractions"
+      },
+      {
+        "label": "Common Core 3.NF.A.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/NF/A/3/"
+      }
+    ]
+  },
+  "3.MD.A.1": {
+    "label": "Tell time and elapsed time",
+    "links": [
+      {
+        "label": "Khan Academy: Time",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-time"
+      },
+      {
+        "label": "Common Core 3.MD.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/1/"
+      }
+    ]
+  },
+  "3.MD.A.2": {
+    "label": "Liquid volume and mass",
+    "links": [
+      {
+        "label": "Math is Fun: Measurement",
+        "href": "https://www.mathsisfun.com/measure/index.html"
+      },
+      {
+        "label": "Common Core 3.MD.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/A/2/"
+      }
+    ]
+  },
+  "3.MD.B.3": {
+    "label": "Bar graphs and picture graphs",
+    "links": [
+      {
+        "label": "Khan Academy: Bar graphs",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-measurement-and-data/imp-bar-graphs"
+      },
+      {
+        "label": "Common Core 3.MD.B.3",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/B/3/"
+      }
+    ]
+  },
+  "3.MD.C.7": {
+    "label": "Area of rectangles",
+    "links": [
+      {
+        "label": "Khan Academy: Area",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-geometry/imp-area"
+      },
+      {
+        "label": "Common Core 3.MD.C.7",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/C/7/"
+      }
+    ]
+  },
+  "3.MD.D.8": {
+    "label": "Perimeter",
+    "links": [
+      {
+        "label": "Khan Academy: Perimeter",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-geometry/imp-perimeter"
+      },
+      {
+        "label": "Common Core 3.MD.D.8",
+        "href": "https://www.thecorestandards.org/Math/Content/3/MD/D/8/"
+      }
+    ]
+  },
+  "3.G.A.1": {
+    "label": "Shapes and their attributes",
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ]
+  },
+  "3.G.A.2": {
+    "label": "Partition shapes into equal parts",
+    "links": [
+      {
+        "label": "Khan Academy: Fractions",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/imp-fractions"
+      },
+      {
+        "label": "Common Core 3.G.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/2/"
+      }
+    ]
+  },
+  "2.MD.C.8": {
+    "label": "Money",
+    "links": [
+      {
+        "label": "Khan Academy: Money and time",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/x3184e0ec:money-and-time"
+      },
+      {
+        "label": "Math is Fun: Money",
+        "href": "https://www.mathsisfun.com/money/index.html"
+      }
+    ]
+  },
+  "L.3.4": {
+    "label": "Vocabulary in context",
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/4/"
+      }
+    ]
+  },
+  "L.3.5": {
+    "label": "Word relationships",
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core L.3.5",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/5/"
+      }
+    ]
+  },
+  "L.3.1": {
+    "label": "Grammar",
+    "links": [
+      {
+        "label": "Khan Academy: Verbs",
+        "href": "https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb"
+      },
+      {
+        "label": "Common Core L.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/1/"
+      }
+    ]
+  },
+  "L.3.2": {
+    "label": "Capitalization and punctuation",
+    "links": [
+      {
+        "label": "Khan Academy: Commas and apostrophes",
+        "href": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe"
+      },
+      {
+        "label": "Common Core L.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/3/2/"
+      }
+    ]
+  },
+  "RL.3.1": {
+    "label": "Evidence in stories",
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ]
+  },
+  "RL.3.2": {
+    "label": "Main idea of a story",
+    "links": [
+      {
+        "label": "Khan Academy: Main idea",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-main-idea"
+      },
+      {
+        "label": "Common Core RL.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/2/"
+      }
+    ]
+  },
+  "RL.3.4": {
+    "label": "Story vocabulary",
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RL.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/4/"
+      }
+    ]
+  },
+  "RI.3.1": {
+    "label": "Evidence in informational text",
+    "links": [
+      {
+        "label": "ReadWriteThink classroom resources",
+        "href": "https://www.readwritethink.org/classroom-resources"
+      },
+      {
+        "label": "Common Core RI.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/1/"
+      }
+    ]
+  },
+  "RI.3.2": {
+    "label": "Main idea of informational text",
+    "links": [
+      {
+        "label": "Khan Academy: Main idea",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-main-idea"
+      },
+      {
+        "label": "Common Core RI.3.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/2/"
+      }
+    ]
+  },
+  "RI.3.4": {
+    "label": "Informational vocabulary",
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RI.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/3/4/"
+      }
+    ]
+  },
+  "G3.REASON.MATRIX": {
+    "label": "Figure patterns",
+    "links": [
+      {
+        "label": "Math is Fun: Patterns",
+        "href": "https://www.mathsisfun.com/algebra/patterns.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ]
+  },
+  "G3.REASON.FOLD": {
+    "label": "Paper folding and symmetry",
+    "links": [
+      {
+        "label": "Math is Fun: Symmetry",
+        "href": "https://www.mathsisfun.com/geometry/symmetry.html"
+      },
+      {
+        "label": "Common Core 3.G.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/3/G/A/1/"
+      }
+    ]
+  },
+  "G3.REASON.CLASSIFY": {
+    "label": "Figure classification",
+    "links": [
+      {
+        "label": "Math is Fun: Polygons",
+        "href": "https://www.mathsisfun.com/geometry/polygons.html"
+      },
+      {
+        "label": "PBS LearningMedia: Geometry",
+        "href": "https://www.pbslearningmedia.org/subjects/mathematics/k-8-mathematics/geometry/"
+      }
+    ]
+  },
+  "G3.CREATE": {
+    "label": "Creative thinking",
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ]
+  }
+}
