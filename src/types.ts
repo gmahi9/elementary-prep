@@ -51,6 +51,15 @@ export interface Progress {
   creativeNotes: Record<string, string>;
   mockTests: number;
   sectionAnswered: Record<string, number>;
+  mockHistory: MockRun[];
+}
+
+export interface MockRun {
+  id: string;
+  at: number;
+  section: string;
+  correct: number;
+  total: number;
 }
 
 export interface SessionStats {

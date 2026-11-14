@@ -1,0 +1,10 @@
+# Replace database_id after creating the D1 database. See docs/AUTH_SETUP.md.
+name = "elementary-prep"
+compatibility_date = "2026-11-14"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "elementary-prep"
+database_id = "00000000-0000-4000-8000-000000000001"
+migrations_dir = "migrations"

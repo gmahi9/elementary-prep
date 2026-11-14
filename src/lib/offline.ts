@@ -40,13 +40,14 @@ export function buildOfflineHtml(list: Question[]): string {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Sunny Steps offline practice</title>
 <style>
-body{margin:0;font-family:"Trebuchet MS","Segoe UI",sans-serif;background:#fff6e8;color:#241b38}
+body{margin:0;font-family:"Outfit Variable","Outfit","Avenir Next","Segoe UI",sans-serif;background:radial-gradient(ellipse 48% 42% at 88% 12%,rgba(150,196,232,.55),transparent 62%),radial-gradient(ellipse 36% 32% at 8% 88%,rgba(190,216,240,.7),transparent 60%),#eef5fb;color:#1c2430}
+h1,h2{font-family:Syne,"Outfit Variable","Avenir Next",sans-serif;letter-spacing:-.04em}
 main{max-width:760px;margin:0 auto;padding:20px 16px 48px}
 button,select{font:inherit}
-button{min-height:48px;border:3px solid #241b38;border-radius:14px;background:#fff;padding:10px 14px;box-shadow:3px 3px 0 #241b38}
-.choice{display:block;width:100%;text-align:left;margin:8px 0}
-.ok{background:#d9f5e5}.no{background:#ffd9d4}
-.card{background:#fffdf8;border:3px solid #241b38;border-radius:18px;padding:16px;box-shadow:5px 5px 0 #241b38}
+button{min-height:52px;border:1px solid rgba(28,36,48,.12);border-radius:999px;background:#1c2430;color:#fffaf6;padding:10px 16px}
+.choice{display:flex;gap:10px;align-items:center;width:100%;text-align:left;margin:8px 0;border-radius:18px;background:rgba(255,252,247,.92);color:#1c2430}
+.ok{background:#e7f3fb;border-color:#2f7eb8}.no{background:#fde8d8;border-color:#e39455}
+.card{background:rgba(255,252,247,.88);border:1px solid rgba(28,36,48,.12);border-radius:28px;padding:16px;box-shadow:0 22px 50px #30241214}
 .figure svg,.choice svg{max-width:100%;height:auto}
 </style>
 </head>
