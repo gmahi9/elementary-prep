@@ -12,9 +12,9 @@ for (const question of questions) {
   byTopic.get(question.topic).push(order(question));
 }
 
-mkdirSync(new URL('../src/data/grade3/', import.meta.url), { recursive: true });
+mkdirSync(new URL('../seeds/questions/grade-3/', import.meta.url), { recursive: true });
 for (const [topic, list] of byTopic) {
-  const path = new URL(`../src/data/grade3/${topic}.json`, import.meta.url);
+  const path = new URL(`../seeds/questions/grade-3/${topic}.json`, import.meta.url);
   writeFileSync(path, `${JSON.stringify(list, null, 2)}\n`);
 }
 

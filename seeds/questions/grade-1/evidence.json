@@ -1,0 +1,527 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells how many frog books Abby checked out?",
+    "passageTitle": "Library Card",
+    "passage": "Abby checked out two books about frogs. She read one book on the bus. She saved the other book for bedtime.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Abby checked out two books about frogs.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Abby checked out five books about birds.",
+      "She read both books on the bus.",
+      "Abby checked out two books about frogs.",
+      "She returned the books before lunch."
+    ],
+    "answerIndex": 2,
+    "id": "g1-evidence-0001",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells where Abby read one book?",
+    "passageTitle": "Library Card",
+    "passage": "Abby checked out two books about frogs. She read one book on the bus. She saved the other book for bedtime.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: She read one book on the bus.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "She read one book in the cafeteria.",
+      "She lost her library card.",
+      "The bus was late on Monday.",
+      "She read one book on the bus."
+    ],
+    "answerIndex": 3,
+    "id": "g1-evidence-0002",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells when Abby planned to read the other book?",
+    "passageTitle": "Library Card",
+    "passage": "Abby checked out two books about frogs. She read one book on the bus. She saved the other book for bedtime.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: She saved the other book for bedtime.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "She saved the other book for bedtime.",
+      "She saved the other book for breakfast.",
+      "She gave both books away.",
+      "The frogs lived in a pond."
+    ],
+    "answerIndex": 0,
+    "id": "g1-evidence-0003",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Ben planted?",
+    "passageTitle": "Class Garden",
+    "passage": "Ben planted bean seeds in a cup. He watered the cup each morning. A green sprout came up on Friday.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Ben planted bean seeds in a cup.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Ben planted flower bulbs in a pot.",
+      "Ben planted bean seeds in a cup.",
+      "He watered the cup once a week.",
+      "A yellow flower came up on Monday."
+    ],
+    "answerIndex": 1,
+    "id": "g1-evidence-0004",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells when Ben watered?",
+    "passageTitle": "Class Garden",
+    "passage": "Ben planted bean seeds in a cup. He watered the cup each morning. A green sprout came up on Friday.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: He watered the cup each morning.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "He watered the cup each night.",
+      "Ben forgot the cup.",
+      "He watered the cup each morning.",
+      "The class ate the beans."
+    ],
+    "answerIndex": 2,
+    "id": "g1-evidence-0005",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what happened on Friday?",
+    "passageTitle": "Class Garden",
+    "passage": "Ben planted bean seeds in a cup. He watered the cup each morning. A green sprout came up on Friday.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: A green sprout came up on Friday.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "A red bloom came up on Friday.",
+      "The cup tipped over.",
+      "A green sprout came up on Friday.",
+      "Ben planted seeds on Friday."
+    ],
+    "answerIndex": 2,
+    "id": "g1-evidence-0006",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Cora heard?",
+    "passageTitle": "Rainy Recess",
+    "passage": "Cora heard rain on the roof. The class stayed inside to build with blocks. Cora made a tower taller than her chair.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Cora heard rain on the roof.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Cora heard bells in the hall.",
+      "The class went outside to run.",
+      "Cora made a tower shorter than her shoe.",
+      "Cora heard rain on the roof."
+    ],
+    "answerIndex": 3,
+    "id": "g1-evidence-0007",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what the class did?",
+    "passageTitle": "Rainy Recess",
+    "passage": "Cora heard rain on the roof. The class stayed inside to build with blocks. Cora made a tower taller than her chair.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The class stayed inside to build with blocks.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The class stayed inside to read maps.",
+      "Cora opened every window.",
+      "The roof leaked onto the rug.",
+      "The class stayed inside to build with blocks."
+    ],
+    "answerIndex": 3,
+    "id": "g1-evidence-0008",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells how tall the tower was?",
+    "passageTitle": "Rainy Recess",
+    "passage": "Cora heard rain on the roof. The class stayed inside to build with blocks. Cora made a tower taller than her chair.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Cora made a tower taller than her chair.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Cora made a tower taller than her chair.",
+      "Cora made a tower shorter than her shoe.",
+      "The chair was outside.",
+      "Blocks were put away unused."
+    ],
+    "answerIndex": 0,
+    "id": "g1-evidence-0009",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Dev brought?",
+    "passageTitle": "Pet Visit",
+    "passage": "Dev brought a photo of his puppy. The puppy in the photo had one white paw. The class wrote the name Pip under the photo.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Dev brought a photo of his puppy.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Dev brought a photo of his kitten.",
+      "The puppy had two black ears only.",
+      "The class wrote the name Max under the photo.",
+      "Dev brought a photo of his puppy."
+    ],
+    "answerIndex": 3,
+    "id": "g1-evidence-0010",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells about the puppy's paw?",
+    "passageTitle": "Pet Visit",
+    "passage": "Dev brought a photo of his puppy. The puppy in the photo had one white paw. The class wrote the name Pip under the photo.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The puppy in the photo had one white paw.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The puppy in the photo had one black ear.",
+      "The puppy in the photo had one white paw.",
+      "Dev hid the photo.",
+      "The class drew a map."
+    ],
+    "answerIndex": 1,
+    "id": "g1-evidence-0011",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells the name under the photo?",
+    "passageTitle": "Pet Visit",
+    "passage": "Dev brought a photo of his puppy. The puppy in the photo had one white paw. The class wrote the name Pip under the photo.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The class wrote the name Pip under the photo.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The class wrote the name Max under the photo.",
+      "The class wrote the name Pip under the photo.",
+      "Dev wrote nothing.",
+      "Pip was the teacher's name on the door."
+    ],
+    "answerIndex": 1,
+    "id": "g1-evidence-0012",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells how Eva measured?",
+    "passageTitle": "Measure the Desk",
+    "passage": "Eva lined up six paper clips along her pencil. The pencil was longer than her eraser. She recorded 6 on her chart.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Eva lined up six paper clips along her pencil.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Eva lined up ten cubes along her pencil.",
+      "The pencil was shorter than her eraser.",
+      "Eva lined up six paper clips along her pencil.",
+      "She recorded 12 on her chart."
+    ],
+    "answerIndex": 2,
+    "id": "g1-evidence-0013",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence compares the pencil and the eraser?",
+    "passageTitle": "Measure the Desk",
+    "passage": "Eva lined up six paper clips along her pencil. The pencil was longer than her eraser. She recorded 6 on her chart.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The pencil was longer than her eraser.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The pencil was shorter than her eraser.",
+      "Eva lost the paper clips.",
+      "The chart was blank.",
+      "The pencil was longer than her eraser."
+    ],
+    "answerIndex": 3,
+    "id": "g1-evidence-0014",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells the number Eva recorded?",
+    "passageTitle": "Measure the Desk",
+    "passage": "Eva lined up six paper clips along her pencil. The pencil was longer than her eraser. She recorded 6 on her chart.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: She recorded 6 on her chart.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "She recorded 12 on her chart.",
+      "She recorded nothing.",
+      "The pencil snapped in half.",
+      "She recorded 6 on her chart."
+    ],
+    "answerIndex": 3,
+    "id": "g1-evidence-0015",
+    "grade": 1
+  }
+]

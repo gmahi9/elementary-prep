@@ -150,8 +150,9 @@ nav a[aria-current="page"], nav a:hover { color: var(--ink); background: rgba(28
 .grades { display: flex; gap: 4px; }
 .grade { min-width: 40px; padding: 4px 8px; flex-direction: column; line-height: 1; background: rgba(255, 252, 247, 0.7); border-color: var(--line); }
 .grade small { font-size: 0.62rem; letter-spacing: 0.04em; text-transform: uppercase; color: var(--faint); }
-.grade.ready { background: #e394551a; border-color: rgba(227, 148, 85, 0.8); color: var(--ink); }
-.grade[aria-disabled="true"] { opacity: 0.5; }
+.grade.on { background: #1c2430; color: #fffaf6; border-color: #1c2430; }
+.grade.on small { color: #f3e2c4; }
+.empty-block { display: grid; gap: 12px; justify-items: start; }
 
 .scoreboard { display: grid; grid-template-columns: repeat(4, minmax(68px, 1fr)); gap: 6px; margin-left: auto; }
 .save-note { grid-column: 1 / -1; margin: 0; color: var(--muted); font-size: 0.78rem; line-height: 1.3; text-align: center; }

@@ -1,0 +1,162 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Nora reads this number pattern: 1, 2, 3, 4. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 1. Step 3: The next number is 5.",
+    "skill": "K.CC.A.2",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Counting",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting"
+      },
+      {
+        "label": "Common Core K.CC.B.4",
+        "href": "https://www.thecorestandards.org/Math/Content/K/CC/B/4/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "choices": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answerIndex": 3,
+    "id": "gk-number-series-0001",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Owen reads this number pattern: 2, 3, 4, 5. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 1. Step 3: The next number is 6.",
+    "skill": "K.CC.A.2",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Counting",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting"
+      },
+      {
+        "label": "Common Core K.CC.B.4",
+        "href": "https://www.thecorestandards.org/Math/Content/K/CC/B/4/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "choices": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "answerIndex": 0,
+    "id": "gk-number-series-0002",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Pia reads this number pattern: 3, 4, 5, 6. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 1. Step 3: The next number is 7.",
+    "skill": "K.CC.A.2",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Counting",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting"
+      },
+      {
+        "label": "Common Core K.CC.B.4",
+        "href": "https://www.thecorestandards.org/Math/Content/K/CC/B/4/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "choices": [
+      "7",
+      "8",
+      "6",
+      "9"
+    ],
+    "answerIndex": 0,
+    "id": "gk-number-series-0003",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Quinn reads this number pattern: 4, 5, 6, 7. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 1. Step 3: The next number is 8.",
+    "skill": "K.CC.A.2",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Counting",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting"
+      },
+      {
+        "label": "Common Core K.CC.B.4",
+        "href": "https://www.thecorestandards.org/Math/Content/K/CC/B/4/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "choices": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answerIndex": 3,
+    "id": "gk-number-series-0004",
+    "grade": 0
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Sam checks the clock in the picture. What time does it show?",
+    "explanation": "Step 1: The short hand tells the hour. Step 2: The long hand tells the minutes. Step 3: The clock shows 3:00.",
+    "skill": "1.MD.B.3",
+    "skillLabel": "Tell time",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "figure": {
+      "kind": "clock",
+      "h": 3,
+      "m": 0,
+      "alt": "A clock showing 3:00"
+    },
+    "verify": {
+      "kind": "clock",
+      "h": 3,
+      "m": 0
+    },
+    "choices": [
+      "3:00",
+      "6:00",
+      "9:30",
+      "1:15"
+    ],
+    "answerIndex": 0,
+    "id": "g1-time-0001",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Tara checks the clock in the picture. What time does it show?",
+    "explanation": "Step 1: The short hand tells the hour. Step 2: The long hand tells the minutes. Step 3: The clock shows 6:00.",
+    "skill": "1.MD.B.3",
+    "skillLabel": "Tell time",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "figure": {
+      "kind": "clock",
+      "h": 6,
+      "m": 0,
+      "alt": "A clock showing 6:00"
+    },
+    "verify": {
+      "kind": "clock",
+      "h": 6,
+      "m": 0
+    },
+    "choices": [
+      "3:00",
+      "9:30",
+      "6:00",
+      "1:15"
+    ],
+    "answerIndex": 2,
+    "id": "g1-time-0002",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Uma checks the clock in the picture. What time does it show?",
+    "explanation": "Step 1: The short hand tells the hour. Step 2: The long hand tells the minutes. Step 3: The clock shows 9:30.",
+    "skill": "1.MD.B.3",
+    "skillLabel": "Tell time",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "figure": {
+      "kind": "clock",
+      "h": 9,
+      "m": 30,
+      "alt": "A clock showing 9:30"
+    },
+    "verify": {
+      "kind": "clock",
+      "h": 9,
+      "m": 30
+    },
+    "choices": [
+      "3:00",
+      "6:00",
+      "9:30",
+      "1:15"
+    ],
+    "answerIndex": 2,
+    "id": "g1-time-0003",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Vik checks the clock in the picture. What time does it show?",
+    "explanation": "Step 1: The short hand tells the hour. Step 2: The long hand tells the minutes. Step 3: The clock shows 1:15.",
+    "skill": "1.MD.B.3",
+    "skillLabel": "Tell time",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "figure": {
+      "kind": "clock",
+      "h": 1,
+      "m": 15,
+      "alt": "A clock showing 1:15"
+    },
+    "verify": {
+      "kind": "clock",
+      "h": 1,
+      "m": 15
+    },
+    "choices": [
+      "3:00",
+      "6:00",
+      "9:30",
+      "1:15"
+    ],
+    "answerIndex": 3,
+    "id": "g1-time-0004",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Willa checks the clock in the picture. What time does it show?",
+    "explanation": "Step 1: The short hand tells the hour. Step 2: The long hand tells the minutes. Step 3: The clock shows 4:45.",
+    "skill": "1.MD.B.3",
+    "skillLabel": "Tell time",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "figure": {
+      "kind": "clock",
+      "h": 4,
+      "m": 45,
+      "alt": "A clock showing 4:45"
+    },
+    "verify": {
+      "kind": "clock",
+      "h": 4,
+      "m": 45
+    },
+    "choices": [
+      "3:00",
+      "6:00",
+      "4:45",
+      "9:30"
+    ],
+    "answerIndex": 2,
+    "id": "g1-time-0005",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Nico checks the clock in the picture. What time does it show?",
+    "explanation": "Step 1: The short hand tells the hour. Step 2: The long hand tells the minutes. Step 3: The clock shows 7:30.",
+    "skill": "1.MD.B.3",
+    "skillLabel": "Tell time",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "figure": {
+      "kind": "clock",
+      "h": 7,
+      "m": 30,
+      "alt": "A clock showing 7:30"
+    },
+    "verify": {
+      "kind": "clock",
+      "h": 7,
+      "m": 30
+    },
+    "choices": [
+      "3:00",
+      "6:00",
+      "7:30",
+      "9:30"
+    ],
+    "answerIndex": 2,
+    "id": "g1-time-0006",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Lila checks the clock in the picture. What time does it show?",
+    "explanation": "Step 1: The short hand tells the hour. Step 2: The long hand tells the minutes. Step 3: The clock shows 10:00.",
+    "skill": "1.MD.B.3",
+    "skillLabel": "Tell time",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "figure": {
+      "kind": "clock",
+      "h": 10,
+      "m": 0,
+      "alt": "A clock showing 10:00"
+    },
+    "verify": {
+      "kind": "clock",
+      "h": 10,
+      "m": 0
+    },
+    "choices": [
+      "3:00",
+      "6:00",
+      "9:30",
+      "10:00"
+    ],
+    "answerIndex": 3,
+    "id": "g1-time-0007",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "time",
+    "topicLabel": "Time",
+    "prompt": "Omar checks the clock in the picture. What time does it show?",
+    "explanation": "Step 1: The short hand tells the hour. Step 2: The long hand tells the minutes. Step 3: The clock shows 2:30.",
+    "skill": "1.MD.B.3",
+    "skillLabel": "Tell time",
+    "links": [
+      {
+        "label": "Khan Academy: Length and time",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-geometry"
+      },
+      {
+        "label": "Math is Fun: Time",
+        "href": "https://www.mathsisfun.com/time.html"
+      }
+    ],
+    "figure": {
+      "kind": "clock",
+      "h": 2,
+      "m": 30,
+      "alt": "A clock showing 2:30"
+    },
+    "verify": {
+      "kind": "clock",
+      "h": 2,
+      "m": 30
+    },
+    "choices": [
+      "2:30",
+      "3:00",
+      "6:00",
+      "9:30"
+    ],
+    "answerIndex": 0,
+    "id": "g1-time-0008",
+    "grade": 1
+  }
+]

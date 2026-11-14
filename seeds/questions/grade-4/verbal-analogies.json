@@ -1,0 +1,596 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Ida finishes the pair: glove is to hand as sock is to ____.",
+    "explanation": "Step 1: Look at how glove and hand go together. Step 2: A glove covers a hand, and a sock covers a foot. Step 3: So sock goes with foot.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "foot"
+    ],
+    "answerIndex": 3,
+    "id": "g4-verbal-analogies-0001",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Rex finishes the pair: beak is to bird as fin is to ____.",
+    "explanation": "Step 1: Look at how beak and bird go together. Step 2: A beak is a bird part, and a fin is a fish part. Step 3: So fin goes with fish.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "fish",
+      "pencil"
+    ],
+    "answerIndex": 2,
+    "id": "g4-verbal-analogies-0002",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Cleo finishes the pair: teacher is to school as doctor is to ____.",
+    "explanation": "Step 1: Look at how teacher and school go together. Step 2: A teacher works at a school, and a doctor works at a hospital. Step 3: So doctor goes with hospital.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "hospital",
+      "house",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 0,
+    "id": "g4-verbal-analogies-0003",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Wes finishes the pair: cub is to lion as calf is to ____.",
+    "explanation": "Step 1: Look at how cub and lion go together. Step 2: A cub is a young lion, and a calf is a young cow. Step 3: So calf goes with cow.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "cow",
+      "house",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 0,
+    "id": "g4-verbal-analogies-0004",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Nora finishes the pair: petal is to flower as feather is to ____.",
+    "explanation": "Step 1: Look at how petal and flower go together. Step 2: A petal is part of a flower, and a feather is part of a bird. Step 3: So feather goes with bird.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "bird",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 1,
+    "id": "g4-verbal-analogies-0005",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Owen finishes the pair: author is to book as painter is to ____.",
+    "explanation": "Step 1: Look at how author and book go together. Step 2: An author makes a book, and a painter makes a picture. Step 3: So painter goes with picture.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "picture",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 1,
+    "id": "g4-verbal-analogies-0006",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Pia finishes the pair: pilot is to airplane as captain is to ____.",
+    "explanation": "Step 1: Look at how pilot and airplane go together. Step 2: A pilot flies an airplane, and a captain leads a ship. Step 3: So captain goes with ship.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "ship",
+      "house",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 0,
+    "id": "g4-verbal-analogies-0007",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Quinn finishes the pair: seed is to plant as egg is to ____.",
+    "explanation": "Step 1: Look at how seed and plant go together. Step 2: A seed grows into a plant, and an egg can hold a baby bird. Step 3: So egg goes with bird.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "bird"
+    ],
+    "answerIndex": 3,
+    "id": "g4-verbal-analogies-0008",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Rosa finishes the pair: finger is to hand as toe is to ____.",
+    "explanation": "Step 1: Look at how finger and hand go together. Step 2: A finger is part of a hand, and a toe is part of a foot. Step 3: So toe goes with foot.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "foot",
+      "house",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 0,
+    "id": "g4-verbal-analogies-0009",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Sam finishes the pair: whisper is to quiet as shout is to ____.",
+    "explanation": "Step 1: Look at how whisper and quiet go together. Step 2: A whisper is quiet, and a shout is loud. Step 3: So shout goes with loud.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "loud",
+      "house",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 0,
+    "id": "g4-verbal-analogies-0010",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Tara finishes the pair: begin is to start as end is to ____.",
+    "explanation": "Step 1: Look at how begin and start go together. Step 2: Begin means start, and end means finish. Step 3: So end goes with finish.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "finish",
+      "pencil"
+    ],
+    "answerIndex": 2,
+    "id": "g4-verbal-analogies-0011",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Uma finishes the pair: tiny is to small as huge is to ____.",
+    "explanation": "Step 1: Look at how tiny and small go together. Step 2: Tiny means small, and huge means large. Step 3: So huge goes with large.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "large",
+      "pencil"
+    ],
+    "answerIndex": 2,
+    "id": "g4-verbal-analogies-0012",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Vik finishes the pair: chilly is to cold as scorching is to ____.",
+    "explanation": "Step 1: Look at how chilly and cold go together. Step 2: Chilly means cold, and scorching means hot. Step 3: So scorching goes with hot.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "hot",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 1,
+    "id": "g4-verbal-analogies-0013",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Willa finishes the pair: wheel is to wagon as sail is to ____.",
+    "explanation": "Step 1: Look at how wheel and wagon go together. Step 2: A wheel helps a wagon move, and a sail helps a boat move. Step 3: So sail goes with boat.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "boat"
+    ],
+    "answerIndex": 3,
+    "id": "g4-verbal-analogies-0014",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Nico finishes the pair: page is to book as drawer is to ____.",
+    "explanation": "Step 1: Look at how page and book go together. Step 2: A page is part of a book, and a drawer is part of a desk. Step 3: So drawer goes with desk.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "desk"
+    ],
+    "answerIndex": 3,
+    "id": "g4-verbal-analogies-0015",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Lila finishes the pair: key is to lock as lid is to ____.",
+    "explanation": "Step 1: Look at how key and lock go together. Step 2: A key opens a lock, and a lid covers a jar. Step 3: So lid goes with jar.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "jar",
+      "house",
+      "water",
+      "pencil"
+    ],
+    "answerIndex": 0,
+    "id": "g4-verbal-analogies-0016",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Omar finishes the pair: branch is to tree as sleeve is to ____.",
+    "explanation": "Step 1: Look at how branch and tree go together. Step 2: A branch is part of a tree, and a sleeve is part of a coat. Step 3: So sleeve goes with coat.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "pencil",
+      "coat"
+    ],
+    "answerIndex": 3,
+    "id": "g4-verbal-analogies-0017",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "verbal-analogies",
+    "topicLabel": "Verbal analogies",
+    "prompt": "Hana finishes the pair: rain is to wet as sun is to ____.",
+    "explanation": "Step 1: Look at how rain and wet go together. Step 2: Rain makes things wet, and the sun makes the day bright. Step 3: So sun goes with bright.",
+    "skill": "L.4.5",
+    "skillLabel": "Word relationships",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "house",
+      "water",
+      "bright",
+      "pencil"
+    ],
+    "answerIndex": 2,
+    "id": "g4-verbal-analogies-0018",
+    "grade": 4
+  }
+]

@@ -1,8 +1,8 @@
 # Elementary Prep
 
-Sunny Steps is a kid-friendly practice app for elementary students. Grade 3 is ready. Kindergarten and grades 1, 2, 4, and 5 are marked coming soon.
+Sunny Steps is a kid-friendly practice app for elementary students. Kindergarten and grades 1 through 5 are ready.
 
-It runs in the browser. Anyone can practice without signing in. Progress is saved only for a signed-in account. Without an account, scores last for the current visit and reset when you leave.
+It runs in the browser. Anyone can practice without signing in. Progress is saved only for a signed-in account. Without an account, scores last for the current visit and reset when you leave. Sign-in saves scores for each grade.
 
 ## Disclaimer
 
@@ -10,13 +10,13 @@ Sunny Steps is unofficial practice. It is not affiliated with, endorsed by, or a
 
 ## Features
 
-- Grade selector, with Grade 3 open and the other elementary grades shown as coming soon
+- Grade picker for kindergarten and grades 1 through 5. The last grade you pick is remembered. Signed-in scores stay separate for each grade
 - Section tabs for CogAT-style reasoning, i-Ready-style math, MAP-style reading, and Torrance-style creative challenges
 - Practice with instant feedback, a short explanation, and a "Learn this skill" link
 - Timed or untimed mock tests with an end summary by skill
 - A review queue for missed questions
 - Scoreboard for correct answers, questions answered, streak, and score
-- Badges and per-skill progress. Guests keep scores, streaks, the mistake queue, badges, and mock-test results in memory for the current visit. A signed-in account stores them through `/api/progress`
+- Badges and per-skill progress. Guests keep scores, streaks, the mistake queue, badges, and mock-test results in memory for the current visit. A signed-in account stores them through `/api/progress` for each grade
 - Optional sign-in with Google, Microsoft, or GitHub. Signing in during a visit saves that visit to the account. Providers without keys stay hidden. When none are configured, a note says progress resets when you leave
 - Read-aloud for the question and choices through the Web Speech API
 - Large tap targets, keyboard answers (1–4), and a grown-ups view with a skill mastery chart
@@ -27,7 +27,7 @@ Creative prompts are open-ended. They use a self-check rubric and are not part o
 
 ## Content coverage
 
-Grade 3 has **1,167** questions, **1,137** of them scored. Counts below are unique items, not copies of the same stem.
+Questions live in D1, not in the client bundle. The files under `seeds/questions/` are the source. Grade 3 has **1,167** questions, **1,137** of them scored. Kindergarten and grades 1, 2, 4, and 5 each have at least 200 scored questions. Counts below for grade 3 are unique items, not copies of the same stem.
 
 | Section | Questions | Scored | What is inside |
 | --- | ---: | ---: | --- |
@@ -58,15 +58,53 @@ The Vite `base` is `./`, and routes use the URL hash (`#/practice`, `#/test`, `#
 
 ## Sign-in
 
-See [docs/AUTH_SETUP.md](docs/AUTH_SETUP.md) for the OAuth apps, the D1 database, and the Pages secrets. `npm run dev` stays in guest mode. Sign-in runs when the site is served with the Pages Functions in `functions/`.
+See [docs/AUTH_SETUP.md](docs/AUTH_SETUP.md) for the OAuth apps, the D1 database, and the Pages secrets. `npm run dev` serves the question API from `seeds/questions/` so practice works without D1. Sign-in still runs when the site is served with the Pages Functions in `functions/`. Production reads questions from the D1 binding `DB`.
 
 ## Netlify
 
 `netlify.toml` builds with `npm run build`, publishes `dist`, and sets Node 22. Response headers include a content security policy, `X-Content-Type-Options`, `X-Frame-Options`, `Referrer-Policy`, and `Strict-Transport-Security`.
 
+## Questions in D1
+
+Adding a question or a grade is a database insert. The site does not need a new build for new rows.
+
+1. Add a JSON file under `seeds/questions/grade-<n>/`, or append items to a file already there. Kindergarten is `grade-0`. Use the same item shape as the grade 3 files: a stable id such as `g3-fractions-0042`, a grade, section, topic, prompt, choices, answer index, a step-by-step explanation, and a free lesson link.
+2. Validate the bank and write SQL:
+
+```bash
+npm run seed:sql
+```
+
+That checks every item (schema, unique ids, the answer is one of the choices, and an explanation is present) and writes idempotent `INSERT OR REPLACE` statements to `seeds/out/questions.sql`.
+
+3. Create the table, if this database does not have it yet, and load the rows.
+
+Production:
+
+```bash
+npx wrangler d1 migrations apply elementary-prep --remote
+npx wrangler d1 execute elementary-prep --remote --file=seeds/out/questions.sql
+```
+
+Local D1:
+
+```bash
+npm run seed:local
+```
+
+`seed:local` writes the SQL, applies migrations to the local database, and executes `seeds/out/questions.sql`. The database id in `wrangler.toml` stays as it is.
+
+The public Pages Functions are:
+
+- `GET /api/grades` returns each grade and how many active questions it has
+- `GET /api/sections?grade=` returns the sections and topics for that grade
+- `GET /api/questions?grade=&section=&limit=` returns a random sample of active questions
+
+`grade` may be `K` or `0` through `5`. `section` is `cogat`, `iready`, `map`, or `torrance`. `limit` defaults to 24 and cannot be higher than 80.
+
 ## Contributing questions
 
-Prefer editing `scripts/` and running `npm run generate`, which rewrites `src/data/grade3/*.json`. You can also edit a JSON file directly. Do not run generate after a hand edit unless you have moved that edit into the script.
+Edit the JSON under `seeds/questions/`, then run `npm run seed:sql` and the execute command above. `npm run generate` rewrites only `seeds/questions/grade-3/`. Do not run generate after a hand edit unless you have moved that edit into `scripts/`. `node scripts/generate-grades.mjs` rewrites kindergarten and grades 1, 2, 4, and 5; do not run it after a hand edit to those files.
 
 Scored questions use this shape:
 
@@ -84,7 +122,12 @@ Scored questions use this shape:
   "skill": "L.3.5",
   "skillLabel": "Word relationships",
   "difficulty": 1,
-  "links": [],
+  "links": [
+    {
+      "label": "Khan Academy: 3rd grade vocabulary",
+      "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+    }
+  ],
   "scored": true,
   "verify": { "kind": "authored" }
 }
@@ -94,7 +137,7 @@ Rules for a new item:
 
 - The prompt text must be unique across the whole bank.
 - A scored item needs 4 or 5 choices (one answer and 3 or 4 distractors), a difficulty of 1, 2, or 3, and an explanation a child can follow.
-- `links` must be copied from the matching skill in `src/data/skills.json`. Do not invent a new URL for one question.
+- Grade 3 `links` must be copied from the matching skill in `src/data/skills.json`. Other grades need one or two real `https` lesson links (Khan Academy, the Common Core State Standards, Math is Fun, PBS LearningMedia, or ReadWriteThink). The first link is stored as `lesson_url`.
 - Math that can be recalculated should include a `verify` object the test can recompute (`expr`, `series`, `round`, `fraction`, `money`, and the other kinds in `src/lib/verify.mjs`).
 - Reading evidence must quote a sentence that appears in the passage. The other choices must not.
 - Creative items set `scored` to false, leave the choices empty, and include a rubric of at least four checks.

@@ -1,0 +1,614 @@
+[
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Nora needs a word that rhymes with cat. Which word rhymes with cat?",
+    "explanation": "Step 1: Say cat and listen to the ending. Step 2: A rhyme ends with the same sound, \"at\". Step 3: hat rhymes with cat.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "dog",
+      "hat",
+      "sun",
+      "cup"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "at"
+    },
+    "id": "gk-rhymes-0001",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Owen needs a word that rhymes with log. Which word rhymes with log?",
+    "explanation": "Step 1: Say log and listen to the ending. Step 2: A rhyme ends with the same sound, \"og\". Step 3: frog rhymes with log.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "pen",
+      "map",
+      "frog",
+      "hill"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "og"
+    },
+    "id": "gk-rhymes-0002",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Pia needs a word that rhymes with pin. Which word rhymes with pin?",
+    "explanation": "Step 1: Say pin and listen to the ending. Step 2: A rhyme ends with the same sound, \"in\". Step 3: fin rhymes with pin.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "cat",
+      "dog",
+      "cup",
+      "fin"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "in"
+    },
+    "id": "gk-rhymes-0003",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Quinn needs a word that rhymes with bug. Which word rhymes with bug?",
+    "explanation": "Step 1: Say bug and listen to the ending. Step 2: A rhyme ends with the same sound, \"ug\". Step 3: rug rhymes with bug.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "rug",
+      "hat",
+      "sun",
+      "tree"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "ug"
+    },
+    "id": "gk-rhymes-0004",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Rosa needs a word that rhymes with cake. Which word rhymes with cake?",
+    "explanation": "Step 1: Say cake and listen to the ending. Step 2: A rhyme ends with the same sound, \"ake\". Step 3: lake rhymes with cake.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "dog",
+      "lake",
+      "moon",
+      "fish"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "ake"
+    },
+    "id": "gk-rhymes-0005",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Sam needs a word that rhymes with star. Which word rhymes with star?",
+    "explanation": "Step 1: Say star and listen to the ending. Step 2: A rhyme ends with the same sound, \"ar\". Step 3: car rhymes with star.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "cup",
+      "hen",
+      "car",
+      "log"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "ar"
+    },
+    "id": "gk-rhymes-0006",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Tara needs a word that rhymes with bell. Which word rhymes with bell?",
+    "explanation": "Step 1: Say bell and listen to the ending. Step 2: A rhyme ends with the same sound, \"ell\". Step 3: shell rhymes with bell.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "dog",
+      "sun",
+      "map",
+      "shell"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "ell"
+    },
+    "id": "gk-rhymes-0007",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Uma needs a word that rhymes with rock. Which word rhymes with rock?",
+    "explanation": "Step 1: Say rock and listen to the ending. Step 2: A rhyme ends with the same sound, \"ock\". Step 3: sock rhymes with rock.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "sock",
+      "pen",
+      "fish",
+      "tree"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "ock"
+    },
+    "id": "gk-rhymes-0008",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Vik needs a word that rhymes with king. Which word rhymes with king?",
+    "explanation": "Step 1: Say king and listen to the ending. Step 2: A rhyme ends with the same sound, \"ing\". Step 3: ring rhymes with king.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "cat",
+      "ring",
+      "dog",
+      "sun"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "ing"
+    },
+    "id": "gk-rhymes-0009",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Willa needs a word that rhymes with boat. Which word rhymes with boat?",
+    "explanation": "Step 1: Say boat and listen to the ending. Step 2: A rhyme ends with the same sound, \"oat\". Step 3: goat rhymes with boat.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "pin",
+      "cup",
+      "goat",
+      "map"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "oat"
+    },
+    "id": "gk-rhymes-0010",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Nico needs a word that rhymes with tree. Which word rhymes with tree?",
+    "explanation": "Step 1: Say tree and listen to the ending. Step 2: A rhyme ends with the same sound, \"ee\". Step 3: bee rhymes with tree.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "log",
+      "hat",
+      "sun",
+      "bee"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "ee"
+    },
+    "id": "gk-rhymes-0011",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Lila needs a word that rhymes with fish. Which word rhymes with fish?",
+    "explanation": "Step 1: Say fish and listen to the ending. Step 2: A rhyme ends with the same sound, \"ish\". Step 3: dish rhymes with fish.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "dish",
+      "car",
+      "pen",
+      "log"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "ish"
+    },
+    "id": "gk-rhymes-0012",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Omar needs a word that rhymes with mouse. Which word rhymes with mouse?",
+    "explanation": "Step 1: Say mouse and listen to the ending. Step 2: A rhyme ends with the same sound, \"ouse\". Step 3: house rhymes with mouse.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "bell",
+      "house",
+      "cup",
+      "star"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "ouse"
+    },
+    "id": "gk-rhymes-0013",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Hana needs a word that rhymes with light. Which word rhymes with light?",
+    "explanation": "Step 1: Say light and listen to the ending. Step 2: A rhyme ends with the same sound, \"ight\". Step 3: night rhymes with light.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "frog",
+      "bell",
+      "night",
+      "cake"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "ight"
+    },
+    "id": "gk-rhymes-0014",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Bea needs a word that rhymes with snow. Which word rhymes with snow?",
+    "explanation": "Step 1: Say snow and listen to the ending. Step 2: A rhyme ends with the same sound, \"ow\". Step 3: glow rhymes with snow.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "pin",
+      "cat",
+      "bug",
+      "glow"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "ow"
+    },
+    "id": "gk-rhymes-0015",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Luis needs a word that rhymes with train. Which word rhymes with train?",
+    "explanation": "Step 1: Say train and listen to the ending. Step 2: A rhyme ends with the same sound, \"ain\". Step 3: rain rhymes with train.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "rain",
+      "sock",
+      "bell",
+      "fish"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "ain"
+    },
+    "id": "gk-rhymes-0016",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Mina needs a word that rhymes with book. Which word rhymes with book?",
+    "explanation": "Step 1: Say book and listen to the ending. Step 2: A rhyme ends with the same sound, \"ook\". Step 3: hook rhymes with book.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "car",
+      "hook",
+      "star",
+      "king"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "ook"
+    },
+    "id": "gk-rhymes-0017",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "rhymes",
+    "topicLabel": "Rhymes",
+    "prompt": "Theo needs a word that rhymes with jump. Which word rhymes with jump?",
+    "explanation": "Step 1: Say jump and listen to the ending. Step 2: A rhyme ends with the same sound, \"ump\". Step 3: bump rhymes with jump.",
+    "skill": "RF.K.2",
+    "skillLabel": "Rhyming words",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "Common Core RF.K.2",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "hat",
+      "bee",
+      "bump",
+      "lake"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "rhyme",
+      "ending": "ump"
+    },
+    "id": "gk-rhymes-0018",
+    "grade": 0,
+    "scored": true
+  }
+]

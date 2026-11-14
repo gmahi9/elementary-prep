@@ -1,0 +1,330 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "area",
+    "topicLabel": "Area",
+    "prompt": "Rex tiles a rectangle that is 3 units long and 2 units wide. What is the area in square units?",
+    "explanation": "Step 1: Area of a rectangle is length times width. Step 2: Multiply 3 × 2. Step 3: The area is 6 square units.",
+    "skill": "4.MD.A.3",
+    "skillLabel": "Area",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "rect",
+      "l": 3,
+      "w": 2,
+      "unit": "units",
+      "alt": "A 3 by 2 rectangle"
+    },
+    "verify": {
+      "kind": "expr",
+      "expr": "3*2"
+    },
+    "choices": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "answerIndex": 2,
+    "id": "g4-area-0001",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "area",
+    "topicLabel": "Area",
+    "prompt": "Cleo tiles a rectangle that is 4 units long and 3 units wide. What is the area in square units?",
+    "explanation": "Step 1: Area of a rectangle is length times width. Step 2: Multiply 4 × 3. Step 3: The area is 12 square units.",
+    "skill": "4.MD.A.3",
+    "skillLabel": "Area",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "rect",
+      "l": 4,
+      "w": 3,
+      "unit": "units",
+      "alt": "A 4 by 3 rectangle"
+    },
+    "verify": {
+      "kind": "expr",
+      "expr": "4*3"
+    },
+    "choices": [
+      "12",
+      "13",
+      "11",
+      "14"
+    ],
+    "answerIndex": 0,
+    "id": "g4-area-0002",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "area",
+    "topicLabel": "Area",
+    "prompt": "Wes tiles a rectangle that is 5 units long and 4 units wide. What is the area in square units?",
+    "explanation": "Step 1: Area of a rectangle is length times width. Step 2: Multiply 5 × 4. Step 3: The area is 20 square units.",
+    "skill": "4.MD.A.3",
+    "skillLabel": "Area",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "rect",
+      "l": 5,
+      "w": 4,
+      "unit": "units",
+      "alt": "A 5 by 4 rectangle"
+    },
+    "verify": {
+      "kind": "expr",
+      "expr": "5*4"
+    },
+    "choices": [
+      "20",
+      "21",
+      "19",
+      "22"
+    ],
+    "answerIndex": 0,
+    "id": "g4-area-0003",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "area",
+    "topicLabel": "Area",
+    "prompt": "Nora tiles a rectangle that is 6 units long and 2 units wide. What is the area in square units?",
+    "explanation": "Step 1: Area of a rectangle is length times width. Step 2: Multiply 6 × 2. Step 3: The area is 12 square units.",
+    "skill": "4.MD.A.3",
+    "skillLabel": "Area",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "rect",
+      "l": 6,
+      "w": 2,
+      "unit": "units",
+      "alt": "A 6 by 2 rectangle"
+    },
+    "verify": {
+      "kind": "expr",
+      "expr": "6*2"
+    },
+    "choices": [
+      "13",
+      "11",
+      "12",
+      "14"
+    ],
+    "answerIndex": 2,
+    "id": "g4-area-0004",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "area",
+    "topicLabel": "Area",
+    "prompt": "Owen tiles a rectangle that is 7 units long and 3 units wide. What is the area in square units?",
+    "explanation": "Step 1: Area of a rectangle is length times width. Step 2: Multiply 7 × 3. Step 3: The area is 21 square units.",
+    "skill": "4.MD.A.3",
+    "skillLabel": "Area",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "rect",
+      "l": 7,
+      "w": 3,
+      "unit": "units",
+      "alt": "A 7 by 3 rectangle"
+    },
+    "verify": {
+      "kind": "expr",
+      "expr": "7*3"
+    },
+    "choices": [
+      "22",
+      "20",
+      "23",
+      "21"
+    ],
+    "answerIndex": 3,
+    "id": "g4-area-0005",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "area",
+    "topicLabel": "Area",
+    "prompt": "Pia tiles a rectangle that is 8 units long and 4 units wide. What is the area in square units?",
+    "explanation": "Step 1: Area of a rectangle is length times width. Step 2: Multiply 8 × 4. Step 3: The area is 32 square units.",
+    "skill": "4.MD.A.3",
+    "skillLabel": "Area",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "rect",
+      "l": 8,
+      "w": 4,
+      "unit": "units",
+      "alt": "A 8 by 4 rectangle"
+    },
+    "verify": {
+      "kind": "expr",
+      "expr": "8*4"
+    },
+    "choices": [
+      "33",
+      "31",
+      "34",
+      "32"
+    ],
+    "answerIndex": 3,
+    "id": "g4-area-0006",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "area",
+    "topicLabel": "Area",
+    "prompt": "Quinn tiles a rectangle that is 5 units long and 5 units wide. What is the area in square units?",
+    "explanation": "Step 1: Area of a rectangle is length times width. Step 2: Multiply 5 × 5. Step 3: The area is 25 square units.",
+    "skill": "4.MD.A.3",
+    "skillLabel": "Area",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "rect",
+      "l": 5,
+      "w": 5,
+      "unit": "units",
+      "alt": "A 5 by 5 rectangle"
+    },
+    "verify": {
+      "kind": "expr",
+      "expr": "5*5"
+    },
+    "choices": [
+      "26",
+      "24",
+      "25",
+      "27"
+    ],
+    "answerIndex": 2,
+    "id": "g4-area-0007",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "area",
+    "topicLabel": "Area",
+    "prompt": "Rosa tiles a rectangle that is 9 units long and 2 units wide. What is the area in square units?",
+    "explanation": "Step 1: Area of a rectangle is length times width. Step 2: Multiply 9 × 2. Step 3: The area is 18 square units.",
+    "skill": "4.MD.A.3",
+    "skillLabel": "Area",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "rect",
+      "l": 9,
+      "w": 2,
+      "unit": "units",
+      "alt": "A 9 by 2 rectangle"
+    },
+    "verify": {
+      "kind": "expr",
+      "expr": "9*2"
+    },
+    "choices": [
+      "19",
+      "17",
+      "18",
+      "20"
+    ],
+    "answerIndex": 2,
+    "id": "g4-area-0008",
+    "grade": 4
+  }
+]

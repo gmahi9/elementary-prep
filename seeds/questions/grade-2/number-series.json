@@ -1,0 +1,402 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Nico reads this number pattern: 3, 6, 9, 12. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 3. Step 3: The next number is 15.",
+    "skill": "4.OA.C.5",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        3,
+        6,
+        9,
+        12
+      ]
+    },
+    "choices": [
+      "15",
+      "16",
+      "14",
+      "17"
+    ],
+    "answerIndex": 0,
+    "id": "g2-number-series-0001",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Lila reads this number pattern: 3, 7, 11, 15. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 4. Step 3: The next number is 19.",
+    "skill": "4.OA.C.5",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        3,
+        7,
+        11,
+        15
+      ]
+    },
+    "choices": [
+      "20",
+      "18",
+      "19",
+      "21"
+    ],
+    "answerIndex": 2,
+    "id": "g2-number-series-0002",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Omar reads this number pattern: 3, 9, 15, 21. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 6. Step 3: The next number is 27.",
+    "skill": "4.OA.C.5",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        3,
+        9,
+        15,
+        21
+      ]
+    },
+    "choices": [
+      "28",
+      "26",
+      "29",
+      "27"
+    ],
+    "answerIndex": 3,
+    "id": "g2-number-series-0003",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Hana reads this number pattern: 6, 9, 12, 15. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 3. Step 3: The next number is 18.",
+    "skill": "4.OA.C.5",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        6,
+        9,
+        12,
+        15
+      ]
+    },
+    "choices": [
+      "18",
+      "19",
+      "17",
+      "20"
+    ],
+    "answerIndex": 0,
+    "id": "g2-number-series-0004",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Bea reads this number pattern: 6, 10, 14, 18. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 4. Step 3: The next number is 22.",
+    "skill": "4.OA.C.5",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        6,
+        10,
+        14,
+        18
+      ]
+    },
+    "choices": [
+      "23",
+      "22",
+      "21",
+      "24"
+    ],
+    "answerIndex": 1,
+    "id": "g2-number-series-0005",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Luis reads this number pattern: 6, 12, 18, 24. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 6. Step 3: The next number is 30.",
+    "skill": "4.OA.C.5",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        6,
+        12,
+        18,
+        24
+      ]
+    },
+    "choices": [
+      "31",
+      "29",
+      "32",
+      "30"
+    ],
+    "answerIndex": 3,
+    "id": "g2-number-series-0006",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Mina reads this number pattern: 7, 10, 13, 16. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 3. Step 3: The next number is 19.",
+    "skill": "4.OA.C.5",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        7,
+        10,
+        13,
+        16
+      ]
+    },
+    "choices": [
+      "19",
+      "20",
+      "18",
+      "21"
+    ],
+    "answerIndex": 0,
+    "id": "g2-number-series-0007",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Theo reads this number pattern: 7, 11, 15, 19. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 4. Step 3: The next number is 23.",
+    "skill": "4.OA.C.5",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        7,
+        11,
+        15,
+        19
+      ]
+    },
+    "choices": [
+      "24",
+      "23",
+      "22",
+      "25"
+    ],
+    "answerIndex": 1,
+    "id": "g2-number-series-0008",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Asha reads this number pattern: 7, 13, 19, 25. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 6. Step 3: The next number is 31.",
+    "skill": "4.OA.C.5",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        7,
+        13,
+        19,
+        25
+      ]
+    },
+    "choices": [
+      "32",
+      "30",
+      "31",
+      "33"
+    ],
+    "answerIndex": 2,
+    "id": "g2-number-series-0009",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Jo reads this number pattern: 9, 12, 15, 18. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 3. Step 3: The next number is 21.",
+    "skill": "4.OA.C.5",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        9,
+        12,
+        15,
+        18
+      ]
+    },
+    "choices": [
+      "22",
+      "21",
+      "20",
+      "23"
+    ],
+    "answerIndex": 1,
+    "id": "g2-number-series-0010",
+    "grade": 2
+  }
+]

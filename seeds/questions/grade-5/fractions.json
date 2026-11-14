@@ -1,0 +1,950 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Owen computes 1/4 + 1/4. What is the result in simplest form?",
+    "explanation": "Step 1: Add the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 1/2.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-sum",
+      "left": [
+        1,
+        4
+      ],
+      "right": [
+        1,
+        4
+      ]
+    },
+    "choices": [
+      "1/3",
+      "1/2",
+      "1/4",
+      "2/3"
+    ],
+    "answerIndex": 1,
+    "id": "g5-fractions-0001",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Pia computes 1/2 + 1/4. What is the result in simplest form?",
+    "explanation": "Step 1: Add the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 3/4.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-sum",
+      "left": [
+        1,
+        2
+      ],
+      "right": [
+        1,
+        4
+      ]
+    },
+    "choices": [
+      "1/2",
+      "3/4",
+      "1/3",
+      "1/4"
+    ],
+    "answerIndex": 1,
+    "id": "g5-fractions-0002",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Quinn computes 1/3 + 1/6. What is the result in simplest form?",
+    "explanation": "Step 1: Add the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 1/2.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-sum",
+      "left": [
+        1,
+        3
+      ],
+      "right": [
+        1,
+        6
+      ]
+    },
+    "choices": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "2/3"
+    ],
+    "answerIndex": 0,
+    "id": "g5-fractions-0003",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Rosa computes 2/5 + 1/5. What is the result in simplest form?",
+    "explanation": "Step 1: Add the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 3/5.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-sum",
+      "left": [
+        2,
+        5
+      ],
+      "right": [
+        1,
+        5
+      ]
+    },
+    "choices": [
+      "3/5",
+      "1/2",
+      "1/3",
+      "1/4"
+    ],
+    "answerIndex": 0,
+    "id": "g5-fractions-0004",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Sam computes 1/8 + 3/8. What is the result in simplest form?",
+    "explanation": "Step 1: Add the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 1/2.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-sum",
+      "left": [
+        1,
+        8
+      ],
+      "right": [
+        3,
+        8
+      ]
+    },
+    "choices": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "2/3"
+    ],
+    "answerIndex": 0,
+    "id": "g5-fractions-0005",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Tara computes 1/2 + 1/3. What is the result in simplest form?",
+    "explanation": "Step 1: Add the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 5/6.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-sum",
+      "left": [
+        1,
+        2
+      ],
+      "right": [
+        1,
+        3
+      ]
+    },
+    "choices": [
+      "1/2",
+      "1/3",
+      "5/6",
+      "1/4"
+    ],
+    "answerIndex": 2,
+    "id": "g5-fractions-0006",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Uma computes 3/10 + 1/10. What is the result in simplest form?",
+    "explanation": "Step 1: Add the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 2/5.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-sum",
+      "left": [
+        3,
+        10
+      ],
+      "right": [
+        1,
+        10
+      ]
+    },
+    "choices": [
+      "2/5",
+      "1/2",
+      "1/3",
+      "1/4"
+    ],
+    "answerIndex": 0,
+    "id": "g5-fractions-0007",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Vik computes 2/8 + 1/8. What is the result in simplest form?",
+    "explanation": "Step 1: Add the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 3/8.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-sum",
+      "left": [
+        2,
+        8
+      ],
+      "right": [
+        1,
+        8
+      ]
+    },
+    "choices": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "3/8"
+    ],
+    "answerIndex": 3,
+    "id": "g5-fractions-0008",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Willa computes 1/6 + 1/3. What is the result in simplest form?",
+    "explanation": "Step 1: Add the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 1/2.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-sum",
+      "left": [
+        1,
+        6
+      ],
+      "right": [
+        1,
+        3
+      ]
+    },
+    "choices": [
+      "1/3",
+      "1/4",
+      "1/2",
+      "2/3"
+    ],
+    "answerIndex": 2,
+    "id": "g5-fractions-0009",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Nico computes 3/4 + 1/8. What is the result in simplest form?",
+    "explanation": "Step 1: Add the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 7/8.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-sum",
+      "left": [
+        3,
+        4
+      ],
+      "right": [
+        1,
+        8
+      ]
+    },
+    "choices": [
+      "1/2",
+      "1/3",
+      "7/8",
+      "1/4"
+    ],
+    "answerIndex": 2,
+    "id": "g5-fractions-0010",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Lila computes 3/4 - 1/4. What is the result in simplest form?",
+    "explanation": "Step 1: Subtract the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 1/2.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-diff",
+      "left": [
+        3,
+        4
+      ],
+      "right": [
+        1,
+        4
+      ]
+    },
+    "choices": [
+      "1/3",
+      "1/4",
+      "2/3",
+      "1/2"
+    ],
+    "answerIndex": 3,
+    "id": "g5-fractions-0011",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Omar computes 5/6 - 1/6. What is the result in simplest form?",
+    "explanation": "Step 1: Subtract the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 2/3.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-diff",
+      "left": [
+        5,
+        6
+      ],
+      "right": [
+        1,
+        6
+      ]
+    },
+    "choices": [
+      "2/3",
+      "1/2",
+      "1/3",
+      "1/4"
+    ],
+    "answerIndex": 0,
+    "id": "g5-fractions-0012",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Hana computes 1/2 - 1/6. What is the result in simplest form?",
+    "explanation": "Step 1: Subtract the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 1/3.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-diff",
+      "left": [
+        1,
+        2
+      ],
+      "right": [
+        1,
+        6
+      ]
+    },
+    "choices": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "2/3"
+    ],
+    "answerIndex": 1,
+    "id": "g5-fractions-0013",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Bea computes 7/8 - 1/8. What is the result in simplest form?",
+    "explanation": "Step 1: Subtract the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 3/4.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-diff",
+      "left": [
+        7,
+        8
+      ],
+      "right": [
+        1,
+        8
+      ]
+    },
+    "choices": [
+      "1/2",
+      "3/4",
+      "1/3",
+      "1/4"
+    ],
+    "answerIndex": 1,
+    "id": "g5-fractions-0014",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Luis computes 4/5 - 1/5. What is the result in simplest form?",
+    "explanation": "Step 1: Subtract the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 3/5.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-diff",
+      "left": [
+        4,
+        5
+      ],
+      "right": [
+        1,
+        5
+      ]
+    },
+    "choices": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "3/5"
+    ],
+    "answerIndex": 3,
+    "id": "g5-fractions-0015",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Mina computes 2/3 - 1/6. What is the result in simplest form?",
+    "explanation": "Step 1: Subtract the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 1/2.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-diff",
+      "left": [
+        2,
+        3
+      ],
+      "right": [
+        1,
+        6
+      ]
+    },
+    "choices": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "2/3"
+    ],
+    "answerIndex": 0,
+    "id": "g5-fractions-0016",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Theo computes 5/8 - 1/4. What is the result in simplest form?",
+    "explanation": "Step 1: Subtract the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 3/8.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-diff",
+      "left": [
+        5,
+        8
+      ],
+      "right": [
+        1,
+        4
+      ]
+    },
+    "choices": [
+      "1/2",
+      "3/8",
+      "1/3",
+      "1/4"
+    ],
+    "answerIndex": 1,
+    "id": "g5-fractions-0017",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Asha computes 9/10 - 3/10. What is the result in simplest form?",
+    "explanation": "Step 1: Subtract the fractions by using a common denominator. Step 2: Write the result as a fraction. Step 3: In simplest form the result is 3/5.",
+    "skill": "5.NF.A.1",
+    "skillLabel": "Fraction operations",
+    "links": [
+      {
+        "label": "Khan Academy: Fraction operations",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-fractions-3"
+      },
+      {
+        "label": "Common Core 5.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "fraction-diff",
+      "left": [
+        9,
+        10
+      ],
+      "right": [
+        3,
+        10
+      ]
+    },
+    "choices": [
+      "3/5",
+      "1/2",
+      "1/3",
+      "1/4"
+    ],
+    "answerIndex": 0,
+    "id": "g5-fractions-0018",
+    "grade": 5
+  },
+  {
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Rosa looks for a fraction equal to 1/2. Which choice is equivalent?",
+    "explanation": "Step 1: An equivalent fraction names the same amount as 1/2. Step 2: Multiply the numerator and denominator by the same number. Step 3: 2/4 is equal to 1/2.",
+    "skill": "4.NF.A.1",
+    "skillLabel": "Equivalent fractions",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Equivalent fractions",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/comparing-fractions-and-equivalent-fractions"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "choices": [
+      "1/5",
+      "3/5",
+      "2/7",
+      "2/4"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "equivalent",
+      "num": 1,
+      "den": 2
+    },
+    "id": "g5-fractions-0019",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Sam looks for a fraction equal to 1/3. Which choice is equivalent?",
+    "explanation": "Step 1: An equivalent fraction names the same amount as 1/3. Step 2: Multiply the numerator and denominator by the same number. Step 3: 2/6 is equal to 1/3.",
+    "skill": "4.NF.A.1",
+    "skillLabel": "Equivalent fractions",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Equivalent fractions",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/comparing-fractions-and-equivalent-fractions"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "choices": [
+      "2/6",
+      "1/5",
+      "3/5",
+      "2/7"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "equivalent",
+      "num": 1,
+      "den": 3
+    },
+    "id": "g5-fractions-0020",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Tara looks for a fraction equal to 2/3. Which choice is equivalent?",
+    "explanation": "Step 1: An equivalent fraction names the same amount as 2/3. Step 2: Multiply the numerator and denominator by the same number. Step 3: 4/6 is equal to 2/3.",
+    "skill": "4.NF.A.1",
+    "skillLabel": "Equivalent fractions",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Equivalent fractions",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/comparing-fractions-and-equivalent-fractions"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "choices": [
+      "1/5",
+      "4/6",
+      "3/5",
+      "2/7"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "equivalent",
+      "num": 2,
+      "den": 3
+    },
+    "id": "g5-fractions-0021",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Uma looks for a fraction equal to 3/4. Which choice is equivalent?",
+    "explanation": "Step 1: An equivalent fraction names the same amount as 3/4. Step 2: Multiply the numerator and denominator by the same number. Step 3: 6/8 is equal to 3/4.",
+    "skill": "4.NF.A.1",
+    "skillLabel": "Equivalent fractions",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Equivalent fractions",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/comparing-fractions-and-equivalent-fractions"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "choices": [
+      "1/5",
+      "3/5",
+      "6/8",
+      "2/7"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "equivalent",
+      "num": 3,
+      "den": 4
+    },
+    "id": "g5-fractions-0022",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Vik looks for a fraction equal to 1/4. Which choice is equivalent?",
+    "explanation": "Step 1: An equivalent fraction names the same amount as 1/4. Step 2: Multiply the numerator and denominator by the same number. Step 3: 2/8 is equal to 1/4.",
+    "skill": "4.NF.A.1",
+    "skillLabel": "Equivalent fractions",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Equivalent fractions",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/comparing-fractions-and-equivalent-fractions"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "choices": [
+      "1/5",
+      "3/5",
+      "2/7",
+      "2/8"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "equivalent",
+      "num": 1,
+      "den": 4
+    },
+    "id": "g5-fractions-0023",
+    "grade": 5,
+    "scored": true
+  },
+  {
+    "section": "iready",
+    "topic": "fractions",
+    "topicLabel": "Fractions",
+    "prompt": "Willa looks for a fraction equal to 2/5. Which choice is equivalent?",
+    "explanation": "Step 1: An equivalent fraction names the same amount as 2/5. Step 2: Multiply the numerator and denominator by the same number. Step 3: 4/10 is equal to 2/5.",
+    "skill": "4.NF.A.1",
+    "skillLabel": "Equivalent fractions",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Equivalent fractions",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/comparing-fractions-and-equivalent-fractions"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "choices": [
+      "4/10",
+      "1/5",
+      "3/5",
+      "2/7"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "equivalent",
+      "num": 2,
+      "den": 5
+    },
+    "id": "g5-fractions-0024",
+    "grade": 5,
+    "scored": true
+  }
+]

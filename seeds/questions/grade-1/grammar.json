@@ -1,0 +1,682 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Sam is writing about more than one cat. Which word should Sam use?",
+    "explanation": "Step 1: The sentence needs the plural of cat. Step 2: A plural means more than one. Step 3: The plural is cats.",
+    "skill": "L.1.1",
+    "skillLabel": "Plural nouns",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "plural",
+      "word": "cat"
+    },
+    "choices": [
+      "dogs",
+      "books",
+      "cats",
+      "buses"
+    ],
+    "answerIndex": 2,
+    "id": "g1-grammar-0001",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Tara is writing about more than one dog. Which word should Tara use?",
+    "explanation": "Step 1: The sentence needs the plural of dog. Step 2: A plural means more than one. Step 3: The plural is dogs.",
+    "skill": "L.1.1",
+    "skillLabel": "Plural nouns",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "plural",
+      "word": "dog"
+    },
+    "choices": [
+      "cats",
+      "dogs",
+      "books",
+      "buses"
+    ],
+    "answerIndex": 1,
+    "id": "g1-grammar-0002",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Uma is writing about more than one book. Which word should Uma use?",
+    "explanation": "Step 1: The sentence needs the plural of book. Step 2: A plural means more than one. Step 3: The plural is books.",
+    "skill": "L.1.1",
+    "skillLabel": "Plural nouns",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "plural",
+      "word": "book"
+    },
+    "choices": [
+      "cats",
+      "books",
+      "dogs",
+      "buses"
+    ],
+    "answerIndex": 1,
+    "id": "g1-grammar-0003",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Vik is writing about more than one bus. Which word should Vik use?",
+    "explanation": "Step 1: The sentence needs the plural of bus. Step 2: A plural means more than one. Step 3: The plural is buses.",
+    "skill": "L.1.1",
+    "skillLabel": "Plural nouns",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "plural",
+      "word": "bus"
+    },
+    "choices": [
+      "cats",
+      "buses",
+      "dogs",
+      "books"
+    ],
+    "answerIndex": 1,
+    "id": "g1-grammar-0004",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Willa is writing about more than one box. Which word should Willa use?",
+    "explanation": "Step 1: The sentence needs the plural of box. Step 2: A plural means more than one. Step 3: The plural is boxes.",
+    "skill": "L.1.1",
+    "skillLabel": "Plural nouns",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "plural",
+      "word": "box"
+    },
+    "choices": [
+      "cats",
+      "dogs",
+      "boxes",
+      "books"
+    ],
+    "answerIndex": 2,
+    "id": "g1-grammar-0005",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Nico is writing about more than one wish. Which word should Nico use?",
+    "explanation": "Step 1: The sentence needs the plural of wish. Step 2: A plural means more than one. Step 3: The plural is wishes.",
+    "skill": "L.1.1",
+    "skillLabel": "Plural nouns",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "plural",
+      "word": "wish"
+    },
+    "choices": [
+      "cats",
+      "dogs",
+      "wishes",
+      "books"
+    ],
+    "answerIndex": 2,
+    "id": "g1-grammar-0006",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Lila is writing about more than one dish. Which word should Lila use?",
+    "explanation": "Step 1: The sentence needs the plural of dish. Step 2: A plural means more than one. Step 3: The plural is dishes.",
+    "skill": "L.1.1",
+    "skillLabel": "Plural nouns",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "plural",
+      "word": "dish"
+    },
+    "choices": [
+      "cats",
+      "dogs",
+      "books",
+      "dishes"
+    ],
+    "answerIndex": 3,
+    "id": "g1-grammar-0007",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Omar is writing about more than one baby. Which word should Omar use?",
+    "explanation": "Step 1: The sentence needs the plural of baby. Step 2: A plural means more than one. Step 3: The plural is babies.",
+    "skill": "L.1.1",
+    "skillLabel": "Plural nouns",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "plural",
+      "word": "baby"
+    },
+    "choices": [
+      "babies",
+      "cats",
+      "dogs",
+      "books"
+    ],
+    "answerIndex": 0,
+    "id": "g1-grammar-0008",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Hana is writing about more than one city. Which word should Hana use?",
+    "explanation": "Step 1: The sentence needs the plural of city. Step 2: A plural means more than one. Step 3: The plural is cities.",
+    "skill": "L.1.1",
+    "skillLabel": "Plural nouns",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "plural",
+      "word": "city"
+    },
+    "choices": [
+      "cats",
+      "cities",
+      "dogs",
+      "books"
+    ],
+    "answerIndex": 1,
+    "id": "g1-grammar-0009",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Bea is writing about more than one story. Which word should Bea use?",
+    "explanation": "Step 1: The sentence needs the plural of story. Step 2: A plural means more than one. Step 3: The plural is stories.",
+    "skill": "L.1.1",
+    "skillLabel": "Plural nouns",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "plural",
+      "word": "story"
+    },
+    "choices": [
+      "cats",
+      "stories",
+      "dogs",
+      "books"
+    ],
+    "answerIndex": 1,
+    "id": "g1-grammar-0010",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Luis is writing about more than one puppy. Which word should Luis use?",
+    "explanation": "Step 1: The sentence needs the plural of puppy. Step 2: A plural means more than one. Step 3: The plural is puppies.",
+    "skill": "L.1.1",
+    "skillLabel": "Plural nouns",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "plural",
+      "word": "puppy"
+    },
+    "choices": [
+      "puppies",
+      "cats",
+      "dogs",
+      "books"
+    ],
+    "answerIndex": 0,
+    "id": "g1-grammar-0011",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Mina is writing about more than one berry. Which word should Mina use?",
+    "explanation": "Step 1: The sentence needs the plural of berry. Step 2: A plural means more than one. Step 3: The plural is berries.",
+    "skill": "L.1.1",
+    "skillLabel": "Plural nouns",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "plural",
+      "word": "berry"
+    },
+    "choices": [
+      "cats",
+      "berries",
+      "dogs",
+      "books"
+    ],
+    "answerIndex": 1,
+    "id": "g1-grammar-0012",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Uma tells about yesterday and needs the past tense of go. Which word is the past tense?",
+    "explanation": "Step 1: Yesterday needs the past tense of go. Step 2: The past tense tells what already happened. Step 3: The past tense is went.",
+    "skill": "L.1.1",
+    "skillLabel": "Past tense verbs",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "past",
+      "verb": "go"
+    },
+    "choices": [
+      "saw",
+      "ate",
+      "ran",
+      "went"
+    ],
+    "answerIndex": 3,
+    "id": "g1-grammar-0013",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Vik tells about yesterday and needs the past tense of see. Which word is the past tense?",
+    "explanation": "Step 1: Yesterday needs the past tense of see. Step 2: The past tense tells what already happened. Step 3: The past tense is saw.",
+    "skill": "L.1.1",
+    "skillLabel": "Past tense verbs",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "past",
+      "verb": "see"
+    },
+    "choices": [
+      "went",
+      "saw",
+      "ate",
+      "ran"
+    ],
+    "answerIndex": 1,
+    "id": "g1-grammar-0014",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Willa tells about yesterday and needs the past tense of eat. Which word is the past tense?",
+    "explanation": "Step 1: Yesterday needs the past tense of eat. Step 2: The past tense tells what already happened. Step 3: The past tense is ate.",
+    "skill": "L.1.1",
+    "skillLabel": "Past tense verbs",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "past",
+      "verb": "eat"
+    },
+    "choices": [
+      "ate",
+      "went",
+      "saw",
+      "ran"
+    ],
+    "answerIndex": 0,
+    "id": "g1-grammar-0015",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Nico tells about yesterday and needs the past tense of run. Which word is the past tense?",
+    "explanation": "Step 1: Yesterday needs the past tense of run. Step 2: The past tense tells what already happened. Step 3: The past tense is ran.",
+    "skill": "L.1.1",
+    "skillLabel": "Past tense verbs",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "past",
+      "verb": "run"
+    },
+    "choices": [
+      "ran",
+      "went",
+      "saw",
+      "ate"
+    ],
+    "answerIndex": 0,
+    "id": "g1-grammar-0016",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Lila tells about yesterday and needs the past tense of come. Which word is the past tense?",
+    "explanation": "Step 1: Yesterday needs the past tense of come. Step 2: The past tense tells what already happened. Step 3: The past tense is came.",
+    "skill": "L.1.1",
+    "skillLabel": "Past tense verbs",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "past",
+      "verb": "come"
+    },
+    "choices": [
+      "went",
+      "saw",
+      "came",
+      "ate"
+    ],
+    "answerIndex": 2,
+    "id": "g1-grammar-0017",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Omar tells about yesterday and needs the past tense of give. Which word is the past tense?",
+    "explanation": "Step 1: Yesterday needs the past tense of give. Step 2: The past tense tells what already happened. Step 3: The past tense is gave.",
+    "skill": "L.1.1",
+    "skillLabel": "Past tense verbs",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "past",
+      "verb": "give"
+    },
+    "choices": [
+      "went",
+      "saw",
+      "ate",
+      "gave"
+    ],
+    "answerIndex": 3,
+    "id": "g1-grammar-0018",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Hana tells about yesterday and needs the past tense of take. Which word is the past tense?",
+    "explanation": "Step 1: Yesterday needs the past tense of take. Step 2: The past tense tells what already happened. Step 3: The past tense is took.",
+    "skill": "L.1.1",
+    "skillLabel": "Past tense verbs",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "past",
+      "verb": "take"
+    },
+    "choices": [
+      "took",
+      "went",
+      "saw",
+      "ate"
+    ],
+    "answerIndex": 0,
+    "id": "g1-grammar-0019",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "grammar",
+    "topicLabel": "Grammar",
+    "prompt": "Bea tells about yesterday and needs the past tense of sing. Which word is the past tense?",
+    "explanation": "Step 1: Yesterday needs the past tense of sing. Step 2: The past tense tells what already happened. Step 3: The past tense is sang.",
+    "skill": "L.1.1",
+    "skillLabel": "Past tense verbs",
+    "links": [
+      {
+        "label": "Common Core L.1.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/1/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "past",
+      "verb": "sing"
+    },
+    "choices": [
+      "sang",
+      "went",
+      "saw",
+      "ate"
+    ],
+    "answerIndex": 0,
+    "id": "g1-grammar-0020",
+    "grade": 1
+  }
+]

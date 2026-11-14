@@ -1,0 +1,682 @@
+[
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Ida studies the root geo. What does geo mean?",
+    "explanation": "Step 1: Find the root geo inside the longer word. Step 2: That root has one meaning to remember. Step 3: geo means earth.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "far",
+      "earth",
+      "light",
+      "water"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "root",
+      "root": "geo"
+    },
+    "id": "g4-roots-0001",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Rex studies the root tele. What does tele mean?",
+    "explanation": "Step 1: Find the root tele inside the longer word. Step 2: That root has one meaning to remember. Step 3: tele means far.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "light",
+      "far",
+      "water"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "root",
+      "root": "tele"
+    },
+    "id": "g4-roots-0002",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Cleo studies the root photo. What does photo mean?",
+    "explanation": "Step 1: Find the root photo inside the longer word. Step 2: That root has one meaning to remember. Step 3: photo means light.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "water",
+      "light"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "root",
+      "root": "photo"
+    },
+    "id": "g4-roots-0003",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Wes studies the root aqua. What does aqua mean?",
+    "explanation": "Step 1: Find the root aqua inside the longer word. Step 2: That root has one meaning to remember. Step 3: aqua means water.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "water",
+      "earth",
+      "far",
+      "light"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "root",
+      "root": "aqua"
+    },
+    "id": "g4-roots-0004",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Nora studies the root bio. What does bio mean?",
+    "explanation": "Step 1: Find the root bio inside the longer word. Step 2: That root has one meaning to remember. Step 3: bio means life.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "life",
+      "far",
+      "light"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "root",
+      "root": "bio"
+    },
+    "id": "g4-roots-0005",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Owen studies the root therm. What does therm mean?",
+    "explanation": "Step 1: Find the root therm inside the longer word. Step 2: That root has one meaning to remember. Step 3: therm means heat.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "heat",
+      "light"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "root",
+      "root": "therm"
+    },
+    "id": "g4-roots-0006",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Pia studies the root aud. What does aud mean?",
+    "explanation": "Step 1: Find the root aud inside the longer word. Step 2: That root has one meaning to remember. Step 3: aud means hear.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "light",
+      "hear"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "root",
+      "root": "aud"
+    },
+    "id": "g4-roots-0007",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Quinn studies the root graph. What does graph mean?",
+    "explanation": "Step 1: Find the root graph inside the longer word. Step 2: That root has one meaning to remember. Step 3: graph means write.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "write",
+      "earth",
+      "far",
+      "light"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "root",
+      "root": "graph"
+    },
+    "id": "g4-roots-0008",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Rosa studies the root scope. What does scope mean?",
+    "explanation": "Step 1: Find the root scope inside the longer word. Step 2: That root has one meaning to remember. Step 3: scope means see.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "see",
+      "far",
+      "light"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "root",
+      "root": "scope"
+    },
+    "id": "g4-roots-0009",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Sam studies the root chron. What does chron mean?",
+    "explanation": "Step 1: Find the root chron inside the longer word. Step 2: That root has one meaning to remember. Step 3: chron means time.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "time",
+      "light"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "root",
+      "root": "chron"
+    },
+    "id": "g4-roots-0010",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Tara studies the root port. What does port mean?",
+    "explanation": "Step 1: Find the root port inside the longer word. Step 2: That root has one meaning to remember. Step 3: port means carry.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "light",
+      "carry"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "root",
+      "root": "port"
+    },
+    "id": "g4-roots-0011",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Uma studies the root rupt. What does rupt mean?",
+    "explanation": "Step 1: Find the root rupt inside the longer word. Step 2: That root has one meaning to remember. Step 3: rupt means break.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "break",
+      "earth",
+      "far",
+      "light"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "root",
+      "root": "rupt"
+    },
+    "id": "g4-roots-0012",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Vik studies the root struct. What does struct mean?",
+    "explanation": "Step 1: Find the root struct inside the longer word. Step 2: That root has one meaning to remember. Step 3: struct means build.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "build",
+      "far",
+      "light"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "root",
+      "root": "struct"
+    },
+    "id": "g4-roots-0013",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Willa studies the root dict. What does dict mean?",
+    "explanation": "Step 1: Find the root dict inside the longer word. Step 2: That root has one meaning to remember. Step 3: dict means say.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "say",
+      "light"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "root",
+      "root": "dict"
+    },
+    "id": "g4-roots-0014",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Nico studies the root tract. What does tract mean?",
+    "explanation": "Step 1: Find the root tract inside the longer word. Step 2: That root has one meaning to remember. Step 3: tract means pull.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "light",
+      "pull"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "root",
+      "root": "tract"
+    },
+    "id": "g4-roots-0015",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Lila studies the root ject. What does ject mean?",
+    "explanation": "Step 1: Find the root ject inside the longer word. Step 2: That root has one meaning to remember. Step 3: ject means throw.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "throw",
+      "earth",
+      "far",
+      "light"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "root",
+      "root": "ject"
+    },
+    "id": "g4-roots-0016",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Omar studies the root vis. What does vis mean?",
+    "explanation": "Step 1: Find the root vis inside the longer word. Step 2: That root has one meaning to remember. Step 3: vis means see.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "see",
+      "far",
+      "light"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "root",
+      "root": "vis"
+    },
+    "id": "g4-roots-0017",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Hana studies the root meter. What does meter mean?",
+    "explanation": "Step 1: Find the root meter inside the longer word. Step 2: That root has one meaning to remember. Step 3: meter means measure.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "measure",
+      "light"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "root",
+      "root": "meter"
+    },
+    "id": "g4-roots-0018",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Bea studies the root cycl. What does cycl mean?",
+    "explanation": "Step 1: Find the root cycl inside the longer word. Step 2: That root has one meaning to remember. Step 3: cycl means circle.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "earth",
+      "far",
+      "light",
+      "circle"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "root",
+      "root": "cycl"
+    },
+    "id": "g4-roots-0019",
+    "grade": 4,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "roots",
+    "topicLabel": "Greek and Latin roots",
+    "prompt": "Luis studies the root phon. What does phon mean?",
+    "explanation": "Step 1: Find the root phon inside the longer word. Step 2: That root has one meaning to remember. Step 3: phon means sound.",
+    "skill": "L.4.4",
+    "skillLabel": "Greek and Latin roots",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Common Core L.4.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/L/4/4/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "choices": [
+      "sound",
+      "earth",
+      "far",
+      "light"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "root",
+      "root": "phon"
+    },
+    "id": "g4-roots-0020",
+    "grade": 4,
+    "scored": true
+  }
+]

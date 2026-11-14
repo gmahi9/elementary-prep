@@ -1,0 +1,422 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "coordinate-plane",
+    "topicLabel": "Coordinate plane",
+    "prompt": "Owen starts at the origin, moves 1 units right, then 2 units up. Which ordered pair names that point?",
+    "explanation": "Step 1: The first number tells how far right from the origin. Step 2: The second number tells how far up. Step 3: The point is (1, 2).",
+    "skill": "5.G.A.1",
+    "skillLabel": "Coordinate plane",
+    "links": [
+      {
+        "label": "Khan Academy: Coordinate plane",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-coordinate-plane"
+      },
+      {
+        "label": "Math is Fun: Cartesian coordinates",
+        "href": "https://www.mathsisfun.com/data/cartesian-coordinates.html"
+      }
+    ],
+    "verify": {
+      "kind": "point",
+      "x": 1,
+      "y": 2
+    },
+    "choices": [
+      "(2, 1)",
+      "(1, 2)",
+      "(2, 2)",
+      "(1, 3)"
+    ],
+    "answerIndex": 1,
+    "id": "g5-coordinate-plane-0001",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "coordinate-plane",
+    "topicLabel": "Coordinate plane",
+    "prompt": "Pia starts at the origin, moves 3 units right, then 1 units up. Which ordered pair names that point?",
+    "explanation": "Step 1: The first number tells how far right from the origin. Step 2: The second number tells how far up. Step 3: The point is (3, 1).",
+    "skill": "5.G.A.1",
+    "skillLabel": "Coordinate plane",
+    "links": [
+      {
+        "label": "Khan Academy: Coordinate plane",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-coordinate-plane"
+      },
+      {
+        "label": "Math is Fun: Cartesian coordinates",
+        "href": "https://www.mathsisfun.com/data/cartesian-coordinates.html"
+      }
+    ],
+    "verify": {
+      "kind": "point",
+      "x": 3,
+      "y": 1
+    },
+    "choices": [
+      "(1, 3)",
+      "(3, 1)",
+      "(4, 1)",
+      "(3, 2)"
+    ],
+    "answerIndex": 1,
+    "id": "g5-coordinate-plane-0002",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "coordinate-plane",
+    "topicLabel": "Coordinate plane",
+    "prompt": "Quinn starts at the origin, moves 4 units right, then 4 units up. Which ordered pair names that point?",
+    "explanation": "Step 1: The first number tells how far right from the origin. Step 2: The second number tells how far up. Step 3: The point is (4, 4).",
+    "skill": "5.G.A.1",
+    "skillLabel": "Coordinate plane",
+    "links": [
+      {
+        "label": "Khan Academy: Coordinate plane",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-coordinate-plane"
+      },
+      {
+        "label": "Math is Fun: Cartesian coordinates",
+        "href": "https://www.mathsisfun.com/data/cartesian-coordinates.html"
+      }
+    ],
+    "verify": {
+      "kind": "point",
+      "x": 4,
+      "y": 4
+    },
+    "choices": [
+      "(4, 4)",
+      "(5, 4)",
+      "(4, 5)",
+      "(0, 4)"
+    ],
+    "answerIndex": 0,
+    "id": "g5-coordinate-plane-0003",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "coordinate-plane",
+    "topicLabel": "Coordinate plane",
+    "prompt": "Rosa starts at the origin, moves 0 units right, then 5 units up. Which ordered pair names that point?",
+    "explanation": "Step 1: The first number tells how far right from the origin. Step 2: The second number tells how far up. Step 3: The point is (0, 5).",
+    "skill": "5.G.A.1",
+    "skillLabel": "Coordinate plane",
+    "links": [
+      {
+        "label": "Khan Academy: Coordinate plane",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-coordinate-plane"
+      },
+      {
+        "label": "Math is Fun: Cartesian coordinates",
+        "href": "https://www.mathsisfun.com/data/cartesian-coordinates.html"
+      }
+    ],
+    "verify": {
+      "kind": "point",
+      "x": 0,
+      "y": 5
+    },
+    "choices": [
+      "(0, 5)",
+      "(5, 0)",
+      "(1, 5)",
+      "(0, 6)"
+    ],
+    "answerIndex": 0,
+    "id": "g5-coordinate-plane-0004",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "coordinate-plane",
+    "topicLabel": "Coordinate plane",
+    "prompt": "Sam starts at the origin, moves 2 units right, then 6 units up. Which ordered pair names that point?",
+    "explanation": "Step 1: The first number tells how far right from the origin. Step 2: The second number tells how far up. Step 3: The point is (2, 6).",
+    "skill": "5.G.A.1",
+    "skillLabel": "Coordinate plane",
+    "links": [
+      {
+        "label": "Khan Academy: Coordinate plane",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-coordinate-plane"
+      },
+      {
+        "label": "Math is Fun: Cartesian coordinates",
+        "href": "https://www.mathsisfun.com/data/cartesian-coordinates.html"
+      }
+    ],
+    "verify": {
+      "kind": "point",
+      "x": 2,
+      "y": 6
+    },
+    "choices": [
+      "(2, 6)",
+      "(6, 2)",
+      "(3, 6)",
+      "(2, 7)"
+    ],
+    "answerIndex": 0,
+    "id": "g5-coordinate-plane-0005",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "coordinate-plane",
+    "topicLabel": "Coordinate plane",
+    "prompt": "Tara starts at the origin, moves 5 units right, then 0 units up. Which ordered pair names that point?",
+    "explanation": "Step 1: The first number tells how far right from the origin. Step 2: The second number tells how far up. Step 3: The point is (5, 0).",
+    "skill": "5.G.A.1",
+    "skillLabel": "Coordinate plane",
+    "links": [
+      {
+        "label": "Khan Academy: Coordinate plane",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-coordinate-plane"
+      },
+      {
+        "label": "Math is Fun: Cartesian coordinates",
+        "href": "https://www.mathsisfun.com/data/cartesian-coordinates.html"
+      }
+    ],
+    "verify": {
+      "kind": "point",
+      "x": 5,
+      "y": 0
+    },
+    "choices": [
+      "(0, 5)",
+      "(6, 0)",
+      "(5, 0)",
+      "(5, 1)"
+    ],
+    "answerIndex": 2,
+    "id": "g5-coordinate-plane-0006",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "coordinate-plane",
+    "topicLabel": "Coordinate plane",
+    "prompt": "Uma starts at the origin, moves 6 units right, then 3 units up. Which ordered pair names that point?",
+    "explanation": "Step 1: The first number tells how far right from the origin. Step 2: The second number tells how far up. Step 3: The point is (6, 3).",
+    "skill": "5.G.A.1",
+    "skillLabel": "Coordinate plane",
+    "links": [
+      {
+        "label": "Khan Academy: Coordinate plane",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-coordinate-plane"
+      },
+      {
+        "label": "Math is Fun: Cartesian coordinates",
+        "href": "https://www.mathsisfun.com/data/cartesian-coordinates.html"
+      }
+    ],
+    "verify": {
+      "kind": "point",
+      "x": 6,
+      "y": 3
+    },
+    "choices": [
+      "(3, 6)",
+      "(7, 3)",
+      "(6, 3)",
+      "(6, 4)"
+    ],
+    "answerIndex": 2,
+    "id": "g5-coordinate-plane-0007",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "coordinate-plane",
+    "topicLabel": "Coordinate plane",
+    "prompt": "Vik starts at the origin, moves 3 units right, then 5 units up. Which ordered pair names that point?",
+    "explanation": "Step 1: The first number tells how far right from the origin. Step 2: The second number tells how far up. Step 3: The point is (3, 5).",
+    "skill": "5.G.A.1",
+    "skillLabel": "Coordinate plane",
+    "links": [
+      {
+        "label": "Khan Academy: Coordinate plane",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-coordinate-plane"
+      },
+      {
+        "label": "Math is Fun: Cartesian coordinates",
+        "href": "https://www.mathsisfun.com/data/cartesian-coordinates.html"
+      }
+    ],
+    "verify": {
+      "kind": "point",
+      "x": 3,
+      "y": 5
+    },
+    "choices": [
+      "(5, 3)",
+      "(4, 5)",
+      "(3, 6)",
+      "(3, 5)"
+    ],
+    "answerIndex": 3,
+    "id": "g5-coordinate-plane-0008",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "coordinate-plane",
+    "topicLabel": "Coordinate plane",
+    "prompt": "Willa starts at the origin, moves 7 units right, then 2 units up. Which ordered pair names that point?",
+    "explanation": "Step 1: The first number tells how far right from the origin. Step 2: The second number tells how far up. Step 3: The point is (7, 2).",
+    "skill": "5.G.A.1",
+    "skillLabel": "Coordinate plane",
+    "links": [
+      {
+        "label": "Khan Academy: Coordinate plane",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-coordinate-plane"
+      },
+      {
+        "label": "Math is Fun: Cartesian coordinates",
+        "href": "https://www.mathsisfun.com/data/cartesian-coordinates.html"
+      }
+    ],
+    "verify": {
+      "kind": "point",
+      "x": 7,
+      "y": 2
+    },
+    "choices": [
+      "(2, 7)",
+      "(8, 2)",
+      "(7, 2)",
+      "(7, 3)"
+    ],
+    "answerIndex": 2,
+    "id": "g5-coordinate-plane-0009",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "coordinate-plane",
+    "topicLabel": "Coordinate plane",
+    "prompt": "Nico starts at the origin, moves 2 units right, then 8 units up. Which ordered pair names that point?",
+    "explanation": "Step 1: The first number tells how far right from the origin. Step 2: The second number tells how far up. Step 3: The point is (2, 8).",
+    "skill": "5.G.A.1",
+    "skillLabel": "Coordinate plane",
+    "links": [
+      {
+        "label": "Khan Academy: Coordinate plane",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-coordinate-plane"
+      },
+      {
+        "label": "Math is Fun: Cartesian coordinates",
+        "href": "https://www.mathsisfun.com/data/cartesian-coordinates.html"
+      }
+    ],
+    "verify": {
+      "kind": "point",
+      "x": 2,
+      "y": 8
+    },
+    "choices": [
+      "(8, 2)",
+      "(3, 8)",
+      "(2, 8)",
+      "(2, 9)"
+    ],
+    "answerIndex": 2,
+    "id": "g5-coordinate-plane-0010",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "coordinate-plane",
+    "topicLabel": "Coordinate plane",
+    "prompt": "Lila starts at the origin, moves 8 units right, then 1 units up. Which ordered pair names that point?",
+    "explanation": "Step 1: The first number tells how far right from the origin. Step 2: The second number tells how far up. Step 3: The point is (8, 1).",
+    "skill": "5.G.A.1",
+    "skillLabel": "Coordinate plane",
+    "links": [
+      {
+        "label": "Khan Academy: Coordinate plane",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-coordinate-plane"
+      },
+      {
+        "label": "Math is Fun: Cartesian coordinates",
+        "href": "https://www.mathsisfun.com/data/cartesian-coordinates.html"
+      }
+    ],
+    "verify": {
+      "kind": "point",
+      "x": 8,
+      "y": 1
+    },
+    "choices": [
+      "(1, 8)",
+      "(9, 1)",
+      "(8, 2)",
+      "(8, 1)"
+    ],
+    "answerIndex": 3,
+    "id": "g5-coordinate-plane-0011",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "coordinate-plane",
+    "topicLabel": "Coordinate plane",
+    "prompt": "Omar starts at the origin, moves 4 units right, then 7 units up. Which ordered pair names that point?",
+    "explanation": "Step 1: The first number tells how far right from the origin. Step 2: The second number tells how far up. Step 3: The point is (4, 7).",
+    "skill": "5.G.A.1",
+    "skillLabel": "Coordinate plane",
+    "links": [
+      {
+        "label": "Khan Academy: Coordinate plane",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-coordinate-plane"
+      },
+      {
+        "label": "Math is Fun: Cartesian coordinates",
+        "href": "https://www.mathsisfun.com/data/cartesian-coordinates.html"
+      }
+    ],
+    "verify": {
+      "kind": "point",
+      "x": 4,
+      "y": 7
+    },
+    "choices": [
+      "(4, 7)",
+      "(7, 4)",
+      "(5, 7)",
+      "(4, 8)"
+    ],
+    "answerIndex": 0,
+    "id": "g5-coordinate-plane-0012",
+    "grade": 5
+  }
+]

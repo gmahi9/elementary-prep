@@ -1,0 +1,282 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Cleo rounds 47 to the nearest 10. What is the rounded number?",
+    "explanation": "Step 1: Look at 47 and the nearest 10. Step 2: Check the ones digit to decide whether to round up. Step 3: 47 rounds to 50.",
+    "skill": "4.NBT.A.3",
+    "skillLabel": "Round numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "round",
+      "number": 47,
+      "nearest": 10
+    },
+    "choices": [
+      "51",
+      "50",
+      "49",
+      "52"
+    ],
+    "answerIndex": 1,
+    "id": "g4-place-value-0001",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Wes rounds 132 to the nearest 100. What is the rounded number?",
+    "explanation": "Step 1: Look at 132 and the nearest 100. Step 2: Check the tens digit to decide whether to round up. Step 3: 132 rounds to 100.",
+    "skill": "4.NBT.A.3",
+    "skillLabel": "Round numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "round",
+      "number": 132,
+      "nearest": 100
+    },
+    "choices": [
+      "101",
+      "99",
+      "102",
+      "100"
+    ],
+    "answerIndex": 3,
+    "id": "g4-place-value-0002",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Nora rounds 260 to the nearest 100. What is the rounded number?",
+    "explanation": "Step 1: Look at 260 and the nearest 100. Step 2: Check the tens digit to decide whether to round up. Step 3: 260 rounds to 300.",
+    "skill": "4.NBT.A.3",
+    "skillLabel": "Round numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "round",
+      "number": 260,
+      "nearest": 100
+    },
+    "choices": [
+      "301",
+      "300",
+      "299",
+      "302"
+    ],
+    "answerIndex": 1,
+    "id": "g4-place-value-0003",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Owen rounds 85 to the nearest 10. What is the rounded number?",
+    "explanation": "Step 1: Look at 85 and the nearest 10. Step 2: Check the ones digit to decide whether to round up. Step 3: 85 rounds to 90.",
+    "skill": "4.NBT.A.3",
+    "skillLabel": "Round numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "round",
+      "number": 85,
+      "nearest": 10
+    },
+    "choices": [
+      "90",
+      "91",
+      "89",
+      "92"
+    ],
+    "answerIndex": 0,
+    "id": "g4-place-value-0004",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Pia rounds 349 to the nearest 100. What is the rounded number?",
+    "explanation": "Step 1: Look at 349 and the nearest 100. Step 2: Check the tens digit to decide whether to round up. Step 3: 349 rounds to 300.",
+    "skill": "4.NBT.A.3",
+    "skillLabel": "Round numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "round",
+      "number": 349,
+      "nearest": 100
+    },
+    "choices": [
+      "301",
+      "299",
+      "300",
+      "302"
+    ],
+    "answerIndex": 2,
+    "id": "g4-place-value-0005",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Quinn rounds 64 to the nearest 10. What is the rounded number?",
+    "explanation": "Step 1: Look at 64 and the nearest 10. Step 2: Check the ones digit to decide whether to round up. Step 3: 64 rounds to 60.",
+    "skill": "4.NBT.A.3",
+    "skillLabel": "Round numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "round",
+      "number": 64,
+      "nearest": 10
+    },
+    "choices": [
+      "61",
+      "59",
+      "62",
+      "60"
+    ],
+    "answerIndex": 3,
+    "id": "g4-place-value-0006",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Rosa rounds 915 to the nearest 100. What is the rounded number?",
+    "explanation": "Step 1: Look at 915 and the nearest 100. Step 2: Check the tens digit to decide whether to round up. Step 3: 915 rounds to 900.",
+    "skill": "4.NBT.A.3",
+    "skillLabel": "Round numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "round",
+      "number": 915,
+      "nearest": 100
+    },
+    "choices": [
+      "901",
+      "900",
+      "899",
+      "902"
+    ],
+    "answerIndex": 1,
+    "id": "g4-place-value-0007",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Sam rounds 28 to the nearest 10. What is the rounded number?",
+    "explanation": "Step 1: Look at 28 and the nearest 10. Step 2: Check the ones digit to decide whether to round up. Step 3: 28 rounds to 30.",
+    "skill": "4.NBT.A.3",
+    "skillLabel": "Round numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Numbers to 1,000",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "round",
+      "number": 28,
+      "nearest": 10
+    },
+    "choices": [
+      "31",
+      "29",
+      "32",
+      "30"
+    ],
+    "answerIndex": 3,
+    "id": "g4-place-value-0008",
+    "grade": 4
+  }
+]

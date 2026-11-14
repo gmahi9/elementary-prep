@@ -1,0 +1,794 @@
+[
+  {
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "Nora sorts picture set 00 on the art table. Which other picture belongs with them?",
+    "explanation": "Step 1: Find what stays the same in the three pictures. Step 2: Each picture is a circle. Step 3: The matching choice is 1 large gold circle.",
+    "skill": "K.G.A.2",
+    "skillLabel": "Sort pictures",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "circle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "small"
+        },
+        {
+          "shape": "circle",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "circle",
+          "colorName": "green",
+          "color": "#2f9e6b",
+          "count": 1,
+          "rotation": 0,
+          "size": "large"
+        }
+      ],
+      "alt": "Three pictures that share shape circle."
+    },
+    "choiceFigures": [
+      {
+        "shape": "square",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "small"
+      },
+      {
+        "shape": "circle",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 1,
+        "rotation": 0,
+        "size": "large"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "large"
+      }
+    ],
+    "choices": [
+      "1 small purple square",
+      "1 large gold circle",
+      "1 medium purple triangle",
+      "1 large purple diamond"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "classify",
+      "property": "shape",
+      "value": "circle"
+    },
+    "id": "gk-figure-classification-0001",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "Owen sorts picture set 01 on the art table. Which other picture belongs with them?",
+    "explanation": "Step 1: Find what stays the same in the three pictures. Step 2: Each picture is a square. Step 3: The matching choice is 1 large gold square.",
+    "skill": "K.G.A.2",
+    "skillLabel": "Sort pictures",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "square",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "small"
+        },
+        {
+          "shape": "square",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "square",
+          "colorName": "green",
+          "color": "#2f9e6b",
+          "count": 1,
+          "rotation": 0,
+          "size": "large"
+        }
+      ],
+      "alt": "Three pictures that share shape square."
+    },
+    "choiceFigures": [
+      {
+        "shape": "triangle",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "small"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "square",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 1,
+        "rotation": 0,
+        "size": "large"
+      },
+      {
+        "shape": "hex",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "large"
+      }
+    ],
+    "choices": [
+      "1 small purple triangle",
+      "1 medium purple diamond",
+      "1 large gold square",
+      "1 large purple hexagon"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "classify",
+      "property": "shape",
+      "value": "square"
+    },
+    "id": "gk-figure-classification-0002",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "Pia sorts picture set 02 on the art table. Which other picture belongs with them?",
+    "explanation": "Step 1: Find what stays the same in the three pictures. Step 2: Each picture is a triangle. Step 3: The matching choice is 1 large gold triangle.",
+    "skill": "K.G.A.2",
+    "skillLabel": "Sort pictures",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "triangle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "small"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "green",
+          "color": "#2f9e6b",
+          "count": 1,
+          "rotation": 0,
+          "size": "large"
+        }
+      ],
+      "alt": "Three pictures that share shape triangle."
+    },
+    "choiceFigures": [
+      {
+        "shape": "diamond",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "small"
+      },
+      {
+        "shape": "hex",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "large"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 1,
+        "rotation": 0,
+        "size": "large"
+      }
+    ],
+    "choices": [
+      "1 small purple diamond",
+      "1 medium purple hexagon",
+      "1 large purple star",
+      "1 large gold triangle"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "classify",
+      "property": "shape",
+      "value": "triangle"
+    },
+    "id": "gk-figure-classification-0003",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "Quinn sorts picture set 03 on the art table. Which other picture belongs with them?",
+    "explanation": "Step 1: Find what stays the same in the three pictures. Step 2: Each picture is a diamond. Step 3: The matching choice is 1 large gold diamond.",
+    "skill": "K.G.A.2",
+    "skillLabel": "Sort pictures",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "diamond",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "small"
+        },
+        {
+          "shape": "diamond",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "diamond",
+          "colorName": "green",
+          "color": "#2f9e6b",
+          "count": 1,
+          "rotation": 0,
+          "size": "large"
+        }
+      ],
+      "alt": "Three pictures that share shape diamond."
+    },
+    "choiceFigures": [
+      {
+        "shape": "diamond",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 1,
+        "rotation": 0,
+        "size": "large"
+      },
+      {
+        "shape": "hex",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "small"
+      },
+      {
+        "shape": "star",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "circle",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "large"
+      }
+    ],
+    "choices": [
+      "1 large gold diamond",
+      "1 small purple hexagon",
+      "1 medium purple star",
+      "1 large purple circle"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "classify",
+      "property": "shape",
+      "value": "diamond"
+    },
+    "id": "gk-figure-classification-0004",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "Rosa sorts picture set 04 on the art table. Which other picture belongs with them?",
+    "explanation": "Step 1: Find what stays the same in the three pictures. Step 2: Each picture is a hex. Step 3: The matching choice is 1 large gold hexagon.",
+    "skill": "K.G.A.2",
+    "skillLabel": "Sort pictures",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "hex",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "small"
+        },
+        {
+          "shape": "hex",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "hex",
+          "colorName": "green",
+          "color": "#2f9e6b",
+          "count": 1,
+          "rotation": 0,
+          "size": "large"
+        }
+      ],
+      "alt": "Three pictures that share shape hex."
+    },
+    "choiceFigures": [
+      {
+        "shape": "star",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "small"
+      },
+      {
+        "shape": "hex",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 1,
+        "rotation": 0,
+        "size": "large"
+      },
+      {
+        "shape": "circle",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "square",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "large"
+      }
+    ],
+    "choices": [
+      "1 small purple star",
+      "1 large gold hexagon",
+      "1 medium purple circle",
+      "1 large purple square"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "classify",
+      "property": "shape",
+      "value": "hex"
+    },
+    "id": "gk-figure-classification-0005",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "Sam sorts picture set 05 on the art table. Which other picture belongs with them?",
+    "explanation": "Step 1: Find what stays the same in the three pictures. Step 2: Each picture is a star. Step 3: The matching choice is 1 large gold star.",
+    "skill": "K.G.A.2",
+    "skillLabel": "Sort pictures",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "star",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "small"
+        },
+        {
+          "shape": "star",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "star",
+          "colorName": "green",
+          "color": "#2f9e6b",
+          "count": 1,
+          "rotation": 0,
+          "size": "large"
+        }
+      ],
+      "alt": "Three pictures that share shape star."
+    },
+    "choiceFigures": [
+      {
+        "shape": "circle",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "small"
+      },
+      {
+        "shape": "square",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "star",
+        "colorName": "gold",
+        "color": "#e2a308",
+        "count": 1,
+        "rotation": 0,
+        "size": "large"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "purple",
+        "color": "#7a45d6",
+        "count": 1,
+        "rotation": 0,
+        "size": "large"
+      }
+    ],
+    "choices": [
+      "1 small purple circle",
+      "1 medium purple square",
+      "1 large gold star",
+      "1 large purple triangle"
+    ],
+    "answerIndex": 2,
+    "verify": {
+      "kind": "classify",
+      "property": "shape",
+      "value": "star"
+    },
+    "id": "gk-figure-classification-0006",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "Tara groups color set 06 from the art bin. Which other picture belongs with them?",
+    "explanation": "Step 1: Find what stays the same in the three pictures. Step 2: Each picture is blue. Step 3: The matching choice is 1 small blue hexagon.",
+    "skill": "K.G.A.2",
+    "skillLabel": "Sort pictures",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "circle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "small"
+        },
+        {
+          "shape": "square",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "blue",
+          "color": "#2f6fed",
+          "count": 1,
+          "rotation": 0,
+          "size": "large"
+        }
+      ],
+      "alt": "Three pictures that share colorName blue."
+    },
+    "choiceFigures": [
+      {
+        "shape": "square",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "small"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "large"
+      },
+      {
+        "shape": "hex",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 1,
+        "rotation": 0,
+        "size": "small"
+      }
+    ],
+    "choices": [
+      "1 small red square",
+      "1 medium red triangle",
+      "1 large red diamond",
+      "1 small blue hexagon"
+    ],
+    "answerIndex": 3,
+    "verify": {
+      "kind": "classify",
+      "property": "colorName",
+      "value": "blue"
+    },
+    "id": "gk-figure-classification-0007",
+    "grade": 0,
+    "scored": true
+  },
+  {
+    "section": "cogat",
+    "topic": "figure-classification",
+    "topicLabel": "Figure classification",
+    "prompt": "Uma groups color set 07 from the art bin. Which other picture belongs with them?",
+    "explanation": "Step 1: Find what stays the same in the three pictures. Step 2: Each picture is red. Step 3: The matching choice is 1 small red hexagon.",
+    "skill": "K.G.A.2",
+    "skillLabel": "Sort pictures",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "Khan Academy: Shapes",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-geometry"
+      },
+      {
+        "label": "Math is Fun: Shapes",
+        "href": "https://www.mathsisfun.com/geometry/shapes.html"
+      }
+    ],
+    "figure": {
+      "kind": "group",
+      "items": [
+        {
+          "shape": "circle",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "small"
+        },
+        {
+          "shape": "square",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "medium"
+        },
+        {
+          "shape": "triangle",
+          "colorName": "red",
+          "color": "#e23b3b",
+          "count": 1,
+          "rotation": 0,
+          "size": "large"
+        }
+      ],
+      "alt": "Three pictures that share colorName red."
+    },
+    "choiceFigures": [
+      {
+        "shape": "hex",
+        "colorName": "red",
+        "color": "#e23b3b",
+        "count": 1,
+        "rotation": 0,
+        "size": "small"
+      },
+      {
+        "shape": "square",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 1,
+        "rotation": 0,
+        "size": "small"
+      },
+      {
+        "shape": "triangle",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 1,
+        "rotation": 0,
+        "size": "medium"
+      },
+      {
+        "shape": "diamond",
+        "colorName": "blue",
+        "color": "#2f6fed",
+        "count": 1,
+        "rotation": 0,
+        "size": "large"
+      }
+    ],
+    "choices": [
+      "1 small red hexagon",
+      "1 small blue square",
+      "1 medium blue triangle",
+      "1 large blue diamond"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "classify",
+      "property": "colorName",
+      "value": "red"
+    },
+    "id": "gk-figure-classification-0008",
+    "grade": 0,
+    "scored": true
+  }
+]

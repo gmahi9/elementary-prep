@@ -46,7 +46,7 @@ Apply the schema:
 npx wrangler d1 migrations apply elementary-prep --remote
 ```
 
-That creates `users`, `progress`, and `rate_limits`.
+That creates `users`, `progress`, `rate_limits`, and, from `migrations/0002_questions.sql`, the `questions` table. Load questions with `npm run seed:sql` and `npx wrangler d1 execute elementary-prep --remote --file=seeds/out/questions.sql`. See the README for the full workflow.
 
 ## 3. Google
 

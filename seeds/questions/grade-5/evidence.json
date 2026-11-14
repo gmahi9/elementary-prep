@@ -1,0 +1,527 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells the three edge lengths?",
+    "passageTitle": "Lab Report",
+    "passage": "Amina measured a box that was 5 centimeters long, 4 centimeters wide, and 3 centimeters tall. She multiplied the three edge lengths to find the volume. Her report said the box could hold 60 cubic centimeters.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Amina measured a box that was 5 centimeters long, 4 centimeters wide, and 3 centimeters tall.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Amina measured a box that was 5 centimeters long, 4 centimeters wide, and 3 centimeters tall.",
+      "Amina measured a box that was 8 centimeters long, 2 centimeters wide, and 1 centimeter tall.",
+      "She added the three edge lengths to find the area.",
+      "Her report said the box could hold 20 cubic centimeters."
+    ],
+    "answerIndex": 0,
+    "id": "g5-evidence-0001",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells how she found the volume?",
+    "passageTitle": "Lab Report",
+    "passage": "Amina measured a box that was 5 centimeters long, 4 centimeters wide, and 3 centimeters tall. She multiplied the three edge lengths to find the volume. Her report said the box could hold 60 cubic centimeters.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: She multiplied the three edge lengths to find the volume.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "She multiplied the three edge lengths to find the perimeter.",
+      "She only measured the height.",
+      "The report skipped the method.",
+      "She multiplied the three edge lengths to find the volume."
+    ],
+    "answerIndex": 3,
+    "id": "g5-evidence-0002",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells the volume she reported?",
+    "passageTitle": "Lab Report",
+    "passage": "Amina measured a box that was 5 centimeters long, 4 centimeters wide, and 3 centimeters tall. She multiplied the three edge lengths to find the volume. Her report said the box could hold 60 cubic centimeters.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Her report said the box could hold 60 cubic centimeters.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Her report said the box could hold 45 cubic centimeters.",
+      "She refused to write a number.",
+      "The box was a cylinder.",
+      "Her report said the box could hold 60 cubic centimeters."
+    ],
+    "answerIndex": 3,
+    "id": "g5-evidence-0003",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Luis wanted repaired first?",
+    "passageTitle": "Editorial",
+    "passage": "Luis argued that the town should repair the library roof before buying new benches. He cited a leak over the history section. The final paragraph asked readers to write to the council.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Luis argued that the town should repair the library roof before buying new benches.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Luis argued that the town should repair the library roof before buying new benches.",
+      "Luis argued that the town should buy new benches before repairing the roof.",
+      "He cited a leak over the gym.",
+      "The final paragraph asked readers to stay home."
+    ],
+    "answerIndex": 0,
+    "id": "g5-evidence-0004",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence gives his evidence?",
+    "passageTitle": "Editorial",
+    "passage": "Luis argued that the town should repair the library roof before buying new benches. He cited a leak over the history section. The final paragraph asked readers to write to the council.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: He cited a leak over the history section.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "He cited a broken window in the lobby.",
+      "He offered no example.",
+      "He cited a leak over the history section.",
+      "The history section was brand new."
+    ],
+    "answerIndex": 2,
+    "id": "g5-evidence-0005",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells the call to action?",
+    "passageTitle": "Editorial",
+    "passage": "Luis argued that the town should repair the library roof before buying new benches. He cited a leak over the history section. The final paragraph asked readers to write to the council.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The final paragraph asked readers to write to the council.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The final paragraph asked readers to ignore the council.",
+      "The final paragraph asked readers to write to the council.",
+      "The essay had no ending.",
+      "Readers were told to buy benches."
+    ],
+    "answerIndex": 1,
+    "id": "g5-evidence-0006",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells where the origin was?",
+    "passageTitle": "Coordinate Clue",
+    "passage": "The map key placed the origin at the old oak. The picnic blanket was 4 units east and 2 units north of the oak. The clue wrote that spot as the ordered pair (4, 2).",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The map key placed the origin at the old oak.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The map key placed the origin at the old oak.",
+      "The map key placed the origin at the stone bridge.",
+      "The picnic blanket was 2 units east and 4 units north of the oak.",
+      "The clue wrote that spot as the ordered pair (2, 4)."
+    ],
+    "answerIndex": 0,
+    "id": "g5-evidence-0007",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence describes the blanket's move from the oak?",
+    "passageTitle": "Coordinate Clue",
+    "passage": "The map key placed the origin at the old oak. The picnic blanket was 4 units east and 2 units north of the oak. The clue wrote that spot as the ordered pair (4, 2).",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The picnic blanket was 4 units east and 2 units north of the oak.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The picnic blanket was 4 units east and 2 units north of the oak.",
+      "The picnic blanket was 4 units west and 2 units south of the oak.",
+      "The oak was not on the map.",
+      "No units were given."
+    ],
+    "answerIndex": 0,
+    "id": "g5-evidence-0008",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells the ordered pair?",
+    "passageTitle": "Coordinate Clue",
+    "passage": "The map key placed the origin at the old oak. The picnic blanket was 4 units east and 2 units north of the oak. The clue wrote that spot as the ordered pair (4, 2).",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The clue wrote that spot as the ordered pair (4, 2).",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The clue wrote that spot as the ordered pair (2, 4).",
+      "The clue used a fraction.",
+      "The clue wrote that spot as the ordered pair (4, 2).",
+      "The blanket had no pair."
+    ],
+    "answerIndex": 2,
+    "id": "g5-evidence-0009",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells which root Noor circled?",
+    "passageTitle": "Root Hunt",
+    "passage": "Noor circled the root aud in auditorium. She explained that aud has to do with hearing. Her example sentence described a room where an audience listens.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Noor circled the root aud in auditorium.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Noor circled the root geo in auditorium.",
+      "She explained that aud has to do with light.",
+      "Noor circled the root aud in auditorium.",
+      "Her example sentence described a room where an audience cooks."
+    ],
+    "answerIndex": 2,
+    "id": "g5-evidence-0010",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells the meaning she gave?",
+    "passageTitle": "Root Hunt",
+    "passage": "Noor circled the root aud in auditorium. She explained that aud has to do with hearing. Her example sentence described a room where an audience listens.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: She explained that aud has to do with hearing.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "She explained that aud has to do with hearing.",
+      "She explained that aud has to do with carrying.",
+      "Noor skipped the meaning.",
+      "The word was telephone."
+    ],
+    "answerIndex": 0,
+    "id": "g5-evidence-0011",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what the example described?",
+    "passageTitle": "Root Hunt",
+    "passage": "Noor circled the root aud in auditorium. She explained that aud has to do with hearing. Her example sentence described a room where an audience listens.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Her example sentence described a room where an audience listens.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Her example sentence described a room where an audience marches away.",
+      "She gave no example.",
+      "The audience was a sports score.",
+      "Her example sentence described a room where an audience listens."
+    ],
+    "answerIndex": 3,
+    "id": "g5-evidence-0012",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells the two prices?",
+    "passageTitle": "Decimal Shop",
+    "passage": "A notebook cost $2.40 and a pencil cost $0.35. Theo paid with three one-dollar bills. The receipt showed a total of $2.75 before any change.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: A notebook cost $2.40 and a pencil cost $0.35.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "A notebook cost $2.40 and a pencil cost $0.35.",
+      "A notebook cost $3.40 and a pencil cost $0.55.",
+      "Theo paid with one five-dollar bill.",
+      "The receipt showed a total of $3.75 before any change."
+    ],
+    "answerIndex": 0,
+    "id": "g5-evidence-0013",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells how Theo paid?",
+    "passageTitle": "Decimal Shop",
+    "passage": "A notebook cost $2.40 and a pencil cost $0.35. Theo paid with three one-dollar bills. The receipt showed a total of $2.75 before any change.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Theo paid with three one-dollar bills.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Theo paid with three one-dollar bills.",
+      "Theo paid with three quarters.",
+      "He paid with a check.",
+      "The receipt was blank."
+    ],
+    "answerIndex": 0,
+    "id": "g5-evidence-0014",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells the total on the receipt?",
+    "passageTitle": "Decimal Shop",
+    "passage": "A notebook cost $2.40 and a pencil cost $0.35. Theo paid with three one-dollar bills. The receipt showed a total of $2.75 before any change.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The receipt showed a total of $2.75 before any change.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The receipt showed a total of $2.75 before any change.",
+      "The receipt showed a total of $2.40 before any change.",
+      "The receipt showed only the tax.",
+      "Theo owed nothing."
+    ],
+    "answerIndex": 0,
+    "id": "g5-evidence-0015",
+    "grade": 5
+  }
+]

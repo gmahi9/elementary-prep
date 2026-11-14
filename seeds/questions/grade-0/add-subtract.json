@@ -1,0 +1,3028 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nora has 0 stickers and gets 1 more. How many stickers does Nora have in all?",
+    "explanation": "Step 1: Nora starts with 0 stickers. Step 2: Add the 1 new stickers. Step 3: 0 + 1 = 1.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+1"
+    },
+    "choices": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0001",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Owen has 0 shells and gets 2 more. How many shells does Owen have in all?",
+    "explanation": "Step 1: Owen starts with 0 shells. Step 2: Add the 2 new shells. Step 3: 0 + 2 = 2.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+2"
+    },
+    "choices": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0002",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Pia has 0 blocks and gets 3 more. How many blocks does Pia have in all?",
+    "explanation": "Step 1: Pia starts with 0 blocks. Step 2: Add the 3 new blocks. Step 3: 0 + 3 = 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+3"
+    },
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0003",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Quinn has 0 cards and gets 4 more. How many cards does Quinn have in all?",
+    "explanation": "Step 1: Quinn starts with 0 cards. Step 2: Add the 4 new cards. Step 3: 0 + 4 = 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+4"
+    },
+    "choices": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0004",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rosa has 1 marbles and gets 1 more. How many marbles does Rosa have in all?",
+    "explanation": "Step 1: Rosa starts with 1 marbles. Step 2: Add the 1 new marbles. Step 3: 1 + 1 = 2.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+1"
+    },
+    "choices": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0005",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Sam has 1 stickers and gets 2 more. How many stickers does Sam have in all?",
+    "explanation": "Step 1: Sam starts with 1 stickers. Step 2: Add the 2 new stickers. Step 3: 1 + 2 = 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+2"
+    },
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0006",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Tara has 1 shells and gets 3 more. How many shells does Tara have in all?",
+    "explanation": "Step 1: Tara starts with 1 shells. Step 2: Add the 3 new shells. Step 3: 1 + 3 = 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+3"
+    },
+    "choices": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0007",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Uma has 1 blocks and gets 4 more. How many blocks does Uma have in all?",
+    "explanation": "Step 1: Uma starts with 1 blocks. Step 2: Add the 4 new blocks. Step 3: 1 + 4 = 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+4"
+    },
+    "choices": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0008",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Vik has 2 cards and gets 1 more. How many cards does Vik have in all?",
+    "explanation": "Step 1: Vik starts with 2 cards. Step 2: Add the 1 new cards. Step 3: 2 + 1 = 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+1"
+    },
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0009",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Willa has 2 marbles and gets 2 more. How many marbles does Willa have in all?",
+    "explanation": "Step 1: Willa starts with 2 marbles. Step 2: Add the 2 new marbles. Step 3: 2 + 2 = 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+2"
+    },
+    "choices": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0010",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nico has 2 stickers and gets 3 more. How many stickers does Nico have in all?",
+    "explanation": "Step 1: Nico starts with 2 stickers. Step 2: Add the 3 new stickers. Step 3: 2 + 3 = 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+3"
+    },
+    "choices": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0011",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Lila has 3 shells and gets 1 more. How many shells does Lila have in all?",
+    "explanation": "Step 1: Lila starts with 3 shells. Step 2: Add the 1 new shells. Step 3: 3 + 1 = 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+1"
+    },
+    "choices": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0012",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Omar has 3 blocks and gets 2 more. How many blocks does Omar have in all?",
+    "explanation": "Step 1: Omar starts with 3 blocks. Step 2: Add the 2 new blocks. Step 3: 3 + 2 = 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+2"
+    },
+    "choices": [
+      "6",
+      "5",
+      "4",
+      "7"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0013",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Hana has 4 cards and gets 1 more. How many cards does Hana have in all?",
+    "explanation": "Step 1: Hana starts with 4 cards. Step 2: Add the 1 new cards. Step 3: 4 + 1 = 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "4+1"
+    },
+    "choices": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0014",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Uma had 2 apples and gave away 1. How many apples are left?",
+    "explanation": "Step 1: Start with 2. Step 2: Take away 1. Step 3: 2 - 1 = 1.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2-1"
+    },
+    "choices": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0015",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Vik had 3 crayons and gave away 2. How many crayons are left?",
+    "explanation": "Step 1: Start with 3. Step 2: Take away 2. Step 3: 3 - 2 = 1.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3-2"
+    },
+    "choices": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0016",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Willa had 4 tokens and gave away 3. How many tokens are left?",
+    "explanation": "Step 1: Start with 4. Step 2: Take away 3. Step 3: 4 - 3 = 1.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "4-3"
+    },
+    "choices": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0017",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nico had 5 books and gave away 4. How many books are left?",
+    "explanation": "Step 1: Start with 5. Step 2: Take away 4. Step 3: 5 - 4 = 1.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "5-4"
+    },
+    "choices": [
+      "2",
+      "0",
+      "3",
+      "1"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0018",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nora finds 0 beads in the red bowl, then finds 1 more. How many beads is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+1. Step 3: The result is 1.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+1"
+    },
+    "choices": [
+      "2",
+      "0",
+      "3",
+      "1"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0019",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Owen finds 1 cards in the blue tray, then finds 1 more. How many cards is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+1. Step 3: The result is 2.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+1"
+    },
+    "choices": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0020",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Pia finds 2 seeds in the green bin, then finds 1 more. How many seeds is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 2+1. Step 3: The result is 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+1"
+    },
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0021",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Quinn finds 3 tiles in the yellow cup, then finds 1 more. How many tiles is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 3+1. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+1"
+    },
+    "choices": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0022",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rosa finds 4 tokens in the picnic mat, then finds 1 more. How many tokens is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 4+1. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "4+1"
+    },
+    "choices": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0023",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Sam finds 0 stickers in the reading rug, then finds 2 more. How many stickers is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+2. Step 3: The result is 2.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+2"
+    },
+    "choices": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0024",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Tara finds 1 beads in the window ledge, then finds 2 more. How many beads is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+2. Step 3: The result is 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+2"
+    },
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0025",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Uma finds 2 cards in the class shelf, then finds 2 more. How many cards is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 2+2. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+2"
+    },
+    "choices": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0026",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Vik finds 3 seeds in the red bowl, then finds 2 more. How many seeds is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 3+2. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+2"
+    },
+    "choices": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0027",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nico finds 0 tokens in the green bin, then finds 3 more. How many tokens is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+3. Step 3: The result is 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+3"
+    },
+    "choices": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0028",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Lila finds 1 stickers in the yellow cup, then finds 3 more. How many stickers is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+3. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+3"
+    },
+    "choices": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0029",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Omar finds 2 beads in the picnic mat, then finds 3 more. How many beads is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 2+3. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+3"
+    },
+    "choices": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0030",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Luis finds 0 tiles in the class shelf, then finds 4 more. How many tiles is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+4. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+4"
+    },
+    "choices": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0031",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Mina finds 1 tokens in the red bowl, then finds 4 more. How many tokens is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+4. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+4"
+    },
+    "choices": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0032",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Ida finds 0 seeds in the picnic mat, then finds 1 more. How many seeds is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+1. Step 3: The result is 1.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+1"
+    },
+    "choices": [
+      "2",
+      "0",
+      "1",
+      "3"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0033",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rex finds 1 tiles in the reading rug, then finds 1 more. How many tiles is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+1. Step 3: The result is 2.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+1"
+    },
+    "choices": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0034",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Cleo finds 2 tokens in the window ledge, then finds 1 more. How many tokens is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 2+1. Step 3: The result is 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+1"
+    },
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0035",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Wes finds 3 stickers in the class shelf, then finds 1 more. How many stickers is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 3+1. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+1"
+    },
+    "choices": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0036",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nora finds 4 beads in the red bowl, then finds 1 more. How many beads is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 4+1. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "4+1"
+    },
+    "choices": [
+      "6",
+      "5",
+      "4",
+      "7"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0037",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Owen finds 0 cards in the blue tray, then finds 2 more. How many cards is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+2. Step 3: The result is 2.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+2"
+    },
+    "choices": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0038",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Pia finds 1 seeds in the green bin, then finds 2 more. How many seeds is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+2. Step 3: The result is 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+2"
+    },
+    "choices": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0039",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Quinn finds 2 tiles in the yellow cup, then finds 2 more. How many tiles is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 2+2. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+2"
+    },
+    "choices": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0040",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rosa finds 3 tokens in the picnic mat, then finds 2 more. How many tokens is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 3+2. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+2"
+    },
+    "choices": [
+      "6",
+      "5",
+      "4",
+      "7"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0041",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Tara finds 0 beads in the window ledge, then finds 3 more. How many beads is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+3. Step 3: The result is 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+3"
+    },
+    "choices": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0042",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Uma finds 1 cards in the class shelf, then finds 3 more. How many cards is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+3. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+3"
+    },
+    "choices": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0043",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Vik finds 2 seeds in the red bowl, then finds 3 more. How many seeds is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 2+3. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+3"
+    },
+    "choices": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0044",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Lila finds 0 stickers in the yellow cup, then finds 4 more. How many stickers is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+4. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+4"
+    },
+    "choices": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0045",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Omar finds 1 beads in the picnic mat, then finds 4 more. How many beads is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+4. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+4"
+    },
+    "choices": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0046",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Mina finds 0 tokens in the red bowl, then finds 1 more. How many tokens is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+1. Step 3: The result is 1.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+1"
+    },
+    "choices": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0047",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Theo finds 1 stickers in the blue tray, then finds 1 more. How many stickers is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+1. Step 3: The result is 2.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+1"
+    },
+    "choices": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0048",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Asha finds 2 beads in the green bin, then finds 1 more. How many beads is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 2+1. Step 3: The result is 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+1"
+    },
+    "choices": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0049",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Jo finds 3 cards in the yellow cup, then finds 1 more. How many cards is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 3+1. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+1"
+    },
+    "choices": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0050",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Ida finds 4 seeds in the picnic mat, then finds 1 more. How many seeds is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 4+1. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "4+1"
+    },
+    "choices": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0051",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rex finds 0 tiles in the reading rug, then finds 2 more. How many tiles is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+2. Step 3: The result is 2.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+2"
+    },
+    "choices": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0052",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Cleo finds 1 tokens in the window ledge, then finds 2 more. How many tokens is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+2. Step 3: The result is 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+2"
+    },
+    "choices": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0053",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Wes finds 2 stickers in the class shelf, then finds 2 more. How many stickers is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 2+2. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+2"
+    },
+    "choices": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0054",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nora finds 3 beads in the red bowl, then finds 2 more. How many beads is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 3+2. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+2"
+    },
+    "choices": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0055",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Pia finds 0 seeds in the green bin, then finds 3 more. How many seeds is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+3. Step 3: The result is 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+3"
+    },
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0056",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Quinn finds 1 tiles in the yellow cup, then finds 3 more. How many tiles is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+3. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+3"
+    },
+    "choices": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0057",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rosa finds 2 tokens in the picnic mat, then finds 3 more. How many tokens is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 2+3. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+3"
+    },
+    "choices": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0058",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Uma finds 0 cards in the class shelf, then finds 4 more. How many cards is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+4. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+4"
+    },
+    "choices": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0059",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Vik finds 1 seeds in the red bowl, then finds 4 more. How many seeds is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+4. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+4"
+    },
+    "choices": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0060",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Omar finds 0 beads in the picnic mat, then finds 1 more. How many beads is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+1. Step 3: The result is 1.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+1"
+    },
+    "choices": [
+      "2",
+      "0",
+      "3",
+      "1"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0061",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Hana finds 1 cards in the reading rug, then finds 1 more. How many cards is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+1. Step 3: The result is 2.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+1"
+    },
+    "choices": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0062",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Bea finds 2 seeds in the window ledge, then finds 1 more. How many seeds is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 2+1. Step 3: The result is 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+1"
+    },
+    "choices": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0063",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Luis finds 3 tiles in the class shelf, then finds 1 more. How many tiles is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 3+1. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+1"
+    },
+    "choices": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0064",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Mina finds 4 tokens in the red bowl, then finds 1 more. How many tokens is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 4+1. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "4+1"
+    },
+    "choices": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0065",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Theo finds 0 stickers in the blue tray, then finds 2 more. How many stickers is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+2. Step 3: The result is 2.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+2"
+    },
+    "choices": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0066",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Asha finds 1 beads in the green bin, then finds 2 more. How many beads is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+2. Step 3: The result is 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+2"
+    },
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0067",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Jo finds 2 cards in the yellow cup, then finds 2 more. How many cards is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 2+2. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+2"
+    },
+    "choices": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0068",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Ida finds 3 seeds in the picnic mat, then finds 2 more. How many seeds is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 3+2. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+2"
+    },
+    "choices": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0069",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Cleo finds 0 tokens in the window ledge, then finds 3 more. How many tokens is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+3. Step 3: The result is 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+3"
+    },
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0070",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Wes finds 1 stickers in the class shelf, then finds 3 more. How many stickers is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+3. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+3"
+    },
+    "choices": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0071",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nora finds 2 beads in the red bowl, then finds 3 more. How many beads is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 2+3. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+3"
+    },
+    "choices": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0072",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Quinn finds 0 tiles in the yellow cup, then finds 4 more. How many tiles is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+4. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+4"
+    },
+    "choices": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0073",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rosa finds 1 tokens in the picnic mat, then finds 4 more. How many tokens is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+4. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+4"
+    },
+    "choices": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0074",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Vik finds 0 seeds in the red bowl, then finds 1 more. How many seeds is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+1. Step 3: The result is 1.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+1"
+    },
+    "choices": [
+      "2",
+      "0",
+      "1",
+      "3"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0075",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Willa finds 1 tiles in the blue tray, then finds 1 more. How many tiles is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+1. Step 3: The result is 2.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+1"
+    },
+    "choices": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0076",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nico finds 2 tokens in the green bin, then finds 1 more. How many tokens is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 2+1. Step 3: The result is 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+1"
+    },
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0077",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Lila finds 3 stickers in the yellow cup, then finds 1 more. How many stickers is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 3+1. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+1"
+    },
+    "choices": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "answerIndex": 2,
+    "id": "gk-add-subtract-0078",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Omar finds 4 beads in the picnic mat, then finds 1 more. How many beads is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 4+1. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "4+1"
+    },
+    "choices": [
+      "6",
+      "5",
+      "4",
+      "7"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0079",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Hana finds 0 cards in the reading rug, then finds 2 more. How many cards is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+2. Step 3: The result is 2.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+2"
+    },
+    "choices": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0080",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Bea finds 1 seeds in the window ledge, then finds 2 more. How many seeds is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+2. Step 3: The result is 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+2"
+    },
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0081",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Luis finds 2 tiles in the class shelf, then finds 2 more. How many tiles is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 2+2. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+2"
+    },
+    "choices": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0082",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Mina finds 3 tokens in the red bowl, then finds 2 more. How many tokens is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 3+2. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "3+2"
+    },
+    "choices": [
+      "6",
+      "5",
+      "4",
+      "7"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0083",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Asha finds 0 beads in the green bin, then finds 3 more. How many beads is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+3. Step 3: The result is 3.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+3"
+    },
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0084",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Jo finds 1 cards in the yellow cup, then finds 3 more. How many cards is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+3. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+3"
+    },
+    "choices": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0085",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Ida finds 2 seeds in the picnic mat, then finds 3 more. How many seeds is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 2+3. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2+3"
+    },
+    "choices": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0086",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Wes finds 0 stickers in the class shelf, then finds 4 more. How many stickers is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+4. Step 3: The result is 4.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+4"
+    },
+    "choices": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answerIndex": 3,
+    "id": "gk-add-subtract-0087",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nora finds 1 beads in the red bowl, then finds 4 more. How many beads is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 1+4. Step 3: The result is 5.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "1+4"
+    },
+    "choices": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answerIndex": 0,
+    "id": "gk-add-subtract-0088",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rosa finds 0 tokens in the picnic mat, then finds 1 more. How many tokens is that in all?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 0+1. Step 3: The result is 1.",
+    "skill": "K.OA.A.2",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add within 5",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-add-subtract"
+      },
+      {
+        "label": "Common Core K.OA.A.2",
+        "href": "https://www.thecorestandards.org/Math/Content/K/OA/A/2/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "0+1"
+    },
+    "choices": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "answerIndex": 1,
+    "id": "gk-add-subtract-0089",
+    "grade": 0
+  }
+]

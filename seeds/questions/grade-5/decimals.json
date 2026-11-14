@@ -1,0 +1,506 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Owen adds 1.25 and 0.40. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 1.25 and 0.40. Step 3: The sum is 1.65.",
+    "skill": "5.NBT.B.7",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimal place value",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 125,
+      "right": 40,
+      "scale": 100
+    },
+    "choices": [
+      "1.75",
+      "1.65",
+      "1.55",
+      "1.25"
+    ],
+    "answerIndex": 1,
+    "id": "g5-decimals-0001",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Pia adds 2.50 and 1.25. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 2.50 and 1.25. Step 3: The sum is 3.75.",
+    "skill": "5.NBT.B.7",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimal place value",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 250,
+      "right": 125,
+      "scale": 100
+    },
+    "choices": [
+      "3.85",
+      "3.75",
+      "3.65",
+      "2.50"
+    ],
+    "answerIndex": 1,
+    "id": "g5-decimals-0002",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Quinn adds 3.75 and 0.50. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 3.75 and 0.50. Step 3: The sum is 4.25.",
+    "skill": "5.NBT.B.7",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimal place value",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 375,
+      "right": 50,
+      "scale": 100
+    },
+    "choices": [
+      "4.25",
+      "4.35",
+      "4.15",
+      "3.75"
+    ],
+    "answerIndex": 0,
+    "id": "g5-decimals-0003",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Rosa adds 0.60 and 0.15. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 0.60 and 0.15. Step 3: The sum is 0.75.",
+    "skill": "5.NBT.B.7",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimal place value",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 60,
+      "right": 15,
+      "scale": 100
+    },
+    "choices": [
+      "0.75",
+      "0.85",
+      "0.65",
+      "0.60"
+    ],
+    "answerIndex": 0,
+    "id": "g5-decimals-0004",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Sam adds 2.10 and 1.35. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 2.10 and 1.35. Step 3: The sum is 3.45.",
+    "skill": "5.NBT.B.7",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimal place value",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 210,
+      "right": 135,
+      "scale": 100
+    },
+    "choices": [
+      "3.45",
+      "3.55",
+      "3.35",
+      "2.10"
+    ],
+    "answerIndex": 0,
+    "id": "g5-decimals-0005",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Tara adds 4.80 and 0.25. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 4.80 and 0.25. Step 3: The sum is 5.05.",
+    "skill": "5.NBT.B.7",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimal place value",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 480,
+      "right": 25,
+      "scale": 100
+    },
+    "choices": [
+      "5.15",
+      "4.95",
+      "5.05",
+      "4.80"
+    ],
+    "answerIndex": 2,
+    "id": "g5-decimals-0006",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Uma adds 3.05 and 1.90. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 3.05 and 1.90. Step 3: The sum is 4.95.",
+    "skill": "5.NBT.B.7",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimal place value",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 305,
+      "right": 190,
+      "scale": 100
+    },
+    "choices": [
+      "5.05",
+      "4.85",
+      "4.95",
+      "3.05"
+    ],
+    "answerIndex": 2,
+    "id": "g5-decimals-0007",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Vik adds 6.40 and 2.75. What is the sum?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Add 6.40 and 2.75. Step 3: The sum is 9.15.",
+    "skill": "5.NBT.B.7",
+    "skillLabel": "Add decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimal place value",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-add",
+      "left": 640,
+      "right": 275,
+      "scale": 100
+    },
+    "choices": [
+      "9.25",
+      "9.05",
+      "6.40",
+      "9.15"
+    ],
+    "answerIndex": 3,
+    "id": "g5-decimals-0008",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Willa subtracts 1.25 from 2.50. What is the difference?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Subtract 1.25 from 2.50. Step 3: The difference is 1.25.",
+    "skill": "5.NBT.B.7",
+    "skillLabel": "Subtract decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimal place value",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-sub",
+      "left": 250,
+      "right": 125,
+      "scale": 100
+    },
+    "choices": [
+      "2.50",
+      "0.25",
+      "1.10",
+      "1.25"
+    ],
+    "answerIndex": 3,
+    "id": "g5-decimals-0009",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Nico subtracts 2.55 from 4.80. What is the difference?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Subtract 2.55 from 4.80. Step 3: The difference is 2.25.",
+    "skill": "5.NBT.B.7",
+    "skillLabel": "Subtract decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimal place value",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-sub",
+      "left": 480,
+      "right": 255,
+      "scale": 100
+    },
+    "choices": [
+      "4.80",
+      "2.55",
+      "0.25",
+      "2.25"
+    ],
+    "answerIndex": 3,
+    "id": "g5-decimals-0010",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Lila subtracts 0.40 from 0.90. What is the difference?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Subtract 0.40 from 0.90. Step 3: The difference is 0.50.",
+    "skill": "5.NBT.B.7",
+    "skillLabel": "Subtract decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimal place value",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-sub",
+      "left": 90,
+      "right": 40,
+      "scale": 100
+    },
+    "choices": [
+      "0.50",
+      "0.90",
+      "0.40",
+      "0.25"
+    ],
+    "answerIndex": 0,
+    "id": "g5-decimals-0011",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Omar subtracts 1.50 from 3.75. What is the difference?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Subtract 1.50 from 3.75. Step 3: The difference is 2.25.",
+    "skill": "5.NBT.B.7",
+    "skillLabel": "Subtract decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimal place value",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-sub",
+      "left": 375,
+      "right": 150,
+      "scale": 100
+    },
+    "choices": [
+      "3.75",
+      "2.25",
+      "1.50",
+      "0.25"
+    ],
+    "answerIndex": 1,
+    "id": "g5-decimals-0012",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Hana subtracts 2.15 from 6.40. What is the difference?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Subtract 2.15 from 6.40. Step 3: The difference is 4.25.",
+    "skill": "5.NBT.B.7",
+    "skillLabel": "Subtract decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimal place value",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-sub",
+      "left": 640,
+      "right": 215,
+      "scale": 100
+    },
+    "choices": [
+      "6.40",
+      "2.15",
+      "4.25",
+      "0.25"
+    ],
+    "answerIndex": 2,
+    "id": "g5-decimals-0013",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "decimals",
+    "topicLabel": "Decimals",
+    "prompt": "Bea subtracts 0.80 from 3.05. What is the difference?",
+    "explanation": "Step 1: Line up the decimal points. Step 2: Subtract 0.80 from 3.05. Step 3: The difference is 2.25.",
+    "skill": "5.NBT.B.7",
+    "skillLabel": "Subtract decimals",
+    "links": [
+      {
+        "label": "Khan Academy: Decimal place value",
+        "href": "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-decimals"
+      },
+      {
+        "label": "Math is Fun: Decimals",
+        "href": "https://www.mathsisfun.com/decimals.html"
+      }
+    ],
+    "verify": {
+      "kind": "decimal-sub",
+      "left": 305,
+      "right": 80,
+      "scale": 100
+    },
+    "choices": [
+      "3.05",
+      "0.80",
+      "2.25",
+      "0.25"
+    ],
+    "answerIndex": 2,
+    "id": "g5-decimals-0014",
+    "grade": 5
+  }
+]

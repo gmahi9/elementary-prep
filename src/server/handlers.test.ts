@@ -38,6 +38,7 @@ class MemoryDb implements D1Database {
         }
         return null;
       },
+      all: async <T>() => ({ results: [] as T[] }),
       run: async () => {
         if (query === queries.rateUpsert) {
           self.rates.set(String(bound[0]), { hits: Number(bound[1]), reset_at: Number(bound[2]) });

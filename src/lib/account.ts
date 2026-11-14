@@ -1,5 +1,4 @@
-import { normalizeProgress } from './progress';
-import type { Progress } from '../types';
+import { normalizeGradeBook, normalizeProgress, type GradeBook } from './progress';
 
 export type ProviderId = 'google' | 'microsoft' | 'github';
 
@@ -40,26 +39,31 @@ export async function loadSession(): Promise<SessionInfo> {
   return body;
 }
 
-export async function loadRemote(): Promise<{ hasSaved: boolean; progress: Progress | null } | null> {
-  const body = (await send('/api/progress')) as { hasSaved?: boolean; progress?: unknown } | null;
+export async function loadRemote(): Promise<{ hasSaved: boolean; book: GradeBook | null } | null> {
+  const body = (await send('/api/progress')) as { hasSaved?: boolean; progress?: unknown; grades?: unknown } | null;
   if (!body) return null;
-  if (!body.hasSaved) return { hasSaved: false, progress: null };
+  if (!body.hasSaved) return { hasSaved: false, book: null };
+  const book = normalizeGradeBook({ version: 2, grades: body.grades || {} });
+  if (book && Object.keys(book.grades).length) return { hasSaved: true, book };
   const progress = normalizeProgress(body.progress);
-  return progress ? { hasSaved: true, progress } : null;
+  return progress ? { hasSaved: true, book: { version: 2, grades: { '3': progress } } } : null;
 }
 
-export async function saveRemote(progress: Progress): Promise<boolean> {
-  const body = await send('/api/progress', { method: 'PUT', body: JSON.stringify(progress) });
+export async function saveRemote(book: GradeBook): Promise<boolean> {
+  const body = await send('/api/progress', { method: 'PUT', body: JSON.stringify(book) });
   return Boolean(body);
 }
 
-export async function mergeRemote(local: Progress): Promise<Progress | null> {
+export async function mergeRemote(book: GradeBook): Promise<GradeBook | null> {
   const body = (await send('/api/progress', {
     method: 'POST',
-    body: JSON.stringify({ action: 'merge', local }),
-  })) as { progress?: unknown } | null;
+    body: JSON.stringify({ action: 'merge', book }),
+  })) as { grades?: unknown; progress?: unknown } | null;
   if (!body) return null;
-  return normalizeProgress(body.progress);
+  const saved = normalizeGradeBook({ version: 2, grades: body.grades || {} });
+  if (saved && Object.keys(saved.grades).length) return saved;
+  const progress = normalizeProgress(body.progress);
+  return progress ? { version: 2, grades: { '3': progress } } : null;
 }
 
 export function startSignIn(provider: ProviderId): void {
@@ -70,18 +74,22 @@ export async function logoutRemote(): Promise<void> {
   await send('/api/auth/logout', { method: 'POST' });
 }
 
-export function readAccountCache(): Progress | null {
+export function readAccountCache(): GradeBook | null {
   try {
     const raw = sessionStorage.getItem(cacheKey);
     if (!raw) return null;
-    return normalizeProgress(JSON.parse(raw));
+    const parsed = JSON.parse(raw) as unknown;
+    return normalizeGradeBook(parsed) || (() => {
+      const progress = normalizeProgress(parsed);
+      return progress ? { version: 2 as const, grades: { '3': progress } } : null;
+    })();
   } catch {
     return null;
   }
 }
 
-export function writeAccountCache(progress: Progress): void {
-  sessionStorage.setItem(cacheKey, JSON.stringify(progress));
+export function writeAccountCache(book: GradeBook): void {
+  sessionStorage.setItem(cacheKey, JSON.stringify(book));
 }
 
 export function clearAccountCache(): void {

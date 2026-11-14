@@ -1,0 +1,2076 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nico has 10 stickers and gets 1 more. How many stickers does Nico have in all?",
+    "explanation": "Step 1: Nico starts with 10 stickers. Step 2: Add the 1 new stickers. Step 3: 10 + 1 = 11.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+1"
+    },
+    "choices": [
+      "12",
+      "10",
+      "11",
+      "13"
+    ],
+    "answerIndex": 2,
+    "id": "g2-add-subtract-0001",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Lila has 10 shells and gets 2 more. How many shells does Lila have in all?",
+    "explanation": "Step 1: Lila starts with 10 shells. Step 2: Add the 2 new shells. Step 3: 10 + 2 = 12.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+2"
+    },
+    "choices": [
+      "13",
+      "11",
+      "14",
+      "12"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0002",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Omar has 10 blocks and gets 3 more. How many blocks does Omar have in all?",
+    "explanation": "Step 1: Omar starts with 10 blocks. Step 2: Add the 3 new blocks. Step 3: 10 + 3 = 13.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+3"
+    },
+    "choices": [
+      "13",
+      "14",
+      "12",
+      "15"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0003",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Hana has 10 cards and gets 4 more. How many cards does Hana have in all?",
+    "explanation": "Step 1: Hana starts with 10 cards. Step 2: Add the 4 new cards. Step 3: 10 + 4 = 14.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+4"
+    },
+    "choices": [
+      "15",
+      "13",
+      "16",
+      "14"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0004",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Bea has 10 marbles and gets 5 more. How many marbles does Bea have in all?",
+    "explanation": "Step 1: Bea starts with 10 marbles. Step 2: Add the 5 new marbles. Step 3: 10 + 5 = 15.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+5"
+    },
+    "choices": [
+      "16",
+      "14",
+      "15",
+      "17"
+    ],
+    "answerIndex": 2,
+    "id": "g2-add-subtract-0005",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Luis has 10 stickers and gets 6 more. How many stickers does Luis have in all?",
+    "explanation": "Step 1: Luis starts with 10 stickers. Step 2: Add the 6 new stickers. Step 3: 10 + 6 = 16.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+6"
+    },
+    "choices": [
+      "17",
+      "15",
+      "18",
+      "16"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0006",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Mina has 10 shells and gets 7 more. How many shells does Mina have in all?",
+    "explanation": "Step 1: Mina starts with 10 shells. Step 2: Add the 7 new shells. Step 3: 10 + 7 = 17.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+7"
+    },
+    "choices": [
+      "17",
+      "18",
+      "16",
+      "19"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0007",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Theo has 10 blocks and gets 8 more. How many blocks does Theo have in all?",
+    "explanation": "Step 1: Theo starts with 10 blocks. Step 2: Add the 8 new blocks. Step 3: 10 + 8 = 18.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+8"
+    },
+    "choices": [
+      "19",
+      "18",
+      "17",
+      "20"
+    ],
+    "answerIndex": 1,
+    "id": "g2-add-subtract-0008",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Asha has 10 cards and gets 9 more. How many cards does Asha have in all?",
+    "explanation": "Step 1: Asha starts with 10 cards. Step 2: Add the 9 new cards. Step 3: 10 + 9 = 19.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+9"
+    },
+    "choices": [
+      "19",
+      "20",
+      "18",
+      "21"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0009",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Jo has 10 marbles and gets 10 more. How many marbles does Jo have in all?",
+    "explanation": "Step 1: Jo starts with 10 marbles. Step 2: Add the 10 new marbles. Step 3: 10 + 10 = 20.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+10"
+    },
+    "choices": [
+      "21",
+      "19",
+      "20",
+      "22"
+    ],
+    "answerIndex": 2,
+    "id": "g2-add-subtract-0010",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Ida has 10 stickers and gets 11 more. How many stickers does Ida have in all?",
+    "explanation": "Step 1: Ida starts with 10 stickers. Step 2: Add the 11 new stickers. Step 3: 10 + 11 = 21.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+11"
+    },
+    "choices": [
+      "22",
+      "20",
+      "23",
+      "21"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0011",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rex has 10 shells and gets 12 more. How many shells does Rex have in all?",
+    "explanation": "Step 1: Rex starts with 10 shells. Step 2: Add the 12 new shells. Step 3: 10 + 12 = 22.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+12"
+    },
+    "choices": [
+      "22",
+      "23",
+      "21",
+      "24"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0012",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Cleo has 10 blocks and gets 13 more. How many blocks does Cleo have in all?",
+    "explanation": "Step 1: Cleo starts with 10 blocks. Step 2: Add the 13 new blocks. Step 3: 10 + 13 = 23.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+13"
+    },
+    "choices": [
+      "24",
+      "22",
+      "25",
+      "23"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0013",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Wes has 10 cards and gets 14 more. How many cards does Wes have in all?",
+    "explanation": "Step 1: Wes starts with 10 cards. Step 2: Add the 14 new cards. Step 3: 10 + 14 = 24.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+14"
+    },
+    "choices": [
+      "24",
+      "25",
+      "23",
+      "26"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0014",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nora has 10 marbles and gets 15 more. How many marbles does Nora have in all?",
+    "explanation": "Step 1: Nora starts with 10 marbles. Step 2: Add the 15 new marbles. Step 3: 10 + 15 = 25.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+15"
+    },
+    "choices": [
+      "26",
+      "24",
+      "27",
+      "25"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0015",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Owen has 10 stickers and gets 16 more. How many stickers does Owen have in all?",
+    "explanation": "Step 1: Owen starts with 10 stickers. Step 2: Add the 16 new stickers. Step 3: 10 + 16 = 26.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "10+16"
+    },
+    "choices": [
+      "27",
+      "25",
+      "26",
+      "28"
+    ],
+    "answerIndex": 2,
+    "id": "g2-add-subtract-0016",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Theo had 2 apples and gave away 1. How many apples are left?",
+    "explanation": "Step 1: Start with 2. Step 2: Take away 1. Step 3: 2 - 1 = 1.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "2-1"
+    },
+    "choices": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0017",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Asha had 5 crayons and gave away 2. How many crayons are left?",
+    "explanation": "Step 1: Start with 5. Step 2: Take away 2. Step 3: 5 - 2 = 3.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "5-2"
+    },
+    "choices": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0018",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Jo had 8 tokens and gave away 3. How many tokens are left?",
+    "explanation": "Step 1: Start with 8. Step 2: Take away 3. Step 3: 8 - 3 = 5.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "8-3"
+    },
+    "choices": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0019",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Ida had 11 books and gave away 4. How many books are left?",
+    "explanation": "Step 1: Start with 11. Step 2: Take away 4. Step 3: 11 - 4 = 7.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "11-4"
+    },
+    "choices": [
+      "8",
+      "7",
+      "6",
+      "9"
+    ],
+    "answerIndex": 1,
+    "id": "g2-add-subtract-0020",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rex had 14 apples and gave away 5. How many apples are left?",
+    "explanation": "Step 1: Start with 14. Step 2: Take away 5. Step 3: 14 - 5 = 9.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "14-5"
+    },
+    "choices": [
+      "9",
+      "10",
+      "8",
+      "11"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0021",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Cleo had 17 crayons and gave away 6. How many crayons are left?",
+    "explanation": "Step 1: Start with 17. Step 2: Take away 6. Step 3: 17 - 6 = 11.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "17-6"
+    },
+    "choices": [
+      "11",
+      "12",
+      "10",
+      "13"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0022",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Wes had 20 tokens and gave away 7. How many tokens are left?",
+    "explanation": "Step 1: Start with 20. Step 2: Take away 7. Step 3: 20 - 7 = 13.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "20-7"
+    },
+    "choices": [
+      "14",
+      "12",
+      "13",
+      "15"
+    ],
+    "answerIndex": 2,
+    "id": "g2-add-subtract-0023",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nora had 23 books and gave away 8. How many books are left?",
+    "explanation": "Step 1: Start with 23. Step 2: Take away 8. Step 3: 23 - 8 = 15.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "23-8"
+    },
+    "choices": [
+      "16",
+      "14",
+      "15",
+      "17"
+    ],
+    "answerIndex": 2,
+    "id": "g2-add-subtract-0024",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Owen had 26 apples and gave away 9. How many apples are left?",
+    "explanation": "Step 1: Start with 26. Step 2: Take away 9. Step 3: 26 - 9 = 17.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "26-9"
+    },
+    "choices": [
+      "18",
+      "17",
+      "16",
+      "19"
+    ],
+    "answerIndex": 1,
+    "id": "g2-add-subtract-0025",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Pia had 29 crayons and gave away 10. How many crayons are left?",
+    "explanation": "Step 1: Start with 29. Step 2: Take away 10. Step 3: 29 - 10 = 19.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "29-10"
+    },
+    "choices": [
+      "19",
+      "20",
+      "18",
+      "21"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0026",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Quinn had 32 tokens and gave away 11. How many tokens are left?",
+    "explanation": "Step 1: Start with 32. Step 2: Take away 11. Step 3: 32 - 11 = 21.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "32-11"
+    },
+    "choices": [
+      "22",
+      "21",
+      "20",
+      "23"
+    ],
+    "answerIndex": 1,
+    "id": "g2-add-subtract-0027",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rosa had 35 books and gave away 12. How many books are left?",
+    "explanation": "Step 1: Start with 35. Step 2: Take away 12. Step 3: 35 - 12 = 23.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "35-12"
+    },
+    "choices": [
+      "24",
+      "22",
+      "25",
+      "23"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0028",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nico counts 25 beads already in the red bowl and adds 12 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 25+12. Step 3: The result is 37.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "25+12"
+    },
+    "choices": [
+      "38",
+      "37",
+      "36",
+      "39"
+    ],
+    "answerIndex": 1,
+    "id": "g2-add-subtract-0029",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Lila counts 26 cards already in the blue tray and adds 12 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 26+12. Step 3: The result is 38.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "26+12"
+    },
+    "choices": [
+      "39",
+      "37",
+      "40",
+      "38"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0030",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Omar counts 27 seeds already in the green bin and adds 12 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 27+12. Step 3: The result is 39.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "27+12"
+    },
+    "choices": [
+      "39",
+      "40",
+      "38",
+      "41"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0031",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Hana counts 28 tiles already in the yellow cup and adds 12 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 28+12. Step 3: The result is 40.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "28+12"
+    },
+    "choices": [
+      "41",
+      "39",
+      "40",
+      "42"
+    ],
+    "answerIndex": 2,
+    "id": "g2-add-subtract-0032",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Bea counts 29 tokens already in the picnic mat and adds 12 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 29+12. Step 3: The result is 41.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "29+12"
+    },
+    "choices": [
+      "42",
+      "40",
+      "43",
+      "41"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0033",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Luis counts 30 stickers already in the reading rug and adds 12 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 30+12. Step 3: The result is 42.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "30+12"
+    },
+    "choices": [
+      "42",
+      "43",
+      "41",
+      "44"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0034",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Mina counts 31 beads already in the window ledge and adds 12 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 31+12. Step 3: The result is 43.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "31+12"
+    },
+    "choices": [
+      "44",
+      "42",
+      "45",
+      "43"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0035",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Theo counts 32 cards already in the class shelf and adds 12 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 32+12. Step 3: The result is 44.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "32+12"
+    },
+    "choices": [
+      "45",
+      "43",
+      "46",
+      "44"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0036",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Asha counts 33 seeds already in the red bowl and adds 13 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 33+13. Step 3: The result is 46.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "33+13"
+    },
+    "choices": [
+      "47",
+      "46",
+      "45",
+      "48"
+    ],
+    "answerIndex": 1,
+    "id": "g2-add-subtract-0037",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Jo counts 34 tiles already in the blue tray and adds 13 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 34+13. Step 3: The result is 47.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "34+13"
+    },
+    "choices": [
+      "48",
+      "47",
+      "46",
+      "49"
+    ],
+    "answerIndex": 1,
+    "id": "g2-add-subtract-0038",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Ida counts 35 tokens already in the green bin and adds 13 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 35+13. Step 3: The result is 48.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "35+13"
+    },
+    "choices": [
+      "48",
+      "49",
+      "47",
+      "50"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0039",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rex counts 36 stickers already in the yellow cup and adds 13 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 36+13. Step 3: The result is 49.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "36+13"
+    },
+    "choices": [
+      "49",
+      "50",
+      "48",
+      "51"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0040",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Cleo counts 37 beads already in the picnic mat and adds 13 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 37+13. Step 3: The result is 50.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "37+13"
+    },
+    "choices": [
+      "51",
+      "49",
+      "52",
+      "50"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0041",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Wes counts 38 cards already in the reading rug and adds 13 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 38+13. Step 3: The result is 51.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "38+13"
+    },
+    "choices": [
+      "51",
+      "52",
+      "50",
+      "53"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0042",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nora counts 39 seeds already in the window ledge and adds 13 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 39+13. Step 3: The result is 52.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "39+13"
+    },
+    "choices": [
+      "53",
+      "51",
+      "54",
+      "52"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0043",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Owen counts 40 tiles already in the class shelf and adds 13 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 40+13. Step 3: The result is 53.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "40+13"
+    },
+    "choices": [
+      "54",
+      "52",
+      "55",
+      "53"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0044",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Pia counts 41 tokens already in the red bowl and adds 14 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 41+14. Step 3: The result is 55.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "41+14"
+    },
+    "choices": [
+      "56",
+      "55",
+      "54",
+      "57"
+    ],
+    "answerIndex": 1,
+    "id": "g2-add-subtract-0045",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Quinn counts 42 stickers already in the blue tray and adds 14 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 42+14. Step 3: The result is 56.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "42+14"
+    },
+    "choices": [
+      "57",
+      "55",
+      "58",
+      "56"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0046",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Rosa counts 43 beads already in the green bin and adds 14 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 43+14. Step 3: The result is 57.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "43+14"
+    },
+    "choices": [
+      "57",
+      "58",
+      "56",
+      "59"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0047",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Sam counts 44 cards already in the yellow cup and adds 14 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 44+14. Step 3: The result is 58.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "44+14"
+    },
+    "choices": [
+      "59",
+      "58",
+      "57",
+      "60"
+    ],
+    "answerIndex": 1,
+    "id": "g2-add-subtract-0048",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Tara counts 45 seeds already in the picnic mat and adds 14 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 45+14. Step 3: The result is 59.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "45+14"
+    },
+    "choices": [
+      "60",
+      "58",
+      "61",
+      "59"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0049",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Uma counts 46 tiles already in the reading rug and adds 14 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 46+14. Step 3: The result is 60.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "46+14"
+    },
+    "choices": [
+      "60",
+      "61",
+      "59",
+      "62"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0050",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Vik counts 47 tokens already in the window ledge and adds 14 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 47+14. Step 3: The result is 61.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "47+14"
+    },
+    "choices": [
+      "62",
+      "60",
+      "63",
+      "61"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0051",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Willa counts 48 stickers already in the class shelf and adds 14 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 48+14. Step 3: The result is 62.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "48+14"
+    },
+    "choices": [
+      "63",
+      "61",
+      "64",
+      "62"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0052",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Nico counts 49 beads already in the red bowl and adds 15 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 49+15. Step 3: The result is 64.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "49+15"
+    },
+    "choices": [
+      "65",
+      "64",
+      "63",
+      "66"
+    ],
+    "answerIndex": 1,
+    "id": "g2-add-subtract-0053",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Lila counts 50 cards already in the blue tray and adds 15 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 50+15. Step 3: The result is 65.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "50+15"
+    },
+    "choices": [
+      "66",
+      "64",
+      "67",
+      "65"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0054",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Omar counts 51 seeds already in the green bin and adds 15 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 51+15. Step 3: The result is 66.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "51+15"
+    },
+    "choices": [
+      "66",
+      "67",
+      "65",
+      "68"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0055",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Hana counts 52 tiles already in the yellow cup and adds 15 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 52+15. Step 3: The result is 67.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "52+15"
+    },
+    "choices": [
+      "68",
+      "66",
+      "67",
+      "69"
+    ],
+    "answerIndex": 2,
+    "id": "g2-add-subtract-0056",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Bea counts 53 tokens already in the picnic mat and adds 15 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 53+15. Step 3: The result is 68.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "53+15"
+    },
+    "choices": [
+      "69",
+      "67",
+      "70",
+      "68"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0057",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Luis counts 54 stickers already in the reading rug and adds 15 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 54+15. Step 3: The result is 69.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "54+15"
+    },
+    "choices": [
+      "69",
+      "70",
+      "68",
+      "71"
+    ],
+    "answerIndex": 0,
+    "id": "g2-add-subtract-0058",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Mina counts 55 beads already in the window ledge and adds 15 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 55+15. Step 3: The result is 70.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "55+15"
+    },
+    "choices": [
+      "71",
+      "69",
+      "72",
+      "70"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0059",
+    "grade": 2
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Theo counts 56 cards already in the class shelf and adds 15 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 56+15. Step 3: The result is 71.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "56+15"
+    },
+    "choices": [
+      "72",
+      "70",
+      "73",
+      "71"
+    ],
+    "answerIndex": 3,
+    "id": "g2-add-subtract-0060",
+    "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "add-subtract",
+    "topicLabel": "Add and subtract",
+    "prompt": "Asha counts 57 seeds already in the red bowl and adds 16 more. What is the new total?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 57+16. Step 3: The result is 73.",
+    "skill": "2.NBT.B.5",
+    "skillLabel": "Add and subtract",
+    "links": [
+      {
+        "label": "Khan Academy: Add and subtract within 100",
+        "href": "https://www.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100"
+      },
+      {
+        "label": "Common Core 2.NBT.B.5",
+        "href": "https://www.thecorestandards.org/Math/Content/2/NBT/B/5/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "57+16"
+    },
+    "choices": [
+      "74",
+      "73",
+      "72",
+      "75"
+    ],
+    "answerIndex": 1,
+    "id": "g2-add-subtract-0061",
+    "grade": 2
+  }
+]

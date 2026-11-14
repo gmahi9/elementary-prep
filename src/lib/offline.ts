@@ -1,21 +1,20 @@
-import { questions } from '../data/bank';
 import { choiceToSvg, figureToSvg } from './figureSvg.mjs';
 import type { Question } from '../types';
 
-export function downloadOffline(list: Question[] = questions): void {
-  const html = buildOfflineHtml(list);
+export function downloadOffline(list: Question[], gradeLabel = 'practice'): void {
+  const html = buildOfflineHtml(list, gradeLabel);
   const blob = new Blob([html], { type: 'text/html' });
   const url = URL.createObjectURL(blob);
   const link = document.createElement('a');
   link.href = url;
-  link.download = 'sunny-steps-grade3-offline.html';
+  link.download = `sunny-steps-${gradeLabel.toLowerCase().replace(/\s+/g, '-')}-offline.html`;
   document.body.appendChild(link);
   link.click();
   link.remove();
   URL.revokeObjectURL(url);
 }
 
-export function buildOfflineHtml(list: Question[]): string {
+export function buildOfflineHtml(list: Question[], gradeLabel = 'practice'): string {
   const packed = list.map((question) => ({
     id: question.id,
     section: question.section,
@@ -54,7 +53,7 @@ button{min-height:52px;border:1px solid rgba(28,36,48,.12);border-radius:999px;b
 <body>
 <main>
 <h1>Sunny Steps offline</h1>
-<p>Unofficial Grade 3 practice. Not affiliated with CogAT, i-Ready, MAP Growth, NWEA, or the Torrance Tests. Open this file in a browser. Nothing is sent anywhere.</p>
+<p>Unofficial ${gradeLabel} practice saved on this device. Not affiliated with CogAT, i-Ready, MAP Growth, NWEA, or the Torrance Tests. Open this file in a browser. Nothing is sent anywhere.</p>
 <label>Section <select id="section"></select></label>
 <p id="count"></p>
 <article class="card" id="card"></article>
@@ -63,7 +62,7 @@ button{min-height:52px;border:1px solid rgba(28,36,48,.12);border-radius:999px;b
 <script id="bank" type="application/json">${data}</script>
 <script>
 const bank = JSON.parse(document.getElementById('bank').textContent);
-const names = {cogat:'CogAT reasoning', iready:'i-Ready math', map:'MAP reading', torrance:'Torrance creative', all:'All Grade 3'};
+const names = {cogat:'CogAT reasoning', iready:'i-Ready math', map:'MAP reading', torrance:'Torrance creative', all:'All saved questions'};
 const section = document.getElementById('section');
 ['all','cogat','iready','map','torrance'].forEach((id) => {
   const option = document.createElement('option');

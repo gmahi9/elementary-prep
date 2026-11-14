@@ -1,0 +1,342 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Quinn fills 12 trays with 13 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 13 muffins. Step 2: There are 12 trays, so multiply. Step 3: 12 × 13 = 156.",
+    "skill": "5.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "12*13"
+    },
+    "choices": [
+      "156",
+      "157",
+      "155",
+      "158"
+    ],
+    "answerIndex": 0,
+    "id": "g5-multiply-0001",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Rosa fills 14 trays with 11 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 11 muffins. Step 2: There are 14 trays, so multiply. Step 3: 14 × 11 = 154.",
+    "skill": "5.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "14*11"
+    },
+    "choices": [
+      "154",
+      "155",
+      "153",
+      "156"
+    ],
+    "answerIndex": 0,
+    "id": "g5-multiply-0002",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Sam fills 15 trays with 12 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 12 muffins. Step 2: There are 15 trays, so multiply. Step 3: 15 × 12 = 180.",
+    "skill": "5.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "15*12"
+    },
+    "choices": [
+      "180",
+      "181",
+      "179",
+      "182"
+    ],
+    "answerIndex": 0,
+    "id": "g5-multiply-0003",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Tara fills 16 trays with 8 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 8 muffins. Step 2: There are 16 trays, so multiply. Step 3: 16 × 8 = 128.",
+    "skill": "5.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "16*8"
+    },
+    "choices": [
+      "129",
+      "128",
+      "127",
+      "130"
+    ],
+    "answerIndex": 1,
+    "id": "g5-multiply-0004",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Uma fills 18 trays with 6 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 6 muffins. Step 2: There are 18 trays, so multiply. Step 3: 18 × 6 = 108.",
+    "skill": "5.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "18*6"
+    },
+    "choices": [
+      "109",
+      "108",
+      "107",
+      "110"
+    ],
+    "answerIndex": 1,
+    "id": "g5-multiply-0005",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Vik fills 20 trays with 7 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 7 muffins. Step 2: There are 20 trays, so multiply. Step 3: 20 × 7 = 140.",
+    "skill": "5.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "20*7"
+    },
+    "choices": [
+      "141",
+      "139",
+      "140",
+      "142"
+    ],
+    "answerIndex": 2,
+    "id": "g5-multiply-0006",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Willa fills 24 trays with 5 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 5 muffins. Step 2: There are 24 trays, so multiply. Step 3: 24 × 5 = 120.",
+    "skill": "5.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "24*5"
+    },
+    "choices": [
+      "121",
+      "120",
+      "119",
+      "122"
+    ],
+    "answerIndex": 1,
+    "id": "g5-multiply-0007",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Nico fills 25 trays with 4 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 4 muffins. Step 2: There are 25 trays, so multiply. Step 3: 25 × 4 = 100.",
+    "skill": "5.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "25*4"
+    },
+    "choices": [
+      "101",
+      "100",
+      "99",
+      "102"
+    ],
+    "answerIndex": 1,
+    "id": "g5-multiply-0008",
+    "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Lila fills 23 trays with 3 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 3 muffins. Step 2: There are 23 trays, so multiply. Step 3: 23 × 3 = 69.",
+    "skill": "5.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "23*3"
+    },
+    "choices": [
+      "70",
+      "68",
+      "69",
+      "71"
+    ],
+    "answerIndex": 2,
+    "id": "g5-multiply-0009",
+    "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Omar fills 19 trays with 6 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 6 muffins. Step 2: There are 19 trays, so multiply. Step 3: 19 × 6 = 114.",
+    "skill": "5.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "19*6"
+    },
+    "choices": [
+      "115",
+      "113",
+      "116",
+      "114"
+    ],
+    "answerIndex": 3,
+    "id": "g5-multiply-0010",
+    "grade": 5
+  }
+]

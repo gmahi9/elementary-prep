@@ -1,0 +1,527 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Nora pulled?",
+    "passageTitle": "The Red Wagon",
+    "passage": "Nora pulled a red wagon. The wagon held two blocks. A blue ball fell out.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Nora pulled a red wagon.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Nora pushed a green cart.",
+      "The wagon held nine blocks.",
+      "Nora pulled a red wagon.",
+      "A yellow kite flew away."
+    ],
+    "answerIndex": 2,
+    "id": "gk-evidence-0001",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what the wagon held?",
+    "passageTitle": "The Red Wagon",
+    "passage": "Nora pulled a red wagon. The wagon held two blocks. A blue ball fell out.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The wagon held two blocks.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The wagon held nine blocks.",
+      "Nora lost her hat.",
+      "The wagon held two blocks.",
+      "A blue bird sang."
+    ],
+    "answerIndex": 2,
+    "id": "gk-evidence-0002",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what fell?",
+    "passageTitle": "The Red Wagon",
+    "passage": "Nora pulled a red wagon. The wagon held two blocks. A blue ball fell out.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: A blue ball fell out.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "A green hat fell in.",
+      "A blue ball fell out.",
+      "The blocks flew away.",
+      "Nora sat on a bench."
+    ],
+    "answerIndex": 1,
+    "id": "gk-evidence-0003",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells how many cups Pia set down?",
+    "passageTitle": "Snack Time",
+    "passage": "Pia set three cups on the table. Each cup had milk. Sam drank from the blue cup.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Pia set three cups on the table.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Pia set eight cups on the table.",
+      "The cups were full of juice.",
+      "Sam drank from a green mug.",
+      "Pia set three cups on the table."
+    ],
+    "answerIndex": 3,
+    "id": "gk-evidence-0004",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what was in the cups?",
+    "passageTitle": "Snack Time",
+    "passage": "Pia set three cups on the table. Each cup had milk. Sam drank from the blue cup.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Each cup had milk.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Each cup had water.",
+      "Pia hid the cups.",
+      "Each cup had milk.",
+      "Sam washed a plate."
+    ],
+    "answerIndex": 2,
+    "id": "gk-evidence-0005",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Sam did?",
+    "passageTitle": "Snack Time",
+    "passage": "Pia set three cups on the table. Each cup had milk. Sam drank from the blue cup.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Sam drank from the blue cup.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Sam drank from the red cup.",
+      "Pia drank all the milk.",
+      "The cups fell down.",
+      "Sam drank from the blue cup."
+    ],
+    "answerIndex": 3,
+    "id": "gk-evidence-0006",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Quinn saw?",
+    "passageTitle": "Park Walk",
+    "passage": "Quinn saw a brown dog. The dog chased a red ball. Quinn clapped and smiled.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Quinn saw a brown dog.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Quinn saw a white cat.",
+      "The dog chased a blue hat.",
+      "Quinn saw a brown dog.",
+      "Quinn sat and frowned."
+    ],
+    "answerIndex": 2,
+    "id": "gk-evidence-0007",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what the dog chased?",
+    "passageTitle": "Park Walk",
+    "passage": "Quinn saw a brown dog. The dog chased a red ball. Quinn clapped and smiled.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The dog chased a red ball.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The dog chased a red ball.",
+      "The dog chased a blue hat.",
+      "Quinn threw a stick.",
+      "A bird built a nest."
+    ],
+    "answerIndex": 0,
+    "id": "gk-evidence-0008",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells how Quinn felt at the end?",
+    "passageTitle": "Park Walk",
+    "passage": "Quinn saw a brown dog. The dog chased a red ball. Quinn clapped and smiled.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Quinn clapped and smiled.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Quinn cried and hid.",
+      "The dog went to sleep.",
+      "Quinn lost a shoe.",
+      "Quinn clapped and smiled."
+    ],
+    "answerIndex": 3,
+    "id": "gk-evidence-0009",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Rosa found?",
+    "passageTitle": "Leaf Pile",
+    "passage": "Rosa found a yellow leaf. Owen found a red leaf. They put both leaves in a basket.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Rosa found a yellow leaf.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Rosa found a blue rock.",
+      "Owen found a green leaf.",
+      "Rosa found a yellow leaf.",
+      "They threw the leaves away."
+    ],
+    "answerIndex": 2,
+    "id": "gk-evidence-0010",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Owen found?",
+    "passageTitle": "Leaf Pile",
+    "passage": "Rosa found a yellow leaf. Owen found a red leaf. They put both leaves in a basket.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Owen found a red leaf.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Owen found a green leaf.",
+      "Rosa found a stick.",
+      "The basket was empty.",
+      "Owen found a red leaf."
+    ],
+    "answerIndex": 3,
+    "id": "gk-evidence-0011",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells where the leaves went?",
+    "passageTitle": "Leaf Pile",
+    "passage": "Rosa found a yellow leaf. Owen found a red leaf. They put both leaves in a basket.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: They put both leaves in a basket.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "They put both leaves in a pocket.",
+      "They left the leaves on the path.",
+      "They put both leaves in a basket.",
+      "A bird took the basket."
+    ],
+    "answerIndex": 2,
+    "id": "gk-evidence-0012",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Tara opened?",
+    "passageTitle": "Bedtime Book",
+    "passage": "Tara opened a picture book. The book showed a sleeping cat. Tara whispered, Good night.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Tara opened a picture book.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Tara opened a paint box.",
+      "The book showed a running dog.",
+      "Tara opened a picture book.",
+      "Tara shouted hello."
+    ],
+    "answerIndex": 2,
+    "id": "gk-evidence-0013",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what the book showed?",
+    "passageTitle": "Bedtime Book",
+    "passage": "Tara opened a picture book. The book showed a sleeping cat. Tara whispered, Good night.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The book showed a sleeping cat.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The book showed a running dog.",
+      "Tara closed her eyes first.",
+      "A bell rang twice.",
+      "The book showed a sleeping cat."
+    ],
+    "answerIndex": 3,
+    "id": "gk-evidence-0014",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Tara whispered?",
+    "passageTitle": "Bedtime Book",
+    "passage": "Tara opened a picture book. The book showed a sleeping cat. Tara whispered, Good night.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Tara whispered, Good night.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Tara whispered, Good morning.",
+      "Tara sang a loud song.",
+      "The cat jumped down.",
+      "Tara whispered, Good night."
+    ],
+    "answerIndex": 3,
+    "id": "gk-evidence-0015",
+    "grade": 0
+  }
+]

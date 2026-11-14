@@ -1,0 +1,298 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "compare",
+    "topicLabel": "Compare numbers",
+    "prompt": "Owen looks at 2 and 5. Which number is greater?",
+    "explanation": "Step 1: Read both numbers: 2 and 5. Step 2: The greater number is farther along the count. Step 3: The answer is 5.",
+    "skill": "K.CC.C.6",
+    "skillLabel": "Compare numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Counting",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting"
+      },
+      {
+        "label": "Common Core K.CC.B.4",
+        "href": "https://www.thecorestandards.org/Math/Content/K/CC/B/4/"
+      }
+    ],
+    "verify": {
+      "kind": "max",
+      "values": [
+        2,
+        5
+      ]
+    },
+    "choices": [
+      "2",
+      "7",
+      "3",
+      "5"
+    ],
+    "answerIndex": 3,
+    "id": "gk-compare-0001",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "compare",
+    "topicLabel": "Compare numbers",
+    "prompt": "Pia looks at 3 and 8. Which number is less?",
+    "explanation": "Step 1: Read both numbers: 3 and 8. Step 2: The lesser number comes first when you count. Step 3: The answer is 3.",
+    "skill": "K.CC.C.6",
+    "skillLabel": "Compare numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Counting",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting"
+      },
+      {
+        "label": "Common Core K.CC.B.4",
+        "href": "https://www.thecorestandards.org/Math/Content/K/CC/B/4/"
+      }
+    ],
+    "verify": {
+      "kind": "min",
+      "values": [
+        3,
+        8
+      ]
+    },
+    "choices": [
+      "3",
+      "8",
+      "11",
+      "5"
+    ],
+    "answerIndex": 0,
+    "id": "gk-compare-0002",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "compare",
+    "topicLabel": "Compare numbers",
+    "prompt": "Quinn looks at 4 and 1. Which number is greater?",
+    "explanation": "Step 1: Read both numbers: 4 and 1. Step 2: The greater number is farther along the count. Step 3: The answer is 4.",
+    "skill": "K.CC.C.6",
+    "skillLabel": "Compare numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Counting",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting"
+      },
+      {
+        "label": "Common Core K.CC.B.4",
+        "href": "https://www.thecorestandards.org/Math/Content/K/CC/B/4/"
+      }
+    ],
+    "verify": {
+      "kind": "max",
+      "values": [
+        4,
+        1
+      ]
+    },
+    "choices": [
+      "1",
+      "5",
+      "4",
+      "3"
+    ],
+    "answerIndex": 2,
+    "id": "gk-compare-0003",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "compare",
+    "topicLabel": "Compare numbers",
+    "prompt": "Rosa looks at 6 and 9. Which number is less?",
+    "explanation": "Step 1: Read both numbers: 6 and 9. Step 2: The lesser number comes first when you count. Step 3: The answer is 6.",
+    "skill": "K.CC.C.6",
+    "skillLabel": "Compare numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Counting",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting"
+      },
+      {
+        "label": "Common Core K.CC.B.4",
+        "href": "https://www.thecorestandards.org/Math/Content/K/CC/B/4/"
+      }
+    ],
+    "verify": {
+      "kind": "min",
+      "values": [
+        6,
+        9
+      ]
+    },
+    "choices": [
+      "9",
+      "15",
+      "3",
+      "6"
+    ],
+    "answerIndex": 3,
+    "id": "gk-compare-0004",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "compare",
+    "topicLabel": "Compare numbers",
+    "prompt": "Sam looks at 7 and 2. Which number is greater?",
+    "explanation": "Step 1: Read both numbers: 7 and 2. Step 2: The greater number is farther along the count. Step 3: The answer is 7.",
+    "skill": "K.CC.C.6",
+    "skillLabel": "Compare numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Counting",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting"
+      },
+      {
+        "label": "Common Core K.CC.B.4",
+        "href": "https://www.thecorestandards.org/Math/Content/K/CC/B/4/"
+      }
+    ],
+    "verify": {
+      "kind": "max",
+      "values": [
+        7,
+        2
+      ]
+    },
+    "choices": [
+      "2",
+      "9",
+      "7",
+      "5"
+    ],
+    "answerIndex": 2,
+    "id": "gk-compare-0005",
+    "grade": 0
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "compare",
+    "topicLabel": "Compare numbers",
+    "prompt": "Tara looks at 1 and 10. Which number is less?",
+    "explanation": "Step 1: Read both numbers: 1 and 10. Step 2: The lesser number comes first when you count. Step 3: The answer is 1.",
+    "skill": "K.CC.C.6",
+    "skillLabel": "Compare numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Counting",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting"
+      },
+      {
+        "label": "Common Core K.CC.B.4",
+        "href": "https://www.thecorestandards.org/Math/Content/K/CC/B/4/"
+      }
+    ],
+    "verify": {
+      "kind": "min",
+      "values": [
+        1,
+        10
+      ]
+    },
+    "choices": [
+      "10",
+      "11",
+      "1",
+      "9"
+    ],
+    "answerIndex": 2,
+    "id": "gk-compare-0006",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "compare",
+    "topicLabel": "Compare numbers",
+    "prompt": "Uma looks at 8 and 3. Which number is greater?",
+    "explanation": "Step 1: Read both numbers: 8 and 3. Step 2: The greater number is farther along the count. Step 3: The answer is 8.",
+    "skill": "K.CC.C.6",
+    "skillLabel": "Compare numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Counting",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting"
+      },
+      {
+        "label": "Common Core K.CC.B.4",
+        "href": "https://www.thecorestandards.org/Math/Content/K/CC/B/4/"
+      }
+    ],
+    "verify": {
+      "kind": "max",
+      "values": [
+        8,
+        3
+      ]
+    },
+    "choices": [
+      "8",
+      "3",
+      "11",
+      "5"
+    ],
+    "answerIndex": 0,
+    "id": "gk-compare-0007",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "compare",
+    "topicLabel": "Compare numbers",
+    "prompt": "Vik looks at 11 and 19. Which number is less?",
+    "explanation": "Step 1: Read both numbers: 11 and 19. Step 2: The lesser number comes first when you count. Step 3: The answer is 11.",
+    "skill": "K.CC.C.6",
+    "skillLabel": "Compare numbers",
+    "links": [
+      {
+        "label": "Khan Academy: Counting",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting"
+      },
+      {
+        "label": "Common Core K.CC.B.4",
+        "href": "https://www.thecorestandards.org/Math/Content/K/CC/B/4/"
+      }
+    ],
+    "verify": {
+      "kind": "min",
+      "values": [
+        11,
+        19
+      ]
+    },
+    "choices": [
+      "11",
+      "19",
+      "30",
+      "8"
+    ],
+    "answerIndex": 0,
+    "id": "gk-compare-0008",
+    "grade": 0
+  }
+]

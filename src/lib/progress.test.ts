@@ -45,7 +45,7 @@ describe('guest progress storage', () => {
   });
 
   it('clears stored guest progress and leaves preferences', async () => {
-    const { CARRY_KEY, GUEST_DATABASES, MERGE_DECLINED_PREFIX, PREFERENCE_KEYS, PROGRESS_KEY, SESSION_KEY, clearStoredGuestProgress } = await import('./progress');
+    const { CARRY_KEY, GUEST_BOOK, GUEST_DATABASES, MERGE_DECLINED_PREFIX, PREFERENCE_KEYS, PROGRESS_KEY, SESSION_KEY, clearStoredGuestProgress } = await import('./progress');
     const local = new MemoryStore();
     const session = new MemoryStore();
     local.setItem(PROGRESS_KEY, '{"version":1}');
@@ -55,6 +55,7 @@ describe('guest progress storage', () => {
     session.setItem(PROGRESS_KEY, '{"version":1}');
     session.setItem(SESSION_KEY, '{"correct":2,"answered":2}');
     session.setItem('sunny-steps.account.v1', '{"version":1}');
+    session.setItem(GUEST_BOOK, '{"version":2,"grades":{}}');
     session.setItem(CARRY_KEY, '{"progress":true}');
     for (const key of PREFERENCE_KEYS) local.setItem(key, 'on');
     const dropped: string[] = [];
@@ -73,6 +74,7 @@ describe('guest progress storage', () => {
     expect(session.getItem(PROGRESS_KEY)).toBeNull();
     expect(session.getItem(SESSION_KEY)).toBeNull();
     expect(session.getItem('sunny-steps.account.v1')).toBe('{"version":1}');
+    expect(session.getItem(GUEST_BOOK)).toBeNull();
     expect(session.getItem(CARRY_KEY)).toBe('{"progress":true}');
     expect(dropped).toEqual([...GUEST_DATABASES]);
   });

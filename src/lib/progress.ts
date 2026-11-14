@@ -1,10 +1,11 @@
-import type { MockRun, Progress, Question, SessionStats } from '../types';
+import type { GradeNumber, MockRun, Progress, Question, SessionStats } from '../types';
 
 export const PROGRESS_KEY = 'sunny-steps.v1';
 export const SESSION_KEY = 'sunny-steps.session.v1';
 export const CARRY_KEY = 'sunny-steps.carry.v1';
 export const MERGE_DECLINED_PREFIX = 'sunny-steps.merge-declined.';
 export const PREFERENCE_KEYS = ['sunny-steps.sound', 'sunny-steps.reduced-motion', 'sunny-steps.read-aloud'] as const;
+export const GUEST_BOOK = 'sunny-steps.guest.v1';
 export const GUEST_DATABASES = ['sunny-steps', 'sunny-steps.v1', 'sunny-steps-progress'];
 
 export const SIGN_IN_SAVE_PROMPT = 'Sign in to save your progress';
@@ -158,6 +159,7 @@ export interface KeyStore {
 export interface VisitCarry {
   progress: Progress;
   session: SessionStats;
+  book?: GradeBook;
 }
 
 function browserStore(kind: 'localStorage' | 'sessionStorage'): KeyStore | null {
@@ -193,13 +195,14 @@ export function clearStoredGuestProgress(target?: {
     for (let index = 0; index < local.length; index += 1) {
       const key = local.key(index);
       if (!key || preferences.has(key)) continue;
-      if (key === PROGRESS_KEY || key === SESSION_KEY || key.startsWith(MERGE_DECLINED_PREFIX)) drop.push(key);
+      if (key === PROGRESS_KEY || key === SESSION_KEY || key === GUEST_BOOK || key.startsWith(MERGE_DECLINED_PREFIX)) drop.push(key);
     }
     for (const key of drop) local.removeItem(key);
   }
   if (session) {
     session.removeItem(PROGRESS_KEY);
     session.removeItem(SESSION_KEY);
+    session.removeItem(GUEST_BOOK);
   }
   const dropDatabase = target?.dropDatabase;
   if (dropDatabase) {
@@ -242,16 +245,28 @@ export function writeVisitCarry(progress: Progress, session: SessionStats, store
   }
 }
 
+export function writeVisitBook(book: GradeBook, session: SessionStats, store?: KeyStore | null): void {
+  const target = store === undefined ? browserStore('sessionStorage') : store;
+  if (!target) return;
+  try {
+    const progress = Object.values(book.grades).find((item) => item && hasActivity(item)) || emptyProgress();
+    target.setItem(CARRY_KEY, JSON.stringify({ book, progress, session }));
+  } catch {
+    /* the visit still lives in memory if the tab cannot store the handoff */
+  }
+}
+
 export function readVisitCarry(store?: KeyStore | null): VisitCarry | null {
   const target = store === undefined ? browserStore('sessionStorage') : store;
   if (!target) return null;
   try {
     const raw = target.getItem(CARRY_KEY);
     if (!raw) return null;
-    const parsed = JSON.parse(raw) as { progress?: unknown; session?: unknown };
-    const progress = normalizeProgress(parsed.progress);
+    const parsed = JSON.parse(raw) as { progress?: unknown; session?: unknown; book?: unknown };
+    const book = normalizeGradeBook(parsed.book);
+    const progress = normalizeProgress(parsed.progress) || (book ? Object.values(book.grades).find(Boolean) || null : null);
     if (!progress) return null;
-    return { progress, session: readSessionStats(parsed.session) };
+    return { progress, session: readSessionStats(parsed.session), book: book || undefined };
   } catch {
     return null;
   }
@@ -286,7 +301,7 @@ export function hasActivity(state: Progress): boolean {
   return state.allAnswered > 0 || state.creativeDone.length > 0 || state.mockTests > 0 || (state.mockHistory || []).length > 0;
 }
 
-const questionId = /^g3-[a-z0-9-]{2,24}$/;
+const questionId = /^g(?:k|[0-5])-[a-z0-9-]{2,48}$/;
 const skillKey = /^[A-Za-z0-9.]{1,32}$/;
 const mockId = /^m-[a-z0-9-]{4,40}$/;
 const sections = new Set(['cogat', 'iready', 'map', 'torrance']);
@@ -461,4 +476,88 @@ export function mergeProgress(local: Progress, remote: Progress): Progress {
     mockHistory,
   };
   return withBadges(merged).state;
+}
+
+export interface GradeBook {
+  version: 2;
+  grades: Partial<Record<string, Progress>>;
+}
+
+const LAST_GRADE = 'sunny-steps.last-grade';
+
+export function emptyGradeBook(): GradeBook {
+  return { version: 2, grades: {} };
+}
+
+export function normalizeGradeBook(input: unknown): GradeBook | null {
+  if (!input || typeof input !== 'object' || Array.isArray(input)) return null;
+  const raw = input as Record<string, unknown>;
+  if (raw.version === 1) {
+    const progress = normalizeProgress(raw);
+    return progress ? { version: 2, grades: { '3': progress } } : null;
+  }
+  if (raw.version !== 2 || !raw.grades || typeof raw.grades !== 'object' || Array.isArray(raw.grades)) return null;
+  const entries = Object.entries(raw.grades as Record<string, unknown>);
+  if (entries.length > 6) return null;
+  const grades: GradeBook['grades'] = {};
+  for (const [key, value] of entries) {
+    if (!/^[0-5]$/.test(key)) return null;
+    const progress = normalizeProgress(value);
+    if (!progress) return null;
+    grades[key] = progress;
+  }
+  return { version: 2, grades };
+}
+
+export function bookHasActivity(book: GradeBook): boolean {
+  return Object.values(book.grades).some((progress) => progress && hasActivity(progress));
+}
+
+export function mergeGradeBooks(local: GradeBook, remote: GradeBook): GradeBook {
+  const grades: GradeBook['grades'] = {};
+  const keys = new Set([...Object.keys(local.grades), ...Object.keys(remote.grades)]);
+  for (const key of keys) {
+    const left = local.grades[key];
+    const right = remote.grades[key];
+    if (left && right) grades[key] = mergeProgress(left, right);
+    else if (left) grades[key] = left;
+    else if (right) grades[key] = right;
+  }
+  return { version: 2, grades };
+}
+
+const blankProgress = emptyProgress();
+
+export function progressFor(book: GradeBook, grade: GradeNumber): Progress {
+  return book.grades[String(grade)] || blankProgress;
+}
+
+export function loadGuestBook(): GradeBook {
+  try {
+    const raw = sessionStorage.getItem(GUEST_BOOK);
+    if (!raw) return emptyGradeBook();
+    return normalizeGradeBook(JSON.parse(raw)) || emptyGradeBook();
+  } catch {
+    return emptyGradeBook();
+  }
+}
+
+export function saveGuestBook(book: GradeBook): void {
+  sessionStorage.setItem(GUEST_BOOK, JSON.stringify(book));
+}
+
+export function readLastGrade(): GradeNumber {
+  try {
+    const raw = localStorage.getItem(LAST_GRADE);
+    if (raw === '0' || raw === '1' || raw === '2' || raw === '3' || raw === '4' || raw === '5') {
+      return Number(raw) as GradeNumber;
+    }
+  } catch {
+    return 3;
+  }
+  return 3;
+}
+
+export function writeLastGrade(grade: GradeNumber): void {
+  localStorage.setItem(LAST_GRADE, String(grade));
 }

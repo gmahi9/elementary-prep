@@ -1,4 +1,4 @@
-import type { SectionId } from './types';
+import type { GradeNumber, SectionId } from './types';
 
 export interface SectionInfo {
   id: SectionId;
@@ -50,11 +50,15 @@ export const sections: SectionInfo[] = [
   },
 ];
 
-export const grades = [
-  { id: 'K', label: 'K', ready: false },
-  { id: '1', label: '1', ready: false },
-  { id: '2', label: '2', ready: false },
-  { id: '3', label: '3', ready: true },
-  { id: '4', label: '4', ready: false },
-  { id: '5', label: '5', ready: false },
+export const grades: { id: GradeNumber; label: string }[] = [
+  { id: 0, label: 'K' },
+  { id: 1, label: '1' },
+  { id: 2, label: '2' },
+  { id: 3, label: '3' },
+  { id: 4, label: '4' },
+  { id: 5, label: '5' },
 ];
+
+export function gradeShort(grade: GradeNumber): string {
+  return grade === 0 ? 'K' : String(grade);
+}

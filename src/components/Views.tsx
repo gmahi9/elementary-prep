@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
 import { motion, useReducedMotion } from 'motion/react';
-import { pickQuestion, questions, questionsIn, sampleQuestions } from '../data/bank';
+import { pickQuestion } from '../lib/sample';
 import { noteMockFinished, percent, recordAnswer, saveCreative, type Badge } from '../lib/progress';
 import type { Progress, Question, SectionId } from '../types';
 import { sections } from '../sections';
@@ -17,10 +17,14 @@ interface Shared {
   burst: () => void;
 }
 
-export function PracticeView(props: Shared) {
+export function PracticeView(props: Shared & {
+  pool: Question[];
+  status: 'loading' | 'ready' | 'error';
+  onRetry: () => void;
+}) {
   const pool = useMemo(
-    () => questionsIn(props.section, props.topic, props.difficulty),
-    [props.section, props.topic, props.difficulty],
+    () => props.pool.filter((question) => props.difficulty === 'all' || question.difficulty === props.difficulty),
+    [props.pool, props.difficulty],
   );
   const [recent, setRecent] = useState<string[]>([]);
   const [current, setCurrent] = useState<Question | null>(null);
@@ -32,6 +36,17 @@ export function PracticeView(props: Shared) {
     setCurrent(pickQuestion(pool));
   }, [pool]);
 
+  if (props.status === 'loading' && pool.length === 0) {
+    return <p className="empty">Loading questions…</p>;
+  }
+  if (props.status === 'error' && pool.length === 0) {
+    return (
+      <div className="empty-block">
+        <p className="empty">Questions could not be loaded.</p>
+        <Tap type="button" className="primary" onClick={props.onRetry}>Try again</Tap>
+      </div>
+    );
+  }
   if (!current) {
     return <p className="empty">No questions in this filter yet. Try another topic.</p>;
   }
@@ -83,18 +98,27 @@ export function PracticeView(props: Shared) {
   );
 }
 
-export function ReviewView(props: Shared) {
-  const queue = props.progress.mistakes
-    .map((id) => questions.find((question) => question.id === id))
-    .filter((question): question is Question => Boolean(question));
+export function ReviewView(props: Shared & { queue: Question[]; status: 'loading' | 'ready' | 'error'; onRetry: () => void }) {
+  const queue = props.queue;
   const [activeId, setActiveId] = useState<string | null>(queue[0]?.id ?? null);
   const [picked, setPicked] = useState<number | null>(null);
-  const current = questions.find((question) => question.id === activeId) || null;
+  const current = queue.find((question) => question.id === activeId) || queue[0] || null;
 
   useEffect(() => {
     if (!activeId && queue[0]) setActiveId(queue[0].id);
   }, [activeId, queue]);
 
+  if (props.status === 'loading' && props.progress.mistakes.length > 0 && queue.length === 0) {
+    return <p className="empty">Loading questions…</p>;
+  }
+  if (props.status === 'error' && queue.length === 0 && props.progress.mistakes.length > 0) {
+    return (
+      <div className="empty-block">
+        <p className="empty">Those questions could not be loaded.</p>
+        <Tap type="button" className="primary" onClick={props.onRetry}>Try again</Tap>
+      </div>
+    );
+  }
   if (!current) {
     return <p className="empty">No mistakes are waiting. That is a good place to be.</p>;
   }
@@ -133,7 +157,17 @@ export function ReviewView(props: Shared) {
   );
 }
 
-export function MockView({ progress, setProgress, burst, addSession, notice }: Pick<Shared, 'progress' | 'setProgress' | 'burst' | 'addSession'> & { notice?: ReactNode }) {
+export function MockView({
+  progress,
+  setProgress,
+  burst,
+  addSession,
+  loadSample,
+  notice,
+}: Pick<Shared, 'progress' | 'setProgress' | 'burst' | 'addSession'> & {
+  loadSample: (section: SectionId | 'mix', count: number) => Promise<Question[]>;
+  notice?: ReactNode;
+}) {
   const [section, setSection] = useState<SectionId | 'mix'>('mix');
   const [length, setLength] = useState(10);
   const [minutes, setMinutes] = useState(8);
@@ -143,6 +177,8 @@ export function MockView({ progress, setProgress, burst, addSession, notice }: P
   const [left, setLeft] = useState(0);
   const [summary, setSummary] = useState<null | { correct: number; total: number; bySkill: Record<string, { label: string; correct: number; total: number }> }>(null);
   const ended = useRef(false);
+  const [busy, setBusy] = useState(false);
+  const [startError, setStartError] = useState('');
 
   useEffect(() => {
     if (!paper || summary || minutes === 0) return undefined;
@@ -195,9 +231,15 @@ export function MockView({ progress, setProgress, burst, addSession, notice }: P
     setSummary({ correct, total: items.length, bySkill });
   };
 
-  const start = () => {
-    const pool = questions.filter((question) => question.scored && (section === 'mix' || question.section === section));
-    const items = sampleQuestions(pool, length);
+  const start = async () => {
+    setBusy(true);
+    setStartError('');
+    const items = await loadSample(section, length);
+    setBusy(false);
+    if (!items.length) {
+      setStartError('Questions could not be loaded.');
+      return;
+    }
     setPaper(items);
     setAnswers(items.map(() => null));
     setStep(0);
@@ -241,7 +283,8 @@ export function MockView({ progress, setProgress, burst, addSession, notice }: P
             <option value={20}>20 minutes</option>
           </select>
         </label>
-        <Tap type="submit" className="primary">Start</Tap>
+        {startError && <p className="empty">{startError}</p>}
+        <Tap type="submit" className="primary" disabled={busy}>{busy ? 'Loading…' : 'Start'}</Tap>
       </form>
     );
   }
@@ -369,7 +412,7 @@ export function GrownupView({
         <h2>For grown-ups</h2>
         <p>
           {signedIn
-            ? 'Scores are saved to this account.'
+            ? 'Scores for this grade are saved to this account.'
             : providersKnown && canSignIn
               ? 'Sign in to save your progress. This visit resets when you leave.'
               : 'Progress resets when you leave.'}
@@ -416,7 +459,7 @@ export function GrownupView({
       <div className="pager">
         <Tap type="button" className="ghost" onClick={exportProgress}>Download progress</Tap>
         {!confirming ? (
-          <Tap type="button" className="danger" onClick={() => setConfirming(true)}>Reset progress</Tap>
+          <Tap type="button" className="danger" onClick={() => setConfirming(true)}>Reset this grade</Tap>
         ) : (
           <Tap type="button" className="danger" onClick={onReset}>Yes, erase progress</Tap>
         )}

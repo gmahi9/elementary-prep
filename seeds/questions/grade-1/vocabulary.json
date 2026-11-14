@@ -1,0 +1,182 @@
+[
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In this story, what does checked out mean?",
+    "passageTitle": "Library Card",
+    "passage": "Abby checked out two books about frogs. She read one book on the bus. She saved the other book for bedtime.",
+    "explanation": "Step 1: Find the word \"checked\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: checked means borrowed from the library.",
+    "skill": "L.1.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "borrowed from the library",
+      "painted",
+      "counted",
+      "threw"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "vocab",
+      "word": "checked"
+    },
+    "id": "g1-vocabulary-0001",
+    "grade": 1,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What is a sprout?",
+    "passageTitle": "Class Garden",
+    "passage": "Ben planted bean seeds in a cup. He watered the cup each morning. A green sprout came up on Friday.",
+    "explanation": "Step 1: Find the word \"sprout\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: sprout means a new plant just starting to grow.",
+    "skill": "L.1.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "a new plant just starting to grow",
+      "a watering can",
+      "a school day",
+      "a kind of soil"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "vocab",
+      "word": "sprout"
+    },
+    "id": "g1-vocabulary-0002",
+    "grade": 1,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What does tower mean here?",
+    "passageTitle": "Rainy Recess",
+    "passage": "Cora heard rain on the roof. The class stayed inside to build with blocks. Cora made a tower taller than her chair.",
+    "explanation": "Step 1: Find the word \"tower\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: tower means a tall structure.",
+    "skill": "L.1.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "a tall structure",
+      "a quiet song",
+      "a small seed",
+      "a rainy cloud"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "vocab",
+      "word": "tower"
+    },
+    "id": "g1-vocabulary-0003",
+    "grade": 1,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What is a photo?",
+    "passageTitle": "Pet Visit",
+    "passage": "Dev brought a photo of his puppy. The puppy in the photo had one white paw. The class wrote the name Pip under the photo.",
+    "explanation": "Step 1: Find the word \"photo\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: photo means a picture made by a camera.",
+    "skill": "L.1.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "a leash",
+      "a picture made by a camera",
+      "a treat",
+      "a bowl"
+    ],
+    "answerIndex": 1,
+    "verify": {
+      "kind": "vocab",
+      "word": "photo"
+    },
+    "id": "g1-vocabulary-0004",
+    "grade": 1,
+    "scored": true
+  },
+  {
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What does recorded mean here?",
+    "passageTitle": "Measure the Desk",
+    "passage": "Eva lined up six paper clips along her pencil. The pencil was longer than her eraser. She recorded 6 on her chart.",
+    "explanation": "Step 1: Find the word \"recorded\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: recorded means wrote down.",
+    "skill": "L.1.4",
+    "skillLabel": "Vocabulary in context",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "choices": [
+      "wrote down",
+      "erased",
+      "painted",
+      "threw"
+    ],
+    "answerIndex": 0,
+    "verify": {
+      "kind": "vocab",
+      "word": "recorded"
+    },
+    "id": "g1-vocabulary-0005",
+    "grade": 1,
+    "scored": true
+  }
+]

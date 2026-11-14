@@ -1,6 +1,7 @@
 import { lazy, Suspense, useEffect, useMemo, useRef, useState } from 'react';
 import { AnimatePresence, LayoutGroup, motion, MotionConfig, useReducedMotion } from 'motion/react';
-import { questions } from './data/bank';
+import { cachedQuestions, fetchQuestionSet, fetchSections } from './lib/questionClient';
+import { sampleQuestions } from './lib/sample';
 import { downloadOffline } from './lib/offline';
 import {
   clearAccountCache,
@@ -17,17 +18,22 @@ import {
 } from './lib/account';
 import {
   badges as badgeCatalog,
+  bookHasActivity,
   clearStoredGuestProgress,
+  emptyGradeBook,
   emptyProgress,
   emptySession,
-  hasActivity,
-  mergeProgress,
+  mergeGradeBooks,
   percent,
+  progressFor,
+  readLastGrade,
   recallVisit,
-  writeVisitCarry,
+  writeLastGrade,
+  writeVisitBook,
+  type GradeBook,
 } from './lib/progress';
-import { grades, sections } from './sections';
-import type { Progress, SectionId, SessionStats } from './types';
+import { gradeShort, grades, sections } from './sections';
+import type { GradeNumber, Progress, Question, SectionCount, SectionId, SessionStats } from './types';
 import { AccountBar, SavePrompt } from './components/AccountBar';
 import { BadgeView, GrownupView, MockView, PracticeView, ReviewView } from './components/Views';
 import { Counter, Doodles, Flame, SectionIcon, Tap } from './components/visuals';
@@ -64,11 +70,22 @@ function Mark() {
 export function App() {
   const reduce = useReducedMotion();
   const [route, setRoute] = useState<Route>(readRoute);
+  const [grade, setGrade] = useState<GradeNumber>(readLastGrade);
   const [section, setSection] = useState<SectionId>('cogat');
   const [topic, setTopic] = useState('all');
   const [difficulty, setDifficulty] = useState<number | 'all'>('all');
-  const [progress, setProgressState] = useState<Progress>(() => recallVisit()?.progress ?? emptyProgress());
+  const [book, setBook] = useState<GradeBook>(() => {
+    const carried = recallVisit();
+    if (carried?.book) return carried.book;
+    if (carried?.progress) return { version: 2, grades: { [String(readLastGrade())]: carried.progress } };
+    return emptyGradeBook();
+  });
   const [session, setSession] = useState<SessionStats>(() => recallVisit()?.session ?? emptySession());
+  const [menu, setMenu] = useState<SectionCount[]>([]);
+  const [pool, setPool] = useState<Question[]>([]);
+  const [reviewPool, setReviewPool] = useState<Question[]>([]);
+  const [bankStatus, setBankStatus] = useState<'loading' | 'ready' | 'error'>('loading');
+  const [reload, setReload] = useState(0);
   const [burst, setBurst] = useState(0);
   const [toast, setToast] = useState('');
   const [tips, setTips] = useState(false);
@@ -77,10 +94,11 @@ export function App() {
   const [account, setAccount] = useState<Account | null>(null);
   const signedRef = useRef(false);
   const skipSave = useRef(true);
-  const progressRef = useRef(progress);
+  const bookRef = useRef(book);
   const sessionRef = useRef(session);
-  progressRef.current = progress;
+  bookRef.current = book;
   sessionRef.current = session;
+  const progress = progressFor(book, grade);
 
   useEffect(() => {
     const sync = () => {
@@ -113,22 +131,22 @@ export function App() {
       const who = await loadSession();
       if (cancel || !who.signedIn || !who.provider || !who.displayName) return;
       const signingIn = recallVisit() !== null;
-      const memory = progressRef.current;
+      const memory = bookRef.current;
       skipSave.current = true;
       signedRef.current = true;
       setAccount({ name: who.displayName, provider: who.provider });
-      if (signingIn && hasActivity(memory)) {
+      if (signingIn && bookHasActivity(memory)) {
         const merged = await mergeRemote(memory);
         if (cancel) return;
         if (!merged) {
           setToast('Scores could not be saved just now.');
-          writeAccountCache(progressRef.current);
+          writeAccountCache(bookRef.current);
           return;
         }
-        const latest = progressRef.current;
-        const next = latest === memory ? merged : mergeProgress(latest, merged);
+        const latest = bookRef.current;
+        const next = latest === memory ? merged : mergeGradeBooks(latest, merged);
         skipSave.current = true;
-        setProgressState(next);
+        setBook(next);
         writeAccountCache(next);
         if (next !== merged) void saveRemote(next);
         return;
@@ -136,25 +154,25 @@ export function App() {
       const remote = await loadRemote();
       if (cancel) return;
       const cache = signingIn ? null : readAccountCache();
-      const during = progressRef.current;
-      let next = remote?.hasSaved && remote.progress ? remote.progress : null;
-      if (cache && hasActivity(cache)) next = next ? mergeProgress(cache, next) : cache;
-      if (hasActivity(during)) next = next ? mergeProgress(during, next) : during;
+      const during = bookRef.current;
+      let next = remote?.hasSaved && remote.book ? remote.book : null;
+      if (cache && bookHasActivity(cache)) next = next ? mergeGradeBooks(cache, next) : cache;
+      if (bookHasActivity(during)) next = next ? mergeGradeBooks(during, next) : during;
       if (!remote) {
         setToast('Saved scores could not be loaded.');
         if (next) {
           skipSave.current = true;
-          setProgressState(next);
+          setBook(next);
           writeAccountCache(next);
         }
         return;
       }
       if (!next) return;
-      const changed = !remote.progress || JSON.stringify(next) !== JSON.stringify(remote.progress);
+      const changed = !remote.book || JSON.stringify(next) !== JSON.stringify(remote.book);
       skipSave.current = true;
-      setProgressState(next);
+      setBook(next);
       writeAccountCache(next);
-      if (changed && hasActivity(next)) void saveRemote(next);
+      if (changed && bookHasActivity(next)) void saveRemote(next);
     };
     void boot();
     return () => { cancel = true; };
@@ -166,25 +184,72 @@ export function App() {
       skipSave.current = false;
       return undefined;
     }
-    writeAccountCache(progress);
+    writeAccountCache(book);
     const timer = window.setTimeout(() => {
-      void saveRemote(progress).then((ok) => {
+      void saveRemote(book).then((ok) => {
         if (!ok) setToast('Scores could not be saved just now.');
       });
     }, 450);
     return () => window.clearTimeout(timer);
-  }, [account, progress]);
+  }, [account, book]);
 
   const topics = useMemo(() => {
+    const current = menu.find((item) => item.key === section);
+    if (current?.topics.length) return current.topics.map((item) => [item.key, item.title] as const);
     const map = new Map<string, string>();
-    questions.filter((question) => question.section === section).forEach((question) => map.set(question.topic, question.topicLabel));
+    pool.filter((question) => question.section === section).forEach((question) => map.set(question.topic, question.topicLabel));
     return [...map.entries()];
-  }, [section]);
+  }, [menu, pool, section]);
+
+  useEffect(() => {
+    let cancel = false;
+    void fetchSections(grade).then((sectionsForGrade) => {
+      if (!cancel && sectionsForGrade) setMenu(sectionsForGrade);
+    });
+    return () => { cancel = true; };
+  }, [grade, reload]);
+
+  useEffect(() => {
+    let cancel = false;
+    setBankStatus('loading');
+    void fetchQuestionSet({
+      grade,
+      section,
+      type: topic === 'all' ? undefined : topic,
+      limit: 48,
+    }).then((result) => {
+      if (cancel) return;
+      if (result.questions) {
+        setPool(result.questions);
+        setBankStatus('ready');
+        if (result.fromCache) setToast('Showing questions saved on this device.');
+        return;
+      }
+      setPool([]);
+      setBankStatus('error');
+    });
+    return () => { cancel = true; };
+  }, [grade, section, topic, reload]);
+
+  useEffect(() => {
+    if (route !== 'review') return undefined;
+    const ids = progress.mistakes;
+    if (!ids.length) {
+      setReviewPool([]);
+      return undefined;
+    }
+    let cancel = false;
+    void fetchQuestionSet({ grade, ids, limit: Math.min(40, ids.length) }).then((result) => {
+      if (cancel) return;
+      setReviewPool(result.questions || []);
+      if (!result.questions) setBankStatus('error');
+    });
+    return () => { cancel = true; };
+  }, [route, grade, progress.mistakes]);
 
   const info = sections.find((item) => item.id === section) || sections[0];
   const updateProgress = (next: Progress, fresh: string[] = []) => {
-    setProgressState(next);
-    if (signedRef.current) writeAccountCache(next);
+    setBook((current) => ({ version: 2, grades: { ...current.grades, [String(grade)]: next } }));
     if (fresh.length) {
       const names = fresh.map((id) => badgeCatalog.find((badge) => badge.id === id)?.name || id);
       setToast(`New badge: ${names.join(', ')}`);
@@ -200,8 +265,28 @@ export function App() {
   };
 
   const signIn = (provider: ProviderId) => {
-    writeVisitCarry(progressRef.current, sessionRef.current);
+    writeVisitBook(bookRef.current, sessionRef.current);
     startSignIn(provider);
+  };
+
+  const chooseGrade = (next: GradeNumber) => {
+    if (next === grade) return;
+    setGrade(next);
+    writeLastGrade(next);
+    setTopic('all');
+    resetSession();
+  };
+
+  const loadSample = async (nextSection: SectionId | 'mix', count: number) => {
+    if (nextSection === 'mix') {
+      const parts = await Promise.all((['cogat', 'iready', 'map'] as const).map((id) => (
+        fetchQuestionSet({ grade, section: id, limit: count, scored: true })
+      )));
+      const merged = parts.flatMap((part) => part.questions || []);
+      return sampleQuestions(merged.filter((question) => question.scored), count);
+    }
+    const result = await fetchQuestionSet({ grade, section: nextSection, limit: count, scored: true });
+    return (result.questions || []).filter((question) => question.scored).slice(0, count);
   };
 
   const logout = async () => {
@@ -235,7 +320,7 @@ export function App() {
               <Mark />
               <span className="brand-copy">
                 <span className="name">Sunny Steps</span>
-                <span className="tag">Grade 3 practice</span>
+                <span className="tag">Grade {gradeShort(grade)} practice</span>
               </span>
             </a>
             <nav aria-label="Pages">
@@ -246,23 +331,21 @@ export function App() {
               <a href="#/grownups" aria-current={route === 'grownups' ? 'page' : undefined}>Grown-ups</a>
             </nav>
             <div className="cluster">
-              <Tap type="button" className="ghost" onClick={() => downloadOffline()}>Offline</Tap>
+              <Tap type="button" className="ghost" onClick={() => downloadOffline(cachedQuestions(grade).length ? cachedQuestions(grade) : pool, `grade-${gradeShort(grade)}`)}>Offline</Tap>
               <AccountBar providers={providers} name={account?.name || null} onSignIn={signIn} onLogout={() => { void logout(); }} />
             </div>
           </div>
           <div className="score-row">
             <div className="grades" role="group" aria-label="Grade">
-              {grades.map((grade) => (
+              {grades.map((item) => (
                 <Tap
-                  key={grade.id}
+                  key={item.id}
                   type="button"
-                  className={grade.ready ? 'grade ready' : 'grade'}
-                  aria-disabled={!grade.ready}
-                  aria-pressed={grade.ready}
-                  onClick={() => { if (!grade.ready) return; }}
+                  className={grade === item.id ? 'grade on' : 'grade'}
+                  aria-pressed={grade === item.id}
+                  onClick={() => chooseGrade(item.id)}
                 >
-                  {grade.label}
-                  {!grade.ready && <small>Soon</small>}
+                  {item.label}
                 </Tap>
               ))}
             </div>
@@ -358,10 +441,20 @@ export function App() {
                   setProgress={updateProgress}
                   addSession={addSession}
                   burst={() => setBurst((value) => value + 1)}
+                  pool={pool}
+                  status={bankStatus}
+                  onRetry={() => setReload((value) => value + 1)}
                 />
               )}
               {route === 'test' && (
-                <MockView progress={progress} setProgress={updateProgress} addSession={addSession} burst={() => setBurst((value) => value + 1)} notice={renderSavePrompt()} />
+                <MockView
+                  progress={progress}
+                  setProgress={updateProgress}
+                  addSession={addSession}
+                  burst={() => setBurst((value) => value + 1)}
+                  loadSample={loadSample}
+                  notice={renderSavePrompt()}
+                />
               )}
               {route === 'review' && (
                 <ReviewView
@@ -372,6 +465,9 @@ export function App() {
                   setProgress={updateProgress}
                   addSession={addSession}
                   burst={() => setBurst((value) => value + 1)}
+                  queue={reviewPool}
+                  status={bankStatus}
+                  onRetry={() => setReload((value) => value + 1)}
                 />
               )}
               {route === 'badges' && <BadgeView progress={progress} catalog={badgeCatalog} />}
@@ -392,7 +488,7 @@ export function App() {
           </AnimatePresence>
         </main>
         <footer>
-          <p>Sunny Steps is unofficial practice for Grade 3. It is not affiliated with, endorsed by, or a source of questions from CogAT, the Cognitive Abilities Test, i-Ready, Curriculum Associates, MAP Growth, NWEA, the Torrance Tests of Creative Thinking, or their publishers. Anyone can practice without signing in. Progress is saved only for a signed-in account. Without an account, scores from this visit reset when you leave.</p>
+          <p>Sunny Steps is unofficial practice for kindergarten through grade 5. It is not affiliated with, endorsed by, or a source of questions from CogAT, the Cognitive Abilities Test, i-Ready, Curriculum Associates, MAP Growth, NWEA, the Torrance Tests of Creative Thinking, or their publishers. Anyone can practice without signing in. Progress is saved only for a signed-in account. Without an account, scores from this visit reset when you leave. Signed-in scores are saved for each grade.</p>
         </footer>
       </div>
       {toast && (

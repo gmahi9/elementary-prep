@@ -1,0 +1,2212 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Cleo fills 12 trays with 3 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 3 muffins. Step 2: There are 12 trays, so multiply. Step 3: 12 × 3 = 36.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "12*3"
+    },
+    "choices": [
+      "37",
+      "35",
+      "36",
+      "38"
+    ],
+    "answerIndex": 2,
+    "id": "g4-multiply-0001",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Wes fills 13 trays with 4 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 4 muffins. Step 2: There are 13 trays, so multiply. Step 3: 13 × 4 = 52.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "13*4"
+    },
+    "choices": [
+      "53",
+      "51",
+      "52",
+      "54"
+    ],
+    "answerIndex": 2,
+    "id": "g4-multiply-0002",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Nora fills 14 trays with 5 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 5 muffins. Step 2: There are 14 trays, so multiply. Step 3: 14 × 5 = 70.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "14*5"
+    },
+    "choices": [
+      "70",
+      "71",
+      "69",
+      "72"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0003",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Owen fills 15 trays with 6 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 6 muffins. Step 2: There are 15 trays, so multiply. Step 3: 15 × 6 = 90.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "15*6"
+    },
+    "choices": [
+      "91",
+      "90",
+      "89",
+      "92"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0004",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Pia fills 16 trays with 4 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 4 muffins. Step 2: There are 16 trays, so multiply. Step 3: 16 × 4 = 64.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "16*4"
+    },
+    "choices": [
+      "65",
+      "64",
+      "63",
+      "66"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0005",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Quinn fills 18 trays with 3 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 3 muffins. Step 2: There are 18 trays, so multiply. Step 3: 18 × 3 = 54.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "18*3"
+    },
+    "choices": [
+      "54",
+      "55",
+      "53",
+      "56"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0006",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Rosa fills 21 trays with 4 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 4 muffins. Step 2: There are 21 trays, so multiply. Step 3: 21 × 4 = 84.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "21*4"
+    },
+    "choices": [
+      "84",
+      "85",
+      "83",
+      "86"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0007",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Sam fills 24 trays with 3 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 3 muffins. Step 2: There are 24 trays, so multiply. Step 3: 24 × 3 = 72.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "24*3"
+    },
+    "choices": [
+      "72",
+      "73",
+      "71",
+      "74"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0008",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Tara fills 25 trays with 4 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 4 muffins. Step 2: There are 25 trays, so multiply. Step 3: 25 × 4 = 100.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "25*4"
+    },
+    "choices": [
+      "101",
+      "99",
+      "100",
+      "102"
+    ],
+    "answerIndex": 2,
+    "id": "g4-multiply-0009",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Uma fills 32 trays with 3 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 3 muffins. Step 2: There are 32 trays, so multiply. Step 3: 32 × 3 = 96.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "32*3"
+    },
+    "choices": [
+      "97",
+      "95",
+      "96",
+      "98"
+    ],
+    "answerIndex": 2,
+    "id": "g4-multiply-0010",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Vik fills 36 trays with 2 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 2 muffins. Step 2: There are 36 trays, so multiply. Step 3: 36 × 2 = 72.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "36*2"
+    },
+    "choices": [
+      "73",
+      "71",
+      "74",
+      "72"
+    ],
+    "answerIndex": 3,
+    "id": "g4-multiply-0011",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Willa fills 42 trays with 2 muffins on each tray. How many muffins is that?",
+    "explanation": "Step 1: Each tray has 2 muffins. Step 2: There are 42 trays, so multiply. Step 3: 42 × 2 = 84.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 5.NBT.B.7",
+        "href": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "42*2"
+    },
+    "choices": [
+      "85",
+      "83",
+      "84",
+      "86"
+    ],
+    "answerIndex": 2,
+    "id": "g4-multiply-0012",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Ida sets 12 rows of 3 beads on the red bowl. How many beads are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 12 × 3. Step 3: The result is 36.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "12*3"
+    },
+    "choices": [
+      "37",
+      "35",
+      "36",
+      "38"
+    ],
+    "answerIndex": 2,
+    "id": "g4-multiply-0013",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Rex sets 13 rows of 3 cards on the blue tray. How many cards are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 13 × 3. Step 3: The result is 39.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "13*3"
+    },
+    "choices": [
+      "39",
+      "40",
+      "38",
+      "41"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0014",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Cleo sets 14 rows of 3 seeds on the green bin. How many seeds are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 14 × 3. Step 3: The result is 42.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "14*3"
+    },
+    "choices": [
+      "43",
+      "41",
+      "42",
+      "44"
+    ],
+    "answerIndex": 2,
+    "id": "g4-multiply-0015",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Wes sets 15 rows of 3 tiles on the yellow cup. How many tiles are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 15 × 3. Step 3: The result is 45.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "15*3"
+    },
+    "choices": [
+      "46",
+      "44",
+      "47",
+      "45"
+    ],
+    "answerIndex": 3,
+    "id": "g4-multiply-0016",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Nora sets 16 rows of 3 tokens on the picnic mat. How many tokens are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 16 × 3. Step 3: The result is 48.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "16*3"
+    },
+    "choices": [
+      "49",
+      "47",
+      "50",
+      "48"
+    ],
+    "answerIndex": 3,
+    "id": "g4-multiply-0017",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Owen sets 17 rows of 3 stickers on the reading rug. How many stickers are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 17 × 3. Step 3: The result is 51.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "17*3"
+    },
+    "choices": [
+      "52",
+      "51",
+      "50",
+      "53"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0018",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Pia sets 18 rows of 3 beads on the window ledge. How many beads are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 18 × 3. Step 3: The result is 54.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "18*3"
+    },
+    "choices": [
+      "54",
+      "55",
+      "53",
+      "56"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0019",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Quinn sets 19 rows of 4 cards on the class shelf. How many cards are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 19 × 4. Step 3: The result is 76.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "19*4"
+    },
+    "choices": [
+      "77",
+      "75",
+      "76",
+      "78"
+    ],
+    "answerIndex": 2,
+    "id": "g4-multiply-0020",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Rosa sets 20 rows of 4 seeds on the red bowl. How many seeds are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 20 × 4. Step 3: The result is 80.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "20*4"
+    },
+    "choices": [
+      "81",
+      "79",
+      "82",
+      "80"
+    ],
+    "answerIndex": 3,
+    "id": "g4-multiply-0021",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Sam sets 21 rows of 4 tiles on the blue tray. How many tiles are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 21 × 4. Step 3: The result is 84.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "21*4"
+    },
+    "choices": [
+      "84",
+      "85",
+      "83",
+      "86"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0022",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Tara sets 22 rows of 4 tokens on the green bin. How many tokens are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 22 × 4. Step 3: The result is 88.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "22*4"
+    },
+    "choices": [
+      "88",
+      "89",
+      "87",
+      "90"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0023",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Uma sets 23 rows of 4 stickers on the yellow cup. How many stickers are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 23 × 4. Step 3: The result is 92.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "23*4"
+    },
+    "choices": [
+      "93",
+      "92",
+      "91",
+      "94"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0024",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Vik sets 24 rows of 4 beads on the picnic mat. How many beads are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 24 × 4. Step 3: The result is 96.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "24*4"
+    },
+    "choices": [
+      "96",
+      "97",
+      "95",
+      "98"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0025",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Willa sets 25 rows of 4 cards on the reading rug. How many cards are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 25 × 4. Step 3: The result is 100.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "25*4"
+    },
+    "choices": [
+      "100",
+      "101",
+      "99",
+      "102"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0026",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Nico sets 12 rows of 5 seeds on the window ledge. How many seeds are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 12 × 5. Step 3: The result is 60.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "12*5"
+    },
+    "choices": [
+      "61",
+      "60",
+      "59",
+      "62"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0027",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Lila sets 13 rows of 5 tiles on the class shelf. How many tiles are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 13 × 5. Step 3: The result is 65.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "13*5"
+    },
+    "choices": [
+      "66",
+      "65",
+      "64",
+      "67"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0028",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Omar sets 14 rows of 5 tokens on the red bowl. How many tokens are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 14 × 5. Step 3: The result is 70.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "14*5"
+    },
+    "choices": [
+      "71",
+      "70",
+      "69",
+      "72"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0029",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Hana sets 15 rows of 5 stickers on the blue tray. How many stickers are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 15 × 5. Step 3: The result is 75.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "15*5"
+    },
+    "choices": [
+      "76",
+      "74",
+      "77",
+      "75"
+    ],
+    "answerIndex": 3,
+    "id": "g4-multiply-0030",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Bea sets 16 rows of 5 beads on the green bin. How many beads are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 16 × 5. Step 3: The result is 80.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "16*5"
+    },
+    "choices": [
+      "81",
+      "80",
+      "79",
+      "82"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0031",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Luis sets 17 rows of 5 cards on the yellow cup. How many cards are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 17 × 5. Step 3: The result is 85.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "17*5"
+    },
+    "choices": [
+      "85",
+      "86",
+      "84",
+      "87"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0032",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Mina sets 18 rows of 5 seeds on the picnic mat. How many seeds are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 18 × 5. Step 3: The result is 90.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "18*5"
+    },
+    "choices": [
+      "91",
+      "90",
+      "89",
+      "92"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0033",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Theo sets 19 rows of 6 tiles on the reading rug. How many tiles are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 19 × 6. Step 3: The result is 114.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "19*6"
+    },
+    "choices": [
+      "115",
+      "113",
+      "116",
+      "114"
+    ],
+    "answerIndex": 3,
+    "id": "g4-multiply-0034",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Asha sets 20 rows of 6 tokens on the window ledge. How many tokens are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 20 × 6. Step 3: The result is 120.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "20*6"
+    },
+    "choices": [
+      "121",
+      "119",
+      "122",
+      "120"
+    ],
+    "answerIndex": 3,
+    "id": "g4-multiply-0035",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Jo sets 21 rows of 6 stickers on the class shelf. How many stickers are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 21 × 6. Step 3: The result is 126.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "21*6"
+    },
+    "choices": [
+      "127",
+      "126",
+      "125",
+      "128"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0036",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Ida sets 22 rows of 6 beads on the red bowl. How many beads are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 22 × 6. Step 3: The result is 132.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "22*6"
+    },
+    "choices": [
+      "133",
+      "131",
+      "132",
+      "134"
+    ],
+    "answerIndex": 2,
+    "id": "g4-multiply-0037",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Rex sets 23 rows of 6 cards on the blue tray. How many cards are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 23 × 6. Step 3: The result is 138.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "23*6"
+    },
+    "choices": [
+      "138",
+      "139",
+      "137",
+      "140"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0038",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Cleo sets 24 rows of 6 seeds on the green bin. How many seeds are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 24 × 6. Step 3: The result is 144.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "24*6"
+    },
+    "choices": [
+      "145",
+      "143",
+      "144",
+      "146"
+    ],
+    "answerIndex": 2,
+    "id": "g4-multiply-0039",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Wes sets 25 rows of 6 tiles on the yellow cup. How many tiles are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 25 × 6. Step 3: The result is 150.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "25*6"
+    },
+    "choices": [
+      "151",
+      "149",
+      "152",
+      "150"
+    ],
+    "answerIndex": 3,
+    "id": "g4-multiply-0040",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Nora sets 12 rows of 7 tokens on the picnic mat. How many tokens are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 12 × 7. Step 3: The result is 84.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "12*7"
+    },
+    "choices": [
+      "85",
+      "83",
+      "86",
+      "84"
+    ],
+    "answerIndex": 3,
+    "id": "g4-multiply-0041",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Owen sets 13 rows of 7 stickers on the reading rug. How many stickers are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 13 × 7. Step 3: The result is 91.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "13*7"
+    },
+    "choices": [
+      "92",
+      "91",
+      "90",
+      "93"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0042",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Pia sets 14 rows of 7 beads on the window ledge. How many beads are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 14 × 7. Step 3: The result is 98.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "14*7"
+    },
+    "choices": [
+      "98",
+      "99",
+      "97",
+      "100"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0043",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Quinn sets 15 rows of 7 cards on the class shelf. How many cards are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 15 × 7. Step 3: The result is 105.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "15*7"
+    },
+    "choices": [
+      "106",
+      "104",
+      "105",
+      "107"
+    ],
+    "answerIndex": 2,
+    "id": "g4-multiply-0044",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Rosa sets 16 rows of 7 seeds on the red bowl. How many seeds are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 16 × 7. Step 3: The result is 112.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "16*7"
+    },
+    "choices": [
+      "113",
+      "111",
+      "114",
+      "112"
+    ],
+    "answerIndex": 3,
+    "id": "g4-multiply-0045",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Sam sets 17 rows of 7 tiles on the blue tray. How many tiles are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 17 × 7. Step 3: The result is 119.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "17*7"
+    },
+    "choices": [
+      "119",
+      "120",
+      "118",
+      "121"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0046",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Tara sets 18 rows of 7 tokens on the green bin. How many tokens are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 18 × 7. Step 3: The result is 126.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "18*7"
+    },
+    "choices": [
+      "126",
+      "127",
+      "125",
+      "128"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0047",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Uma sets 19 rows of 8 stickers on the yellow cup. How many stickers are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 19 × 8. Step 3: The result is 152.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "19*8"
+    },
+    "choices": [
+      "153",
+      "152",
+      "151",
+      "154"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0048",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Vik sets 20 rows of 8 beads on the picnic mat. How many beads are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 20 × 8. Step 3: The result is 160.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "20*8"
+    },
+    "choices": [
+      "160",
+      "161",
+      "159",
+      "162"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0049",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Willa sets 21 rows of 8 cards on the reading rug. How many cards are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 21 × 8. Step 3: The result is 168.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "21*8"
+    },
+    "choices": [
+      "168",
+      "169",
+      "167",
+      "170"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0050",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Nico sets 22 rows of 8 seeds on the window ledge. How many seeds are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 22 × 8. Step 3: The result is 176.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "22*8"
+    },
+    "choices": [
+      "177",
+      "176",
+      "175",
+      "178"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0051",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Lila sets 23 rows of 8 tiles on the class shelf. How many tiles are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 23 × 8. Step 3: The result is 184.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "23*8"
+    },
+    "choices": [
+      "185",
+      "184",
+      "183",
+      "186"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0052",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Omar sets 24 rows of 8 tokens on the red bowl. How many tokens are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 24 × 8. Step 3: The result is 192.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "24*8"
+    },
+    "choices": [
+      "193",
+      "192",
+      "191",
+      "194"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0053",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Hana sets 25 rows of 8 stickers on the blue tray. How many stickers are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 25 × 8. Step 3: The result is 200.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "25*8"
+    },
+    "choices": [
+      "201",
+      "199",
+      "202",
+      "200"
+    ],
+    "answerIndex": 3,
+    "id": "g4-multiply-0054",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Bea sets 12 rows of 3 beads on the green bin. How many beads are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 12 × 3. Step 3: The result is 36.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "12*3"
+    },
+    "choices": [
+      "37",
+      "36",
+      "35",
+      "38"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0055",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Luis sets 13 rows of 3 cards on the yellow cup. How many cards are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 13 × 3. Step 3: The result is 39.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "13*3"
+    },
+    "choices": [
+      "39",
+      "40",
+      "38",
+      "41"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0056",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Mina sets 14 rows of 3 seeds on the picnic mat. How many seeds are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 14 × 3. Step 3: The result is 42.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "14*3"
+    },
+    "choices": [
+      "43",
+      "42",
+      "41",
+      "44"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0057",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Theo sets 15 rows of 3 tiles on the reading rug. How many tiles are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 15 × 3. Step 3: The result is 45.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "15*3"
+    },
+    "choices": [
+      "46",
+      "44",
+      "47",
+      "45"
+    ],
+    "answerIndex": 3,
+    "id": "g4-multiply-0058",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Asha sets 16 rows of 3 tokens on the window ledge. How many tokens are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 16 × 3. Step 3: The result is 48.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "16*3"
+    },
+    "choices": [
+      "49",
+      "47",
+      "50",
+      "48"
+    ],
+    "answerIndex": 3,
+    "id": "g4-multiply-0059",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Jo sets 17 rows of 3 stickers on the class shelf. How many stickers are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 17 × 3. Step 3: The result is 51.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "17*3"
+    },
+    "choices": [
+      "52",
+      "51",
+      "50",
+      "53"
+    ],
+    "answerIndex": 1,
+    "id": "g4-multiply-0060",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Ida sets 18 rows of 3 beads on the red bowl. How many beads are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 18 × 3. Step 3: The result is 54.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "18*3"
+    },
+    "choices": [
+      "55",
+      "53",
+      "54",
+      "56"
+    ],
+    "answerIndex": 2,
+    "id": "g4-multiply-0061",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Rex sets 19 rows of 4 cards on the blue tray. How many cards are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 19 × 4. Step 3: The result is 76.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "19*4"
+    },
+    "choices": [
+      "76",
+      "77",
+      "75",
+      "78"
+    ],
+    "answerIndex": 0,
+    "id": "g4-multiply-0062",
+    "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Cleo sets 20 rows of 4 seeds on the green bin. How many seeds are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 20 × 4. Step 3: The result is 80.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "20*4"
+    },
+    "choices": [
+      "81",
+      "79",
+      "80",
+      "82"
+    ],
+    "answerIndex": 2,
+    "id": "g4-multiply-0063",
+    "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Wes sets 21 rows of 4 tiles on the yellow cup. How many tiles are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 21 × 4. Step 3: The result is 84.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "21*4"
+    },
+    "choices": [
+      "85",
+      "83",
+      "86",
+      "84"
+    ],
+    "answerIndex": 3,
+    "id": "g4-multiply-0064",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "multiply",
+    "topicLabel": "Multiplication",
+    "prompt": "Nora sets 22 rows of 4 tokens on the picnic mat. How many tokens are there?",
+    "explanation": "Step 1: Start with the amounts in the story. Step 2: The expression is 22 × 4. Step 3: The result is 88.",
+    "skill": "4.NBT.B.5",
+    "skillLabel": "Multiplication",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 4.NF.A.1",
+        "href": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/"
+      }
+    ],
+    "verify": {
+      "kind": "expr",
+      "expr": "22*4"
+    },
+    "choices": [
+      "89",
+      "87",
+      "90",
+      "88"
+    ],
+    "answerIndex": 3,
+    "id": "g4-multiply-0065",
+    "grade": 4
+  }
+]

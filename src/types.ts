@@ -1,3 +1,5 @@
+export type GradeNumber = 0 | 1 | 2 | 3 | 4 | 5;
+
 export type SectionId = 'cogat' | 'iready' | 'map' | 'torrance';
 
 export interface ResourceLink {
@@ -7,7 +9,7 @@ export interface ResourceLink {
 
 export interface Question {
   id: string;
-  grade: 3;
+  grade: GradeNumber;
   section: SectionId;
   topic: string;
   topicLabel: string;
@@ -65,4 +67,19 @@ export interface MockRun {
 export interface SessionStats {
   correct: number;
   answered: number;
+}
+
+export interface TopicCount {
+  key: string;
+  title: string;
+  count: number;
+}
+
+export interface SectionCount {
+  key: SectionId;
+  title: string;
+  area: string;
+  sort: number;
+  count: number;
+  topics: TopicCount[];
 }

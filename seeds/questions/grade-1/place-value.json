@@ -1,0 +1,352 @@
+[
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Sam writes 18. Which digit is in the tens place?",
+    "explanation": "Step 1: In 18, find the tens place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The tens digit is 1.",
+    "skill": "1.NBT.B.2",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Place value",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-place-value"
+      },
+      {
+        "label": "Common Core 1.NBT.B.2",
+        "href": "https://www.thecorestandards.org/Math/Content/1/NBT/B/2/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 18,
+      "place": "tens"
+    },
+    "choices": [
+      "1",
+      "0",
+      "2",
+      "3"
+    ],
+    "answerIndex": 0,
+    "id": "g1-place-value-0001",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Tara writes 27. Which digit is in the ones place?",
+    "explanation": "Step 1: In 27, find the ones place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The ones digit is 7.",
+    "skill": "1.NBT.B.2",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Place value",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-place-value"
+      },
+      {
+        "label": "Common Core 1.NBT.B.2",
+        "href": "https://www.thecorestandards.org/Math/Content/1/NBT/B/2/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 27,
+      "place": "ones"
+    },
+    "choices": [
+      "0",
+      "1",
+      "7",
+      "2"
+    ],
+    "answerIndex": 2,
+    "id": "g1-place-value-0002",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Uma writes 34. Which digit is in the tens place?",
+    "explanation": "Step 1: In 34, find the tens place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The tens digit is 3.",
+    "skill": "1.NBT.B.2",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Place value",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-place-value"
+      },
+      {
+        "label": "Common Core 1.NBT.B.2",
+        "href": "https://www.thecorestandards.org/Math/Content/1/NBT/B/2/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 34,
+      "place": "tens"
+    },
+    "choices": [
+      "0",
+      "1",
+      "3",
+      "2"
+    ],
+    "answerIndex": 2,
+    "id": "g1-place-value-0003",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Vik writes 46. Which digit is in the ones place?",
+    "explanation": "Step 1: In 46, find the ones place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The ones digit is 6.",
+    "skill": "1.NBT.B.2",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Place value",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-place-value"
+      },
+      {
+        "label": "Common Core 1.NBT.B.2",
+        "href": "https://www.thecorestandards.org/Math/Content/1/NBT/B/2/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 46,
+      "place": "ones"
+    },
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "6"
+    ],
+    "answerIndex": 3,
+    "id": "g1-place-value-0004",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Willa writes 52. Which digit is in the tens place?",
+    "explanation": "Step 1: In 52, find the tens place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The tens digit is 5.",
+    "skill": "1.NBT.B.2",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Place value",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-place-value"
+      },
+      {
+        "label": "Common Core 1.NBT.B.2",
+        "href": "https://www.thecorestandards.org/Math/Content/1/NBT/B/2/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 52,
+      "place": "tens"
+    },
+    "choices": [
+      "0",
+      "1",
+      "5",
+      "2"
+    ],
+    "answerIndex": 2,
+    "id": "g1-place-value-0005",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Nico writes 63. Which digit is in the ones place?",
+    "explanation": "Step 1: In 63, find the ones place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The ones digit is 3.",
+    "skill": "1.NBT.B.2",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Place value",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-place-value"
+      },
+      {
+        "label": "Common Core 1.NBT.B.2",
+        "href": "https://www.thecorestandards.org/Math/Content/1/NBT/B/2/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 63,
+      "place": "ones"
+    },
+    "choices": [
+      "0",
+      "1",
+      "3",
+      "2"
+    ],
+    "answerIndex": 2,
+    "id": "g1-place-value-0006",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Lila writes 75. Which digit is in the tens place?",
+    "explanation": "Step 1: In 75, find the tens place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The tens digit is 7.",
+    "skill": "1.NBT.B.2",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Place value",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-place-value"
+      },
+      {
+        "label": "Common Core 1.NBT.B.2",
+        "href": "https://www.thecorestandards.org/Math/Content/1/NBT/B/2/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 75,
+      "place": "tens"
+    },
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "7"
+    ],
+    "answerIndex": 3,
+    "id": "g1-place-value-0007",
+    "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Omar writes 81. Which digit is in the ones place?",
+    "explanation": "Step 1: In 81, find the ones place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The ones digit is 1.",
+    "skill": "1.NBT.B.2",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Place value",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-place-value"
+      },
+      {
+        "label": "Common Core 1.NBT.B.2",
+        "href": "https://www.thecorestandards.org/Math/Content/1/NBT/B/2/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 81,
+      "place": "ones"
+    },
+    "choices": [
+      "1",
+      "0",
+      "2",
+      "3"
+    ],
+    "answerIndex": 0,
+    "id": "g1-place-value-0008",
+    "grade": 1
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Hana writes 90. Which digit is in the tens place?",
+    "explanation": "Step 1: In 90, find the tens place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The tens digit is 9.",
+    "skill": "1.NBT.B.2",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Place value",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-place-value"
+      },
+      {
+        "label": "Common Core 1.NBT.B.2",
+        "href": "https://www.thecorestandards.org/Math/Content/1/NBT/B/2/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 90,
+      "place": "tens"
+    },
+    "choices": [
+      "0",
+      "9",
+      "1",
+      "2"
+    ],
+    "answerIndex": 1,
+    "id": "g1-place-value-0009",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "iready",
+    "topic": "place-value",
+    "topicLabel": "Place value",
+    "prompt": "Bea writes 14. Which digit is in the ones place?",
+    "explanation": "Step 1: In 14, find the ones place. Step 2: Ones are at the right. Tens are one step left. Hundreds are the next step left. Step 3: The ones digit is 4.",
+    "skill": "1.NBT.B.2",
+    "skillLabel": "Place value",
+    "links": [
+      {
+        "label": "Khan Academy: Place value",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-place-value"
+      },
+      {
+        "label": "Common Core 1.NBT.B.2",
+        "href": "https://www.thecorestandards.org/Math/Content/1/NBT/B/2/"
+      }
+    ],
+    "verify": {
+      "kind": "place-digit",
+      "number": 14,
+      "place": "ones"
+    },
+    "choices": [
+      "0",
+      "4",
+      "1",
+      "2"
+    ],
+    "answerIndex": 1,
+    "id": "g1-place-value-0010",
+    "grade": 1
+  }
+]
