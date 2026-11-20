@@ -341,8 +341,16 @@ main { flex: 1; min-height: 0; overflow: hidden; display: flex; flex-direction: 
   border: 1px solid rgba(255, 255, 255, 0.72);
   box-shadow: 0 24px 60px rgba(0, 0, 0, 0.28), 0 0 0 1px rgba(255, 177, 90, 0.18);
 }
-.card h2, .setup h2, .summary h2 { font-size: clamp(1.4rem, 2.2vw, 1.85rem); color: inherit; }
-.card h2 { margin-top: 8px; }
+.setup h2, .summary h2 { font-size: clamp(1.4rem, 2.2vw, 1.85rem); color: inherit; }
+.card h2 {
+  margin-top: 8px;
+  font-family: var(--sans);
+  font-weight: 650;
+  letter-spacing: -0.015em;
+  line-height: 1.35;
+  font-size: clamp(1.05rem, 0.95rem + 0.6vw, 1.35rem);
+  color: inherit;
+}
 .card h2:focus { outline: none; }
 .card .ghost {
   color: var(--ink-deep);
@@ -403,6 +411,7 @@ main { flex: 1; min-height: 0; overflow: hidden; display: flex; flex-direction: 
 .links a:hover { color: #2f7eb8; }
 .hint, .coach, .count, .muted { color: var(--muted); }
 .card .hint, .card .coach { color: #3d4a5c; }
+.card .coach { margin-top: 8px; line-height: 1.45; }
 .empty { color: var(--muted); }
 .count { font-size: 0.95rem; }
 .next { align-self: flex-start; }
