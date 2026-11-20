@@ -1,8 +1,59 @@
-import { useEffect, useRef, useState, type ButtonHTMLAttributes, type CSSProperties, type ReactNode } from 'react';
-import { AnimatePresence, motion, useReducedMotion } from 'motion/react';
+import { useEffect, useRef, useState, type ButtonHTMLAttributes, type PointerEvent, type ReactNode } from 'react';
+import { AnimatePresence, motion, useMotionValue, useReducedMotion, useSpring, type HTMLMotionProps } from 'motion/react';
 import type { SectionId } from '../types';
 
 type TapProps = Omit<ButtonHTMLAttributes<HTMLButtonElement>, 'onDrag' | 'onDragStart' | 'onDragEnd' | 'onAnimationStart' | 'onAnimationEnd'>;
+
+function allowTilt(): boolean {
+  if (typeof window === 'undefined' || typeof window.matchMedia !== 'function') return false;
+  return window.matchMedia('(pointer: fine)').matches && !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+}
+
+export function useTiltMotion(enabled = true) {
+  const reduce = useReducedMotion();
+  const fine = useRef(allowTilt());
+  const rx = useMotionValue(0);
+  const ry = useMotionValue(0);
+  const rotateX = useSpring(rx, { stiffness: 260, damping: 22, mass: 0.35 });
+  const rotateY = useSpring(ry, { stiffness: 260, damping: 22, mass: 0.35 });
+  useEffect(() => {
+    fine.current = allowTilt() && reduce !== true;
+    if (!enabled || reduce === true) {
+      rx.set(0);
+      ry.set(0);
+    }
+  }, [enabled, reduce, rx, ry]);
+  const onPointerMove = (event: PointerEvent<HTMLElement>) => {
+    if (!enabled || reduce === true || !fine.current) return;
+    const rect = event.currentTarget.getBoundingClientRect();
+    const x = (event.clientX - rect.left) / rect.width - 0.5;
+    const y = (event.clientY - rect.top) / rect.height - 0.5;
+    rx.set(y * -6);
+    ry.set(x * 7);
+  };
+  const onPointerLeave = () => {
+    rx.set(0);
+    ry.set(0);
+  };
+  return { rotateX, rotateY, onPointerMove, onPointerLeave };
+}
+
+type TiltProps = Pick<HTMLMotionProps<'li'>, 'initial' | 'whileInView' | 'viewport' | 'transition' | 'className' | 'children'>;
+
+export function TiltCard({ className, children, ...rest }: TiltProps) {
+  const tilt = useTiltMotion();
+  return (
+    <motion.li
+      className={className}
+      {...rest}
+      style={{ rotateX: tilt.rotateX, rotateY: tilt.rotateY, transformPerspective: 900 }}
+      onPointerMove={tilt.onPointerMove}
+      onPointerLeave={tilt.onPointerLeave}
+    >
+      {children}
+    </motion.li>
+  );
+}
 
 export function Tap({ className, children, ...rest }: TapProps) {
   const reduce = useReducedMotion();
@@ -69,7 +120,7 @@ export function Ring({ value }: { value: number }) {
           cy="20"
           r={radius}
           fill="none"
-          stroke="#2f7eb8"
+          stroke="currentColor"
           strokeWidth="4"
           strokeLinecap="round"
           strokeDasharray={length}
@@ -171,40 +222,13 @@ export function QuestionSwap({ id, children }: { id: string; children: ReactNode
   );
 }
 
-export function Doodles() {
-  const reduce = useReducedMotion();
-  const ref = useRef<HTMLDivElement>(null);
-  useEffect(() => {
-    if (reduce) return undefined;
-    const node = ref.current;
-    if (!node) return undefined;
-    let frame = 0;
-    let dx = 0;
-    let dy = 0;
-    const onMove = (event: PointerEvent) => {
-      dx = event.clientX / window.innerWidth - 0.5;
-      dy = event.clientY / window.innerHeight - 0.5;
-      if (frame) return;
-      frame = requestAnimationFrame(() => {
-        node.style.setProperty('--dx', dx.toFixed(3));
-        node.style.setProperty('--dy', dy.toFixed(3));
-        frame = 0;
-      });
-    };
-    window.addEventListener('pointermove', onMove, { passive: true });
-    return () => {
-      window.removeEventListener('pointermove', onMove);
-      cancelAnimationFrame(frame);
-    };
-  }, [reduce]);
+export function Backdrop() {
   return (
-    <div className="doodles" ref={ref} aria-hidden="true">
-      <i className="doodle d1" style={{ '--depth': 1.1 } as CSSProperties}><span /></i>
-      <i className="doodle d2" style={{ '--depth': 0.6 } as CSSProperties}><span /></i>
-      <i className="doodle d3" style={{ '--depth': 1.4 } as CSSProperties}><span /></i>
-      <i className="doodle d4" style={{ '--depth': 0.8 } as CSSProperties}><span /></i>
-      <i className="doodle d5" style={{ '--depth': 1.2 } as CSSProperties}><span /></i>
-      <i className="doodle d6" style={{ '--depth': 0.5 } as CSSProperties}><span /></i>
+    <div className="backdrop" aria-hidden="true">
+      <span className="blob b1" />
+      <span className="blob b2" />
+      <span className="blob b3" />
+      <span className="grain" />
     </div>
   );
 }

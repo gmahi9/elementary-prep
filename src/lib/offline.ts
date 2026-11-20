@@ -39,14 +39,15 @@ export function buildOfflineHtml(list: Question[], gradeLabel = 'practice'): str
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Sunny Steps offline practice</title>
 <style>
-body{margin:0;font-family:"Outfit Variable","Outfit","Avenir Next","Segoe UI",sans-serif;background:radial-gradient(ellipse 48% 42% at 88% 12%,rgba(150,196,232,.55),transparent 62%),radial-gradient(ellipse 36% 32% at 8% 88%,rgba(190,216,240,.7),transparent 60%),#eef5fb;color:#1c2430}
-h1,h2{font-family:Syne,"Outfit Variable","Avenir Next",sans-serif;letter-spacing:-.04em}
+body{margin:0;font-family:"Outfit Variable","Outfit","Avenir Next","Segoe UI",sans-serif;background:radial-gradient(circle at 82% 0,rgba(74,163,224,.4),transparent 42%),radial-gradient(circle at 8% 100%,rgba(255,177,90,.28),transparent 40%),#071422;color:#f7f1e6}
+h1,h2{font-family:Syne,"Outfit Variable","Avenir Next",sans-serif;letter-spacing:-.045em}
 main{max-width:760px;margin:0 auto;padding:20px 16px 48px}
 button,select{font:inherit}
-button{min-height:52px;border:1px solid rgba(28,36,48,.12);border-radius:999px;background:#1c2430;color:#fffaf6;padding:10px 16px}
-.choice{display:flex;gap:10px;align-items:center;width:100%;text-align:left;margin:8px 0;border-radius:18px;background:rgba(255,252,247,.92);color:#1c2430}
-.ok{background:#e7f3fb;border-color:#2f7eb8}.no{background:#fde8d8;border-color:#e39455}
-.card{background:rgba(255,252,247,.88);border:1px solid rgba(28,36,48,.12);border-radius:28px;padding:16px;box-shadow:0 22px 50px #30241214}
+button{min-height:52px;border:0;border-radius:999px;background:linear-gradient(180deg,#ffe0a8,#ff9a3c);color:#142033;padding:10px 16px;font-weight:700}
+.choice{display:flex;gap:10px;align-items:center;width:100%;text-align:left;margin:8px 0;border-radius:18px;background:#fffaf6;color:#142033}
+.ok{background:#e5f4ea;border-color:#146c43}.no{background:#fff1e4;border-color:#9d341c}
+.card{background:#fffaf6;border:1px solid rgba(255,255,255,.7);border-radius:28px;padding:16px;color:#142033;box-shadow:0 24px 50px rgba(0,0,0,.28)}
+select{background:#fffaf6;color:#142033;border-radius:12px;min-height:44px}
 .figure svg,.choice svg{max-width:100%;height:auto}
 </style>
 </head>

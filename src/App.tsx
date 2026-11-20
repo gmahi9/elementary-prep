@@ -1,4 +1,4 @@
-import { lazy, Suspense, useEffect, useMemo, useRef, useState } from 'react';
+import { lazy, Suspense, useEffect, useMemo, useRef, useState, type CSSProperties } from 'react';
 import { AnimatePresence, LayoutGroup, motion, MotionConfig, useReducedMotion } from 'motion/react';
 import { cachedQuestions, fetchQuestionSet, fetchSections } from './lib/questionClient';
 import { sampleQuestions } from './lib/sample';
@@ -32,15 +32,18 @@ import {
   writeVisitBook,
   type GradeBook,
 } from './lib/progress';
+import { decorateGrade, planetStyles } from './lib/orbit';
 import { gradeShort, grades, sections } from './sections';
 import type { GradeNumber, Progress, Question, SectionCount, SectionId, SessionStats } from './types';
 import { AccountBar, SavePrompt } from './components/AccountBar';
+import { HomeView } from './components/HomeView';
+import { Mascot } from './components/Mascot';
 import { BadgeView, GrownupView, MockView, PracticeView, ReviewView } from './components/Views';
-import { Counter, Doodles, Flame, SectionIcon, Tap } from './components/visuals';
+import { Backdrop, Counter, Flame, SectionIcon, Tap } from './components/visuals';
 
 const Cheer = lazy(() => import('./components/Confetti'));
 
-type Route = 'practice' | 'test' | 'review' | 'badges' | 'grownups';
+type Route = 'home' | 'practice' | 'test' | 'review' | 'badges' | 'grownups';
 
 interface Account {
   name: string;
@@ -48,23 +51,10 @@ interface Account {
 }
 
 function readRoute(): Route {
-  const path = (window.location.hash.replace(/^#/, '') || '/practice').split('?')[0] || '/practice';
+  const path = (window.location.hash.replace(/^#/, '') || '/').split('?')[0] || '/';
   const name = path.replace(/^\//, '');
-  if (name === 'test' || name === 'review' || name === 'badges' || name === 'grownups') return name;
-  return 'practice';
-}
-
-function Mark() {
-  return (
-    <svg className="mark" viewBox="0 0 64 64" aria-hidden="true">
-      <rect width="64" height="64" rx="18" fill="#eef6fc" />
-      <rect x="1.25" y="1.25" width="61.5" height="61.5" rx="16.75" fill="none" stroke="#c5e2f6" strokeWidth="1.5" />
-      <circle cx="32" cy="32" r="18" fill="none" stroke="#8ec4ea" strokeWidth="1.6" />
-      <circle cx="32" cy="30" r="8" fill="#e39455" />
-      <path d="M18 42h28" stroke="#1b3148" strokeWidth="2.4" strokeLinecap="round" />
-      <path d="M24 48h16" stroke="#2f7eb8" strokeWidth="2.4" strokeLinecap="round" />
-    </svg>
-  );
+  if (name === 'practice' || name === 'test' || name === 'review' || name === 'badges' || name === 'grownups') return name;
+  return 'home';
 }
 
 export function App() {
@@ -87,6 +77,7 @@ export function App() {
   const [bankStatus, setBankStatus] = useState<'loading' | 'ready' | 'error'>('loading');
   const [reload, setReload] = useState(0);
   const [burst, setBurst] = useState(0);
+  const [finale, setFinale] = useState(false);
   const [toast, setToast] = useState('');
   const [tips, setTips] = useState(false);
   const [providers, setProviders] = useState<ProviderId[]>([]);
@@ -99,6 +90,13 @@ export function App() {
   bookRef.current = book;
   sessionRef.current = session;
   const progress = progressFor(book, grade);
+  const orbitGrades = useMemo(
+    () => planetStyles.map((style) => {
+      const stats = progressFor(book, style.id);
+      return decorateGrade(style, stats.allCorrect, stats.allAnswered);
+    }),
+    [book],
+  );
 
   useEffect(() => {
     const sync = () => {
@@ -111,7 +109,7 @@ export function App() {
     };
     sync();
     window.addEventListener('hashchange', sync);
-    if (!window.location.hash) window.location.hash = '#/practice';
+    if (!window.location.hash) window.location.hash = '#/';
     return () => window.removeEventListener('hashchange', sync);
   }, []);
 
@@ -269,6 +267,11 @@ export function App() {
     startSignIn(provider);
   };
 
+  const celebrate = (big = false) => {
+    setFinale(big);
+    setBurst((value) => value + 1);
+  };
+
   const chooseGrade = (next: GradeNumber) => {
     if (next === grade) return;
     setGrade(next);
@@ -306,24 +309,25 @@ export function App() {
 
   return (
     <MotionConfig reducedMotion="user">
-      <a className="skip" href="#main">Skip to practice</a>
-      <Doodles />
+      <a className="skip" href="#main">Skip to content</a>
+      <Backdrop />
       {burst > 0 && (
         <Suspense fallback={null}>
-          <Cheer burst={burst} />
+          <Cheer burst={burst} finale={finale} />
         </Suspense>
       )}
       <div className={compact ? 'shell' : 'shell scroll'}>
         <header className="top">
           <div className="bar">
-            <a className="brand" href="#/practice">
-              <Mark />
+            <a className="brand" href="#/">
+              <Mascot className="mark" />
               <span className="brand-copy">
                 <span className="name">Sunny Steps</span>
                 <span className="tag">Grade {gradeShort(grade)} practice</span>
               </span>
             </a>
             <nav aria-label="Pages">
+              <a href="#/" aria-current={route === 'home' ? 'page' : undefined}>Home</a>
               <a href="#/practice" aria-current={route === 'practice' ? 'page' : undefined}>Practice</a>
               <a href="#/test" aria-current={route === 'test' ? 'page' : undefined}>Mock test</a>
               <a href="#/review" aria-current={route === 'review' ? 'page' : undefined}>Review {progress.mistakes.length > 0 ? progress.mistakes.length : ''}</a>
@@ -336,19 +340,22 @@ export function App() {
             </div>
           </div>
           <div className="score-row">
-            <div className="grades" role="group" aria-label="Grade">
-              {grades.map((item) => (
-                <Tap
-                  key={item.id}
-                  type="button"
-                  className={grade === item.id ? 'grade on' : 'grade'}
-                  aria-pressed={grade === item.id}
-                  onClick={() => chooseGrade(item.id)}
-                >
-                  {item.label}
-                </Tap>
-              ))}
-            </div>
+            {route !== 'home' && (
+              <div className="grades" role="group" aria-label="Grade">
+                {grades.map((item) => (
+                  <Tap
+                    key={item.id}
+                    type="button"
+                    className={grade === item.id ? 'grade on' : 'grade'}
+                    style={{ '--planet': planetStyles.find((planet) => planet.id === item.id)?.color || '#ffc56a' } as CSSProperties}
+                    aria-pressed={grade === item.id}
+                    onClick={() => chooseGrade(item.id)}
+                  >
+                    {item.label}
+                  </Tap>
+                ))}
+              </div>
+            )}
             <section className="scoreboard" aria-label="Scoreboard">
               <div className="stat"><span>Correct</span><strong><Counter value={session.correct} /></strong></div>
               <div className="stat"><span>Answered</span><strong><Counter value={session.answered} /></strong></div>
@@ -427,11 +434,23 @@ export function App() {
             <motion.div
               key={route}
               className="panel"
-              initial={reduce ? false : { opacity: 0, y: 10 }}
+              initial={reduce ? false : { opacity: 0, y: 16 }}
               animate={{ opacity: 1, y: 0 }}
-              exit={reduce ? { opacity: 1 } : { opacity: 0, y: -8 }}
-              transition={{ duration: reduce ? 0 : 0.22 }}
+              exit={reduce ? { opacity: 1 } : { opacity: 0, y: -10 }}
+              transition={{ duration: reduce ? 0 : 0.32, ease: [0.22, 1, 0.36, 1] }}
             >
+              {route === 'home' && (
+                <HomeView
+                  grade={grade}
+                  grades={orbitGrades}
+                  onPick={chooseGrade}
+                  onSection={(id) => {
+                    setSection(id);
+                    setTopic('all');
+                    window.location.hash = '#/practice';
+                  }}
+                />
+              )}
               {route === 'practice' && (
                 <PracticeView
                   section={section}
@@ -440,7 +459,7 @@ export function App() {
                   progress={progress}
                   setProgress={updateProgress}
                   addSession={addSession}
-                  burst={() => setBurst((value) => value + 1)}
+                  burst={celebrate}
                   pool={pool}
                   status={bankStatus}
                   onRetry={() => setReload((value) => value + 1)}
@@ -451,7 +470,7 @@ export function App() {
                   progress={progress}
                   setProgress={updateProgress}
                   addSession={addSession}
-                  burst={() => setBurst((value) => value + 1)}
+                  burst={celebrate}
                   loadSample={loadSample}
                   notice={renderSavePrompt()}
                 />
@@ -464,7 +483,7 @@ export function App() {
                   progress={progress}
                   setProgress={updateProgress}
                   addSession={addSession}
-                  burst={() => setBurst((value) => value + 1)}
+                  burst={celebrate}
                   queue={reviewPool}
                   status={bankStatus}
                   onRetry={() => setReload((value) => value + 1)}

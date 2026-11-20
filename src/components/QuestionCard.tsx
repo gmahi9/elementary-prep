@@ -3,7 +3,7 @@ import { motion, useReducedMotion } from 'motion/react';
 import type { Question } from '../types';
 import { canSpeak, questionSpeech, speak, stopSpeaking } from '../lib/speech';
 import { ChoiceArt, FigureView } from './FigureView';
-import { Tap } from './visuals';
+import { Tap, useTiltMotion } from './visuals';
 
 const letters = ['A', 'B', 'C', 'D', 'E'];
 
@@ -28,6 +28,7 @@ export function QuestionCard({ question, picked, onPick, showWhy = true, creativ
   const locked = showWhy && answered;
   const correct = locked && picked === question.answerIndex;
   const wrong = locked && !correct;
+  const tilt = useTiltMotion(!wrong);
 
   useEffect(() => {
     setNote(creativeNote);
@@ -71,9 +72,11 @@ export function QuestionCard({ question, picked, onPick, showWhy = true, creativ
     <motion.article
       className="card"
       aria-labelledby={headingId}
-      variants={{ still: { x: 0 }, shake: { x: [0, -8, 8, -5, 5, 0] } }}
-      animate={wrong && !reduce ? 'shake' : 'still'}
-      transition={wrong && !reduce ? { duration: 0.42 } : { duration: 0.2 }}
+      style={{ rotateX: tilt.rotateX, rotateY: tilt.rotateY, transformPerspective: 900 }}
+      onPointerMove={tilt.onPointerMove}
+      onPointerLeave={tilt.onPointerLeave}
+      animate={wrong && !reduce ? { x: [0, -6, 6, -3, 3, 0] } : { x: 0 }}
+      transition={wrong && !reduce ? { duration: 0.38 } : { duration: 0.2 }}
     >
       <div className="card-tools">
         <p className="eyebrow">
