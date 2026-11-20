@@ -158,5 +158,85 @@
     "answerIndex": 3,
     "id": "gk-number-series-0004",
     "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Pia reads this number pattern: 5, 6, 7, 8. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 1. Step 3: The next number is 9.",
+    "skill": "K.CC.A.2",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Counting",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting"
+      },
+      {
+        "label": "Common Core K.CC.B.4",
+        "href": "https://www.thecorestandards.org/Math/Content/K/CC/B/4/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "choices": [
+      "8",
+      "10",
+      "9",
+      "11"
+    ],
+    "answerIndex": 2,
+    "id": "gk-number-series-0005",
+    "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Owen reads this number pattern: 10, 20, 30, 40. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 10, like counting by tens. Step 3: The next number is 50.",
+    "skill": "K.CC.A.2",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Counting",
+        "href": "https://www.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting"
+      },
+      {
+        "label": "Common Core K.CC.B.4",
+        "href": "https://www.thecorestandards.org/Math/Content/K/CC/B/4/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        10,
+        20,
+        30,
+        40
+      ]
+    },
+    "choices": [
+      "49",
+      "50",
+      "51",
+      "52"
+    ],
+    "answerIndex": 1,
+    "id": "gk-number-series-0006",
+    "grade": 0
   }
 ]

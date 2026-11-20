@@ -274,5 +274,51 @@
     "answerIndex": 3,
     "id": "g2-number-analogies-0006",
     "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "Omar uses one rule. 12 becomes 8 and 9 becomes 5. Using that same rule, what does 15 become?",
+    "explanation": "Step 1: Check the rule on the pairs that are already filled. Step 2: Each number decreases by 4. Step 3: 15 becomes 11.",
+    "skill": "4.OA.A.3",
+    "skillLabel": "Number rules",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "num-map",
+      "op": "sub",
+      "k": 4,
+      "pairs": [
+        [
+          12,
+          8
+        ],
+        [
+          9,
+          5
+        ]
+      ],
+      "input": 15
+    },
+    "choices": [
+      "10",
+      "12",
+      "13",
+      "11"
+    ],
+    "answerIndex": 3,
+    "id": "g2-number-analogies-0007",
+    "grade": 2
   }
 ]

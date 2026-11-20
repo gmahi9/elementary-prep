@@ -2286,5 +2286,46 @@
         33
       ]
     }
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "What number comes next? 60, 54, 48, 42, 36, ____",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number is 6 less than the one before it. Step 3: 36 - 6 = 30, so the next number is 30.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "sub",
+      "terms": [
+        60,
+        54,
+        48,
+        42,
+        36
+      ]
+    },
+    "choices": [
+      "29",
+      "32",
+      "31",
+      "30"
+    ],
+    "answerIndex": 3,
+    "id": "g3-ns-1201",
+    "grade": 3
   }
 ]

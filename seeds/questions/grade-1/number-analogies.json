@@ -182,5 +182,51 @@
     "answerIndex": 2,
     "id": "g1-number-analogies-0004",
     "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "Uma uses one rule. 3 becomes 8 and 6 becomes 11. Using that same rule, what does 9 become?",
+    "explanation": "Step 1: Check the rule on the pairs that are already filled. Step 2: Each number increases by 5. Step 3: 9 becomes 14.",
+    "skill": "4.OA.A.3",
+    "skillLabel": "Number rules",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 5,
+      "pairs": [
+        [
+          3,
+          8
+        ],
+        [
+          6,
+          11
+        ]
+      ],
+      "input": 9
+    },
+    "choices": [
+      "13",
+      "15",
+      "14",
+      "16"
+    ],
+    "answerIndex": 2,
+    "id": "g1-number-analogies-0005",
+    "grade": 1
   }
 ]

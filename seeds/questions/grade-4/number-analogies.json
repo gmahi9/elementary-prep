@@ -274,5 +274,51 @@
     "answerIndex": 3,
     "id": "g4-number-analogies-0006",
     "grade": 4
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "Cleo uses one rule. 2 becomes 12 and 4 becomes 24. Using that same rule, what does 7 become?",
+    "explanation": "Step 1: Check the rule on the pairs that are already filled. Step 2: Each number is multiplied by 6. Step 3: 7 becomes 42.",
+    "skill": "4.OA.A.3",
+    "skillLabel": "Number rules",
+    "links": [
+      {
+        "label": "Khan Academy: Addition and subtraction",
+        "href": "https://www.khanacademy.org/math/cc-1st-grade-math/cc-1st-add-subtract"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "num-map",
+      "op": "mul",
+      "k": 6,
+      "pairs": [
+        [
+          2,
+          12
+        ],
+        [
+          4,
+          24
+        ]
+      ],
+      "input": 7
+    },
+    "choices": [
+      "43",
+      "41",
+      "42",
+      "44"
+    ],
+    "answerIndex": 2,
+    "id": "g4-number-analogies-0007",
+    "grade": 4
   }
 ]

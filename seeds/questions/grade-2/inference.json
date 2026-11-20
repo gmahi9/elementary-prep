@@ -173,5 +173,40 @@
     "answerIndex": 2,
     "id": "g2-inference-0005",
     "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Why did Theo go inside to mix more lemonade?",
+    "passageTitle": "Lemonade Stand",
+    "passage": "Mina and Theo set up a lemonade stand on a hot Saturday. They sold each cup for 25 cents. By noon the pitcher was empty, so Theo ran inside to mix more.",
+    "explanation": "Step 1: The passage says the pitcher was empty by noon. Step 2: An empty pitcher means the lemonade was all gone. Step 3: Theo went inside because they needed more lemonade to sell.",
+    "skill": "RI.2.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "It started to rain on the stand.",
+      "The lemonade tasted too sour.",
+      "They had sold all the lemonade in the pitcher.",
+      "Mina wanted to close the stand."
+    ],
+    "answerIndex": 2,
+    "id": "g2-inference-0006",
+    "grade": 2
   }
 ]

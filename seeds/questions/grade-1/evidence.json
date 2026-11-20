@@ -523,5 +523,75 @@
     "answerIndex": 3,
     "id": "g1-evidence-0015",
     "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Uma put in the feeder?",
+    "passageTitle": "Bird Feeder",
+    "passage": "Uma filled a feeder with seeds. She hung it on a low branch. Soon three birds came to eat.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Uma filled a feeder with seeds.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Uma filled a feeder with seeds.",
+      "She hung it on a tall fence.",
+      "Uma filled a feeder with water.",
+      "Soon ten fish came to swim."
+    ],
+    "answerIndex": 0,
+    "id": "g1-evidence-0016",
+    "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells how many birds came to eat?",
+    "passageTitle": "Bird Feeder",
+    "passage": "Uma filled a feeder with seeds. She hung it on a low branch. Soon three birds came to eat.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Soon three birds came to eat.",
+    "skill": "RI.1.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Soon three birds came to eat.",
+      "Soon five birds flew away.",
+      "Uma counted seven seeds.",
+      "One bird sang on the roof."
+    ],
+    "answerIndex": 0,
+    "id": "g1-evidence-0017",
+    "grade": 1
   }
 ]

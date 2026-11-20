@@ -178,5 +178,41 @@
     "id": "g2-vocabulary-0005",
     "grade": 2,
     "scored": true
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In the lemonade story, what is a pitcher?",
+    "passageTitle": "Lemonade Stand",
+    "passage": "Mina and Theo set up a lemonade stand on a hot Saturday. They sold each cup for 25 cents. By noon the pitcher was empty, so Theo ran inside to mix more.",
+    "explanation": "Step 1: Find the word \"pitcher\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: pitcher means a jug that holds drinks.",
+    "skill": "L.2.4",
+    "skillLabel": "Vocabulary in context",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "vocab",
+      "word": "pitcher"
+    },
+    "choices": [
+      "a money box",
+      "a baseball player",
+      "a jug that holds drinks",
+      "a kind of fruit"
+    ],
+    "answerIndex": 2,
+    "id": "g2-vocabulary-0006",
+    "grade": 2
   }
 ]

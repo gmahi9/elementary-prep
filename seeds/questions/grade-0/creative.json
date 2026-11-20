@@ -122,5 +122,129 @@
     ],
     "id": "gk-creative-0004",
     "grade": 0
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Owen, pretend a big cardboard tube can be anything. List many things it could become at a pretend zoo. Pick one and tell how you would play with it. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas. Step 2: Make the ideas different kinds, not copies. Step 3: Add details to the idea you like best.",
+    "skill": "G0.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "gk-creative-0005",
+    "grade": 0
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Pia, draw one big circle. What could the circle turn into? Name many ideas, then add details to make one picture special. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas. Step 2: Make the ideas different kinds, not copies. Step 3: Add details to the idea you like best.",
+    "skill": "G0.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "gk-creative-0006",
+    "grade": 0
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Quinn, just suppose your teddy bear could talk for one day. What might it say, and where would it want to go? Share many ideas. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas. Step 2: Make the ideas different kinds, not copies. Step 3: Add details to the idea you like best.",
+    "skill": "G0.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "gk-creative-0007",
+    "grade": 0
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Nora, how could you make a bath sponge more fun to play with? Think of many changes, then tell about your favorite one. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas. Step 2: Make the ideas different kinds, not copies. Step 3: Add details to the idea you like best.",
+    "skill": "G0.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "gk-creative-0008",
+    "grade": 0
   }
 ]

@@ -238,5 +238,46 @@
     "answerIndex": 3,
     "id": "g5-number-series-0006",
     "grade": 5
+  },
+  {
+    "difficulty": 3,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Quinn reads this number pattern: 2, 3, 5, 8, 12. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: The jumps grow by 1 each time: 1, 2, 3, 4. Step 3: The next jump is 5, so 12 + 5 = 17.",
+    "skill": "4.OA.C.5",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add-grow",
+      "terms": [
+        2,
+        3,
+        5,
+        8,
+        12
+      ]
+    },
+    "choices": [
+      "18",
+      "19",
+      "16",
+      "17"
+    ],
+    "answerIndex": 3,
+    "id": "g5-number-series-0007",
+    "grade": 5
   }
 ]

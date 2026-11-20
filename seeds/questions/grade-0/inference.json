@@ -173,5 +173,40 @@
     "answerIndex": 3,
     "id": "gk-inference-0005",
     "grade": 0
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Why did Owen's coat get muddy?",
+    "passageTitle": "Puddle Jump",
+    "passage": "Owen put on red boots. He jumped in a big puddle. Mud splashed on his coat.",
+    "explanation": "Step 1: The passage says Owen jumped in a big puddle. Step 2: Then mud splashed on his coat. Step 3: The coat got muddy because he jumped in the puddle.",
+    "skill": "RI.K.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "He jumped in a puddle and mud splashed.",
+      "He painted his coat brown.",
+      "His cat sat on the coat.",
+      "The coat was brand new."
+    ],
+    "answerIndex": 0,
+    "id": "gk-inference-0006",
+    "grade": 0
   }
 ]

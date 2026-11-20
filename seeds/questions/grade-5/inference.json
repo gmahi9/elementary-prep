@@ -173,5 +173,40 @@
     "answerIndex": 3,
     "id": "g5-inference-0005",
     "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Why did Ana see fewer stars on full-moon nights?",
+    "passageTitle": "Star Count",
+    "passage": "For a science project, Ana counted the stars she could see from her backyard at 9:00 p.m. each night. On clear nights near the new moon, she counted more than 40 stars. When the full moon rose, her count dropped below 15, even though the sky had no clouds. She inferred that bright moonlight makes dim stars harder to see.",
+    "explanation": "Step 1: Her count dropped below 15 when the full moon rose. Step 2: The passage says the sky had no clouds, and she counted at 9:00 p.m. each night. Step 3: The best explanation is that bright moonlight made dim stars hard to see.",
+    "skill": "RI.5.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "Some stars disappear when the moon is full.",
+      "Bright moonlight made dim stars harder to see.",
+      "Ana counted at a different time each night.",
+      "Clouds covered most of the sky."
+    ],
+    "answerIndex": 1,
+    "id": "g5-inference-0006",
+    "grade": 5
   }
 ]

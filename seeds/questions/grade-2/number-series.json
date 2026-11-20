@@ -398,5 +398,45 @@
     "answerIndex": 1,
     "id": "g2-number-series-0010",
     "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Lila reads this number pattern: 4, 8, 12, 16. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 4. Step 3: The next number is 20.",
+    "skill": "4.OA.C.5",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        4,
+        8,
+        12,
+        16
+      ]
+    },
+    "choices": [
+      "19",
+      "21",
+      "20",
+      "22"
+    ],
+    "answerIndex": 2,
+    "id": "g2-number-series-0011",
+    "grade": 2
   }
 ]

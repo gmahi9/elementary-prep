@@ -173,5 +173,40 @@
     "answerIndex": 1,
     "id": "g4-inference-0005",
     "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "What most likely caused fewer paper items to end up in the trash?",
+    "passageTitle": "Recycling Check",
+    "passage": "Students in Room 12 sorted one day of classroom trash into three bins. They found that 18 of the 30 items were paper that could have been recycled. The class voted to place a blue paper bin beside the teacher's desk. A week later, only 6 paper items ended up in the trash.",
+    "explanation": "Step 1: Before the change, 18 paper items were in the trash. Step 2: The class then added a blue paper bin by the desk. Step 3: A week later only 6 paper items were in the trash, so the bin most likely helped.",
+    "skill": "RI.4.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "The teacher removed the trash can.",
+      "The new blue paper bin made recycling easier.",
+      "The class threw away more items overall.",
+      "Students stopped using paper completely."
+    ],
+    "answerIndex": 1,
+    "id": "g4-inference-0006",
+    "grade": 4
   }
 ]

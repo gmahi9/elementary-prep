@@ -318,5 +318,45 @@
     "answerIndex": 2,
     "id": "g4-number-series-0008",
     "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Rex reads this number pattern: 5, 12, 19, 26. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 7. Step 3: The next number is 33.",
+    "skill": "4.OA.C.5",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        5,
+        12,
+        19,
+        26
+      ]
+    },
+    "choices": [
+      "32",
+      "35",
+      "33",
+      "34"
+    ],
+    "answerIndex": 2,
+    "id": "g4-number-series-0009",
+    "grade": 4
   }
 ]

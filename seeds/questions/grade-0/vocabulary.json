@@ -178,5 +178,41 @@
     "id": "gk-vocabulary-0005",
     "grade": 0,
     "scored": true
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In the puddle story, what does splashed mean?",
+    "passageTitle": "Puddle Jump",
+    "passage": "Owen put on red boots. He jumped in a big puddle. Mud splashed on his coat.",
+    "explanation": "Step 1: Find the word \"splashed\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: splashed means flew up in drops.",
+    "skill": "L.K.4",
+    "skillLabel": "Vocabulary in context",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "vocab",
+      "word": "splashed"
+    },
+    "choices": [
+      "fell asleep",
+      "flew up in drops",
+      "stayed very still",
+      "sang a song"
+    ],
+    "answerIndex": 1,
+    "id": "gk-vocabulary-0006",
+    "grade": 0
   }
 ]

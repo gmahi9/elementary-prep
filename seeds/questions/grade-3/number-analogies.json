@@ -2698,5 +2698,55 @@
         ]
       ]
     }
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-analogies",
+    "topicLabel": "Number analogies",
+    "prompt": "4 goes to 11, 7 goes to 14, 10 goes to 17. What does 13 go to if the same rule is used?",
+    "explanation": "Step 1: The first pair shows the rule: 4 goes to 11, so each number increases by 7. Step 2: Check the other pairs; they match. Step 3: 13 goes to 20.",
+    "skill": "3.OA.D.9",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Patterns and problem solving",
+        "href": "https://www.khanacademy.org/math/cc-third-grade-math/arithmetic-patterns-and-problem-solving"
+      },
+      {
+        "label": "Common Core 3.OA.D.9",
+        "href": "https://www.thecorestandards.org/Math/Content/3/OA/D/9/"
+      }
+    ],
+    "verify": {
+      "kind": "num-map",
+      "op": "add",
+      "k": 7,
+      "pairs": [
+        [
+          4,
+          11
+        ],
+        [
+          7,
+          14
+        ],
+        [
+          10,
+          17
+        ]
+      ],
+      "input": 13
+    },
+    "choices": [
+      "22",
+      "19",
+      "21",
+      "20"
+    ],
+    "answerIndex": 3,
+    "id": "g3-na-1202",
+    "grade": 3
   }
 ]

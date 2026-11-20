@@ -523,5 +523,75 @@
     "answerIndex": 0,
     "id": "g5-evidence-0015",
     "grade": 5
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells when and where Ana counted the stars?",
+    "passageTitle": "Star Count",
+    "passage": "For a science project, Ana counted the stars she could see from her backyard at 9:00 p.m. each night. On clear nights near the new moon, she counted more than 40 stars. When the full moon rose, her count dropped below 15, even though the sky had no clouds. She inferred that bright moonlight makes dim stars harder to see.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: For a science project, Ana counted the stars she could see from her backyard at 9:00 p.m. each night.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "For a science project, Ana counted the stars she could see from her backyard at 9:00 p.m. each night.",
+      "Ana counted the stars from a mountain at midnight.",
+      "For a science project, Ana counted clouds at noon.",
+      "She counted stars only on cloudy mornings."
+    ],
+    "answerIndex": 0,
+    "id": "g5-evidence-0016",
+    "grade": 5
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence shows that clouds did not cause Ana's lower star count?",
+    "passageTitle": "Star Count",
+    "passage": "For a science project, Ana counted the stars she could see from her backyard at 9:00 p.m. each night. On clear nights near the new moon, she counted more than 40 stars. When the full moon rose, her count dropped below 15, even though the sky had no clouds. She inferred that bright moonlight makes dim stars harder to see.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: When the full moon rose, her count dropped below 15, even though the sky had no clouds.",
+    "skill": "RI.5.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "When the full moon rose, her count dropped below 15, even though the sky had no clouds.",
+      "Ana stopped counting when the clouds came.",
+      "When the full moon rose, thick clouds hid the stars.",
+      "Her count rose above 50 during the full moon."
+    ],
+    "answerIndex": 0,
+    "id": "g5-evidence-0017",
+    "grade": 5
   }
 ]

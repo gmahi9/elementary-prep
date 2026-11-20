@@ -318,5 +318,45 @@
     "answerIndex": 1,
     "id": "g1-number-series-0008",
     "grade": 1
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "cogat",
+    "topic": "number-series",
+    "topicLabel": "Number series",
+    "prompt": "Tara reads this number pattern: 3, 5, 7, 9. What number comes next?",
+    "explanation": "Step 1: Look at how the numbers change. Step 2: Each number grows by 2. Step 3: The next number is 11.",
+    "skill": "4.OA.C.5",
+    "skillLabel": "Number patterns",
+    "links": [
+      {
+        "label": "Khan Academy: Multiplication",
+        "href": "https://www.khanacademy.org/math/cc-fourth-grade-math/imp-multiplication-and-division-2"
+      },
+      {
+        "label": "Common Core 1.OA.C.6",
+        "href": "https://www.thecorestandards.org/Math/Content/1/OA/C/6/"
+      }
+    ],
+    "verify": {
+      "kind": "series",
+      "op": "add",
+      "terms": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    "choices": [
+      "12",
+      "10",
+      "11",
+      "13"
+    ],
+    "answerIndex": 2,
+    "id": "g1-number-series-0009",
+    "grade": 1
   }
 ]

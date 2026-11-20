@@ -754,5 +754,41 @@
       "kind": "vocab",
       "word": "softer"
     }
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In \"The Seed Swap\", what does \"swap\" mean?",
+    "passageTitle": "The Seed Swap",
+    "passage": "Every spring, Ms. Rivera's class held a seed swap. Students brought envelopes of seeds from their gardens and traded them at long tables. Jonah had only bean seeds, so he worried no one would want them. Then Lila said her family had never grown beans before. Jonah traded half his envelope for her sunflower seeds, and both of them grinned. That afternoon, Jonah planted the sunflower seeds in a new pot by the window.",
+    "explanation": "Step 1: Find the word \"swap\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: swap means a trade of one thing for another.",
+    "skill": "RL.3.4",
+    "skillLabel": "Story vocabulary",
+    "links": [
+      {
+        "label": "Khan Academy: 3rd grade vocabulary",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-vocab"
+      },
+      {
+        "label": "Common Core RL.3.4",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/4/"
+      }
+    ],
+    "verify": {
+      "kind": "vocab",
+      "word": "swap"
+    },
+    "choices": [
+      "a contest for the tallest plant",
+      "a large garden",
+      "a kind of seed packet",
+      "a trade of one thing for another"
+    ],
+    "answerIndex": 3,
+    "id": "g3-voc-1198",
+    "grade": 3
   }
 ]

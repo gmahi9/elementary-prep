@@ -122,5 +122,129 @@
     ],
     "id": "g5-creative-0004",
     "grade": 5
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Pia, list many unusual uses for a ladder that is too short to reach the roof. Pick one idea and add details about who uses it and how. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas. Step 2: Make the ideas different kinds, not copies. Step 3: Add details to the idea you like best.",
+    "skill": "G5.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "g5-creative-0005",
+    "grade": 5
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Quinn, just suppose people could trade one skill with a friend for a week. What trades might happen, and what problems or surprises could follow? This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas. Step 2: Make the ideas different kinds, not copies. Step 3: Add details to the idea you like best.",
+    "skill": "G5.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "g5-creative-0006",
+    "grade": 5
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Rosa, improve a backpack for a student who walks a long way to school. Think about weight, weather, and safety, then explain your best design. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas. Step 2: Make the ideas different kinds, not copies. Step 3: Add details to the idea you like best.",
+    "skill": "G5.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "g5-creative-0007",
+    "grade": 5
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Owen, ask as many questions as you can about an old key found inside a library book. Try to ask different kinds of questions. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas. Step 2: Make the ideas different kinds, not copies. Step 3: Add details to the idea you like best.",
+    "skill": "G5.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "g5-creative-0008",
+    "grade": 5
   }
 ]

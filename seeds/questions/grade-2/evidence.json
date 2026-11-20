@@ -523,5 +523,75 @@
     "answerIndex": 1,
     "id": "g2-evidence-0015",
     "grade": 2
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells how much each cup of lemonade cost?",
+    "passageTitle": "Lemonade Stand",
+    "passage": "Mina and Theo set up a lemonade stand on a hot Saturday. They sold each cup for 25 cents. By noon the pitcher was empty, so Theo ran inside to mix more.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: They sold each cup for 25 cents.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "They sold each cup for 25 cents.",
+      "They gave the lemonade away for free.",
+      "They sold each cup for one dollar.",
+      "Each cookie cost 10 cents."
+    ],
+    "answerIndex": 0,
+    "id": "g2-evidence-0016",
+    "grade": 2
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells when the lemonade ran out?",
+    "passageTitle": "Lemonade Stand",
+    "passage": "Mina and Theo set up a lemonade stand on a hot Saturday. They sold each cup for 25 cents. By noon the pitcher was empty, so Theo ran inside to mix more.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: By noon the pitcher was empty, so Theo ran inside to mix more.",
+    "skill": "RI.2.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "By noon the pitcher was empty, so Theo ran inside to mix more.",
+      "At sunrise Mina spilled the pitcher.",
+      "By dinner the pitcher was still full.",
+      "Theo ran to the store at night."
+    ],
+    "answerIndex": 0,
+    "id": "g2-evidence-0017",
+    "grade": 2
   }
 ]

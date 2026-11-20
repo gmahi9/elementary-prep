@@ -523,5 +523,75 @@
     "answerIndex": 3,
     "id": "gk-evidence-0015",
     "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what Owen put on?",
+    "passageTitle": "Puddle Jump",
+    "passage": "Owen put on red boots. He jumped in a big puddle. Mud splashed on his coat.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Owen put on red boots.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "He jumped over a small rock.",
+      "Owen put on red boots.",
+      "Mud splashed on his hat.",
+      "Owen put on blue mittens."
+    ],
+    "answerIndex": 1,
+    "id": "gk-evidence-0016",
+    "grade": 0
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells where Owen jumped?",
+    "passageTitle": "Puddle Jump",
+    "passage": "Owen put on red boots. He jumped in a big puddle. Mud splashed on his coat.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: He jumped in a big puddle.",
+    "skill": "RI.K.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "He jumped on a soft bed.",
+      "Owen put on green shoes.",
+      "He jumped in a big puddle.",
+      "He hopped over a tiny puddle."
+    ],
+    "answerIndex": 2,
+    "id": "gk-evidence-0017",
+    "grade": 0
   }
 ]

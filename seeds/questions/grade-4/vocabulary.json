@@ -178,5 +178,41 @@
     "id": "g4-vocabulary-0005",
     "grade": 4,
     "scored": true
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What does sorted mean in the recycling passage?",
+    "passageTitle": "Recycling Check",
+    "passage": "Students in Room 12 sorted one day of classroom trash into three bins. They found that 18 of the 30 items were paper that could have been recycled. The class voted to place a blue paper bin beside the teacher's desk. A week later, only 6 paper items ended up in the trash.",
+    "explanation": "Step 1: Find the word \"sorted\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: sorted means separated into groups.",
+    "skill": "L.4.4",
+    "skillLabel": "Vocabulary in context",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "vocab",
+      "word": "sorted"
+    },
+    "choices": [
+      "counted twice",
+      "burned",
+      "hid under a desk",
+      "separated into groups"
+    ],
+    "answerIndex": 3,
+    "id": "g4-vocabulary-0006",
+    "grade": 4
   }
 ]

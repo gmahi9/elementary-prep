@@ -178,5 +178,41 @@
     "id": "g1-vocabulary-0005",
     "grade": 1,
     "scored": true
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "In the bird feeder story, what does hung mean?",
+    "passageTitle": "Bird Feeder",
+    "passage": "Uma filled a feeder with seeds. She hung it on a low branch. Soon three birds came to eat.",
+    "explanation": "Step 1: Find the word \"hung\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: hung means put it up so it dangles.",
+    "skill": "L.1.4",
+    "skillLabel": "Vocabulary in context",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "vocab",
+      "word": "hung"
+    },
+    "choices": [
+      "threw it away",
+      "ate it",
+      "washed it",
+      "put it up so it dangles"
+    ],
+    "answerIndex": 3,
+    "id": "g1-vocabulary-0006",
+    "grade": 1
   }
 ]

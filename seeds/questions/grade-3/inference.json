@@ -733,5 +733,40 @@
     "verify": {
       "kind": "authored"
     }
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Which conclusion is best supported by \"The Seed Swap\"?",
+    "passageTitle": "The Seed Swap",
+    "passage": "Every spring, Ms. Rivera's class held a seed swap. Students brought envelopes of seeds from their gardens and traded them at long tables. Jonah had only bean seeds, so he worried no one would want them. Then Lila said her family had never grown beans before. Jonah traded half his envelope for her sunflower seeds, and both of them grinned. That afternoon, Jonah planted the sunflower seeds in a new pot by the window.",
+    "explanation": "Step 1: Jonah worried no one would want his bean seeds. Step 2: Lila's family had never grown beans, and she traded for them. Step 3: Both children grinned, so the beans were useful to someone.",
+    "skill": "RL.3.1",
+    "skillLabel": "Evidence in stories",
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "Jonah decided he did not like gardening.",
+      "Lila already had too many bean seeds.",
+      "The class only traded flower seeds.",
+      "Jonah's bean seeds turned out to be useful to someone."
+    ],
+    "answerIndex": 3,
+    "id": "g3-inf-1197",
+    "grade": 3
   }
 ]

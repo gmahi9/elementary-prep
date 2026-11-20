@@ -928,5 +928,129 @@
       "At least one idea is unusual.",
       "I added details to my favorite idea."
     ]
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "List many unusual uses for an old umbrella that no longer opens. Then pick one idea and add details about who would use it and how. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas (fluency). Step 2: Make the ideas different kinds, not copies (flexibility). Step 3: Add one surprising idea (originality). Step 4: Add details to your favorite idea (elaboration).",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "g3-cr-1193",
+    "grade": 3
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Suppose every tree could grow one kind of snack. What would change in a neighborhood? List many effects. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas (fluency). Step 2: Make the ideas different kinds, not copies (flexibility). Step 3: Add one surprising idea (originality). Step 4: Add details to your favorite idea (elaboration).",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 3,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "g3-cr-1194",
+    "grade": 3
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Ask as many questions as you can about a footprint you find in fresh snow. Try curious, careful, and silly questions. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas (fluency). Step 2: Make the ideas different kinds, not copies (flexibility). Step 3: Add one surprising idea (originality). Step 4: Add details to your favorite idea (elaboration).",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "g3-cr-1195",
+    "grade": 3
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Improve a school bus seat so the ride feels shorter and safer. Think about comfort, fun, and safety, then explain your best idea. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas (fluency). Step 2: Make the ideas different kinds, not copies (flexibility). Step 3: Add one surprising idea (originality). Step 4: Add details to your favorite idea (elaboration).",
+    "skill": "G3.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Visual arts",
+        "href": "https://www.pbslearningmedia.org/subjects/the-arts/visual-arts/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "g3-cr-1196",
+    "grade": 3
   }
 ]

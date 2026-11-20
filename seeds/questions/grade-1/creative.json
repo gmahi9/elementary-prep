@@ -122,5 +122,129 @@
     ],
     "id": "g1-creative-0004",
     "grade": 1
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Tara, list many ways a plastic spoon could help at the beach. Pick one idea and add details about who uses it and how. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas. Step 2: Make the ideas different kinds, not copies. Step 3: Add details to the idea you like best.",
+    "skill": "G1.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "g1-creative-0005",
+    "grade": 1
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Uma, two triangles are on your page. What could they become? List many ideas, then finish one picture with details. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas. Step 2: Make the ideas different kinds, not copies. Step 3: Add details to the idea you like best.",
+    "skill": "G1.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "g1-creative-0006",
+    "grade": 1
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Vik, just suppose your shoes could jump very high. What would happen at school? Share many different ideas. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas. Step 2: Make the ideas different kinds, not copies. Step 3: Add details to the idea you like best.",
+    "skill": "G1.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 2,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "g1-creative-0007",
+    "grade": 1
+  },
+  {
+    "section": "torrance",
+    "topic": "creative",
+    "topicLabel": "Creative challenges",
+    "prompt": "Sam, how could you change a lunch box so it is more fun to open? Think of many changes and tell about the best one. This challenge is for ideas, not a single correct answer.",
+    "choices": [],
+    "answerIndex": -1,
+    "explanation": "There is no single right answer. Step 1: List many ideas. Step 2: Make the ideas different kinds, not copies. Step 3: Add details to the idea you like best.",
+    "skill": "G1.CREATE",
+    "skillLabel": "Creative thinking",
+    "difficulty": 1,
+    "links": [
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "scored": false,
+    "rubric": [
+      "I listed many ideas.",
+      "My ideas are different kinds, not copies of one idea.",
+      "At least one idea is unusual.",
+      "I added details to my favorite idea."
+    ],
+    "id": "g1-creative-0008",
+    "grade": 1
   }
 ]

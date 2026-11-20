@@ -173,5 +173,40 @@
     "answerIndex": 1,
     "id": "g1-inference-0005",
     "grade": 1
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "inference",
+    "topicLabel": "Inference",
+    "prompt": "Why did the birds come to the branch?",
+    "passageTitle": "Bird Feeder",
+    "passage": "Uma filled a feeder with seeds. She hung it on a low branch. Soon three birds came to eat.",
+    "explanation": "Step 1: Uma filled the feeder with seeds and hung it on the branch. Step 2: The birds came to eat. Step 3: So the birds came for the seeds.",
+    "skill": "RI.1.1",
+    "skillLabel": "Make an inference",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "authored"
+    },
+    "choices": [
+      "It was snowing very hard.",
+      "The branch was painted red.",
+      "They wanted to eat the seeds.",
+      "Uma rang a loud bell."
+    ],
+    "answerIndex": 2,
+    "id": "g1-inference-0006",
+    "grade": 1
   }
 ]

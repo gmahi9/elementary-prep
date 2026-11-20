@@ -523,5 +523,75 @@
     "answerIndex": 2,
     "id": "g4-evidence-0015",
     "grade": 4
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells how many trash items were paper that could have been recycled?",
+    "passageTitle": "Recycling Check",
+    "passage": "Students in Room 12 sorted one day of classroom trash into three bins. They found that 18 of the 30 items were paper that could have been recycled. The class voted to place a blue paper bin beside the teacher's desk. A week later, only 6 paper items ended up in the trash.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: They found that 18 of the 30 items were paper that could have been recycled.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Every item in the trash was plastic.",
+      "They found that 3 of the 30 items were paper.",
+      "They found that 18 of the 30 items were paper that could have been recycled.",
+      "They found 30 paper items in the hallway."
+    ],
+    "answerIndex": 2,
+    "id": "g4-evidence-0016",
+    "grade": 4
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "Which sentence tells what the Room 12 class decided to do?",
+    "passageTitle": "Recycling Check",
+    "passage": "Students in Room 12 sorted one day of classroom trash into three bins. They found that 18 of the 30 items were paper that could have been recycled. The class voted to place a blue paper bin beside the teacher's desk. A week later, only 6 paper items ended up in the trash.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: The class voted to place a blue paper bin beside the teacher's desk.",
+    "skill": "RI.4.1",
+    "skillLabel": "Find evidence",
+    "links": [
+      {
+        "label": "Common Core RI.2.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RI/2/1/"
+      },
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "The principal bought a green bin for the gym.",
+      "The class voted to move the trash can outside.",
+      "The class voted to stop sorting trash.",
+      "The class voted to place a blue paper bin beside the teacher's desk."
+    ],
+    "answerIndex": 3,
+    "id": "g4-evidence-0017",
+    "grade": 4
   }
 ]

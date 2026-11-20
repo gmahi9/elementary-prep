@@ -178,5 +178,41 @@
     "id": "g5-vocabulary-0005",
     "grade": 5,
     "scored": true
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "vocabulary",
+    "topicLabel": "Vocabulary",
+    "prompt": "What does inferred mean in the star-count passage?",
+    "passageTitle": "Star Count",
+    "passage": "For a science project, Ana counted the stars she could see from her backyard at 9:00 p.m. each night. On clear nights near the new moon, she counted more than 40 stars. When the full moon rose, her count dropped below 15, even though the sky had no clouds. She inferred that bright moonlight makes dim stars harder to see.",
+    "explanation": "Step 1: Find the word \"inferred\" in the passage. Step 2: Use the sentences around it to check the meaning. Step 3: inferred means figured out from evidence.",
+    "skill": "L.5.4",
+    "skillLabel": "Vocabulary in context",
+    "links": [
+      {
+        "label": "PBS LearningMedia: Literacy",
+        "href": "https://www.pbslearningmedia.org/subjects/english-language-arts-and-literacy/"
+      },
+      {
+        "label": "ReadWriteThink: Cube Creator",
+        "href": "https://www.readwritethink.org/classroom-resources/student-interactives/cube-creator"
+      }
+    ],
+    "verify": {
+      "kind": "vocab",
+      "word": "inferred"
+    },
+    "choices": [
+      "figured out from evidence",
+      "forgot completely",
+      "wrote in pen",
+      "argued loudly"
+    ],
+    "answerIndex": 0,
+    "id": "g5-vocabulary-0006",
+    "grade": 5
   }
 ]

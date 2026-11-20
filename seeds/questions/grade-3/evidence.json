@@ -733,5 +733,75 @@
     "verify": {
       "kind": "evidence"
     }
+  },
+  {
+    "difficulty": 1,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"The Seed Swap\", which sentence shows why Jonah felt worried?",
+    "passageTitle": "The Seed Swap",
+    "passage": "Every spring, Ms. Rivera's class held a seed swap. Students brought envelopes of seeds from their gardens and traded them at long tables. Jonah had only bean seeds, so he worried no one would want them. Then Lila said her family had never grown beans before. Jonah traded half his envelope for her sunflower seeds, and both of them grinned. That afternoon, Jonah planted the sunflower seeds in a new pot by the window.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: Jonah had only bean seeds, so he worried no one would want them.",
+    "skill": "RL.3.1",
+    "skillLabel": "Evidence in stories",
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Jonah had only bean seeds, so he worried no one would want them.",
+      "Jonah had too many sunflowers to carry.",
+      "Jonah worried that it might rain on the tables.",
+      "Lila said beans were her least favorite seeds."
+    ],
+    "answerIndex": 0,
+    "id": "g3-ev-1199",
+    "grade": 3
+  },
+  {
+    "difficulty": 2,
+    "scored": true,
+    "section": "map",
+    "topic": "evidence",
+    "topicLabel": "Text evidence",
+    "prompt": "In \"The Seed Swap\", which sentence shows that Jonah planted his new seeds?",
+    "passageTitle": "The Seed Swap",
+    "passage": "Every spring, Ms. Rivera's class held a seed swap. Students brought envelopes of seeds from their gardens and traded them at long tables. Jonah had only bean seeds, so he worried no one would want them. Then Lila said her family had never grown beans before. Jonah traded half his envelope for her sunflower seeds, and both of them grinned. That afternoon, Jonah planted the sunflower seeds in a new pot by the window.",
+    "explanation": "Step 1: Read the question, then look back at the passage. Step 2: The answer must be a sentence that is written there. Step 3: The passage says: That afternoon, Jonah planted the sunflower seeds in a new pot by the window.",
+    "skill": "RL.3.1",
+    "skillLabel": "Evidence in stories",
+    "links": [
+      {
+        "label": "Khan Academy: Making inferences",
+        "href": "https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xfb4fc0bf01437792:cc-3rd-inference"
+      },
+      {
+        "label": "Common Core RL.3.1",
+        "href": "https://www.thecorestandards.org/ELA-Literacy/RL/3/1/"
+      }
+    ],
+    "verify": {
+      "kind": "evidence"
+    },
+    "choices": [
+      "Jonah gave all of his seeds back to Ms. Rivera.",
+      "That night, Lila planted beans in the schoolyard.",
+      "That afternoon, Jonah planted the sunflower seeds in a new pot by the window.",
+      "Jonah put the sunflower seeds in his backpack and forgot them."
+    ],
+    "answerIndex": 2,
+    "id": "g3-ev-1200",
+    "grade": 3
   }
 ]
