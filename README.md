@@ -10,7 +10,7 @@ Sunny Steps is unofficial practice. It is not affiliated with, endorsed by, or a
 
 ## Features
 
-- Grade picker for kindergarten and grades 1 through 5. The last grade you pick is remembered. Signed-in scores stay separate for each grade
+- Home screen and grade picker for kindergarten and grades 1 through 5. Each grade is a planet, and lit moons show how that grade is going. The orbit is drawn in 3D when the browser can, and as a flat picture when it cannot. The last grade you pick is remembered. Signed-in scores stay separate for each grade
 - Section tabs for CogAT-style reasoning, i-Ready-style math, MAP-style reading, and Torrance-style creative challenges
 - Practice with instant feedback, a short explanation, and a "Learn this skill" link
 - Timed or untimed mock tests with an end summary by skill
@@ -54,7 +54,7 @@ npm run build
 
 `npm run dev` starts Vite. `npm run build` typechecks and writes `dist/`. `npm run preview` serves that folder.
 
-The Vite `base` is `./`, and routes use the URL hash (`#/practice`, `#/test`, `#/review`, `#/badges`, `#/grownups`). Assets and the offline download stay on this origin.
+The Vite `base` is `./`, and routes use the URL hash (`#/`, `#/practice`, `#/test`, `#/review`, `#/badges`, `#/grownups`). `#/` is the home screen. Assets and the offline download stay on this origin.
 
 ## Sign-in
 

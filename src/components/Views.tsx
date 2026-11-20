@@ -1,11 +1,12 @@
 import { useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
-import { motion, useReducedMotion } from 'motion/react';
+import { useReducedMotion } from 'motion/react';
 import { pickQuestion } from '../lib/sample';
+import { crossedSectionMilestone } from '../lib/orbit';
 import { noteMockFinished, percent, recordAnswer, saveCreative, type Badge } from '../lib/progress';
 import type { Progress, Question, SectionId } from '../types';
 import { sections } from '../sections';
 import { QuestionCard } from './QuestionCard';
-import { BadgeArt, QuestionSwap, Ring, Tap } from './visuals';
+import { BadgeArt, QuestionSwap, Ring, Tap, TiltCard } from './visuals';
 
 interface Shared {
   section: SectionId;
@@ -14,7 +15,7 @@ interface Shared {
   progress: Progress;
   setProgress: (next: Progress, badges?: string[]) => void;
   addSession: (correct: boolean) => void;
-  burst: () => void;
+  burst: (finale?: boolean) => void;
 }
 
 export function PracticeView(props: Shared & {
@@ -54,10 +55,13 @@ export function PracticeView(props: Shared & {
   const pick = (index: number) => {
     if (picked != null || !current.scored) return;
     setPicked(index);
+    const before = props.progress.sectionAnswered[current.section] || 0;
     const result = recordAnswer(props.progress, current, index);
     props.setProgress(result.state, result.newBadges);
     props.addSession(result.correct);
-    if (result.correct) props.burst();
+    const after = result.state.sectionAnswered[current.section] || 0;
+    if (crossedSectionMilestone(before, after)) props.burst(true);
+    else if (result.correct) props.burst();
   };
 
   const next = () => {
@@ -79,6 +83,7 @@ export function PracticeView(props: Shared & {
           onCreative={(note, done) => {
             const result = saveCreative(props.progress, current.id, note, done);
             props.setProgress(result.state, result.newBadges);
+            if (done && !props.progress.creativeDone.includes(current.id)) props.burst(true);
           }}
         />
       </QuestionSwap>
@@ -133,10 +138,13 @@ export function ReviewView(props: Shared & { queue: Question[]; status: 'loading
           onPick={(choice) => {
             if (picked != null) return;
             setPicked(choice);
+            const before = props.progress.sectionAnswered[current.section] || 0;
             const result = recordAnswer(props.progress, current, choice);
             props.setProgress(result.state, result.newBadges);
             props.addSession(result.correct);
-            if (result.correct) props.burst();
+            const after = result.state.sectionAnswered[current.section] || 0;
+            if (crossedSectionMilestone(before, after)) props.burst(true);
+            else if (result.correct) props.burst();
           }}
         />
       </QuestionSwap>
@@ -227,7 +235,7 @@ export function MockView({
     });
     const done = noteMockFinished(state, { section, correct, total: items.length });
     setProgress(done.state, [...fresh, ...done.newBadges]);
-    if (correct / items.length >= 0.8) burst();
+    burst(true);
     setSummary({ correct, total: items.length, bySkill });
   };
 
@@ -358,7 +366,7 @@ export function BadgeView({ progress, catalog }: { progress: Progress; catalog: 
       </div>
       <ul className="badge-grid">
         {catalog.map((badge, index) => (
-          <motion.li
+          <TiltCard
             key={badge.id}
             className={earned.has(badge.id) ? 'badge on' : 'badge'}
             initial={reduce ? false : { opacity: 0, y: 16 }}
@@ -370,7 +378,7 @@ export function BadgeView({ progress, catalog }: { progress: Progress; catalog: 
             <h3>{badge.name}</h3>
             <p>{badge.detail}</p>
             <p>{earned.has(badge.id) ? 'Earned' : 'Not yet'}</p>
-          </motion.li>
+          </TiltCard>
         ))}
       </ul>
     </>
@@ -427,7 +435,7 @@ export function GrownupView({
           {rows.map(([skill, stat], index) => {
             const value = percent(stat.correct, stat.attempts);
             return (
-              <motion.li
+              <TiltCard
                 key={skill}
                 className="skill-card"
                 initial={reduce ? false : { opacity: 0, y: 14 }}
@@ -441,7 +449,7 @@ export function GrownupView({
                   <div className="skill-code">{skill}</div>
                   <div>{stat.correct} of {stat.attempts} · {value}%</div>
                 </div>
-              </motion.li>
+              </TiltCard>
             );
           })}
         </ul>
